@@ -1,0 +1,606 @@
+{
+  "search_metadata": {
+    "id": "6987c32301289b28ef98342a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/KRfYHsj9kZ6jJbAAF3TNGA/6987c32301289b28ef98342a.json",
+    "created_at": "2026-02-07 22:56:35 UTC",
+    "processed_at": "2026-02-07 22:56:35 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Red+Hot+Chili+Peppers%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Red+Hot+Chili+Peppers%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/KRfYHsj9kZ6jJbAAF3TNGA/6987c32301289b28ef98342a.html",
+    "prettify_html_file": "https://serpapi.com/searches/KRfYHsj9kZ6jJbAAF3TNGA/6987c32301289b28ef98342a.prettify",
+    "total_time_taken": 8.28
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Red Hot Chili Peppers, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "VbpH93icTYxJjqNmAEalHCBnYNktxVUMBoxKXjAPZh6NN4jJZviZwQb2fZGolUi5QA6QU1ROk2QRJd9bPr3v2895-bt8MqQ4I1aF3MyTCpuNfuVPtPw9B2P6-QfbdK_QtbUr6vc3hEYdjFldWG8dXhgDIbPyqw9sOLtkIl77gFosXzB93vfC3ScCLn3F_Py6uaAIEaF1dmXwgb5lYuFowbpmonw0eMH1gLbbwG99tHv5HFh1dN10z76FKHi6tTBZsFI5NR46ooLxRaYYPCWHgYXmfIflPn10OcZKPDy03YJx7E6NGwW-ufTR8-Y9Furflikfo_iRt_PnpHV7CUD8jr_B0JcrgnxAatkuK7SeiIg4foXovgd5kCeXcn7HMfINI6AvF8nV1J8gUNY5JOZp3X2F2GLsmvwdOaJv8D9ATnyPx_LfhM8e_7lf0q6ry_zPH36kefZMx0oT48-EvptUshtW7fJkqrGyY9EHa0Jxd3rgwmSbPSvJWn4IGmzOElQnRvoDiiInT5cxPzAee-HdM6tM4gfE-ecTKezlFkcUdRonyYI3I4nuKHo7sCJ4IY0W9m6f6SNP2CH99_735Li2eaY5guseT6vccAIxc7vxVnFk1hUEOdbXBkIpiZ7ZbCGrw7ALCQxfuRYdZNljC9QYV6KNNrWcbyI64KMokICc91GVkfUpvgCgB5MIDocPSJe5M46ezk2pwhgRIWqUIUtwXaXArNfgeY2Yq8xrBQIjuK9JnPHSpudzWoHCLNy9QrXHRvmT8HQP8S4DesYuK2UAZ1OWIWgOlfOMFVQecRv1jwguHicxitanizQIkireWN8PUaHxzSsrHL9u7EBtBDt2sQt32TGdemUJHduC4FHB6nRcYJ5wmRduzo0hEqbRSMLHGppfpj5d6b2reViUL698i7zl8qhGQ7JrSTkdlpJejFZSTHQoAbNehUDSttFEyZZ1rs1F0dWlZn2aIfhyo2_fm2muP3-lvZlf76wh08E-TNvjyAJBiaKgUiVGS5Y7EqQjEkaUaCVrj_tstuQaNZsOdzNRhK9gEg8SOCKDKntIx2mwrTTLo6aKo2B6PPq5qhh2CD3x6AkEcjA1EUblDU9DeNSJ1zCRhVLEcoVI_UVqCSfN2KnFM7GdcE5IW70llZquTCNO_wKwRGFC",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "The current lineup of the Red Hot Chili Peppers consists of four members, all of whom have been inducted into the Rock and Roll Hall of Fame.",
+      "reference_indexes": [
+        25,
+        49,
+        50
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Member Profiles"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Anthony Kiedis",
+          "list": [
+            {
+              "snippet": "Age: 63 (born November 1, 1962)."
+            },
+            {
+              "snippet": "Occupations: Singer, songwriter, rapper, and actor."
+            },
+            {
+              "snippet": "Music Skills: Lead vocals and occasional rhythm guitar."
+            },
+            {
+              "snippet": "Proficiency: World-renowned frontman known for his unique vocal delivery and lyrical storytelling."
+            },
+            {
+              "snippet": "Residence: Los Angeles, CA."
+            }
+          ]
+        },
+        {
+          "snippet": "Flea (Michael Balzary)",
+          "list": [
+            {
+              "snippet": "Age: 63 (born October 16, 1962)."
+            },
+            {
+              "snippet": "Occupations: Musician, composer, actor, and author."
+            },
+            {
+              "snippet": "Music Skills: Bass guitar, trumpet, piano, keyboards, and backing vocals."
+            },
+            {
+              "snippet": "Proficiency: Master-level bassist; widely cited as one of the greatest rock and funk bassists of all time."
+            },
+            {
+              "snippet": "Residence: Malibu, CA (Los Angeles area)."
+            }
+          ]
+        },
+        {
+          "snippet": "John Frusciante",
+          "list": [
+            {
+              "snippet": "Age: 55 (born March 5, 1970)."
+            },
+            {
+              "snippet": "Occupations: Guitarist, songwriter, and electronic music producer."
+            },
+            {
+              "snippet": "Music Skills: Lead guitar, synthesizers, and backing vocals."
+            },
+            {
+              "snippet": "Proficiency: Virtuoso guitarist ranked among the top guitarists in rock history for his melodic and experimental styles."
+            },
+            {
+              "snippet": "Residence: Los Angeles, CA."
+            }
+          ]
+        },
+        {
+          "snippet": "Chad Smith",
+          "list": [
+            {
+              "snippet": "Age: 64 (born October 25, 1961)."
+            },
+            {
+              "snippet": "Occupations: Drummer and session musician."
+            },
+            {
+              "snippet": "Music Skills: Drums and percussion."
+            },
+            {
+              "snippet": "Proficiency: Elite powerhouse drummer; one of the most prolific session drummers in the industry."
+            },
+            {
+              "snippet": "Residence: Malibu, CA (Los Angeles area)."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of the most popular albums or upcoming tour dates for the band?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Chad Smith - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Chad_Smith%23:~:text%3DChad%2520Smith%2520(born%2520October%252025,five%2520Grammy%2520Awards%2520in%25202007.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAC&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Chad Smith (born October 25, 1961) is an American musician who is the drummer of the rock band the Red Hot Chili Peppers. Smith ha...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/RKelYsK880Or8i1Ugc15Xkg20aOoKL6XcBhoV56sY7A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/qm703Xf1dTE_Ozbn2G4S9I4jk5n_hbol1UBlA4BH2mk.png",
+      "index": 0
+    },
+    {
+      "title": "Red Hot Chili Peppers - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers%23:~:text%3DThe%2520Red%2520Hot%2520Chili%2520Peppers%2520are%2520an%2520American%2520rock%2520band,selling%2520bands%2520of%2520all%2520time.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAG&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "The Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1982, consisting of Anthony Kiedis (vocals), Flea (ba...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/QLUXJW3TFdJglVqlm6EPEuPLiZAfDbOtqtokReks9sM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/bPJLR2xHjCR9fyiElTjGeYGa58RQfht2GNlAv-_U7HA.png",
+      "index": 1
+    },
+    {
+      "title": "Red Hot Chili Peppers - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers%23:~:text%3DTable_content:%2520header:%2520%257C%2520Red%2520Hot%2520Chili%2520Peppers,funk%2520rock%2520rap%2520rock%2520funk%2520metal%2520%257C&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAK&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Table_content: header: | Red Hot Chili Peppers | | row: | Red Hot Chili Peppers: From left: Flea, Anthony Kiedis, Chad Smith, John...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/qCvtUVyQLs09M5SU95N1cU9zjdynsw10ORwE9imGqMc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/tVggnv6R6j2-SJPHcTmsXQnSFJ62oMX1LsFpfKF9_Bo.png",
+      "index": 2
+    },
+    {
+      "title": "Anthony Kiedis - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Anthony_Kiedis%23:~:text%3DTable_content:%2520header:%2520%257C%2520Anthony%2520Kiedis%2520%257C%2520%257C,Kiedis:%2520Years%2520active%2520%257C%2520:%25201983%25E2%2580%2593present%2520%257C&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAO&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Table_content: header: | Anthony Kiedis | | row: | Anthony Kiedis: Born | : November 1, 1962 Grand Rapids, Michigan, U.S. | row: |",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/-3J0gq5xouYRm3qjQlJr6eHqWkvJINaA7DUzN_Gswcw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/jzgQz4gF7Fqbqm72my5PuFy2N3Rwdrbwc2VODdViFK8.png",
+      "index": 3
+    },
+    {
+      "title": "Chad Smith | NAMM.org",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.namm.org/library/oral-history/chad-smith%23:~:text%3DChad%2520Smith%2520developed%2520a%2520great,venue%2520all%2520across%2520the%2520world.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAS&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Dec 7, 2020 \u2014 Chad Smith developed a great sense of rhythm at an early age and attributes that to having music constantly surrounding him. He wa...",
+      "source": "NAMM",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/SSIxmA5Jn6dleKuXWaJ86rIjTip3NZeIV3vehxI3dC4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/-9ST4zOF5RQD8Y3pe7jETIMMEdZ0T-Dz3PL1XDGeT10.png",
+      "index": 4
+    },
+    {
+      "title": "Red Hot Chili Peppers Drummer Chad Smith: Everything You ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.drumeo.com/beat/red-hot-chili-peppers-drummer-chad-smith/%23:~:text%3DDid%2520you%2520know%2520Chad%2520Smith,'&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAW&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "May 22, 2014 \u2014 Did you know Chad Smith recorded a children's album? Now you do. Chad Smith started playing drums in the fifth grade. Born on Octo...",
+      "source": "Drumeo",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/yEE_GMxqObRoTVLNh3UwiaoiPhSthD-18qVf2u3BI64.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Chad Smith - Biography - IMDb",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm0807650/bio/%23:~:text%3DQuotes%2520(1)%2520Edit-,Overview,Tang%2520Clan%2520and%2520John%2520Frusciante.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAa&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Overview. Born. October 25, 1961 \u00b7 St. Paul, Minnesota, USA. Birth name. Chad Gaylord Smith. Height. 6\u2032 3\u2033 (1.91 m) Biography. Cha...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/TA-8gkctm1QAParTjJl6Or5IpuHCGfFFYTTMQ8CbkAY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/zI_iGCUB4IyTMshvkZ9Qxfs6WFIydfgFujBwbOVwFug.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Happy Birthday Chad Smith! Chad Gaylord Smith was born on ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/FruscianteWorld/posts/happy-birthday-chad-smithchad-gaylord-smith-was-born-on-october-25-1961-in-saint/1364466078381369/%23:~:text%3DOctober%252025%252C%25201961%2520Chad%2520Smith,the%2520Red%2520Hot%2520Chili%2520Peppers.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAe&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Oct 25, 2025 \u2014 HAPPY 64th BIRTHDAY Chad Smith (born October 25, 1961) is a musician who has been the drummer of the rock band Red Hot Chili Peppe...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/-6n-2UD5OI3LW0xtMUIMUA3sxk596ZFolLahHCsUqRk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/Ho1ClSUaTPGli-8vJX9jM5OxJrOmiGq7Labga7TNiHA.png",
+      "index": 7
+    },
+    {
+      "title": "Chad Smith Facts for Kids",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://kids.kiddle.co/Chad_Smith%23:~:text%3DTable_title:%2520Chad%2520Smith%2520facts%2520for%2520kids%2520Table_content:,Smith:%2520Years%2520active%2520%257C%2520:%25201977%25E2%2580%2593present%2520%257C&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAi&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Chad Smith facts for kids Table_content: header: | Quick facts for kids Chad Smith | | row: | Quick facts for kids Ch...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/fzvrHnv-L6Js4AfzSiQ5sEbYx-Jlw1qRmKfHZwK0auw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/XMA3dwQ0AHR9LLmxPBvJRihxvcJqVF4dzz1vOGXe0mU.png",
+      "index": 8
+    },
+    {
+      "title": "Chad Smith | Red Hot Chili Peppers Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://rhcp.fandom.com/wiki/Chad_Smith&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAm&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Chad Smith * Born. October 25, 1961 (age 60) Saint Paul, Minnesota. * Occupation(s) Musician. * Instruments. Drums, guitar. * Year...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/2_52prGu_bgKLNeC9jdl1O7kUNSsVGoXSLwoKHVszyQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/4UC4UdzbUA1FY6Znf63xHkz6iQqgkO4FrAEj_oce_i0.png",
+      "index": 9
+    },
+    {
+      "title": "Born: October 25th 1961 is Chadwick Gaylord \"Chad\" Smith an ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/2019684684944005/posts/2211539999091805/%23:~:text%3DChad%2520Smith%2520Chad%2520Smith%2520(born,drumporn%2520%2523vicfirth%2520%2523drummerslife%2520%2523cymbals&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAq&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Oct 25, 2018 \u2014 HAPPY 64th BIRTHDAY Chad Smith (born October 25, 1961) is a musician who has been the drummer of the rock band Red Hot Chili Peppe...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/S8pazp4_OWoFRQ74O3UqxDQ-u0tBhQiKBaL0o7PruO8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/tT6_zARIvEFTQ9dcui-b6qyHAWsTdwhIGPrBxK6xBjI.png",
+      "index": 10
+    },
+    {
+      "title": "Red Hot Chili Peppers - Rhino",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.rhino.com/article/red-hot-chili-peppers%23:~:text%3DMichael%2520Balzary%2520aka%2520Flea%2520(bass,inventive%2520groups%2520of%2520modern%2520times.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAu&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Jan 21, 2014 \u2014 Michael Balzary aka Flea (bass; born October 16, 1962), John Frusciante (guitar; born March 5, 1970), Jack Irons (drums; born July...",
+      "source": "www.rhino.com",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/zJHKxywszuD0SzU72nvJ2siBKTiUDM0G0SYJy4rVuys.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/RoGqg-tuP4xBg8BnnuEjOQyzifDmfy3qsaaJ5gXI35I.png",
+      "index": 11
+    },
+    {
+      "title": "Flea | Red Hot Chili Peppers Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://rhcp.fandom.com/wiki/Flea&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBAy&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Flea * Born. October 16, 1962 (age 60) Melbourne, Australia. * Occupation(s) Musician, actor. * Instruments. Bass guitar, acoustic...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/xh82Ip12zHEm93E2s8K_F20lYpc9Z2XkdkGgMzhUQvY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/_va8A9sOSn2NS336qDXMKcA9Jrp7xZUnAbCuZxNXZIY.png",
+      "index": 12
+    },
+    {
+      "title": "Flea - Biography - IMDb",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm0281359/bio/%23:~:text%3DQuotes%2520(2)%2520Edit-,Overview,Los%2520Angeles%2520Junior%2520Philarmonic%2520Orchestra.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBA2&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Overview. Born. October 16, 1962 \u00b7 Melbourne, Victoria, Australia. Birth name. Michael Peter Balzary. Height. 5\u2032 6\u2033 (1.68 m) Biogr...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/9JPGdgqRStpUx0wBINM_v_4r2LjdN8Q3rhorXKUy2pk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/xXSTi4BVoupaWt9Naa9Vw6BLLJz-c1B2jLidZHihGEA.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Anthony Kiedis | Red Hot Chili Peppers Wiki | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://rhcp.fandom.com/wiki/Anthony_Kiedis%23:~:text%3DBorn,Gallery&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBA6&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Anthony Kiedis * Born. November 1, 1962 (age 62) Grand Rapids, Michigan, USA. * Other names. Tony. Cole Dammett. Tony Flow. Antoin...",
+      "source": "Red Hot Chili Peppers Wiki Red Hot Chili Peppers Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/BROduUNC7snwzmtXGNbk0JxmF6PxxaqGdcn7mybIoS4.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Flea Facts For Kids - DIY.ORG",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.diy.org/article/flea%23:~:text%3DFlea%2520is%2520an%2520amazing%2520musician,%2522The%2520Big%2520Lebowski.%2522%2520%25F0%259F%258C%259F&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBA-&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Flea is an amazing musician from Australia! \ud83c\udfb8His real name is Michael Peter Balzary, and he was born on October 16, 1962, in Melb...",
+      "source": "DIY.ORG",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/4TsirYU4wUSH3200vlwaK_irhVgmHSnso6Se_g1zIB8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/EEX_nb4kpvEY8x6fR9xEqlRv-GhpfNZVFlHw6H3Z_6M.png",
+      "index": 15
+    },
+    {
+      "title": "Red Hot Chili Peppers Biography - Oh! Jean Records",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ohjeanrecords.com/blogs/news/red-hot-chili-peppers-biography?srsltid%3DAfmBOopyUUc9uVarcIkDzV6Cn_aF4cEBAD2B4-I6ijZ4qfrEcsVF1Zsz%23:~:text%3DA%2520group%2520called%2520the%2520Red,and%2520lead%2520singer%2520Anthony%2520Kiedis.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBC&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Nov 25, 2022 \u2014 A group called the Red Hot Chili Peppers was formed in Los Angeles, California on August 20th, 1983. They are a hard rock band wit...",
+      "source": "Oh! Jean Records",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/cNQlpTSmYG0CFf-V4QXfIs-y19VKnC2bpK5hfsuQApY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/Gd_xPmGwEPwO6YE9RLhaHAOt42yDUlHGqZKAHA-5MGU.png",
+      "index": 16
+    },
+    {
+      "title": "Anthony Kiedis - Red Hot Chili Peppers History",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://sites.google.com/view/allaboutredhotchilipeppers/anthony-kiedis%23:~:text%3DBorn%252D%2520november%25201st%252C%25201962%252C,lyrics%2520for%2520the%2520group's%2520songs.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBG&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Born- november 1st, 1962, 54. In Grand Rapids, Michigan, US. Genres. funk rock, alternative, rap, and punk rock. Occupation(s)-Sin...",
+      "source": "Google",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/tee_DWcml0dsKjwhgruGK4Ix6Cv0N4f3MC4VMHF39Bw.png",
+      "index": 17
+    },
+    {
+      "title": "Flea's birthday and music career - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/octanefanclub/posts/10161996485187709/%23:~:text%3D%25F0%259F%258E%25B8%2520Happy%252063rd%2520Birthday%2520Flea,BassLegend%2520%2523RockIcons%2520%2523Californication%2520%2523ClassicROCKVideo&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBJ&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Oct 16, 2025 \u2014 \ud83c\udfb8 Happy 63rd Birthday Flea!!! Happy Birthday to Flea, born October 16, 1962 \u2014 the wildly talented bassist and co-founder of the R...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/MMdhNs5t43f5ynE6EaowretIcQWzy8olc0GIsnlBKnE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/lTsAxUxSp4htBghD7fPWHaMJ5-h7p4j5Cf_2p8P9rH0.png",
+      "index": 18
+    },
+    {
+      "title": "Happy 63rd Birthday, Anthony!! Born On This Day Nov 1 1962",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/blackwaxcafe/posts/happy-63rd-birthday-anthonyborn-on-this-day-nov-1-1962-anthony-kiedisanthony-kie/1224974182987084/%23:~:text%3DHappy%2520Birthday%2520Anthony%2520Kiedis%252C%2520singer,York%2520Times%2520Best%2520Seller%2520status.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBN&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Nov 1, 2025 \u2014 Happy Birthday Anthony Kiedis, singer and co-founder of Red Hot Chili Peppers, was born on November 1, 1962. The band had notable ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/6qN9bkxNCkiDrolU9VKzfMQjXYXt5cicqW1JL9yR30A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/sCWVwu74CsyFVMQJHM8Uwwi776o18Y_bW0rlwg38frM.png",
+      "index": 19
+    },
+    {
+      "title": "Anthony Kiedis Facts For Kids - DIY.org",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.diy.org/article/anthony_kiedis%23:~:text%3DAnthony%2520Kiedis%2520is%2520an%2520American%2520singer%252C%2520songwriter%252C%2520and%2520actor!,%25F0%259F%258C%259F&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBR&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Anthony Kiedis is an American singer, songwriter, and actor! \ud83c\udfa4He was born on November 1, 1962, in Grand Rapids, Michigan. Later, ...",
+      "source": "DIY.org",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/xt6R-gSDqrjxD-zZrh9Chl28qKzHO7XOyAhIIqKGbu4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/FaKseE4u0EpCfatICqpsCrA4fVqSor8ZxnxeZZXz8X0.png",
+      "index": 20
+    },
+    {
+      "title": "Flea (musician) - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/Flea_(musician)%23:~:text%3DFlea%2520(Michael%2520Peter%2520Balzary)%2520is,largely%2520appeal%2520to%2520the%2520audience.%26text%3DFlea%2520is%2520known%2520for%2520his,Les%2520Claypool%2520and%2520Victor%2520Wooten.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBV&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Flea (Michael Peter Balzary) is an Australian-American bassist. He was born on October 16, 1962, in the city of Melbourne, Austral...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/TFNTOFqCd9eGSN89GVdk_YErj8W9ouTsvOEz10P1eFk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/Zzaq1IG0sploQtpqzU6qrdVaeeFxu1BOJKaEpAAy1WY.png",
+      "index": 21
+    },
+    {
+      "title": "Red Hot Chili Peppers Facts for Kids",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://kids.kiddle.co/Red_Hot_Chili_Peppers%23:~:text%3DJam%2520in%25201994.-,New%2520Members:%2520Frusciante%2520and%2520Smith%2520(1988%25E2%2580%25931989),to%2520sell%2520over%2520500%252C000%2520copies.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBZ&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Oct 17, 2025 \u2014 New Members: Frusciante and Smith (1988\u20131989) Chad Smith (pictured in 2019) has been the Red Hot Chili Peppers drummer since 1988.",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/qjldnrUeSiDsVPQkR4r53y38NoBmClByVQdIKUDJG2I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/E2eFDAZ-ojOK2e5QdUZmS6SwSRzczyiatBkkV_kjbpI.png",
+      "index": 22
+    },
+    {
+      "title": "The Red Hot Chili Peppers | Encyclopedia.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.encyclopedia.com/education/news-wires-white-papers-and-books/red-hot-chili-peppers%23:~:text%3DFor%2520the%2520Record%25E2%2580%25A6,Detroit%252C%2520Michigan)%252C%2520drums.&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBd&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "For the Record\u2026 Band formed c. 1983; members include Anthony Kiedis (born c. 1963 in Michigan), vocals; Flea (born Michael Balzary...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/bEvW759zOay6n_oDLzBSB5BtdP-kTBq9B9sOp45viWc.png",
+      "index": 23
+    },
+    {
+      "title": "Flea (musician) Facts for Kids",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://kids.kiddle.co/Flea_(musician)%23:~:text%3DTable_title:%2520Flea%2520(musician)%2520facts%2520for%2520kids%2520Table_content:,Bass%2520guitar%2520trumpet%2520keyboards%2520vocals%2520guitar%2520%257C&ved=2ahUKEwil1-eKvciSAxXlJkQIHUB3ODwQ1fkOegQICBBg&opi=89978449&cd&psig=AOvVaw2Iyx6A8SdZ57OH-3rS8ZOs&ust=1770591395859000",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Flea (musician) facts for kids Table_content: header: | Quick facts for kids Flea | | row: | Quick facts for kids Fle...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/d3xfM8Wvpj3bXmxIitfmA5YJyDu6pXOlUgvnopv1v8c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32301289b28ef98342a/images/deSBbWbrQ1OJb9GzxQTkmM6VSRGVlirsk1F8Xh9ruGo.png",
+      "index": 24
+    },
+    {
+      "title": "Chad Smith - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Chad_Smith#:~:text=Chad%20Smith%20(born%20October%2025,five%20Grammy%20Awards%20in%202007.",
+      "snippet": "Chad Smith (born October 25, 1961) is an American musician who is the drummer of the rock band the Red Hot Chili Peppers. Smith ha...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKHSxQQm7NnsJZMOnv6-hWHtXWI2MApwWsk6C-LWLBrADu7nkg",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Anthony Kiedis | Red Hot Chili Peppers Wiki | Fandom",
+      "link": "https://rhcp.fandom.com/wiki/Anthony_Kiedis#:~:text=Born,Gallery",
+      "snippet": "Anthony Kiedis * Born. November 1, 1962 (age 62) Grand Rapids, Michigan, USA. * Other names. Tony. Cole Dammett. Tony Flow. Antoin...",
+      "source": "Red Hot Chili Peppers Wiki Red Hot Chili Peppers Wiki",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSE_TL5uZKWVJ0_J_5LV0kBYMDPICw8aabv1T2ITvCUhWR7Jugs",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rhcp.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Anthony Kiedis - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Anthony_Kiedis#:~:text=Table_content:%20header:%20%7C%20Anthony%20Kiedis%20%7C%20%7C,Kiedis:%20Years%20active%20%7C%20:%201983%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Anthony Kiedis | | row: | Anthony Kiedis: Born | : November 1, 1962 Grand Rapids, Michigan, U.S. | row: |",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Xi6yi7OkWYx4PIvrivIBjDZRAH5EtrRHpWRGF_gjzM7aymmc",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Happy 63rd Birthday, Anthony!! Born On This Day Nov 1 1962",
+      "link": "https://www.facebook.com/blackwaxcafe/posts/happy-63rd-birthday-anthonyborn-on-this-day-nov-1-1962-anthony-kiedisanthony-kie/1224974182987084/#:~:text=Happy%20Birthday%20Anthony%20Kiedis%2C%20singer,York%20Times%20Best%20Seller%20status.",
+      "snippet": "Happy Birthday Anthony Kiedis, singer and co-founder of Red Hot Chili Peppers, was born on November 1, 1962. The band had notable ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvJ6RuWpAXMUmh7u9Nw5YkrrfYo4RqLiIl1uv0y1gPU2USQRrs",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Anthony Kiedis - Red Hot Chili Peppers History",
+      "link": "https://sites.google.com/view/allaboutredhotchilipeppers/anthony-kiedis#:~:text=Born%2D%20november%201st%2C%201962%2C,lyrics%20for%20the%20group's%20songs.",
+      "snippet": "Born- november 1st, 1962, 54. In Grand Rapids, Michigan, US. Genres. funk rock, alternative, rap, and punk rock. Occupation(s)-Sin...",
+      "source": "Google",
+      "thumbnail": "https://sites.google.com/view/allaboutredhotchilipeppers/anthony-kiedis",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sites.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Anthony Kiedis Facts For Kids - DIY.org",
+      "link": "https://www.diy.org/article/anthony_kiedis#:~:text=Anthony%20Kiedis%20is%20an%20American%20singer%2C%20songwriter%2C%20and%20actor!,%F0%9F%8C%9F",
+      "snippet": "Anthony Kiedis is an American singer, songwriter, and actor! \ud83c\udfa4He was born on November 1, 1962, in Grand Rapids, Michigan. Later, ...",
+      "source": "DIY.org",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_xZEfQWAcX4_-kdoIXBNrqzJROLOdiJl95kP4PSN-tRRQzHew",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.diy.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Flea (musician) - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Flea_(musician)#:~:text=Flea%20(Michael%20Peter%20Balzary)%20is,largely%20appeal%20to%20the%20audience.&text=Flea%20is%20known%20for%20his,Les%20Claypool%20and%20Victor%20Wooten.",
+      "snippet": "Flea (Michael Peter Balzary) is an Australian-American bassist. He was born on October 16, 1962, in the city of Melbourne, Austral...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsgJy1g0z0Drdgbx0mAaMSdlVO8ZtjWjK23VfH5hVA0aDtYFxM",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://simple.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Flea (musician) Facts for Kids",
+      "link": "https://kids.kiddle.co/Flea_(musician)#:~:text=Table_title:%20Flea%20(musician)%20facts%20for%20kids%20Table_content:,Bass%20guitar%20trumpet%20keyboards%20vocals%20guitar%20%7C",
+      "snippet": "Table_title: Flea (musician) facts for kids Table_content: header: | Quick facts for kids Flea | | row: | Quick facts for kids Fle...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSahy0P6odivITZzlMKfWlczVpSMCXsN0uQohjguH6dTujmOmh_",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kids.kiddle.co&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Flea's birthday and music career - Facebook",
+      "link": "https://www.facebook.com/groups/octanefanclub/posts/10161996485187709/#:~:text=%F0%9F%8E%B8%20Happy%2063rd%20Birthday%20Flea,BassLegend%20%23RockIcons%20%23Californication%20%23ClassicROCKVideo",
+      "snippet": "\ud83c\udfb8 Happy 63rd Birthday Flea!!! Happy Birthday to Flea, born October 16, 1962 \u2014 the wildly talented bassist and co-founder of the R...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrGtLABkFywK1SRqjda8Sa8tZIvYNg7nzGvff5_cY0NrRelwtK",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "Flea | Red Hot Chili Peppers Wiki",
+      "link": "https://rhcp.fandom.com/wiki/Flea",
+      "snippet": "Flea * Born. October 16, 1962 (age 60) Melbourne, Australia. * Occupation(s) Musician, actor. * Instruments. Bass guitar, acoustic...",
+      "source": "Fandom",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYZhxDO-kAFaKHf8RFxER8R4vKgEk3Q_0Ul-HLo1_E8kPCaoXl",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rhcp.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Flea Facts For Kids - DIY.ORG",
+      "link": "https://www.diy.org/article/flea#:~:text=Flea%20is%20an%20amazing%20musician,%22The%20Big%20Lebowski.%22%20%F0%9F%8C%9F",
+      "snippet": "Flea is an amazing musician from Australia! \ud83c\udfb8His real name is Michael Peter Balzary, and he was born on October 16, 1962, in Melb...",
+      "source": "DIY.ORG",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXkTUMyQz_F4lbCzzMNoikn69BWtonKh0gMh6kSpm37BXVq24N",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.diy.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Flea - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0281359/bio/#:~:text=Quotes%20(2)%20Edit-,Overview,Los%20Angeles%20Junior%20Philarmonic%20Orchestra.",
+      "snippet": "Overview. Born. October 16, 1962 \u00b7 Melbourne, Victoria, Australia. Birth name. Michael Peter Balzary. Height. 5\u2032 6\u2033 (1.68 m) Biogr...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBUnZVUF-ohPlXC5jVRC01nEk07b2RXRAihh_D3seWsTzuFQi9",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "The Red Hot Chili Peppers | Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/red-hot-chili-peppers#:~:text=For%20the%20Record%E2%80%A6,Detroit%2C%20Michigan)%2C%20drums.",
+      "snippet": "For the Record\u2026 Band formed c. 1983; members include Anthony Kiedis (born c. 1963 in Michigan), vocals; Flea (born Michael Balzary...",
+      "source": "Encyclopedia.com",
+      "thumbnail": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/red-hot-chili-peppers",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.encyclopedia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    },
+    {
+      "title": "Red Hot Chili Peppers - Rhino",
+      "link": "https://www.rhino.com/article/red-hot-chili-peppers#:~:text=Michael%20Balzary%20aka%20Flea%20(bass,inventive%20groups%20of%20modern%20times.",
+      "snippet": "Michael Balzary aka Flea (bass; born October 16, 1962), John Frusciante (guitar; born March 5, 1970), Jack Irons (drums; born July...",
+      "source": "www.rhino.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBp5v8uzcagSly2efDd_nheXE9AMK0cl4N9SSKHfiVW680zuvZ",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rhino.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 38
+    },
+    {
+      "title": "Red Hot Chili Peppers - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers#:~:text=The%20Red%20Hot%20Chili%20Peppers%20are%20an%20American%20rock%20band,selling%20bands%20of%20all%20time.",
+      "snippet": "The Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1982, consisting of Anthony Kiedis (vocals), Flea (ba...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg0YqedpviOYfbuG7rN1NCuf11s65NQ4ayHW0aX3vmXOjNSoNd",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 39
+    },
+    {
+      "title": "Red Hot Chili Peppers Facts for Kids",
+      "link": "https://kids.kiddle.co/Red_Hot_Chili_Peppers#:~:text=Jam%20in%201994.-,New%20Members:%20Frusciante%20and%20Smith%20(1988%E2%80%931989),to%20sell%20over%20500%2C000%20copies.",
+      "snippet": "New Members: Frusciante and Smith (1988\u20131989) Chad Smith (pictured in 2019) has been the Red Hot Chili Peppers drummer since 1988.",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBFDJZNGO0o4coYW-QU91Lh4HTvJD7uKXCxpQW4-C1B0cPfL4",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kids.kiddle.co&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 40
+    },
+    {
+      "title": "Red Hot Chili Peppers Biography - Oh! Jean Records",
+      "link": "https://www.ohjeanrecords.com/blogs/news/red-hot-chili-peppers-biography?srsltid=AfmBOopyUUc9uVarcIkDzV6Cn_aF4cEBAD2B4-I6ijZ4qfrEcsVF1Zsz#:~:text=A%20group%20called%20the%20Red,and%20lead%20singer%20Anthony%20Kiedis.",
+      "snippet": "A group called the Red Hot Chili Peppers was formed in Los Angeles, California on August 20th, 1983. They are a hard rock band wit...",
+      "source": "Oh! Jean Records",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTalqto9MhFFVuUUEHv7WvK_4S3afnfsEKwjCFCgPWYM6778tlY",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ohjeanrecords.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 41
+    },
+    {
+      "title": "Red Hot Chili Peppers - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers#:~:text=Table_content:%20header:%20%7C%20Red%20Hot%20Chili%20Peppers,funk%20rock%20rap%20rock%20funk%20metal%20%7C",
+      "snippet": "Table_content: header: | Red Hot Chili Peppers | | row: | Red Hot Chili Peppers: From left: Flea, Anthony Kiedis, Chad Smith, John...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg0YqedpviOYfbuG7rN1NCuf11s65NQ4ayHW0aX3vmXOjNSoNd",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 42
+    },
+    {
+      "title": "Happy Birthday Chad Smith! Chad Gaylord Smith was born on ...",
+      "link": "https://www.facebook.com/FruscianteWorld/posts/happy-birthday-chad-smithchad-gaylord-smith-was-born-on-october-25-1961-in-saint/1364466078381369/#:~:text=October%2025%2C%201961%20Chad%20Smith,the%20Red%20Hot%20Chili%20Peppers.",
+      "snippet": "HAPPY 64th BIRTHDAY Chad Smith (born October 25, 1961) is a musician who has been the drummer of the rock band Red Hot Chili Peppe...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXLBxnkwnPHlgCck-hQuoX15sWG99i2NshJnMDv0osIfIT_2z6",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 43
+    },
+    {
+      "title": "Chad Smith Facts for Kids",
+      "link": "https://kids.kiddle.co/Chad_Smith#:~:text=Table_title:%20Chad%20Smith%20facts%20for%20kids%20Table_content:,Smith:%20Years%20active%20%7C%20:%201977%E2%80%93present%20%7C",
+      "snippet": "Table_title: Chad Smith facts for kids Table_content: header: | Quick facts for kids Chad Smith | | row: | Quick facts for kids Ch...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJqwF-RH9egl-L9_JOilh21sxtI1TCDPsQGuKRANZ3FnVAL2m-",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kids.kiddle.co&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 44
+    },
+    {
+      "title": "Chad Smith | Red Hot Chili Peppers Wiki",
+      "link": "https://rhcp.fandom.com/wiki/Chad_Smith",
+      "snippet": "Chad Smith * Born. October 25, 1961 (age 60) Saint Paul, Minnesota. * Occupation(s) Musician. * Instruments. Drums, guitar. * Year...",
+      "source": "Fandom",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFCNGRt2FMBjZOXYQ9xlc51UXZBqUtIFezqk7kxkgysLqGBHZc",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://rhcp.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 45
+    },
+    {
+      "title": "Red Hot Chili Peppers Drummer Chad Smith: Everything You ...",
+      "link": "https://www.drumeo.com/beat/red-hot-chili-peppers-drummer-chad-smith/#:~:text=Did%20you%20know%20Chad%20Smith,'",
+      "snippet": "Did you know Chad Smith recorded a children's album? Now you do. Chad Smith started playing drums in the fifth grade. Born on Octo...",
+      "source": "Drumeo",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdW37YFrIZntJrB4Iqb5mFfSXU5PSMTVwYo8hIwIwW-Bpp01L8",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.drumeo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 46
+    },
+    {
+      "title": "Chad Smith | NAMM.org",
+      "link": "https://www.namm.org/library/oral-history/chad-smith#:~:text=Chad%20Smith%20developed%20a%20great,venue%20all%20across%20the%20world.",
+      "snippet": "Chad Smith developed a great sense of rhythm at an early age and attributes that to having music constantly surrounding him. He wa...",
+      "source": "NAMM",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKSU5nGRuaMBM4_wCPYceRz8RclziFsf6P6Nx3eSIWPmv0pwT9",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.namm.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 47
+    },
+    {
+      "title": "Chad Smith - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0807650/bio/#:~:text=Quotes%20(1)%20Edit-,Overview,Tang%20Clan%20and%20John%20Frusciante.",
+      "snippet": "Overview. Born. October 25, 1961 \u00b7 St. Paul, Minnesota, USA. Birth name. Chad Gaylord Smith. Height. 6\u2032 3\u2033 (1.91 m) Biography. Cha...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtwX9TQMg0IvNKcvkSr2-Hlt4PIXRTUFhNUnbhU_0ubzYA9BeO",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 48
+    },
+    {
+      "title": "Red Hot Chili Peppers - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm1553090/bio/#:~:text=Red%20Hot%20Chili%20Peppers%20are,over%2080%20million%20records%20sold.",
+      "snippet": "Red Hot Chili Peppers are an American rock band formed in Los Angeles in 1983. The group's musical style primarily consists of roc...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQXQw9aFw6DwqAlEX-05gTzMzj7JlGJovVCyNdk6UgOnp7lB3e",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 49
+    },
+    {
+      "title": "Happy 63rd birthday to Anthony Kiedis (born November 1, 1962). He ...",
+      "link": "https://www.facebook.com/80to90/posts/happy-63rd-birthday-to-anthony-kiedis-born-november-1-1962-he-is-an-american-mus/1232348548912751/#:~:text=Anthony%20Kiedis%20is%20an%20American,Parents:%20Blackie%20Dammett%2C%20Margaret%20Noble",
+      "snippet": "Anthony Kiedis is an American singer. He is a founding member and lead vocalist of the rock band Red Hot Chili Peppers. Kiedis and...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQunCVEY86yxovjKCYs8fr_DCe30mbgIm7qH4eqs85JokykDBd",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 50
+    }
+  ]
+}

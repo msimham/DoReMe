@@ -1,0 +1,427 @@
+{
+  "search_metadata": {
+    "id": "6987c3133d870135b39feea0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/GKChBAWia6imlP_a3MigAw/6987c3133d870135b39feea0.json",
+    "created_at": "2026-02-07 22:56:19 UTC",
+    "processed_at": "2026-02-07 22:56:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Justin+Bieber%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Justin+Bieber%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/GKChBAWia6imlP_a3MigAw/6987c3133d870135b39feea0.html",
+    "prettify_html_file": "https://serpapi.com/searches/GKChBAWia6imlP_a3MigAw/6987c3133d870135b39feea0.prettify",
+    "total_time_taken": 8.14
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Justin Bieber, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "DsC-o3icTY1JjqNmAIWlHCRi2S3FVczGKnnBPGObGTYIfrCZZwxm3xeJWomUC-QAOUXlNOlIWeS93Se97337NSv-5KmLFCfeLk_ec5in6z60T_QWfM_qEXz-xTbdGthungihmcIEozf9nlbCALhQAz69hRWMOFUqePxJ9lwTNzwktzyApbyCByiPBV5_tx2XA3aIBrBycZywTcowByUzBq17dzmltER3ACzSWk61JjUz6V4_p4jyBJzhOJLhBKiO6Ji5xljf8nkqXH58BZ7iZ1W9u1i4pZJxy1phSUvF9MxOC2qh97hQN91ecHj4j2XKxih-ZO382endXtR1_E68wdAXr2jTbp0gw4YQ-A3-gH4AEv-ANhL_CtF9X2delqjF_E5gxzeMhL6okq1rv0B1UWWQmIGq-wqx-dg12TuCIW_wv4Ws-B6PxX-T30DXVUX2908_0zx7pmOliYllau96uUugTDUe9Gz0ymAlEprLBu8kN7606FgGFJA6hnWvBx8c_OD2AUWRlYFlzA6Mw6q8fWY1XPqAOPcMr9rraJLSVFXbJN3g1yWJ7iisFBtar0TzzClgv5zcGlecphm2FEWHbO1wUx8O_SP_M1u2eT3THMl1j6djShahXzMm5rYtnDcqGBF2ItQXNp3ihRLUAZUBmubU4bbm40FP48pKVGd9pJafJ25qYKpuZfzWPRS9dIoZDKGVXri7GKKl_QEZMncmUOpcrw9iwPsDELIcy_GBaX2glJFRDOKaqJRpzDLSiORSiIsaqEHgI3LxmsqwPHIaXth7fzvxI8K7qDsnUUu_joD3g2CjAJ9bM2EamcyhoRcqg95mdTOFY-pHzWmi69txgTu-B6XLomgWHUKlxLRZbH2ei5rQNh7Hp6rJWeJqAHHDRJd7hcthIB0ukl2bBDnhIoGsrKDQaOE5TJyDS_bkfazv24laKE4ZFw-ueFmWhn2pdLpbksnH3eN0kGPQx-SetKlCFPSCpvfoEH1vprn6_J12Zn67M0Q-4o_yhIIt0ZIdt_oRu3LVRujI9mqe1WqvpBy4XL1QoYBPguMkKVOfxKt44kbLZ0aYRF_E8nQlVKhcumKxlZ3kYUwUQgRkLVXVlCPYtunlc8WFR8BZhQcfe23QDlfxqReaMYWessiUjO5adiDxMLwCM2jamEvyzZW7fwCVN2tM",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Justin Bieber is 31 years old (born March 1, 1994). He is a multi-talented artist known for his extensive musical range and versatility.",
+      "reference_indexes": [
+        16,
+        13,
+        6,
+        19
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Bieber is primarily a singer, songwriter, musician, and record producer.",
+      "reference_indexes": [
+        9,
+        2,
+        7
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        2,
+        15,
+        5,
+        12,
+        8,
+        16,
+        18,
+        14,
+        17,
+        3,
+        4
+      ],
+      "table": [
+        [
+          "Skill / Ability",
+          "Proficiency / Context"
+        ],
+        [
+          "Vocals",
+          "Professional-level singer with a wide vocal range and control; transitioned from teen pop to mature R&B and soul."
+        ],
+        [
+          "Drums",
+          "High proficiency; he began playing at age 2 and often performs drum solos during his live shows."
+        ],
+        [
+          "Guitar",
+          "Professional-level; he frequently performs acoustic versions of his songs and is largely self-taught."
+        ],
+        [
+          "Piano",
+          "Professional-level; he often plays piano in live settings and has been described as having strong musical intuition on the keys."
+        ],
+        [
+          "Trumpet",
+          "Intermediate; he learned to play as a child."
+        ],
+        [
+          "Music Production",
+          "Experienced; he serves as an executive producer on his own projects and films."
+        ],
+        [
+          "Performance",
+          "Expert; known for high-energy dancing, stage presence, and crowd interaction."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill / Ability"
+          },
+          {
+            "snippet": "Proficiency / Context"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocals"
+          },
+          {
+            "snippet": "Professional-level singer with a wide vocal range and control; transitioned from teen pop to mature R&B and soul."
+          }
+        ],
+        [
+          {
+            "snippet": "Drums"
+          },
+          {
+            "snippet": "High proficiency; he began playing at age 2 and often performs drum solos during his live shows."
+          }
+        ],
+        [
+          {
+            "snippet": "Guitar"
+          },
+          {
+            "snippet": "Professional-level; he frequently performs acoustic versions of his songs and is largely self-taught."
+          }
+        ],
+        [
+          {
+            "snippet": "Piano"
+          },
+          {
+            "snippet": "Professional-level; he often plays piano in live settings and has been described as having strong musical intuition on the keys."
+          }
+        ],
+        [
+          {
+            "snippet": "Trumpet"
+          },
+          {
+            "snippet": "Intermediate; he learned to play as a child."
+          }
+        ],
+        [
+          {
+            "snippet": "Music Production"
+          },
+          {
+            "snippet": "Experienced; he serves as an executive producer on his own projects and films."
+          }
+        ],
+        [
+          {
+            "snippet": "Performance"
+          },
+          {
+            "snippet": "Expert; known for high-energy dancing, stage presence, and crowd interaction."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_ability": "Vocals",
+          "proficiency_context": "Professional-level singer with a wide vocal range and control; transitioned from teen pop to mature R&B and soul."
+        },
+        {
+          "skill_ability": "Drums",
+          "proficiency_context": "High proficiency; he began playing at age 2 and often performs drum solos during his live shows."
+        },
+        {
+          "skill_ability": "Guitar",
+          "proficiency_context": "Professional-level; he frequently performs acoustic versions of his songs and is largely self-taught."
+        },
+        {
+          "skill_ability": "Piano",
+          "proficiency_context": "Professional-level; he often plays piano in live settings and has been described as having strong musical intuition on the keys."
+        },
+        {
+          "skill_ability": "Trumpet",
+          "proficiency_context": "Intermediate; he learned to play as a child."
+        },
+        {
+          "skill_ability": "Music Production",
+          "proficiency_context": "Experienced; he serves as an executive producer on his own projects and films."
+        },
+        {
+          "skill_ability": "Performance",
+          "proficiency_context": "Expert; known for high-energy dancing, stage presence, and crowd interaction."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "His primary residence is a $25.8 million mansion in the Beverly Park enclave of Beverly Hills, California.",
+      "snippet_links": [
+        {
+          "text": "Beverly Park",
+          "link": "https://www.google.com/search?q=Beverly+Park&kgmid=/m/0f8tgz&sa=X&ved=2ahUKEwifuIeDvciSAxVZmSYFHWLBHp4Q3egRegQICBAC"
+        },
+        {
+          "text": "Beverly Hills, California",
+          "link": "https://www.google.com/search?q=Beverly+Hills,+California&kgmid=/m/0k049&sa=X&ved=2ahUKEwifuIeDvciSAxVZmSYFHWLBHp4Q3egRegQICBAE"
+        }
+      ],
+      "reference_indexes": [
+        10,
+        1,
+        0
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Location: Beverly Hills, California, U.S.."
+        },
+        {
+          "snippet": "Other Properties: He also owns a $16.6 million vacation home in La Quinta, California (near Palm Springs), a $7 million lakeside retreat in Lake Coeur d'Alene, Idaho, and a $5 million estate in Ontario, Canada.",
+          "snippet_links": [
+            {
+              "text": "La Quinta, California",
+              "link": "https://www.google.com/search?q=La+Quinta,+California&kgmid=/m/0r3pc&sa=X&ved=2ahUKEwifuIeDvciSAxVZmSYFHWLBHp4Q3egRegQICRAD"
+            },
+            {
+              "text": "Lake Coeur d'Alene, Idaho",
+              "link": "https://www.google.com/viewer/place?mid=/m/073sqv&sa=X&ved=2ahUKEwifuIeDvciSAxVZmSYFHWLBHp4QqdYPegQICRAF"
+            },
+            {
+              "text": "Ontario, Canada",
+              "link": "https://www.google.com/search?q=Ontario,+Canada&kgmid=/m/05kr_&sa=X&ved=2ahUKEwifuIeDvciSAxVZmSYFHWLBHp4Q3egRegQICRAH"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        11
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on his recent property renovations or his 2026 Grammy performance?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Inside Hailey and Justin Bieber\u2019s $26M Beverly Hills Mansion Amid ...",
+      "link": "https://www.instagram.com/p/DKP8eIMtDe_/#:~:text=housesofcelebs-,Inside%20Hailey%20and%20Justin%20Bieber's%20$26M%20Beverly%20Hills%20Mansion,this%20property%20on%20Homes.com!",
+      "snippet": "May 29, 2025 \u2014 Inside Hailey and Justin Bieber's $26M Beverly Hills Mansion Amid Her Billion-Dollar Beauty Triumph. Fresh off the monumental $1 b...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/ALFXcD0o6Kx0a3p7ReAaf89Rb_7XtjkBgBhg6KcUWLk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/WTGnpQfoYA9_ZJkrEs4O4BoJiBJbcTNxjxOyZDQth4o.png",
+      "index": 0
+    },
+    {
+      "title": "Inside Justin and Hailey Bieber's $47 Million Property Portfolio",
+      "link": "https://robbreport.com/shelter/celebrity-homes/lists/justin-and-hailey-bieber-property-portfolio-1236793285/#:~:text=3,in%20February%20of%20that%20year.",
+      "snippet": "Jun 6, 2025 \u2014 * 1. Ontario Lake House. Photo : Google Earth. Just weeks after getting engaged in July 2018, a milestone that followed years of o...",
+      "source": "Robb Report",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/ght_bOvITU_8DMtI9VNGO7xe-oUnQ26dHyWiNTRwfr4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/LeM4wiAdFRg37T41xWmgj1YkYi0FuCfHLBthjQTsz3Y.png",
+      "index": 1
+    },
+    {
+      "title": "Justin Bieber - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Justin_Bieber#:~:text=Table_content:%20header:%20%7C%20Justin%20Bieber%20%7C%20%7C,Vocals%2C%20guitars%2C%20drums%2C%20percussion%2C%20trumpets%2C%20saxophones%20%7C",
+      "snippet": "Table_content: header: | Justin Bieber | | row: | Justin Bieber: Bieber in 2015 | : | row: | Justin Bieber: Born | : Justin Drew B...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/STAoZMtoB8o6ZGB7_MLWHKGk05giWfbnvcsuvYXjsFo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/3sPPTEwt_DySsPwEKNcN62AxiLYek-WaGvKhdTIMHO8.png",
+      "index": 2
+    },
+    {
+      "title": "Justin Bieber",
+      "link": "https://www.imdb.com/name/nm3595501/#:~:text=Credits,Expand%20below",
+      "snippet": "Producer * Justin Bieber: Our World. 5.0. executive producer. 2021. * Justin Bieber: Next Chapter. 6.7. Short. executive producer.",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/fioizrSca_gcDciJOC-IjdEkwfP1xeuzVxnaEFFTXeA.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Grammys 2026: Shirtless Justin Bieber Performs Yukon In Boxers, Internet Reacts To Viral Video",
+      "link": "https://www.ndtv.com/entertainment/grammys-2026-justin-bieber-flaunts-abs-tattoos-as-he-performs-yukon-on-stage-10929277#:~:text=Los%20Angeles:,(@PopCrave)%20February%202%2C%202026",
+      "snippet": "Feb 2, 2026 \u2014 Los Angeles: Justin Bieber turned heads at the 2026 Grammy Awards with a bold stage look and a high-energy performance. The singer...",
+      "source": "NDTV",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/_qpRPeV2MhtCbCvq_MLr5B2JdwMCDegfkHF4pna8SXg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/KMcasXLuLLG4xQqqOApy72syg27Mr04ktcAHudOfgdQ.png",
+      "index": 4
+    },
+    {
+      "title": "Is Justin Bieber the greatest multi talented artist we've ... - Quora",
+      "link": "https://www.quora.com/Is-Justin-Bieber-the-greatest-multi-talented-artist-weve-seen-in-the-music-industry-in-decades-Most-polls-put-him-top-10-ever-in-singing-and-dancing-abilities-and-he-plays-multiple-instruments-at-a-very-high-level",
+      "snippet": "Dec 7, 2019 \u2014 Here are my top 4 reasons: * He can play the drums, guitar, piano and I think the trumpet as well. I'm not saying he is a master a...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/j4nihc9m-vVb1nNDzoCiOsLjzibNp6jZQjoaJcW2bW8.png",
+      "index": 5
+    },
+    {
+      "title": "Justin Bieber\u2019s Net Worth Proves He\u2019s Here to Stay",
+      "link": "https://www.mensjournal.com/entertainment/justin-bieber-net-worth/#:~:text=A%20decade%20ago%2C%20it%20would,much%20is%20the%20singer%20worth?",
+      "snippet": "Feb 1, 2026 \u2014 A decade ago, it would have been impossible to predict the trajectory of Justin Bieber's career. At the start of 2016, Bieber was ...",
+      "source": "Men's Journal",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/5zrYt7J6LR3Nb-nI7n1CMYp-RDUuiPpRc0Fazwe_jrU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/a6BYSO_MCOqrvD3bHbsMYQbhnk35rtz-PhaFIxIxFRY.png",
+      "index": 6
+    },
+    {
+      "title": "Justin Bieber Biography | PDF - Scribd",
+      "link": "https://www.scribd.com/document/670701405/109372529-Justin-Bieber-Biography",
+      "snippet": "Nov 1, 2011 \u2014 Justin Bieber Biography. Justin Bieber is a Canadian singer, songwriter, and actor. He was discovered on YouTube in 2008 singing c...",
+      "source": "Scribd",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/rkgByk1D2a7AkUmFLkdDlee7_FVXICFrzoYfokEBqX0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/lcbfI1ChNQQ4ZQLlnP84dIwIdg02ILiRc2UvDYIIoeM.png",
+      "index": 7
+    },
+    {
+      "title": "Justin Bieber's Talent is \ud83d\udd25\ud83e\udd2f: Watch This Incredible Performance",
+      "link": "https://www.tiktok.com/@much/video/7309629637959748870#:~:text=The%20energy%20is%20infectious%20as,Yeah.&text=The%20solo%20sounded%20familiar%20%E2%80%A6,of%20some%20other%20piece%20before%20%E2%80%A6&text=O%20que%20mais%20me%20impressionou,quase%20que%20autom%C3%A1tica%2C%20MUITO%20talentosos!",
+      "snippet": "Dec 6, 2023 \u2014 The energy is infectious as the drums resonate with an intensity that captivates all. As they play, Justin prompts for another sol...",
+      "source": "TikTok",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/33WGhLfi0jWs2GXIFyoCDM41nMbA40QRuT81DScM9g0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/_23KP4RHBdvmIzXGtuBRUpXSRvLf4NcqSRoI4xOshts.png",
+      "index": 8
+    },
+    {
+      "title": "Justin Bieber - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Justin_Bieber#:~:text=Table_content:%20header:%20%7C%20Justin%20Bieber%20%7C%20%7C,Works%20%7C%20:%20Discography%20videography%20performances%20%7C",
+      "snippet": "Table_content: header: | Justin Bieber | | row: | Justin Bieber: Born | : Justin Drew Bieber March 1, 1994 London, Ontario, Canada...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/75Opiefh-12y93DldIQ778w6NJu55J8Z9A4_gj8MSO8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/p3JPKaAUEZCmrtHek1ekafFtnSO7E87TxFza7-pCnm0.png",
+      "index": 9
+    },
+    {
+      "title": "Where Does Justin Bieber Live? Examining the Singer's Real ...",
+      "link": "https://www.architecturaldigest.com/story/justin-biebers-houses-real-estate-portfolio-singer-and-wife-hailey#:~:text=Justin%20Bieber%20Live?-,Examining%20the%20Singer's%20Real%20Estate%20Portfolio,friend%20of%20both%20their%20families.",
+      "snippet": "Sep 11, 2025 \u2014 Calabasas starter home. The Ontario native's music career began in 2008 when music marketing exec Scooter Braun discovered videos ...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/qi2khjLq-TJEStr0ump1qf3ypP1ChPRbAwKCEcReHCg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/x3cp6vvUIfsLOZxjEHcuyBEDtF-qXoIymc_dfUqjSCA.png",
+      "index": 10
+    },
+    {
+      "title": "Justin Bieber And His Wife Hailey Quietly Splurge On $7M Idaho ...",
+      "link": "https://www.yahoo.com/entertainment/articles/justin-bieber-wife-hailey-quietly-003051494.html#:~:text=Justin%20Bieber%20has%20quietly%20purchased,relaxation%20away%20from%20Los%20Angeles.",
+      "snippet": "Aug 12, 2025 \u2014 Justin Bieber And His Wife Hailey Quietly Splurge On $7M Idaho Home To Get Away From LA Life. ... Justin Bieber has quietly purcha...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/9QBN4Qt3wH8UNhZK3lhVcOtL4YjcEj_qikEFPt8KzDI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/2JmY4hiorVuoA5X9XTnUf6VTUwmLKKf1LkCvq-hmumI.png",
+      "index": 11
+    },
+    {
+      "title": "Justin Bieber is a musical genius : r/JUSTINBIEBER - Reddit",
+      "link": "https://www.reddit.com/r/JUSTINBIEBER/comments/w39qd1/justin_bieber_is_a_musical_genius/#:~:text=Hardly%20a%20genius.,a%20good%20ear%20for%20music.&text=He%20learned%20how%20to%20play,least%20above%20average%20musical%20intelligence.&text=wouldn't%20expect%20less%20from,about%20literally%2090%25%20of%20musicians.&text=Can%20you%20really?,met%20those%2090%25%20of%20musicians.",
+      "snippet": "Jul 20, 2022 \u2014 Hardly a genius. Just has a good ear for music. ... He learned how to play drums when he was only 2 and can also play the piano, t...",
+      "source": "Reddit",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/RPzfRJZWKVPXlnI2etKTgUg2UKGr2nNhs4A599H42eA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/6FUCCsijee4KMr65vPtJxY-aEDT0kuSI0iWH9LuGyfU.png",
+      "index": 12
+    },
+    {
+      "title": "Justin Bieber | Hits, Baby, Songs, Wife, Hailey Baldwin, & Facts",
+      "link": "https://www.britannica.com/biography/Justin-Bieber#:~:text=Quick%20Facts,(2013)%20(Show%20more)",
+      "snippet": "Feb 2, 2026 \u2014 Quick Facts. In full: Justin Drew Bieber. Born: March 1, 1994, London, Ontario, Canada (age 31) Notable Family Members: son of Jer...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/JzypygKH8R9D-FnTeaMQca8b52IweCGXpbAT_UAVsXY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/qs5JZZgjrbwCNNS1J7TsmIlu8GbcmAKZ2WZxInU0NRs.png",
+      "index": 13
+    },
+    {
+      "title": "Justin Bieber Just Learned How to Play Another Musical ...",
+      "link": "https://www.teenvogue.com/story/justin-bieber-learned-how-to-play-bass#:~:text=Music-,Justin%20Bieber%20Just%20Learned%20How%20to%20Play%20Another%20Musical%20Instrument,stand%2Dup%20bass%20more%20often.",
+      "snippet": "Jun 29, 2016 \u2014 Justin Bieber Just Learned How to Play Another Musical Instrument. Hint: Meghan Trainor would approve. By De Elizabeth. June 29, 2...",
+      "source": "Teen Vogue",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/WnOSi1neWXDDeFcwWvXGcyhu1fhOBNM6gFc-TjS8K9U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/-s7o-Y8YiNG_uEPdaAdgNvQ0mCaAifqMnN0H5skpSFE.png",
+      "index": 14
+    },
+    {
+      "title": "Happy 31st Birthday, Justin! Justin Drew Bieber ( born March 1, ...",
+      "link": "https://www.facebook.com/blackwaxcafe/posts/happy-31st-birthday-justin-justin-drew-bieber-born-march-1-1994-is-a-canadian-si/1030742969076874/#:~:text=%F0%9F%8E%A4%F0%9F%8E%89%20Happy%2031st%20Birthday,%F0%9F%92%AB%F0%9F%8E%B6%F0%9F%92%96",
+      "snippet": "Mar 1, 2025 \u2014 \ud83c\udfa4\ud83c\udf89 Happy 31st Birthday to the global superstar Justin Bieber! \ud83c\udf89\ud83c\udfa4 March 1, 2025 Today we celebrate the evolution of a true musi...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/9GYReGEPy7de4mjGXkVfdh7XEfvBEaNV8PW4SyW7Q54.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/hX03c0JHq4hkmvVWmAbC8rVrMn5xZVKjNgyE78kmNc0.png",
+      "index": 15
+    },
+    {
+      "title": "Justin Bieber - Kids | Britannica Kids | Homework Help",
+      "link": "https://kids.britannica.com/kids/article/Justin-Bieber/574589#:~:text=Justin%20Drew%20Bieber%20was%20born,drums%2C%20piano%2C%20and%20trumpet.",
+      "snippet": "Justin Drew Bieber was born on March 1, 1994, in London, Ontario, Canada. He was raised in Stratford, Ontario, by his mother, Patt...",
+      "source": "Britannica Kids",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/chIf8hUYtk5Q4yAPovSJ_xgqq9HfZNGFrX8SD5S-2AA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/iuFqvW34zm3QNlIl5ZqMc5VI5r3DcwDxz-UsKF0EkqM.jpeg",
+      "index": 16
+    },
+    {
+      "title": "Knowing how to play the piano is one of the quiet reasons Justin Bieber's ...",
+      "link": "https://www.instagram.com/reel/DSkzVINDJtd/#:~:text=What%20began%20as%20a%20raw,%2C%20suggesting%20instruments%2C%20shaping%20emotion.",
+      "snippet": "Dec 22, 2025 \u2014 In a moment that stunned even seasoned musicians, Justin Bieber stood before an orchestra and described a melody \u2014 not with notes ...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/LdoR3eCwO_3yVAl6aSgyndMwezOc27fPX9JZsW9QGiA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/kZWPECXieqV0FLg14YdLj40bvfO7Tfd4Nfjem6i4S-E.png",
+      "index": 17
+    },
+    {
+      "title": "Justin Bieber, From Local Talent Showcase to Global Stardom",
+      "link": "https://musicinmotioncanada.ca/justin-bieber-from-local-talent-showcase-to-global-stardom/#:~:text=In%20the%20landscape%20of%20musical,foundation%20for%20his%20global%20ascent.",
+      "snippet": "Oct 18, 2023 \u2014 In the landscape of musical dreams, few tales resonate as profoundly as that of Justin Bieber. Born on March 1, 1994, in London, C...",
+      "source": "Music in Motion Canada",
+      "thumbnail": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/FkcXFZjBUXBaY7VV4vh6_6ZoY6z7i-XHJpLBju22L_U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3133d870135b39feea0/images/Frjy8Q4ksAJHp-ptDO6Rv7lwu5TW2Fu22PrT8ceUS0c.png",
+      "index": 18
+    },
+    {
+      "title": "Justin Bieber | The Canadian Encyclopedia",
+      "link": "https://thecanadianencyclopedia.ca/en/article/justin-drew-bieber-emc#:~:text=London%2C%20ON).-,Justin%20Drew%20Bieber%2C%20singer%2C%20songwriter%2C%20actor%20(born%201,television%20appearances%20and%20global%20touring.",
+      "snippet": "Justin Drew Bieber, singer, songwriter, actor (born 1 March 1994 in London, ON). Teen pop phenomenon Justin Bieber exploded on to ...",
+      "source": "The Canadian Encyclopedia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZrErOI-P-PH_6qeNJgTYk1NiA-gR6tB3M01XWIbZmlQi5Potp",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thecanadianencyclopedia.ca&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    }
+  ]
+}

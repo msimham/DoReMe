@@ -1,0 +1,620 @@
+{
+  "search_metadata": {
+    "id": "6987c2f84632b57dc0928117",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8Aw2nubU0nKyGsLbV-j_MA/6987c2f84632b57dc0928117.json",
+    "created_at": "2026-02-07 22:55:52 UTC",
+    "processed_at": "2026-02-07 22:55:52 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Eminem%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Eminem%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/8Aw2nubU0nKyGsLbV-j_MA/6987c2f84632b57dc0928117.html",
+    "prettify_html_file": "https://serpapi.com/searches/8Aw2nubU0nKyGsLbV-j_MA/6987c2f84632b57dc0928117.prettify",
+    "total_time_taken": 7.94
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Eminem, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "Vv6HF3icRY5JjqtWAEWlrITM_pfiKp4NGFSqAa1pTGd6JugZsOl7m2b6lY1EX4mUDWQBWUVlNakMktw7O0dXuj__kuZ_7FRFhMlp1hW44lprYMd6v9LS97Qa4o8_2bqdA_vCBzWYYFUedC-D7ql7xGVlBuVFh41LJKVAeH4ma1zYhCDbPCfh1YIJE5CNiR_ytu0aluAeLl6WJX47qUJ3uoLu4BTmopYLdBxgpX7iO5zrxZVchigF408WgIRLNjfTfVnTKjlwQXbgs3iynUkKvIuYoNQ58Etg15SpccmkNhVjXdqzj2J4CALguBSTevHvjzEdInhPm-njm9pueVXBV_wFRb6oMM6bqR2zN0RqprRCPgGiW4iPADQCeHT8itBdV6VeelXy6RU_HF8OBPJFEW31_BNS5WWKnNK4bL8ibDa0dfoKsMML-k8RC97gkP874ZP7_-7XuG3LPP3rhx-jyErjx5DuLPtivNMcwbX3Z3rHmL2vtpWm0HzunJ4rb2EpyUF1pjQ4dwuXepdT25GJYFHxlhLWSZpRbTa2hck3Aw_i6L4S2WI4IQanHfMAArWHolJFBFO9ITTPvtNQriE-Lpb_EOqnwOBFN1zcDk4YVuNPKWkZfXezFYbWKWJ7RHw8gBDmGyjvb8h_nxmHVXj7nZUw9g3h3Pd202bncF7gacRG0URX_Rrd9qDbMqua8fqZkbG9Opk1zDNNa-wtA8ZR1MSGvJv0Z94QTeLe8T35bhZScGbMjC8st1kK1bzyKB4SYnQZtXN_Yrj6WJIkgxFLQ9sDKh8YKKGCvWd1pdtXafE8G4A5VipbrLveEpl63wb4Phl1UuzHLtvlou6qVXPuHr3d7I2J2E0cqUtgIzc-wifHVJupY-hSKORDdLuBslogqm0nQOayCDjlafdzV9vJUZA1eii1HHs0_RUfManQmSYLtmt7Y-yrMkzFtvZkGJuJ33gZKdDeTM0Vt2OAYapJisvFQrBc7a371DBm3awge8W09Zzo_XhQrKOHfq_Hqfz4jXYmfrnRzOBd0G7V0aN07mSlL9RiYxRaIEK73jIq0JT6acIaMDcsIrSAFdbwSvcrlzoMYXetcRfp1dSfEoT9ENJof4eyipKyR1GbTN5o7uge-XP5WM0-LcqQmrRhN7MRH64ZZYqkFHbn6nbME52THiMWNBOuWs_hKvesv4CRxrG_AUSab6Q",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Eminem is 53 years old, having been born on October 17, 1972. He is widely regarded as one of the most technically proficient and influential figures in music history.",
+      "reference_indexes": [
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations & Roles"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Rapper & Vocalist: His primary career, spanning from the underground Detroit battle scene to global superstardom."
+        },
+        {
+          "snippet": "Songwriter: A prolific writer known for complex internal rhyme schemes and vivid storytelling."
+        },
+        {
+          "snippet": "Record Producer: He has produced major portions of his own discography and tracks for artists like 50 Cent and Tupac Shakur."
+        },
+        {
+          "snippet": "Record Executive: Co-founder of Shady Records alongside manager Paul Rosenberg."
+        },
+        {
+          "snippet": "Actor: Best known for his lead role in the semi-autobiographical film 8 Mile."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Proficiency"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        24,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "table": [
+        [
+          "Skill",
+          "Proficiency Level",
+          "Notable Examples"
+        ],
+        [
+          "Technical Rap/Flow",
+          "Master",
+          "Set a Guinness World Record for most words in a hit single with \"Rap God\" and delivered 222 words in 30 seconds on \"Godzilla\"."
+        ],
+        [
+          "Lyricism/Rhyming",
+          "Master",
+          "Renowned for multisyllabic \"bend-the-word\" rhyming and maintaining the largest vocabulary among top-charting artists."
+        ],
+        [
+          "Storytelling",
+          "Elite",
+          "Tracks like \"Stan\" and \"Cleanin' Out My Closet\" are cited as benchmarks for narrative depth in hip-hop."
+        ],
+        [
+          "Music Production",
+          "High",
+          "Skilled in beat-making and sound manipulation; he frequently uses keyboards to craft melodies for his tracks."
+        ],
+        [
+          "Vocal Delivery",
+          "Elite",
+          "Highly versatile; able to switch between aggressive, comedic, and emotionally vulnerable personas."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill"
+          },
+          {
+            "snippet": "Proficiency Level"
+          },
+          {
+            "snippet": "Notable Examples"
+          }
+        ],
+        [
+          {
+            "snippet": "Technical Rap/Flow"
+          },
+          {
+            "snippet": "Master"
+          },
+          {
+            "snippet": "Set a Guinness World Record for most words in a hit single with \"Rap God\" and delivered 222 words in 30 seconds on \"Godzilla\"."
+          }
+        ],
+        [
+          {
+            "snippet": "Lyricism/Rhyming"
+          },
+          {
+            "snippet": "Master"
+          },
+          {
+            "snippet": "Renowned for multisyllabic \"bend-the-word\" rhyming and maintaining the largest vocabulary among top-charting artists."
+          }
+        ],
+        [
+          {
+            "snippet": "Storytelling"
+          },
+          {
+            "snippet": "Elite"
+          },
+          {
+            "snippet": "Tracks like \"Stan\" and \"Cleanin' Out My Closet\" are cited as benchmarks for narrative depth in hip-hop."
+          }
+        ],
+        [
+          {
+            "snippet": "Music Production"
+          },
+          {
+            "snippet": "High"
+          },
+          {
+            "snippet": "Skilled in beat-making and sound manipulation; he frequently uses keyboards to craft melodies for his tracks."
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Delivery"
+          },
+          {
+            "snippet": "Elite"
+          },
+          {
+            "snippet": "Highly versatile; able to switch between aggressive, comedic, and emotionally vulnerable personas."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill": "Technical Rap/Flow",
+          "proficiency_level": "Master",
+          "notable_examples": "Set a Guinness World Record for most words in a hit single with \"Rap God\" and delivered 222 words in 30 seconds on \"Godzilla\"."
+        },
+        {
+          "skill": "Lyricism/Rhyming",
+          "proficiency_level": "Master",
+          "notable_examples": "Renowned for multisyllabic \"bend-the-word\" rhyming and maintaining the largest vocabulary among top-charting artists."
+        },
+        {
+          "skill": "Storytelling",
+          "proficiency_level": "Elite",
+          "notable_examples": "Tracks like \"Stan\" and \"Cleanin' Out My Closet\" are cited as benchmarks for narrative depth in hip-hop."
+        },
+        {
+          "skill": "Music Production",
+          "proficiency_level": "High",
+          "notable_examples": "Skilled in beat-making and sound manipulation; he frequently uses keyboards to craft melodies for his tracks."
+        },
+        {
+          "skill": "Vocal Delivery",
+          "proficiency_level": "Elite",
+          "notable_examples": "Highly versatile; able to switch between aggressive, comedic, and emotionally vulnerable personas."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Eminem remains a \"Detroiter for life\" and continues to reside in the Detroit, Michigan metropolitan area.",
+      "snippet_links": [
+        {
+          "text": "Detroit, Michigan",
+          "link": "https://www.google.com/search?q=Detroit,+Michigan&kgmid=/m/02dtg&sa=X&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q3egRegQIChAC"
+        }
+      ],
+      "reference_indexes": [
+        35,
+        36
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary City: Clinton Township, MI.",
+          "snippet_links": [
+            {
+              "text": "Clinton Township, MI",
+              "link": "https://www.google.com/search?q=Clinton+Township,+MI&kgmid=/m/0vc7k&sa=X&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q3egRegQICxAC"
+            }
+          ]
+        },
+        {
+          "snippet": "Residence Details: He lives in a private, gated community in a home he has owned for approximately 25 years. He sold his larger Oakland Township mansion in 2017.",
+          "snippet_links": [
+            {
+              "text": "Oakland Township mansion",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.architecturaldigest.com/story/eminem-is-selling-his-detroit-area-home-for-less-than-half-of-what-he-paid-for-it&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Qy_kOegQICxAE&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on his Shady Records roster or his recent Grammy achievements?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Lyrical ability aside...how is Eminem a versatile rapper/artist??? ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/thesypherhiphop/posts/547112778830367/%23:~:text%3DHe's%2520a%2520masterful%2520storyteller%252C%2520able,Hip%2520Hop%2520Gospel%26text%3DIan%2520Byram%2520%25E2%2596%25BA%2520Eminem%2520Is%2520A%2520Musical%2520Genious!&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAC&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "May 3, 2016 \u2014 TEN REASONS WHY EMINEM IS THE BEST RAPPER ALIVE 1. Unmatched Technical Skill: Eminem's complex rhyme schemes, multisyllable flow, ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/I_pioBYlgJEyU86IJ-cYp3q-gNSnywL9hIWnivI-vh8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/CNZ3IYFQiFZoPtbovUYKhTz1D3PBU2cpeKkq4yCNvJI.png",
+      "index": 0
+    },
+    {
+      "title": "Eminem - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Eminem&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAG&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "For other uses, see Marshall Mathers (disambiguation) and Slim Shady (disambiguation). * Marshall Bruce Mathers III (born October ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/x2elQvpmfpFRaNDeMH2altT1Z1dQeegih4fvwKTgyLA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/ebyEXUkIbzrVIkN8hhUVmPBBg4MiytWEEkbpCed3CAE.png",
+      "index": 1
+    },
+    {
+      "title": "Could Eminem be the most talented rapper ever? - Medium",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://medium.com/@that_shadydude/is-eminem-the-most-talented-rapper-ever-e70f569f388f%23:~:text%3Dbasically%2520all%2520these%2520different%2520writers,a%2520song%2520or%2520verse%2520too.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAK&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jan 6, 2016 \u2014 basically all these different writers and poets, just like all the different emcees in hip hop. Eminem had a line on the track Rab...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/jDVoRx2KWWwjoK-DYhWty0AuWRULkUP1cGfagAxmrG8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/Z7O1HnCfvPCkPQPC0X7Iv8Zsb8ThcaBmco_c-w30Ets.png",
+      "index": 2
+    },
+    {
+      "title": "Eminem and Michael Jackson music careers - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1017062891669324/posts/32896883073260558/%23:~:text%3DEminem%252C%2520whose%2520real%2520name%2520is,%25F0%259F%258E%2599%25EF%25B8%258F%25F0%259F%258E%2599%25EF%25B8%258F%25F0%259F%258E%25B8&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAO&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Dec 3, 2025 \u2014 Eminem, whose real name is Marshall Bruce Mathers III, is an American rapper, songwriter, and record producer. Born on October 17,",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/r19H2ffMvlfDIjxcoqrMabwieb8Z4ViypYueB_LMNxA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/6E2yTzG3-ofTeW1HSk3_uJHvMRwgEDojCQ2mZQEel4g.png",
+      "index": 3
+    },
+    {
+      "title": "Eminem's Vocabulary Mastery and Music Career - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/382711985595781/posts/1534479217085713/%23:~:text%3DTEN%2520REASONS%2520WHY%2520EMINEM%2520IS,Hip%2520Hop%2520Gospel&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAS&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Dec 18, 2024 \u2014 Eminem, the renowned rapper, has often spoken about how he dedicated significant time to expanding his vocabulary, particularly by...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/nVJB6YZCfJqNwX298g9R7uIdfhdKjN7mOwimKGGavII.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/lz0a5wTDZZidEX4CIRgitP2_I_AW1L4pTB1FAq09hGM.png",
+      "index": 4
+    },
+    {
+      "title": "Where Does Eminem Live? Tracing the Rapper's Life in Homes",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.architecturaldigest.com/story/where-does-eminem-live-tracing-the-rappers-life-in-homes%23:~:text%3D%25E2%2580%259CI%2520can%2520always%2520go%2520back,Avenue%2520became%2520a%2520fan%2520landmark.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAW&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Apr 15, 2025 \u2014 Where Does Eminem Live? Tracing the Rapper's Life in Homes. Fans know the 8 Mile star hails from Detroit, but has he stayed close ...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/eAA_lLUt_fGo4KQhYF6peeMtgGtUL7KF3GHFjbUj0uo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/UKjN_9QmKVprPLnYeqtUC7uaNE7QoJAlfI1sOEgO5Yk.png",
+      "index": 5
+    },
+    {
+      "title": "Eminem's Life and Career as a Rapper and Songwriter - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/7770644756330437/posts/8126698654058377/%23:~:text%3DHappy%2520Birthday%2520Eminem%2520Eminem%2520celebrates,record%2520for%2520a%2520male%2520artist).%26text%3DOn%2520November%25208%252C%25202002%2520%25228,big%2520in%2520the%2520rap%2520game.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAa&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jul 30, 2024 \u2014 Eminem's career has not been without controversy. His lyrics have often been criticized for their violent and misogynistic content...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/CwHHYMdS8IvqOngoroG4s1blfvHsMuyVbuoD7EawwRs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/7SfPUs66fLzhKN6IbYr9C89uEL9-6S_OUruS0W4Ulkk.png",
+      "index": 6
+    },
+    {
+      "title": "Eminem's life and music career - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/523856368364949/posts/2054139715336599/%23:~:text%3D2y%2520%25C2%25B7%2520Public-,Marshall%2520Bruce%2520Mathers%2520III%2520(born%2520October%252017%252C%25201972)%252C,artists%2520working%2520in%2520various%2520genres.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAe&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Oct 17, 2025 \u2014 Eminem also co-founded Shady Records, which helped launch the careers of artists such as D12, 50 Cent, and Obie Trice. He establis...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/YG_ZYutsFYCSrbCerf9QNxWyKcGGK07F4yGHLxa3oas.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/fqOArTyKGuVR5cjjtfTlPPuqSIIZpIWtA7MPevbfao8.png",
+      "index": 7
+    },
+    {
+      "title": "How did Eminem become such a talented songwriter and get ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.quora.com/How-did-Eminem-become-such-a-talented-songwriter-and-get-such-a-huge-vocabulary-especially-given-his-chaotic-home-life-and-lack-of-education&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAi&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jul 16, 2017 \u2014 * He doesn't just rhyme words. He bends them, he pairs them, he even makes them (\u201cstan\u201d now officially in the dictionary). * Emine...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/KaaSG9JHr5EuKG4cG2q6qcpvvM2wDU4JWA_v2rOHBPM.png",
+      "index": 8
+    },
+    {
+      "title": "Eminem | House Tour 2025 | Inside Slim Shady's Multi-Million ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3DsKFPWbvjiFM%26t%3D11&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAl&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Aug 19, 2025 \u2014 and building a career that made him a global icon. but while many rappers show off flashy lives in Miami Los Angeles or New York E...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/gE9yowhvVIJK0H9MRYaWkVQjbHNo8NW_Imnlqth1uTE.jpeg",
+      "index": 9
+    },
+    {
+      "title": "The Eminem Sound: A Deep Dive into His Music Production ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://audiotechhub.com/blogs/music-production/the-eminem-sound-a-deep-dive-into-his-music-production-techniques%23:~:text%3DEminem's%2520use%2520of%2520sampling%2520is,other%2520artists%2520in%2520the%2520genre.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAq&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Feb 15, 2024 \u2014 The Eminem Sound: A Deep Dive into His Music Production Techniques * The Foundation of Eminem's Sound. At the core of Eminem's mus...",
+      "source": "Audio Tech Hub",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/TSJih_nPyQnOuSrJyPkqNGyFtI9u9mptNjv9FYZjnC0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/pqWcXfKHU-8IOkJ9dHkWQvhKft_qirX6Znmj8-Jca2s.png",
+      "index": 10
+    },
+    {
+      "title": "What makes Eminem music unique? - Coda",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://coda.io/@chart-ringtones/what-makes-eminem-music-unique%23:~:text%3DEminem%252C%2520one%2520of%2520the%2520most,provoke%2520thought%2520in%2520his%2520listeners.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAu&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Furthermore, Eminem's dynamic and versatile flow, characterized by his lightning-fast delivery and rhythmic precision, contributes...",
+      "source": "Coda",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/NRKcgrXmuU5iddGJfgri0Oe3aVTwQsxTwZjlYa5RD-s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/RLr5kXOFp6QdpsiEXfb-vJtKOI0cp9wm7FVRFkE3fB0.png",
+      "index": 11
+    },
+    {
+      "title": "Eminem's Musical Journey: The Instruments Behind the Legend",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.oreateai.com/blog/eminems-musical-journey-the-instruments-behind-the-legend/e99bafd955e2c5362cdf9e38af518659%23:~:text%3DWhen%2520you%2520think%2520of%2520Eminem,he%2520plays%2520them%2520himself%2520extensively.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhAy&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Dec 30, 2025 \u2014 When you think of Eminem, the first image that comes to mind is likely not him sitting at a piano or strumming a guitar. Instead, ...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/JOuXacRrdmyLMMvrIhmEbZ6c0umw8G534qFSpVXCa_U.png",
+      "index": 12
+    },
+    {
+      "title": "Inside Eminem's $250 Million Detroit Real Estate Life",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3DZg3d_ApWnkA&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhA1&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jun 15, 2025 \u2014 did you know Eminem still lives in Detroit. yeah while most stars run off to LA or Miami Slim Shady stayed loyal to his roots desp...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/jUV8LWun4n7kSZMGECOFSUvFYzObJOQBgXUexKDNDww.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Mathers, Marshall \"Eminem\" | Detroit Historical Society",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/mathers-marshall-eminem%23:~:text%3DEminem%2520was%2520born%2520Marshall%2520Bruce,the%2520collective%2520known%2520as%2520D12.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhA6&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Eminem was born Marshall Bruce Mathers III on October 17, 1972 in St. Joseph, Missouri, and was raised by his mother, Debbie Nelso...",
+      "source": "Detroit Historical Society",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/R2iVJUw1aisDqf63lYrT6p2bMsZ6-quJuXyNPmeQ_Qc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/EracEBv3CUR3nsv99vSSPAx5QvXvMtV6ZyiPKWDfnWY.png",
+      "index": 14
+    },
+    {
+      "title": "Eminem's $3.2M Clinton Township Estate Rap legend ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/HouseOfCeleb/posts/-eminems-32m-clinton-township-estate-rap-legend-eminem-owns-this-stunning-32-mil/1617262849054740/%23:~:text%3D%25F0%259F%258E%25A4%25F0%259F%258F%25A0%2520Eminem's%2520$3.2M,House%2520Of%2520Celebs&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhA-&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Apr 5, 2025 \u2014 \ud83c\udfa4\ud83c\udfe0 Eminem's $3.2M Clinton Township Estate \ud83c\udf1f\u2728 Rap legend Eminem owns this stunning $3.2 million estate in Clinton Township, Mich...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/bZAlfALryTXdJTsQBlG5LyqC7CVQwf5qpqmo6f4slPQ.jpeg",
+      "index": 15
+    },
+    {
+      "title": "Where Does Eminem Live? The Real Slim Shady's Real ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.therichest.com/where-does-eminem-live-the-real-slim-shadys-real-estate-portfolio/%23:~:text%3DThe%2520Eminem%2520Show%252C%2520his%2520fourth,story%2520behind%2520each%2520of%2520them.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhBC&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jun 3, 2025 \u2014 He has released twelve studio albums, two compilations, and one extended play. The Detroit-based artist is one of the best-selling...",
+      "source": "TheRichest",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/zG4D5z_E26lxsarKwHnlnOf-Y7dGShOpCHD43JXxkEg.jpeg",
+      "index": 16
+    },
+    {
+      "title": "Eminem - Andy Fowler Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://andyfowler.fandom.com/wiki/Eminem&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhBG&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Eminem * Born. Marshall Bruce Mathers III. 17 October 1972 (age 53) St. Joseph, Missouri. * Other names. Slim Shady / Evil / Em. *",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/RsL_P3dqlnHqK7FrUynPRzeEbkViow4yNu79idyQd1E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/wyU-T5lF2L6IUS3LbZ-ycCtTziVksmLr3CVqMYMrLkg.png",
+      "index": 17
+    },
+    {
+      "title": "Eminem's 52nd Birthday and Achievements as a Hip Hop Legend",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/soultraingroup/posts/8451624174954237/%23:~:text%3DEminem%252C%2520whose%2520real%2520name%2520is,%25F0%259F%258E%2599%25EF%25B8%258F%25F0%259F%258E%2599%25EF%25B8%258F%25F0%259F%258E%25B8&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhBK&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Oct 18, 2024 \u2014 Eminem, whose real name is Marshall Bruce Mathers III, is an American rapper, songwriter, and record producer. Born on October 17,",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/DCaGoTogKOYcPjUBz032byLFblOIPWCJjVMT3osg4to.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/ELUQsaT6zScNZfjdFDS45jwdofAbhCGYTVH6sQVJIfA.png",
+      "index": 18
+    },
+    {
+      "title": "Eminem age, hometown, biography - Last.fm",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.last.fm/music/Eminem/%2Bwiki&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhBO&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Jan 20, 2025 \u2014 Biography * Born. 17 October 1972 (age 53) * Born In. St. Joseph, Buchanan County, Missouri, United States.",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/WSjzC3JHQ-QcOAxJ1MYkTxeDt2XLooJjpKhJBbBhz88.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/RxOh2YkhLxyyIQ1PVB6qSmQ3YgqiUCTj3h42ESvzGGc.png",
+      "index": 19
+    },
+    {
+      "title": "Eminem Is Selling His Detroit-Area Home for Less Than Half of What ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.architecturaldigest.com/story/eminem-is-selling-his-detroit-area-home-for-less-than-half-of-what-he-paid-for-it%23:~:text%3DThe%252017%252C500%252Dsquare%252Dfoot%2520mansion,sit%2520on%2520the%2520expansive%2520property.&ved=2ahUKEwjQx672vMiSAxV5ElkFHYgJAO4Q1fkOegQIDhBS&opi=89978449&cd&psig=AOvVaw2i7V1TMNEW4-QXs6wKaLDd&ust=1770591352980000",
+      "snippet": "Aug 14, 2017 \u2014 The 17,500-square-foot mansion sits on a roomy 5.7 acres in the northern outskirts of the Metropolitan Detroit area, where he spen...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/1IET46Y0lrZy4Z-x5m2PZ_rzA6mO6rzZjAwhPdpxz04.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f84632b57dc0928117/images/xx2DQ6hFA85_DFC3jFERZsJPSLY4zWB3DzwNBQtttqs.png",
+      "index": 20
+    },
+    {
+      "title": "Eminem - Andy Fowler Wiki",
+      "link": "https://andyfowler.fandom.com/wiki/Eminem",
+      "snippet": "Eminem * Born. Marshall Bruce Mathers III. 17 October 1972 (age 53) St. Joseph, Missouri. * Other names. Slim Shady / Evil / Em. *",
+      "source": "Fandom",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzKdtRihlfClEmPm4a2JqSyBKR-GJA8aW5ivW2sAqFTkp0iWN5",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://andyfowler.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Eminem age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Eminem/+wiki",
+      "snippet": "Biography * Born. 17 October 1972 (age 53) * Born In. St. Joseph, Buchanan County, Missouri, United States.",
+      "source": "Last.fm",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hNlREh5b8q1SVC3aHNCohTjFqqsEDbglfEYBv57xKsF0MQjH",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.last.fm&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Eminem's 52nd Birthday and Achievements as a Hip Hop Legend",
+      "link": "https://www.facebook.com/groups/soultraingroup/posts/8451624174954237/#:~:text=Eminem%2C%20whose%20real%20name%20is,%F0%9F%8E%99%EF%B8%8F%F0%9F%8E%99%EF%B8%8F%F0%9F%8E%B8",
+      "snippet": "Eminem, whose real name is Marshall Bruce Mathers III, is an American rapper, songwriter, and record producer. Born on October 17,",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwCdpw4cla9HOt037Q8UEQ5KFveGGKZRjtZRO6MXSkkgHkfaSN",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Lyrical ability aside...how is Eminem a versatile rapper/artist??? ...",
+      "link": "https://www.facebook.com/groups/thesypherhiphop/posts/547112778830367/#:~:text=He's%20a%20masterful%20storyteller%2C%20able,Hip%20Hop%20Gospel&text=Ian%20Byram%20%E2%96%BA%20Eminem%20Is%20A%20Musical%20Genious!",
+      "snippet": "TEN REASONS WHY EMINEM IS THE BEST RAPPER ALIVE 1. Unmatched Technical Skill: Eminem's complex rhyme schemes, multisyllable flow, ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuCOFgXbO7fSqbizWm2dfXXMHSq-cTe52j25hfPDSwmMwPlGZx",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Eminem - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Eminem",
+      "snippet": "For other uses, see Marshall Mathers (disambiguation) and Slim Shady (disambiguation). * Marshall Bruce Mathers III (born October ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJyiWv4JTyYH7tXmgXjZMY_5oA9s5NXfdQza1IEx0pqA7OnT_M",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Eminem's life and music career - Facebook",
+      "link": "https://www.facebook.com/groups/523856368364949/posts/2054139715336599/#:~:text=2y%20%C2%B7%20Public-,Marshall%20Bruce%20Mathers%20III%20(born%20October%2017%2C%201972)%2C,artists%20working%20in%20various%20genres.",
+      "snippet": "Eminem also co-founded Shady Records, which helped launch the careers of artists such as D12, 50 Cent, and Obie Trice. He establis...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfdJJ1btARNqa0c8jqfHLW9MC5f3aM1V2Ey6Fu4YOStwzSjH3W",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Eminem and Michael Jackson music careers - Facebook",
+      "link": "https://www.facebook.com/groups/1017062891669324/posts/32896883073260558/#:~:text=Eminem%2C%20whose%20real%20name%20is,%F0%9F%8E%99%EF%B8%8F%F0%9F%8E%99%EF%B8%8F%F0%9F%8E%B8",
+      "snippet": "Eminem, whose real name is Marshall Bruce Mathers III, is an American rapper, songwriter, and record producer. Born on October 17,",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX_VFf0ksSTLyEDcXH5-gqoODMg_cubtnfwjS1amkfJK233bNy",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Eminem's Life and Career as a Rapper and Songwriter - Facebook",
+      "link": "https://www.facebook.com/groups/7770644756330437/posts/8126698654058377/#:~:text=Happy%20Birthday%20Eminem%20Eminem%20celebrates,record%20for%20a%20male%20artist).&text=On%20November%208%2C%202002%20%228,big%20in%20the%20rap%20game.",
+      "snippet": "Eminem's career has not been without controversy. His lyrics have often been criticized for their violent and misogynistic content...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPxHXPnFe0Dj4Yj0LoJPFB_Xu6liHLQ6dM5nHWaole4rhCCDTr",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Eminem's Vocabulary Mastery and Music Career - Facebook",
+      "link": "https://www.facebook.com/groups/382711985595781/posts/1534479217085713/#:~:text=TEN%20REASONS%20WHY%20EMINEM%20IS,Hip%20Hop%20Gospel",
+      "snippet": "Eminem, the renowned rapper, has often spoken about how he dedicated significant time to expanding his vocabulary, particularly by...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM7TGlaUXLEf81htIH_LtnBxR3JRH7V1Iotgl1hF4g0bIBqrCY",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "How did Eminem become such a talented songwriter and get ...",
+      "link": "https://www.quora.com/How-did-Eminem-become-such-a-talented-songwriter-and-get-such-a-huge-vocabulary-especially-given-his-chaotic-home-life-and-lack-of-education",
+      "snippet": "* He doesn't just rhyme words. He bends them, he pairs them, he even makes them (\u201cstan\u201d now officially in the dictionary). * Emine...",
+      "source": "Quora",
+      "thumbnail": "https://www.quora.com/How-did-Eminem-become-such-a-talented-songwriter-and-get-such-a-huge-vocabulary-especially-given-his-chaotic-home-life-and-lack-of-education",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "The Eminem Sound: A Deep Dive into His Music Production ...",
+      "link": "https://audiotechhub.com/blogs/music-production/the-eminem-sound-a-deep-dive-into-his-music-production-techniques#:~:text=Eminem's%20use%20of%20sampling%20is,other%20artists%20in%20the%20genre.",
+      "snippet": "The Eminem Sound: A Deep Dive into His Music Production Techniques * The Foundation of Eminem's Sound. At the core of Eminem's mus...",
+      "source": "Audio Tech Hub",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9azlqumxCWhT5sDOLSzE2SfGF3zlaf_0ns3UtOhsinEG1Dofk",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://audiotechhub.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Eminem's Musical Journey: The Instruments Behind the Legend",
+      "link": "https://www.oreateai.com/blog/eminems-musical-journey-the-instruments-behind-the-legend/e99bafd955e2c5362cdf9e38af518659#:~:text=When%20you%20think%20of%20Eminem,he%20plays%20them%20himself%20extensively.",
+      "snippet": "When you think of Eminem, the first image that comes to mind is likely not him sitting at a piano or strumming a guitar. Instead, ...",
+      "source": "Oreate AI",
+      "thumbnail": "https://www.oreateai.com/blog/eminems-musical-journey-the-instruments-behind-the-legend/e99bafd955e2c5362cdf9e38af518659",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.oreateai.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "What makes Eminem music unique? - Coda",
+      "link": "https://coda.io/@chart-ringtones/what-makes-eminem-music-unique#:~:text=Eminem%2C%20one%20of%20the%20most,provoke%20thought%20in%20his%20listeners.",
+      "snippet": "Furthermore, Eminem's dynamic and versatile flow, characterized by his lightning-fast delivery and rhythmic precision, contributes...",
+      "source": "Coda",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAhfEvNUKgDF8Vggh26BUOL1sF_1cBaIJv4YaBVrV3vpSKYSio",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://coda.io&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "Could Eminem be the most talented rapper ever? - Medium",
+      "link": "https://medium.com/@that_shadydude/is-eminem-the-most-talented-rapper-ever-e70f569f388f#:~:text=basically%20all%20these%20different%20writers,a%20song%20or%20verse%20too.",
+      "snippet": "basically all these different writers and poets, just like all the different emcees in hip hop. Eminem had a line on the track Rab...",
+      "source": "Medium",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRN1-VQofmg1jnurwZOHve9nErdT2yfcQsUyfiM3s8f8u8DRPPu",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Inside Eminem's $250 Million Detroit Real Estate Life",
+      "link": "https://www.youtube.com/watch?v=Zg3d_ApWnkA",
+      "snippet": "did you know Eminem still lives in Detroit. yeah while most stars run off to LA or Miami Slim Shady stayed loyal to his roots desp...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTR9tHnJrTu9A4Rr33G4eMcyCxHL_W5tRQMZ4fP85V7HXMlLtqZ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Where Does Eminem Live? Tracing the Rapper's Life in Homes",
+      "link": "https://www.architecturaldigest.com/story/where-does-eminem-live-tracing-the-rappers-life-in-homes#:~:text=%E2%80%9CI%20can%20always%20go%20back,Avenue%20became%20a%20fan%20landmark.",
+      "snippet": "Where Does Eminem Live? Tracing the Rapper's Life in Homes. Fans know the 8 Mile star hails from Detroit, but has he stayed close ...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJG6_MJyd9V2s2AMjhq-1MlZDfmIYlvozhC1AD9z-PU7fFIZf3",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.architecturaldigest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Eminem's $3.2M Clinton Township Estate Rap legend ...",
+      "link": "https://www.facebook.com/HouseOfCeleb/posts/-eminems-32m-clinton-township-estate-rap-legend-eminem-owns-this-stunning-32-mil/1617262849054740/#:~:text=%F0%9F%8E%A4%F0%9F%8F%A0%20Eminem's%20$3.2M,House%20Of%20Celebs",
+      "snippet": "\ud83c\udfa4\ud83c\udfe0 Eminem's $3.2M Clinton Township Estate \ud83c\udf1f\u2728 Rap legend Eminem owns this stunning $3.2 million estate in Clinton Township, Mich...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS73k1QpAtNqBbjx0IZbjQoynNK-VXWpF2ckbgdmC7AgsTQHtT_",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    },
+    {
+      "title": "Where Does Eminem Live? The Real Slim Shady's Real ...",
+      "link": "https://www.therichest.com/where-does-eminem-live-the-real-slim-shadys-real-estate-portfolio/#:~:text=The%20Eminem%20Show%2C%20his%20fourth,story%20behind%20each%20of%20them.",
+      "snippet": "He has released twelve studio albums, two compilations, and one extended play. The Detroit-based artist is one of the best-selling...",
+      "source": "TheRichest",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGKOB1Am9Z4zLv_-BpMrYaB9DeHu0kqI90fFmjKm27jzwFmArO",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.therichest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 38
+    },
+    {
+      "title": "Eminem | House Tour 2025 | Inside Slim Shady's Multi-Million ...",
+      "link": "https://www.youtube.com/watch?v=sKFPWbvjiFM&t=11",
+      "snippet": "and building a career that made him a global icon. but while many rappers show off flashy lives in Miami Los Angeles or New York E...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNFu2Vlnwl5f-tU3kv8FMjdjpsM03sLRiKXaYD5zv2RiC1mfEI",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 39
+    },
+    {
+      "title": "Eminem Is Selling His Detroit-Area Home for Less Than Half of What ...",
+      "link": "https://www.architecturaldigest.com/story/eminem-is-selling-his-detroit-area-home-for-less-than-half-of-what-he-paid-for-it#:~:text=The%2017%2C500%2Dsquare%2Dfoot%20mansion,sit%20on%20the%20expansive%20property.",
+      "snippet": "The 17,500-square-foot mansion sits on a roomy 5.7 acres in the northern outskirts of the Metropolitan Detroit area, where he spen...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-GpFfIWAWommVCOqhxAZwEZnrzt9Od0uDe7mxmIr_iqaZxEuo",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.architecturaldigest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 40
+    }
+  ]
+}

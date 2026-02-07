@@ -1,0 +1,282 @@
+{
+  "search_metadata": {
+    "id": "6987c31ae64250cf0fc08a83",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/L14JSIkK_2WQ71RbiMRBAA/6987c31ae64250cf0fc08a83.json",
+    "created_at": "2026-02-07 22:56:26 UTC",
+    "processed_at": "2026-02-07 22:56:26 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=J.+Cole%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=J.+Cole%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/L14JSIkK_2WQ71RbiMRBAA/6987c31ae64250cf0fc08a83.html",
+    "prettify_html_file": "https://serpapi.com/searches/L14JSIkK_2WQ71RbiMRBAA/6987c31ae64250cf0fc08a83.prettify",
+    "total_time_taken": 7.98
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "J. Cole, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "7le5UnicTZNJiutmAIQhF8gVtHwP0t2SrF-WabzQZM2DZf2aNkaWfg22Jmu297lIeCSQC-QAOUXnNPEqpJYFVQUf1K-_ofIvibHkOHs6LFUba8LYA_JZnFV-oKpPvv7m63YJ3SPwxfGeupWUyOaKPLNOZUhcDmZ48b0YNQ6ZwE5IyXE9Eqp_JJxn6kVGKhcZfKY63DjQl3a-iZtBIuVEjBMOglFoEObikCqETZUlQjKeSkKGZERY8ECGXopHovdIoCOHVfc4baLBkdKNWKSyJe6U0I9oeBPxCySo8FkcE9ILji7HnZxWN8kDbcLV831ndkT8z2lA_TnOUTN-TUb7LKsq_gDvOPbNiJOyGduh-MSUZkQV9jIw64QFGIGfCXDefsfYrquQjy5aOX7QOHgn3gmAfdNk19B_waryhjAJJbf2O-ahfijb5oNg3gnsFGdxX_4X-D1p21uJ_vnpZ1bk92ys1jGYS-Td5zRjinW50s5yjPPoKgFK2HBjSo-jykl6-iCCkCZtlqm2UuVA6hM7n08omXr0xkFeE909r0H-ExO8PYM7o2IlJeUb-SAf8Yd1OWckHq0FWS27qqDPgZrUbzm5iuxL_2s6uY69ZwVaaPNhceXGuZ51634NyHhqgnOOb-Q1jyOZmA5zoe7UEUw2uK_2dpAzbaXiwwS2_fVNzmk2rFbpwTtq89pUxDgGzaL4lZXITCJxrP6JmYqwBySzV5UCkeLbMBE41DWhW2WolyEIuh33dBEJDicgWWHFu0soMLURHenIO4Bi3PWraKcBrbXBhgT2zVma7d3gmVS1vQc9LSgtAm4R7LjMFYPTM1UDR4qldzT1SCyk16ezOd508x64WWex3MS7mjbLjeJdWHbI542QbF8vuOC9nyvzrixZwasPl2RbZry_0gpvvwAfoutcG31FyjeXUABtcBkz5KctMhbinGh4sWQC9ZxNHddDz0LFCm5PSffZWzajkU7PD2SLTAfzWN_AH_Uw3r7-YOEorhk_1MdUJmlfn-9y3vPcsPPSIRfAZHY-m0H62cS5fyEMyi8IbWhNr9tpuwow45yuLzIAqXkIydbEPceQj6pCLTxfD1B_va2L2itO6VW-EFNtzxsdJPOwkbPl4GrgkFuG_uhwhSOAYT_0N7ZnlZJyhYus9FAd32zFKwK0_As1QGMB",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 7, 2026, J. Cole (Jermaine Lamarr Cole) is 41 years old, having celebrated his birthday on January 28.",
+      "reference_indexes": [
+        7,
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "J. Cole is a multi-hyphenate artist with high proficiency across several musical domains:",
+      "reference_indexes": [
+        9,
+        0
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Rapper: Widely considered an expert and one of the greatest of his generation, known for technical skill, flow, and storytelling."
+        },
+        {
+          "snippet": "Record Producer: Highly proficient; he produces much of his own discography and has produced for major artists like Kendrick Lamar and Janet Jackson."
+        },
+        {
+          "snippet": "Songwriter: Expert level, recognized with multiple awards for his introspective and narrative-driven lyrics."
+        },
+        {
+          "snippet": "Singer: Often performs melodic vocals on his own tracks, though primarily recognized for rapping."
+        },
+        {
+          "snippet": "Violinist: Trained classically in his youth; he served as a first-chair violinist for the Terry Sanford Orchestra until 2003."
+        },
+        {
+          "snippet": "Executive: Co-founder of Dreamville Records, managing a roster of successful artists.",
+          "snippet_links": [
+            {
+              "text": "Dreamville Records",
+              "link": "https://dreamvillefest.com/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        6,
+        1,
+        9,
+        12,
+        11
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Proficiency Ratings"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Industry evaluations and critical reports consistently rate his technical skills as follows:",
+      "reference_indexes": [
+        1,
+        13
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Lyricism: 10/10"
+        },
+        {
+          "snippet": "Delivery/Flow: 9/10 to 9.5/10"
+        },
+        {
+          "snippet": "Beat Selection/Production: 10/10"
+        },
+        {
+          "snippet": "Originality/Versatility: 9/10 to 10/10"
+        }
+      ],
+      "reference_indexes": [
+        1
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "City: Raleigh"
+        },
+        {
+          "snippet": "State: North Carolina"
+        }
+      ],
+      "reference_indexes": [
+        3,
+        2,
+        8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "While he is famously associated with his childhood home in Fayetteville, North Carolina (often referenced as \"the 2-6\"), he currently resides in Raleigh. He recently released his long-teased album, The Fall-Off, on February 6, 2026.",
+      "snippet_links": [
+        {
+          "text": "Fayetteville, North Carolina",
+          "link": "https://www.google.com/search?q=Fayetteville,+North+Carolina&kgmid=/m/0yfvf&sa=X&ved=2ahUKEwiCrdGGvciSAxXVRfEDHb0lHpQQ3egRegQIDBAC"
+        }
+      ],
+      "reference_indexes": [
+        3,
+        2,
+        5,
+        10
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "J. Cole | J. Cole Wiki | Fandom",
+      "link": "https://jcole.fandom.com/wiki/J._Cole#:~:text=Born,Full%20list",
+      "snippet": "J. Cole * Born. Jermaine Lamarr Cole. January 28, 1985 (age 41) Frankfurt, West Germany. * Other names. Hollywood Cole. Kill Edwar...",
+      "source": "J. Cole Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/uLpsq0zaiZm3NV_7qAp8bkfenWzA3XXwoIKt2nqSu98.jpeg",
+      "index": 0
+    },
+    {
+      "title": "Evaluation of J. Cole's Rap Skills and Music - Facebook",
+      "link": "https://www.facebook.com/groups/363278682282019/posts/880068633936352/#:~:text=Cole%20Rap%20Report%20Card%20%F0%9F%93%8B%20Lyricism:%2010/10%20Impact:,/10%20Versatility:9/10",
+      "snippet": "Aug 2, 2024 \u2014 Cole Rap Report Card \ud83d\udccb Lyricism: 10/10 Impact: 8/10 Delivery:9,5/10 Cadence: 8/10 Flow: 9/10 Catalog: 8,8/10 Consistency: 8,5/10 ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/deQh-MN9csl2wq6iSm8YRHQOYi0rzMGAGbqTAVWWYoY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/i_b0Se2sZCCptXT7GRVjlzSupeBbrXVgfzDxOVCS7v8.png",
+      "index": 1
+    },
+    {
+      "title": "J. Cole visits Fayetteville multiple times in 2025",
+      "link": "https://www.fayobserver.com/story/lifestyle/2025/09/05/places-j-cole-has-been-seen-in-fayetteville-in-2025/85873233007/#:~:text=From%20CRU%20Lounge%20to%20Waffle,the%20request%20of%20the%20applicant.%22",
+      "snippet": "Sep 5, 2025 \u2014 From CRU Lounge to Waffle House. J. Cole was spotted in the Fayetteville area often in March, especially with the fifth and final ...",
+      "source": "The Fayetteville Observer",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/6Ln1fCDoD35trNkQIx5mK6cDl9uQGkHDf-IauV2M2H4.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Where did J. Cole grow up? Fayetteville, NC",
+      "link": "https://www.fayobserver.com/story/lifestyle/2025/03/06/what-is-j-coles-connection-to-fayetteville-nc-dreamville-festival/80254485007/#:~:text=Cole%20still%20live%20in%20Fayetteville,the%20city%20in%20his%20lyrics.",
+      "snippet": "Mar 6, 2025 \u2014 Does J. Cole still live in Fayetteville? Cole currently lives in Raleigh, where the Dreamville Festival is held, but he has not fo...",
+      "source": "The Fayetteville Observer",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/vGc_QkNIfL5NfSSXXCoCntxyKClXbgNqg08vM8SfXhU.jpeg",
+      "index": 3
+    },
+    {
+      "title": "J. Cole - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/J._Cole#:~:text=Jermaine%20Lamarr%20Cole%20(born%20January,he%20garnered%20a%20wider%20following.",
+      "snippet": "\"Jay Cole\" redirects here; not to be confused with Jay Coles. * Jermaine Lamarr Cole (born January 28, 1985) is an American rapper...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/yGHEWvgZNOjm4uw4v4kLfEZWVUJXzqGzgrkuqtARpys.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/aPOl8mkVvaHLuKx3GZEBNFHxCok2jYftBqbrW9Hp-jw.png",
+      "index": 4
+    },
+    {
+      "title": "J. Cole just revealed he's taking his old Honda Civic on the ...",
+      "link": "https://www.instagram.com/p/DUeMI5hEivS/#:~:text=J.%20Cole's%20The%20Fall%2DOff,intros%20like%20The%20Come%20Up.",
+      "snippet": "Feb 7, 2026 \u2014 J. Cole's The Fall-Off is the North Carolina rapper's long-teased seventh studio album, released on February 6, 2026, and widely p...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/O1I1VJo-fXwNyY-OftHPfaIL2PUUNWk0452_FdiB290.png",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/7XaXUMM91LQOOCuy02jWHTb82nYAroQV1ybB8s-Eql8.png",
+      "index": 5
+    },
+    {
+      "title": "Let's talk about hip-hop \u203c\ufe0f. J. Cole is widely regarded as one ...",
+      "link": "https://www.facebook.com/groups/2247189868674786/posts/6669398569787205/#:~:text=Let's%20talk%20about%20hip%2Dhop,Overall%2C%20J.",
+      "snippet": "Aug 1, 2023 \u2014 Firstly, his lyrical content is exceptional. His lyrics are often introspective and thought-provoking, and he is able to convey co...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/6qP1OCHGezPvGCqgpx-Tudzi_AMFzAi84OpGEC06XwQ.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Hours before turning 41, J. Cole surprised fans with 'Birthday ...",
+      "link": "https://www.instagram.com/p/DUChO0DEhV9/#:~:text=Hours%20before%20turning%2041%2C%20J,%2C'%20set%20to%20land%20Feb.",
+      "snippet": "Jan 27, 2026 \u2014 Hours before turning 41, J. Cole surprised fans with 'Birthday Blizzard '26,' a four-pack of new freestyles hosted by DJ Clue that...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/Nzxw5kqLnSP1U8iIObwk9KinR9QjIsfrxrF0G2XVgyo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/OPd6Y_qkBx5kUkOxXI6TvvvjRy8cMn7o7KMhLs000Dc.png",
+      "index": 7
+    },
+    {
+      "title": "XXL | J. Cole announced The Fall-Off will arrive on February 6 ...",
+      "link": "https://www.instagram.com/reel/DTgpFniD8Yx/?hl=en#:~:text=This%20J%20Cole%20release%20date,NY%20XXL%20PARENTAL%20ADVISORY%20EXPLICIT_CONTENT%20.",
+      "snippet": "Jan 14, 2026 \u2014 XXL | J. Cole announced The Fall-Off will arrive on February 6, 2026, a date that quickly caught fans' attention. Fayetteville, N.",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/FqnjXcAsMTdC-37S1HguFQAg-dsen_LFhNYuP2OIx60.jpeg",
+      "index": 8
+    },
+    {
+      "title": "How J. Cole Learned To Rap & Produce (At The Same Time)",
+      "link": "https://medium.com/@HowToRap/how-j-cole-learned-how-to-rap-produce-at-the-same-time-bfdeda059b2b#:~:text=Courtesy%20of%20his%20far%20reaching,of%20for%20all%20these%20years.",
+      "snippet": "Jan 17, 2023 \u2014 Courtesy of his far reaching abilities, the fact that he always envisioned himself as a multi hyphenate across production, rapping...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/yFgj0QsysnBx2KAB-DQDtUMWCoo1LaChHO-TvGxQaPI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/mTWOp8_W6ieCiptZVi1gJIqO5_uoh3PfC19si1V8LMo.png",
+      "index": 9
+    },
+    {
+      "title": "J. Cole surprises fans in Fayetteville on \u201cTwo-Six Day,\u201d celebrating ...",
+      "link": "https://www.instagram.com/p/DUeEyXwEyWa/#:~:text=It's%20no%20coincidence%20that%20J,Cole%2C%20Getty%20Images%2C%20and%20Imago",
+      "snippet": "Feb 7, 2026 \u2014 It's no coincidence that J. Cole's album The Fall-Off is set to release on February 6, 2026. At first glance, the date may seem ra...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/2UsgZGK0N_uZOYrhO_mF54BM_cerGl7Dgq-A057bRp4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/jMWudYbHv4rXCH9-b2JE-MtqDXruL4_aIt438_IVAB4.png",
+      "index": 10
+    },
+    {
+      "title": "J. Cole - Adelphi University",
+      "link": "https://home.adelphi.edu/~jo22154/background.html#:~:text=Early%20Life,up%20as%20a%20kangaroo%20mascot.",
+      "snippet": "Early Life. Jermaine Lamarr Cole was born on January 28, 1985, at a U.S. Army base in Frankfurt, then in West Germany. His father,",
+      "source": "Adelphi University",
+      "thumbnail": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/cr_-jwiJyvB4YVfdF-tXrIETS-IFXXyn-dAG2HD0SF8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/Tz5pn4XYyNvjQ1z8nPSXuukbIUGudNfLtBphdMBK8mY.png",
+      "index": 11
+    },
+    {
+      "title": "J. Cole | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/j-cole#:~:text=Cole's%20work%20is%20characterized%20by,significant%20milestone%20in%20his%20career.",
+      "snippet": "Cole's work is characterized by introspective lyrics and has earned him significant accolades, including a Grammy Award for Best R...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c31ae64250cf0fc08a83/images/GDLlnSKMkAlcccuS5vWHSMUdUQd6TJMKJqRATd42jT0.png",
+      "index": 12
+    },
+    {
+      "title": "J. Cole's Hip Hop Report Card Ratings and Reviews - Facebook",
+      "link": "https://www.facebook.com/groups/523856368364949/posts/1619465612137347/#:~:text=Cole%20Rap%20Report%20Card%20%F0%9F%93%8B,/10%20Versatility:7.1/10",
+      "snippet": "Firstly, his lyrical content is exceptional. His lyrics are often introspective and thought-provoking, and he is able to convey co...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQku0edIuH6fR75zRQTZVq0SjowPbp-oG9JSJW1KbB2EorY2ono",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 13
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What production equipment and software does J. Cole use?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+production+equipment+and+software+does+J.+Cole+use%3F&subsequent_request_token=7le5UnicTZNJiutmAIQhF8gVtHwP0t2SrF-WabzQZM2DZf2aNkaWfg22Jmu297lIeCSQC-QAOUXnNPEqpJYFVQUf1K-_ofIvibHkOHs6LFUba8LYA_JZnFV-oKpPvv7m63YJ3SPwxfGeupWUyOaKPLNOZUhcDmZ48b0YNQ6ZwE5IyXE9Eqp_JJxn6kVGKhcZfKY63DjQl3a-iZtBIuVEjBMOglFoEObikCqETZUlQjKeSkKGZERY8ECGXopHovdIoCOHVfc4baLBkdKNWKSyJe6U0I9oeBPxCySo8FkcE9ILji7HnZxWN8kDbcLV831ndkT8z2lA_TnOUTN-TUb7LKsq_gDvOPbNiJOyGduh-MSUZkQV9jIw64QFGIGfCXDefsfYrquQjy5aOX7QOHgn3gmAfdNk19B_waryhjAJJbf2O-ahfijb5oNg3gnsFGdxX_4X-D1p21uJ_vnpZ1bk92ys1jGYS-Td5zRjinW50s5yjPPoKgFK2HBjSo-jykl6-iCCkCZtlqm2UuVA6hM7n08omXr0xkFeE909r0H-ExO8PYM7o2IlJeUb-SAf8Yd1OWckHq0FWS27qqDPgZrUbzm5iuxL_2s6uY69ZwVaaPNhceXGuZ51634NyHhqgnOOb-Q1jyOZmA5zoe7UEUw2uK_2dpAzbaXiwwS2_fVNzmk2rFbpwTtq89pUxDgGzaL4lZXITCJxrP6JmYqwBySzV5UCkeLbMBE41DWhW2WolyEIuh33dBEJDicgWWHFu0soMLURHenIO4Bi3PWraKcBrbXBhgT2zVma7d3gmVS1vQc9LSgtAm4R7LjMFYPTM1UDR4qldzT1SCyk16ezOd508x64WWex3MS7mjbLjeJdWHbI542QbF8vuOC9nyvzrixZwasPl2RbZry_0gpvvwAfoutcG31FyjeXUABtcBkz5KctMhbinGh4sWQC9ZxNHddDz0LFCm5PSffZWzajkU7PD2SLTAfzWN_AH_Uw3r7-YOEorhk_1MdUJmlfn-9y3vPcsPPSIRfAZHY-m0H62cS5fyEMyi8IbWhNr9tpuwow45yuLzIAqXkIydbEPceQj6pCLTxfD1B_va2L2itO6VW-EFNtzxsdJPOwkbPl4GrgkFuG_uhwhSOAYT_0N7ZnlZJyhYus9FAd32zFKwK0_As1QGMB"
+    },
+    {
+      "question": "What inspired the title of 'The Fall Off' and what are its themes?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+inspired+the+title+of+%27The+Fall+Off%27+and+what+are+its+themes%3F&subsequent_request_token=7le5UnicTZNJiutmAIQhF8gVtHwP0t2SrF-WabzQZM2DZf2aNkaWfg22Jmu297lIeCSQC-QAOUXnNPEqpJYFVQUf1K-_ofIvibHkOHs6LFUba8LYA_JZnFV-oKpPvv7m63YJ3SPwxfGeupWUyOaKPLNOZUhcDmZ48b0YNQ6ZwE5IyXE9Eqp_JJxn6kVGKhcZfKY63DjQl3a-iZtBIuVEjBMOglFoEObikCqETZUlQjKeSkKGZERY8ECGXopHovdIoCOHVfc4baLBkdKNWKSyJe6U0I9oeBPxCySo8FkcE9ILji7HnZxWN8kDbcLV831ndkT8z2lA_TnOUTN-TUb7LKsq_gDvOPbNiJOyGduh-MSUZkQV9jIw64QFGIGfCXDefsfYrquQjy5aOX7QOHgn3gmAfdNk19B_waryhjAJJbf2O-ahfijb5oNg3gnsFGdxX_4X-D1p21uJ_vnpZ1bk92ys1jGYS-Td5zRjinW50s5yjPPoKgFK2HBjSo-jykl6-iCCkCZtlqm2UuVA6hM7n08omXr0xkFeE909r0H-ExO8PYM7o2IlJeUb-SAf8Yd1OWckHq0FWS27qqDPgZrUbzm5iuxL_2s6uY69ZwVaaPNhceXGuZ51634NyHhqgnOOb-Q1jyOZmA5zoe7UEUw2uK_2dpAzbaXiwwS2_fVNzmk2rFbpwTtq89pUxDgGzaL4lZXITCJxrP6JmYqwBySzV5UCkeLbMBE41DWhW2WolyEIuh33dBEJDicgWWHFu0soMLURHenIO4Bi3PWraKcBrbXBhgT2zVma7d3gmVS1vQc9LSgtAm4R7LjMFYPTM1UDR4qldzT1SCyk16ezOd508x64WWex3MS7mjbLjeJdWHbI542QbF8vuOC9nyvzrixZwasPl2RbZry_0gpvvwAfoutcG31FyjeXUABtcBkz5KctMhbinGh4sWQC9ZxNHddDz0LFCm5PSffZWzajkU7PD2SLTAfzWN_AH_Uw3r7-YOEorhk_1MdUJmlfn-9y3vPcsPPSIRfAZHY-m0H62cS5fyEMyi8IbWhNr9tpuwow45yuLzIAqXkIydbEPceQj6pCLTxfD1B_va2L2itO6VW-EFNtzxsdJPOwkbPl4GrgkFuG_uhwhSOAYT_0N7ZnlZJyhYus9FAd32zFKwK0_As1QGMB"
+    },
+    {
+      "question": "Show me his background as a violinist",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Show+me+his+background+as+a+violinist&subsequent_request_token=7le5UnicTZNJiutmAIQhF8gVtHwP0t2SrF-WabzQZM2DZf2aNkaWfg22Jmu297lIeCSQC-QAOUXnNPEqpJYFVQUf1K-_ofIvibHkOHs6LFUba8LYA_JZnFV-oKpPvv7m63YJ3SPwxfGeupWUyOaKPLNOZUhcDmZ48b0YNQ6ZwE5IyXE9Eqp_JJxn6kVGKhcZfKY63DjQl3a-iZtBIuVEjBMOglFoEObikCqETZUlQjKeSkKGZERY8ECGXopHovdIoCOHVfc4baLBkdKNWKSyJe6U0I9oeBPxCySo8FkcE9ILji7HnZxWN8kDbcLV831ndkT8z2lA_TnOUTN-TUb7LKsq_gDvOPbNiJOyGduh-MSUZkQV9jIw64QFGIGfCXDefsfYrquQjy5aOX7QOHgn3gmAfdNk19B_waryhjAJJbf2O-ahfijb5oNg3gnsFGdxX_4X-D1p21uJ_vnpZ1bk92ys1jGYS-Td5zRjinW50s5yjPPoKgFK2HBjSo-jykl6-iCCkCZtlqm2UuVA6hM7n08omXr0xkFeE909r0H-ExO8PYM7o2IlJeUb-SAf8Yd1OWckHq0FWS27qqDPgZrUbzm5iuxL_2s6uY69ZwVaaPNhceXGuZ51634NyHhqgnOOb-Q1jyOZmA5zoe7UEUw2uK_2dpAzbaXiwwS2_fVNzmk2rFbpwTtq89pUxDgGzaL4lZXITCJxrP6JmYqwBySzV5UCkeLbMBE41DWhW2WolyEIuh33dBEJDicgWWHFu0soMLURHenIO4Bi3PWraKcBrbXBhgT2zVma7d3gmVS1vQc9LSgtAm4R7LjMFYPTM1UDR4qldzT1SCyk16ezOd508x64WWex3MS7mjbLjeJdWHbI542QbF8vuOC9nyvzrixZwasPl2RbZry_0gpvvwAfoutcG31FyjeXUABtcBkz5KctMhbinGh4sWQC9ZxNHddDz0LFCm5PSffZWzajkU7PD2SLTAfzWN_AH_Uw3r7-YOEorhk_1MdUJmlfn-9y3vPcsPPSIRfAZHY-m0H62cS5fyEMyi8IbWhNr9tpuwow45yuLzIAqXkIydbEPceQj6pCLTxfD1B_va2L2itO6VW-EFNtzxsdJPOwkbPl4GrgkFuG_uhwhSOAYT_0N7ZnlZJyhYus9FAd32zFKwK0_As1QGMB"
+    }
+  ]
+}

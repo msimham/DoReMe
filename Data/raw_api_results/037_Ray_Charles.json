@@ -1,0 +1,205 @@
+{
+  "search_metadata": {
+    "id": "6987c302f3fc7b0200658941",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jspqA2xKyPqMDeCC08xr8g/6987c302f3fc7b0200658941.json",
+    "created_at": "2026-02-07 22:56:02 UTC",
+    "processed_at": "2026-02-07 22:56:02 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Ray+Charles%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Ray+Charles%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/jspqA2xKyPqMDeCC08xr8g/6987c302f3fc7b0200658941.html",
+    "prettify_html_file": "https://serpapi.com/searches/jspqA2xKyPqMDeCC08xr8g/6987c302f3fc7b0200658941.prettify",
+    "total_time_taken": 8.64
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Ray Charles, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "bORwcnicTZJJrqNmAISlnITsuqX4PUYb68kLMDP8xkyG3xvEaGYwo2HfF4laiZQL5AA5Rec0eZGySNWu9FWt6tuvSf4nQ-tSEPTJOfJC6tJesXnScgP9nlR99OOvc90u0L7rUd0JsZSlHn4xAaFspmfOoO7UoHwQADOFyKVKaDubtUUUdLurK5iDgw7oHZWpRDKFEGOfmh33roWlsKZ6oxRuAdpJERfbEO0uIX4UnYJNAUptFv8ag0bQXek2f3KydlPIO56lQR0TfBazOn-UoSusd-dSuKKM2fXRAN4ds8XKBGyrObzJxoJpxHjVaY7zxzQkvR88kmb80YJ2y6sqeKfeUOSLmzdxuwzIxUYw9A39QD6DPfmBvPbkV4Tpuipxk1DNx3eKOLwRe-SLKtlA-wWp8jJBxCQq26_IOevbOnnHCPoN_deIFaRBn_9X-S1q2zJP_v7pZ4Y_n5hAqQNqXknDksb-OVC6YQlX9U6fbzs8TjIB35SnH6_rtXDkgW9w4eIvGgyUxwfi-1YSTX2yY52zytun8yXiPhDudmIIHj2glJleI3KQDHTVQz_F0e5uJtVC1XNGR_bqZFaPywwjcTBp8JVg55bKSuZT_1u2bPN6Yrg91z7m1JEf6RLDbItocQcGlZpvz2pHwAVMEAIKsMoOZGKZb8dQu6K5RgLA4xj-kkXl5YfHmxM9ZZfADm3mQaGzfVWwVW4BgwbV5gO5yNyJwumTcsRfq1KWc7J26PPpv_QYm0fNzlU8xXmXfew4LaBju-Xi83Ml6BKAXTBzIPGj68Rt24JFSpexntTuLk4Ruaow0jcH_3yjTF4FPhSpkoUYBDqr4VTIpXylDm4gL-0kaEfldvY2TeurWa7irDWEDN_wu7SL2kc2oNiaqpA81jLsIEHS9b3osXzy0HuRSA_Sb1evMRcykV0mkDjJ0zCL5PVwcC0v2F8Ln92bES49OV9RZaUQzXHLsw2eiyxyvahhjBEXrSkY-ciAtZSmLvq9Hsbyx--MM_KvlLnGJBuiduHe8H0U6n7yaKwIimavWIdXDw88hc7jgT48wgy19MPEiQVoWNIziBVU0_5M-E3tKRKNvXayNXnuToWl-lT13qqLKael-lWuTazE5pK92mDoOOIoT6AFdArnesljjmG09bi5QEkypTX4Y_dcygeZp-TeY0Zd_gdUCmiK",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Ray Charles passed away on June 10, 2004, at the age of 73.",
+      "reference_indexes": [
+        0,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities & Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary Occupations: He was a singer, musician, songwriter, composer, and arranger. He is widely credited as the \"Father of Soul\" for pioneering the fusion of rhythm and blues with gospel music."
+        },
+        {
+          "snippet": "Proficiency by Instrument:",
+          "list": [
+            {
+              "snippet": "Vocals: Regarded as one of the greatest singers of all time, ranked #2 by Rolling Stone."
+            },
+            {
+              "snippet": "Piano/Keyboards: His primary instrument; he was a master of blues, jazz, and classical styles."
+            },
+            {
+              "snippet": "Alto Saxophone: Highly proficient; often featured in recordings with a style likened to Charlie Parker."
+            },
+            {
+              "snippet": "Other Instruments: He was a multi-instrumentalist who also played the clarinet, trumpet, organ, and occasionally drums and vibraphone."
+            }
+          ]
+        },
+        {
+          "snippet": "Technical Skills: Expert at writing and arranging music in Braille and conducting big bands."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        7,
+        11,
+        3,
+        9,
+        1,
+        10,
+        4,
+        6,
+        5
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Last Known Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "At the time of his death, Ray Charles lived in Beverly Hills, California. He was interred at the Inglewood Park Cemetery in Inglewood, California.",
+      "snippet_links": [
+        {
+          "text": "Beverly Hills, California",
+          "link": "https://www.google.com/search?q=Beverly+Hills,+California&kgmid=/m/0k049&sa=X&ved=2ahUKEwjZzZ77vMiSAxW5M1kFHU0yAfYQ3egRegQIBxAC"
+        },
+        {
+          "text": "Inglewood, California",
+          "link": "https://www.google.com/search?q=Inglewood,+California&kgmid=/m/0r0f7&sa=X&ved=2ahUKEwjZzZ77vMiSAxW5M1kFHU0yAfYQ3egRegQIBxAE"
+        }
+      ],
+      "reference_indexes": [
+        2,
+        0,
+        8
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about the specific awards he won or his influence on other genres like country music?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Ray Charles - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ray_Charles#:~:text=Table_content:%20header:%20%7C%20Ray%20Charles%20%7C%20%7C,Charles:%20Years%20active%20%7C%20:%201945%E2%80%932004%20%7C",
+      "snippet": "Table_content: header: | Ray Charles | | row: | Ray Charles: Died | : June 10, 2004 (aged 73) Los Angeles, California, U.S. | row:",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/SFCDvyCzNEEMBZGAt_4YlKpez5uhSokFY_r-U3ZfNnM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/MdFidLVuEzf4AQzstmnFebA84X9_4w_7I38kxzCx4dY.png",
+      "index": 0
+    },
+    {
+      "title": "Ray Charles - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ray_Charles#:~:text=He%20focused%20primarily%20on%20the,then%20combining%20the%20two%20parts.",
+      "snippet": "Because of his blindness, Charles donned his famous sunglasses. Destitute, uneducated, and mourning the loss of her younger son, A...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/1JidmaZ6tlmLoTa9JLE7nR_kpbgHzo4aRP6TnBA3DdI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/sMy47Q0ouAXsGV1wdmeDqd6RxS7XZQGPsOo31CAPfPs.png",
+      "index": 1
+    },
+    {
+      "title": "Remembering Ray Charles Died: June 10, 2004 (age 73 ...",
+      "link": "https://www.facebook.com/allaboutfunkandsoul/posts/remembering-ray-charles-died-june-10-2004-age-73-years-beverly-hills-california-/1275344530622171/#:~:text=Remembering%20Ray%20Charles%20Died:%20June,video%20tv%20Back%20in%20Time",
+      "snippet": "Jun 9, 2025 \u2014 Remembering Ray Charles Died: June 10, 2004 (age 73 years), Beverly Hills, California, United States\ud83d\ude0e ... RIP. ... Jamie Fox got ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/WHX8gkqAa1OCSQlLmHP2s4IXVlMd8Zen-Y-77F9gLuQ.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Remembering the great Ray Charles, born on September 23 ...",
+      "link": "https://www.facebook.com/DimeStoreRadio/videos/remembering-the-great-ray-charles-born-on-september-23-1930-in-albany-georgia-he/1091366258652878/",
+      "snippet": "Sep 23, 2023 \u2014 37K views \u00b7 4.5K reactions | Remembering the great Ray Charles, born on September 23, 1930, in Albany, Georgia \u2013 he died on June 1...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/Wo726VEROcW2HMPs5z22qU3nWHIKxzOHwi2rNN2l04k.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Did you know - Ray Charles could also play saxophone ... - Facebook",
+      "link": "https://www.facebook.com/RayCharles/posts/did-you-know-ray-charles-could-also-play-saxophone-ray-was-a-multi-instrumentali/1077389470415668/#:~:text=also%20play%20saxophone?-,Ray%20was%20a%20multi%2Dinstrumentalist%2C%20who%20could%20also%20play%20clarinet,as%20the%20piano%20and%20organ.&text=With%20his%20sense%20for%20Rhythm,a%20few%20scales%20on%20it!",
+      "snippet": "Sep 20, 2024 \u2014 Such a great musician. ... Wow!!! Great piano and voice skills but plays an incredibly Alto Sax as well... ... He was my favorite.",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/rhIHVhZ9IOHEgmitJv3T8po7Ov9kZa07kVl8f8auc1w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/bqk-qBGrd5F4kY3QMJWZ3s3FMI3_8YXJEnVz2qFRxzY.png",
+      "index": 4
+    },
+    {
+      "title": "The Story of Ray Charles | Blog - IBVI",
+      "link": "https://ibvi.org/blog/the-story-of-ray-charles/#:~:text=During%20the%20eight%20years%20he,to%20compose%20his%20own%20songs.",
+      "snippet": "During the eight years he spent at the Florida School for the Deaf and Blind, Ray Charles discovered and developed his musical ski...",
+      "source": "Industries for the Blind and Visually Impaired | IBVI",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/PaGLQmUmoCuYI_8TtIlZnxPa9e1Krt0_oFNGwT8cAvY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/JF9QZ9BumkkO3ZglRiHWJli0ZzgTY8-jUIoAAYlfG2A.png",
+      "index": 5
+    },
+    {
+      "title": "Ray Charles - Division of Arts and Culture",
+      "link": "https://dos.fl.gov/cultural/programs/florida-artists-hall-of-fame/ray-charles/#:~:text=Born%20Ray%20Charles%20Robinson%20in,black%20district%2C%20known%20as%20Frenchtown.",
+      "snippet": "Born Ray Charles Robinson in 1930, after his family moved to Greenville, Florida (near Tallahassee) Charles was soon enrolled at a...",
+      "source": "Florida Department of State (.gov)",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/TirAUuShfbfb8zdsfDIkGVRTrKrvwTD-xV1Qjo0YFlU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/YeyBr0kJh96PCLuGIdTwEQwqxPJ8v0GubyaR7icBMQg.png",
+      "index": 6
+    },
+    {
+      "title": "Ray Charles - Polar Music Prize",
+      "link": "https://www.polarmusicprize.org/laureates/ray-charles/#:~:text=He%20studied%20composition%2C%20writing%20music,)%20(Source:%20Wikimedia%20Commons)",
+      "snippet": "RayCharles. ... The 1998 Polar Music Prize goes to pianist, singer, arranger and composer Ray Charles, one of the leading figures ...",
+      "source": "Polar Music Prize Award",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/FqU-LskAJdev840kpoIlvg0O19k8zC3Ua_YSYfstMOQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/Obpr2cour45144NVEbHiSNoKYs8pG06gLo2PXhx8C34.png",
+      "index": 7
+    },
+    {
+      "title": "Ray Charles life and music career - Facebook",
+      "link": "https://www.facebook.com/groups/2347621675497389/posts/4119196801673192/#:~:text=He%20died%20at%20his%20home,%2D%20Wiki%20Photographer%20unknown",
+      "snippet": "Sep 23, 2025 \u2014 He died at his home in Beverly Hills, California, of complications resulting from liver failure, on June 10, 2004, at the age of 7...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/7yK5O3ahfJtk47zd2otTcCIwxrfX6VKaNMQLXvjGc7E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/A1s7rVpeexZSVTkbu0HdOJ51C-DJz5FSLfyKlV7FgpI.png",
+      "index": 8
+    },
+    {
+      "title": "Ray Charles | Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/ray-charles#:~:text=A%20living%20legend%2C%20Ray%20Charles,school%20to%20begin%20his%20career.",
+      "snippet": "Aug 13, 2018 \u2014 Ray Charles. Singer, songwriter, pianist * For the Record\u2026 * Selected discography. * Sources. * A living legend, Ray Charles is ge...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/vHAQMabdxhbnCbJ01s5xN8tWq-0igWDNnCi3JQt-vm0.png",
+      "index": 9
+    },
+    {
+      "title": "Ray Charles: The Genius Beyond the Piano When we think of ...",
+      "link": "https://www.instagram.com/reel/DLAGyh1tUF3/",
+      "snippet": "Jun 17, 2025 \u2014 Ray Charles: The Genius Beyond the Piano When we think of Ray Charles, we hear that voice \u2014 gritty, gospel-soaked, instantly iconi...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/TMRUENNphLws8ga515wAiKVPeywiri2QmhcYlG7o07g.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Ray Charles | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/ray-charles#:~:text=Ray%20Charles%20was%20an%20influential,television%20show%20in%20the%20area.",
+      "snippet": "Ray Charles was an influential American musician known for pioneering the fusion of rhythm and blues with gospel music, which crea...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c302f3fc7b0200658941/images/bkgDW38vt1GHdozKUQi8-P4gZfHNzqjqqbyi1ItLzic.png",
+      "index": 11
+    }
+  ]
+}

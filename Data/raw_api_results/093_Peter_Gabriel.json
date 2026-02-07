@@ -1,0 +1,270 @@
+{
+  "search_metadata": {
+    "id": "6987c33269a322f7bd8c5c1c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/IqmriCVc6DDHY5rpU70Dtw/6987c33269a322f7bd8c5c1c.json",
+    "created_at": "2026-02-07 22:56:50 UTC",
+    "processed_at": "2026-02-07 22:56:50 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Peter+Gabriel%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Peter+Gabriel%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/IqmriCVc6DDHY5rpU70Dtw/6987c33269a322f7bd8c5c1c.html",
+    "prettify_html_file": "https://serpapi.com/searches/IqmriCVc6DDHY5rpU70Dtw/6987c33269a322f7bd8c5c1c.prettify",
+    "total_time_taken": 8.16
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Peter Gabriel, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "_kjTp3icTZJJjqtWAEWlrITh_1JcBZQBo1INMD02j_7RTBDNM2DTGTCN538j0VciZQNZQFZRWU1qFOUOj3TO6P74DVV_6QdDSS5v9NGoHvdpNGftXJJW9hPVQ_b5N990S-jmjkvWpE5Eq1uzSeixduZTtl_nlEtop4ykxNyTzsi7rfpTE_OmVKz6tuYEuACx99wGeh45QVhDKcW1Kvci3fahZUhanzUAgmutWM-oSmFEn_1SDGt7A0-OSt1sb3mRnCuS7PjhhG62LZY5MERWDf3wCW6amQRwzRVg5bdeTwTNDtfujHwdBzXQgQJU-8r9-RjRECcFaqfPh949q7pOXqkXHPumJ1nVTt1YvmNqO6Ea-wKY4WABRuAxQcXMd4zr-xr5KD1V0yuNUy_EC0Fh306Kq59_xerqhjAZZbfuOwbRMFZd-0owLxTmJJdkqP4Tfs-67lahf37BOJH_4BKtSajJ3wyTsL3tqvLIqqZ7XIaTdHVQu2fT5Txr5npCj3K_41uhcZ2ICQbrHYtjB2WPAe2OHn8S3Q9e1t8xAX5YDApqacyiHc6OioVvRhpfSJKKK6deqGYuD5m7eaWTLjjHHfmrLHt060arUXjc1_4Xdlzb_OAEWuiKed9L4NEMLa7I5-YY1MzsaDr1thevF3ZX0LMthKJosdFYLttdVOsxzVto5Ik0i5EDXdp79sAeuKDeIOPCiJeasTAZ-3ZbNYp4x4AqfFDk4QMAw4w2UGw9IEfYe5RM2rN4ie64UTxiC7ZnGCc6GSqlCziyl_jBPnhVr_t3z6dDbpg0RW-Kfk5UdneRODgzTtLij_NDnQPisuDGRlcJu_o7w2jHHi4pSKXR5eSF-3qt3MhFFumhu2i5ZS48p6oLm3eBGQvetW4uQXBBzDOXCIK6Hsf27UncI73nZGPbW6V3X-QwZIqGF_NxGDLBFmhaemS209bxriuC2AW6VUF9En1cRhKw7R0JTjhV9LvzMSYreYQHsimXtUFVrhy5n8043T7_4LxJXC-C6NQpAY31BEN8fy1PtFbgVzl1kWWn_T3KZtJczYJ-Y1Rli0L9xPIqS8hH2OyGfcg3JsdSCKgqs1GKyld-xXSDoODxOnWKG3BR1TuhPtadlELZ2d0yL1GYLin9XAarXdFReFQoyWTa1krooFkNMqkB17an_DEe8sJal38BJKRtqA",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Peter Gabriel is 75 years old (born February 13, 1950).",
+      "reference_indexes": [
+        14,
+        1
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music Skills, Occupations, and Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "He is an multi-faceted artist whose career spans over five decades as a soloist and a member of Genesis.",
+      "reference_indexes": [
+        2,
+        6
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer & Vocalist: Expert. Known for a distinctive, soulful baritone voice with a smooth transition to falsetto. He has described himself as more focused on emotional impact than technical perfection."
+        },
+        {
+          "snippet": "Songwriter & Composer: Expert. Highly acclaimed for intelligent, deep lyrics and innovative soundtrack work (e.g., The Last Temptation of Christ, Rabbit-Proof Fence)."
+        },
+        {
+          "snippet": "Multi-Instrumentalist:",
+          "list": [
+            {
+              "snippet": "Keyboards/Piano: High. He self-taught after early rebellion against formal lessons and uses them as his primary writing tool."
+            },
+            {
+              "snippet": "Flute: Proficient. Noted for his theatrical flute playing during the early Genesis era."
+            },
+            {
+              "snippet": "Drums/Percussion: Proficient. He began as a drummer in early bands and remains deeply focused on rhythmic experimentation."
+            }
+          ]
+        },
+        {
+          "snippet": "Record Producer: Expert. He founded Real World Studios and has produced numerous global and solo projects.",
+          "snippet_links": [
+            {
+              "text": "Real World Studios",
+              "link": "https://realworldstudios.com/"
+            }
+          ]
+        },
+        {
+          "snippet": "Music Executive & Activist: High. He founded the WOMAD Festival and Real World Records to promote world music."
+        }
+      ],
+      "reference_indexes": [
+        15,
+        5,
+        3,
+        0,
+        8,
+        10,
+        11,
+        4
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "He primarily resides in the village of Box, Wiltshire, England, near the city of Bath. He also maintains a residence in West London.",
+      "snippet_links": [
+        {
+          "text": "Box, Wiltshire, England",
+          "link": "https://www.google.com/search?q=Box,+Wiltshire,+England&kgmid=/m/05s0g6&sa=X&ved=2ahUKEwivkouSvciSAxUdnWoFHfyeCkAQ3egRegQICBAC"
+        },
+        {
+          "text": "Bath",
+          "link": "https://www.google.com/search?q=Bath&kgmid=/m/0bdg5&sa=X&ved=2ahUKEwivkouSvciSAxUdnWoFHfyeCkAQ3egRegQICBAE"
+        },
+        {
+          "text": "West London",
+          "link": "https://www.google.com/search?q=West+London&kgmid=/m/04jpl&sa=X&ved=2ahUKEwivkouSvciSAxUdnWoFHfyeCkAQ3egRegQICBAG"
+        }
+      ],
+      "reference_indexes": [
+        9,
+        13,
+        12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more information on his innovative use of technology in music or details on his latest album, i/o?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Peter Gabriel - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Peter_Gabriel",
+      "snippet": "For other uses, see Peter Gabriel (disambiguation). * Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/9vf_U47Nb0y3zxYaQ9GGB4Bo-H4ZyalhOCclvYBXB4I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/Bcu1iIBbcRJ3HXc9me1DUIQ2L3qOax61R3fu-v2EJA8.png",
+      "index": 0
+    },
+    {
+      "title": "Peter Gabriel | Biography, Albums, Songs, Genesis, & Facts",
+      "link": "https://www.britannica.com/biography/Peter-Gabriel#:~:text=previously%20unreleased%20songs.-,Quick%20Facts,%2C%202026)%20(Show%20more)",
+      "snippet": "Jan 24, 2026 \u2014 Quick Facts. Born: February 13, 1950, Woking, Surrey, England (age 75) Founder: The Elders WOMAD. Awards And Honors: Rock and Roll...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/6ZVgl4kt739d1ZCmuVfozHm3UhPLqP_6Nq33CmGBEv4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/JNVYCxYTtILMu8LgK867V9FK-3tbaXNu2hpU4PofQ9Q.png",
+      "index": 1
+    },
+    {
+      "title": "Peter Gabriel - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Peter_Gabriel#:~:text=Peter%20Brian%20Gabriel%20(born%2013,1987%20MTV%20Video%20Music%20Awards.",
+      "snippet": "Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter, musician, and human rights activist. He came to prom...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/y25bcGxMvtlgHz0mW0Qoki6a_QGWI6zOvV3lIQjkXL0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/qSEsUywg-Yr7xu3ZOznZjLYh9T_QoDQNrip1IQlZK30.png",
+      "index": 2
+    },
+    {
+      "title": "Peter Gabriel | Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/peter-gabriel",
+      "snippet": "Aug 13, 2018 \u2014 Singer, songwriter, record company executive. ... Yet the clarity of his vision reconciles his differing impulses. Since his depar...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/jTwIpb2uqVdWXw6y1lxJmCfCCFD8zGjmzryuQFpYTUo.png",
+      "index": 3
+    },
+    {
+      "title": "Peter Gabriel - Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/peter-gabriel#:~:text=GABRIEL%2C%20Peter%201950%E2%80%93-,PERSONAL,%2C%20founder%20with%20Reebok%2C%201991.",
+      "snippet": "Aug 13, 2018 \u2014 PERSONAL. Full name, Peter Brian Gabriel; born February 13, 1950, in Cobham, Surrey, England; father, an electrical engineer; moth...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/cm3DZS6T-OxUeHmahQVQkgNJh1CN_TLzErtf25cWfd4.png",
+      "index": 4
+    },
+    {
+      "title": "Peter Gabriel | Biography, Albums, Songs, Genesis, & Facts",
+      "link": "https://www.britannica.com/biography/Peter-Gabriel#:~:text=Peter%20Gabriel%20(born%20February%2013,%2C%20and%20Steve%20Hackett%2C%201974.",
+      "snippet": "Jan 24, 2026 \u2014 Peter Gabriel (born February 13, 1950, Woking, Surrey, England) is a British musician who was the lead singer of the progressive r...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/cRoTOzwzGJUPaUm3vbsT5KwT7TWBReOoGYvZyJCuOas.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/zFX4x3L9PHA4qdzUo--91UG_u8psnuDQCANBv_Jpp1o.png",
+      "index": 5
+    },
+    {
+      "title": "\u201cIt\u2019s stunning how fresh and unadulterated Peter Gabriel still is as a ...",
+      "link": "https://www.facebook.com/PeterGabriel/posts/its-stunning-how-fresh-and-unadulterated-peter-gabriel-still-is-as-a-songwriter-/883060793175798/#:~:text=Peter%20Gabriel%20is%20an%20English,%23PETERGABRIEL%20%23GENESIS",
+      "snippet": "Oct 26, 2023 \u2014 Peter Gabriel (born Peter Brian Gabriel on February 13, 1950) is an English singer, songwriter, and musician best known as the ori...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/YvOY8qbSKO2sKhb0F58kePITu4b0u-Y4d-nuPcCIpQU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/RgbG8Lm60KOsxFImootripzR-ptHrampMPPoszO-apk.png",
+      "index": 6
+    },
+    {
+      "title": "Peter Gabriel: Singing Lessons - West Virginia Public ...",
+      "link": "https://wvpublic.org/story/radio/peter-gabriel-singing-lessons/#:~:text=Share%20this%20Article,to%20knock%20our%20socks%20off.",
+      "snippet": "May 13, 2015 \u2014 Share this Article. \"Technically, I think I'm a crap singer. I don't have the chops, but I know that I can move people and I can t...",
+      "source": "West Virginia Public Broadcasting",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/f08axOBWv9asnTe0H6pDYXKA9TbhiuHMpYL3qcVBpx8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/-75VoW9ZKUY_EcC1G3SPlKCRzTEfpxtN-9wRucCCRB4.png",
+      "index": 7
+    },
+    {
+      "title": "Peter Gabriel | Academy of Achievement",
+      "link": "https://achievement.org/achiever/peter-gabriel/#:~:text=Peter%20Gabriel%20was%20born%20in,%2C%20piano%2C%20and%20the%20flute.",
+      "snippet": "Feb 22, 2022 \u2014 Peter Gabriel was born in Woking, Surrey, and raised on his family's 150-acre dairy farm. His father, Ralph Gabriel, was an electr...",
+      "source": "Academy of Achievement",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/aSybA3MHKWa3yfGNej7rto38MWw8HK21mpi72GRb8Gk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/sDboUY7lzdjfFzKbX9VDSNZEZIzhwmhlmCAFIfzGM_I.jpeg",
+      "index": 8
+    },
+    {
+      "title": "1: Lead A Normal Life - Alfred Music",
+      "link": "https://www.alfred.com/samplepages/74-1468309645.pdf?srsltid=AfmBOoofMDMVvC68js3WSlTSg7K9yfo5K2LJQhYzFmxklOthsDOV-m3A",
+      "snippet": "Although he keeps a residence in West London, Gabriel lives in rustic splendour at his home by his Real World studios in Box near ...",
+      "source": "Alfred Music",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/xtfPlxsVMpQLmaHk5VBKjYvJSP2zyDzf3GvqbN3ht2I.png",
+      "index": 9
+    },
+    {
+      "title": "PETER GABRIEL - M Music & Musicians Magazine",
+      "link": "https://mmusicmag.com/m/2012/02/peter-gabriel/#:~:text=Injecting%20new%20blood%20into%20familiar,taking%20away%20the%20swimming%20aids.",
+      "snippet": "Nov 15, 2011 \u2014 Injecting new blood into familiar songs with his biggest band ever. Peter Gabriel has been exploring rhythm for practically his en...",
+      "source": "M Music & Musicians Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/4sWZDJSWZ-D8nt8R_S6y8CYvahdOQISzb4vEyOIiFL0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/TSbQHGea0esTUEq0u5Ps5QmNrV3NzARWuRUGDd7Uv-I.png",
+      "index": 10
+    },
+    {
+      "title": "Peter Gabriel's Music Equipment - Facebook",
+      "link": "https://www.facebook.com/groups/984825378262050/posts/8987887797955728/#:~:text=HAPPY%2074th%20BIRTHDAY%2C%20Peter%20Gabriel,1987%20MTV%20Video%20Music%20Awards",
+      "snippet": "Jan 15, 2025 \u2014 Peter Gabriel is an English singer, songwriter, and musician, best known as the original lead vocalist of the progressive rock ban...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/vbt54VIAoNCUKIOBZzux2QZQZmwlieC8rSFclflL-Ts.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/QX7DH4SdJEqKB0NbnqQaebK9D_B8AcOBDyKd9afjqNU.png",
+      "index": 11
+    },
+    {
+      "title": "Peter Gabriel's \u00a33.2M London Hideaway Tucked in the heart ...",
+      "link": "https://www.facebook.com/HouseOfCeleb/posts/-peter-gabriels-32m-london-hideaway-tucked-in-the-heart-of-london-this-32-millio/1712375882876769/#:~:text=%F0%9F%87%AC%F0%9F%87%A7%20Peter%20Gabriel's%20%C2%A3,House%20Of%20Celebs",
+      "snippet": "Aug 11, 2025 \u2014 \ud83c\uddec\ud83c\udde7 Peter Gabriel's \u00a33.2M London Hideaway \ud83c\udfb6\ud83c\udfe1 Tucked in the heart of London, this \u00a33.2 million residence is home to legendary mu...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/OL09eid2KcpwxJ9Zk96t-vL8zFg5gaW-taT71EibBus.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Real World Studios - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Real_World_Studios#:~:text=Real%20World%20Studios%20is%20a,also%20based%20at%20the%20complex.",
+      "snippet": "Real World Studios. ... Real World Studios is a residential recording studio complex founded by Peter Gabriel and situated in the ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/tt8eukTMlg0G44uOagHIlINjQYLftzCwS2YWaMFXmug.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/RmNggtzO8tCgv44N3WVL4c9cBmQMWV81GWV8AETla0c.png",
+      "index": 13
+    },
+    {
+      "title": "Peter Gabriel - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Peter_Gabriel",
+      "snippet": "Peter Gabriel * Birth name. Peter Brian Gabriel. * Born. February 13, 1950 (age 75) * Origin. Chobham, Surrey Heath, Surrey, Engla...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/_Q842aU_oqczlKLRuUjbVYXe_hffHnWdw4-DEdgPheE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/zqNkE7zdV9XU22DnMxZDGedESfInlPhOEv6AvKTAkhI.png",
+      "index": 14
+    },
+    {
+      "title": "What do you think of Peter Gabriel's voice? - Prog Archives",
+      "link": "https://www.progarchives.com/forum/forum_posts.asp?TID=122845&PN=3#:~:text=I%20have%20no%20difficulty%20believing,to%20use%20it%20often%20enough.",
+      "snippet": "May 1, 2020 \u2014 I have no difficulty believing that assessment. A good experiment to bring this out even in a studio context would be to listen to...",
+      "source": "Progarchives.com",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/RoVrqrN6FucR7E2K0qfDNvtX1SQFjtv0jP4EOlmf1sw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/iI8yXI7jAs1kFSTlzb_33PzMkJQd9WT1-3FGPr7_iT4.png",
+      "index": 15
+    },
+    {
+      "title": "What is Peter Gabriel's current voice type? : r/Genesis - Reddit",
+      "link": "https://www.reddit.com/r/Genesis/comments/16wepzu/what_is_peter_gabriels_current_voice_type/#:~:text=Over%20time%2C%20I'd%20argue,is%20a%20true%20Rock%20Star!",
+      "snippet": "Sep 30, 2023 \u2014 Comments Section * gchance1. \u2022 2y ago. He absolutely can still hit the high notes, those \"ahhhs\" he loves to do in the background ...",
+      "source": "Reddit",
+      "thumbnail": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/I8SGK4rfV1vT-6Q_m7u5ygOU7_GE1Jz870y9WMZrsqI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c33269a322f7bd8c5c1c/images/D9Qco3kx8JxfAszXk_NmxwKKTlOQVcbv90uFwZzM8Lg.png",
+      "index": 16
+    }
+  ]
+}

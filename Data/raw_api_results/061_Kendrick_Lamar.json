@@ -1,0 +1,344 @@
+{
+  "search_metadata": {
+    "id": "6987c314c4f20f6a817ec3f5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TOY1zP8n9JYgvhOO8CNLlA/6987c314c4f20f6a817ec3f5.json",
+    "created_at": "2026-02-07 22:56:20 UTC",
+    "processed_at": "2026-02-07 22:56:20 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Kendrick+Lamar%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Kendrick+Lamar%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/TOY1zP8n9JYgvhOO8CNLlA/6987c314c4f20f6a817ec3f5.html",
+    "prettify_html_file": "https://serpapi.com/searches/TOY1zP8n9JYgvhOO8CNLlA/6987c314c4f20f6a817ec3f5.prettify",
+    "total_time_taken": 8.4
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Kendrick Lamar, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "6wZClHicTZFJjqtWAEWl7CA7YPi_FFeB6YxKNaBvbEzz6CeIzoB5GExnzDwbib4SKRvIArKKymriUZQ7vNI5utL99bei_kvKDCWJQMjRtzNWHExcM4WZVX8UcMi-_ubb7hE69r1wRCLxeyWF3pyLq5NKkQXESffQlTujturIjy3ZuNqHzDmC1dVqejm8QZgE3JaiHpdg56VQ4JIL2j6SzrIuV6OFQj2C0LUcW3Axrgd7dItgg-oiDEM8XF2_3OxWAq4Ege6VeLZ5uFjlcogyauj1ju-qeNoQa-RUlo72lq14HLC7k3dtVhCcqbyNnmmg_zmPxRAnZXGbvma92-rXqnfyDUW-6UlW36ZurD4Q9TYVEHkViAGQAMHQGCNj-jvC9j0s_CI91tM7hZJv2BtGIt-OiqOffkFg3RSIXGRN9x3ximGsu9s7dniZQXJJhvo_4Pes65q6-Oenn1mR_2QTrU3I-QIqhRpDNPWfN7BL21M4OxVEwUS2mn2L2XRZpDAla643QMHAikEfH0gcgyKbh2LHufxRdD55fVQ-EMH7LHfczD_vDmug7ahY6NNI48se61f7CR8vmooDLWt3pb-G7Cv_MwHHNj9ZgRK6csbDiBIH4_RMQqCby_3k5NLyuOYlN1-53U6Bu7NJaGHjHVmfKqbBoRplfWDnYFBUyHuBrg8iHuzJw3JPXZUwkj47SL0zOsHaLh_IWRU-yf3h03x9SLDXGa_Fy7btJwjo2ntePS3IjsdK6UqiaybGA8FAeuFDA3leV8Kh2IY7nmUClcLw5D2HiBISPLX43Hwc8T0v0e1iJFTojJdQ5dmqxKdltFSQhkSrJDHugIiJ6KkUNlITRUt2mMkT3MeY7U35aZ1mnDteQpxIxHjPmVfSiI-MWhx7HiVoeHBqt4NZ22MXWbgPeZvtSJ-mI_bGOXhvZvmotXQlqnru0-Cm1ww4JJMh7_uZmg1C2N1twiFLmxrRpbDoFS99pmEpWEvEj3acmq8_WHcS1wvXpulWod4KaYMliCvRcx6WPdygU4Z7Ifnnp9zdNQildjbbcav7ARU7vPcxkrfDhTzxZhyJorBsPYPXZJTx_TUca05IjFinH_EUtUCh3B22qbEW50L0NHpWtkYdutkpo8FIxhXwF0ljztqVMLrGVLO-D-atMg7SRHJ08y-F3GiE",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Kendrick Lamar is 38 years old (born June 17, 1987). He recently made history at the 2026 Grammy Awards, becoming the most-awarded rapper in history with a total of 27 Grammy wins, surpassing JAY-Z.",
+      "reference_indexes": [
+        5,
+        6,
+        2,
+        4
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lamar is widely regarded as one of the most influential artists of his generation, known for his technical precision and conceptual depth.",
+      "reference_indexes": [
+        1,
+        8,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Rapper: His primary occupation. He is highly proficient in intricate rhyme schemes, diverse vocal deliveries, and storytelling."
+        },
+        {
+          "snippet": "Songwriter: A critically acclaimed lyricist and the first non-classical or jazz artist to win a Pulitzer Prize for Music (2018)."
+        },
+        {
+          "snippet": "Record Producer: Actively involved in the production of his albums, often credited for his creative direction and sonic experimentation."
+        },
+        {
+          "snippet": "Singer: Frequently incorporates melodic elements and singing into his tracks, as seen in his Grammy-winning collaboration \"Luther\"."
+        }
+      ],
+      "reference_indexes": [
+        6,
+        1,
+        5,
+        15,
+        10,
+        13
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Proficiency & Current Standing (2026)"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lamar's proficiency is reflected in his 2026 commercial and critical dominance:",
+      "reference_indexes": [
+        10
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Recent Success: His 2024 album GNX won Best Rap Album at the 2026 Grammys."
+        },
+        {
+          "snippet": "Award Milestones: He swept the 2026 Rap categories and won Record of the Year for \"Luther\" (with SZA)."
+        },
+        {
+          "snippet": "Live Performance: He headlined Super Bowl LIX in February 2025, which became the most-watched halftime show in U.S. history."
+        }
+      ],
+      "reference_indexes": [
+        4,
+        11
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lamar maintains a significant real estate portfolio primarily in the Los Angeles, California area.",
+      "snippet_links": [
+        {
+          "text": "Los Angeles, California",
+          "link": "https://www.google.com/search?q=Los+Angeles,+California&kgmid=/m/030qb3t&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQ3egRegQICxAC"
+        }
+      ],
+      "reference_indexes": [
+        3,
+        0
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary Location: Brentwood, Los Angeles, CA. In 2024, he purchased a $40+ million modern farmhouse compound in this neighborhood.",
+          "snippet_links": [
+            {
+              "text": "Brentwood, Los Angeles, CA.",
+              "link": "https://www.google.com/search?q=Brentwood,+Los+Angeles,+CA.&kgmid=/m/01yq4f&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQ3egRegQIDBAC"
+            }
+          ]
+        },
+        {
+          "snippet": "Other Properties: He also owns significant residences in Bel Air, Manhattan Beach, and Calabasas, as well as a luxury penthouse in Brooklyn, New York.",
+          "snippet_links": [
+            {
+              "text": "Bel Air",
+              "link": "https://www.google.com/search?q=Bel+Air&kgmid=/m/026z1h&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQ3egRegQIDBAF"
+            },
+            {
+              "text": "Manhattan Beach",
+              "link": "https://www.google.com/search?q=Manhattan+Beach&kgmid=/m/0r0mn&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQ3egRegQIDBAH"
+            },
+            {
+              "text": "Calabasas",
+              "link": "https://www.google.com/search?q=Calabasas&kgmid=/m/0kkph&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQ3egRegQIDBAJ"
+            },
+            {
+              "text": "Brooklyn, New York",
+              "link": "https://www.google.com/viewer/place?mid=/m/0cr3d&sa=X&ved=2ahUKEwja3OuDvciSAxXesFYBHaJyG4AQqdYPegQIDBAL"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        3,
+        0,
+        9,
+        14
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Where Does Kendrick Lamar Live? Unpacking the Rapper's ...",
+      "link": "https://www.architecturaldigest.com/story/where-does-kendrick-lamar-live-unpacking-the-rappers-real-estate-portfolio#:~:text=Manhattan%20Beach%20mansion,seven%20bedrooms%20and%20eight%20bathrooms.",
+      "snippet": "Jan 9, 2025 \u2014 Eastvale, California abode. K. Dot's earliest known real estate purchase was a roughly 3,500-square-foot four-bedroom, three-bathr...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/XLLUYhcAyqCt5WG0L_WCXAHBfZjMvskz_6rJlw9NrEM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/rBl0Gk23DZ1ax1XYOvdhe8lpFKs056waZ9plg9n6Jrg.png",
+      "index": 0
+    },
+    {
+      "title": "Kendrick Lamar - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Kendrick_Lamar",
+      "snippet": "Kendrick Lamar * Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper, songwriter, and record producer. Regarded as...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/lgZEcp10sJ7pzlfFJI2PiQT2CsApVT1fewoCX7cWHzc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/It-4D7Jx3lZgbCU6_RB5xEwfOLSGLoa0CROUmXxtdgE.png",
+      "index": 1
+    },
+    {
+      "title": "Kendrick Lamar | Songs, Grammys, GNX, Albums, Not Like Us ...",
+      "link": "https://www.britannica.com/biography/Kendrick-Lamar#:~:text=American%20musician,Lamar%20start%20his%20music%20career?",
+      "snippet": "Feb 4, 2026 \u2014 American musician. Also known as: Kendrick Lamar Duckworth. Dylan Shulman. Dylan Shulman was an Editorial Intern at Encyclop\u00e6dia B...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/C4SH4wZxRt_U-oYkRsBcEljZZPDxV62Z7o1h6-F3IDw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/KrM_9qWts8dk9PyuQJBbCeVf3iCKX7aRmsYOHoydgE0.png",
+      "index": 2
+    },
+    {
+      "title": "A Look Inside Kendrick Lamar's Vast Real Estate Portfolio",
+      "link": "https://www.yahoo.com/lifestyle/look-inside-kendrick-lamars-vast-130000050.html#:~:text=A%20Mansion%20in%20Calabasas%2C%20California,packed%20city%20Lamar%20resides%20in.",
+      "snippet": "Feb 8, 2025 \u2014 Ahead, we break down the rapper's home history. * A House in Eastvale, California. Per TMZ, Lamar originally bought his Eastvale p...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/qoFY8ifgzI5sRmBCce_RaxSCEwBekBxx_jfYAN1WWQg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/6VnhYDOLE7WclD-bFJfDB0GSUid-KqG1bgTGW66X2ok.png",
+      "index": 3
+    },
+    {
+      "title": "Kendrick Lamar Broke a Major Record at the 2026 Grammys",
+      "link": "https://themusicnetwork.com/kendrick-lamar-major-record-2026-grammys/#:~:text=Staff,Year%20(%E2%80%9CLuther%E2%80%9D).",
+      "snippet": "Feb 3, 2026 \u2014 Staff. Image: Kevin Winter/Getty Images for The Recording Academy. Kendrick Lamar made history at the 2026 Grammy Awards over the ...",
+      "source": "The Music Network",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/717-cz86timZZNyO1GT8uM-W4HDgEt9rA7KoF7bfc7w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/0JZlPfrU50n4htKSakwap_w0fF8nLBQU7BeglBvC1pw.png",
+      "index": 4
+    },
+    {
+      "title": "Kendrick Lamar | Songs, Grammys, GNX, Albums, Not Like Us ...",
+      "link": "https://www.britannica.com/biography/Kendrick-Lamar#:~:text=Kendrick%20Lamar%20(born%20June%2017,JAY%2DZ's).",
+      "snippet": "Feb 4, 2026 \u2014 Kendrick Lamar (born June 17, 1987, Compton, California, U.S.) is an American rapper who achieved critical and commercial success ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/qT7M2iOmXcW1B2hc_kLNVUJp7sQakHJD-HbXnUXGL88.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/-HWmoIjCizb-Ll6JuRasxjiq0774cRdNbEI00jM-hIA.png",
+      "index": 5
+    },
+    {
+      "title": "Kendrick Lamar - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Kendrick_Lamar#:~:text=Kendrick%20Lamar%20Duckworth%20(born%20June,with%20his%20band%20Magnolia%20Park.",
+      "snippet": "Kendrick Lamar Duckworth (born June 17, 1987), also known as Kendrick Lamar, is an American rapper, singer, songwriter, and record...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/PWAOLqtIPMuJaiRRy23egjCcyReJofLY48u-E6oTUFw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/iGwyyLNaQdhPjG8Q9R8pkWYAIAfxXIg2e0SwgKnW8eQ.png",
+      "index": 6
+    },
+    {
+      "title": "Pubity on Instagram: \"Kendrick Lamar turns 38 today, born in ...",
+      "link": "https://www.instagram.com/p/DLAEljSNyNZ/?hl=en#:~:text=Kendrick%20Lamar%20turns%2038%20today,top%20five%2C%20tying%20Drake's%20record.",
+      "snippet": "Jun 17, 2025 \u2014 Kendrick Lamar turns 38 today, born in Compton on June 17, 1987. In April 2018, he became the first non-classical or jazz artist t...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/3Z8JkShkut6YeqOSpOBjyXGh7BqnIAoZRMrZQF5S_5s.jpeg",
+      "index": 7
+    },
+    {
+      "title": "Kendrick Lamar achieved a historic milestone at the 2026 ...",
+      "link": "https://www.instagram.com/p/DUP92G9ETTW/#:~:text=Kendrick%20Lamar%20achieved%20a%20historic,shape%20public%20discourse%20beyond%20music.",
+      "snippet": "Feb 2, 2026 \u2014 Kendrick Lamar achieved a historic milestone at the 2026 Grammy Awards by becoming the most awarded rapper in the history of the R...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/YzYASeFJ5_Ju1_vNTNlnSxxndIKpi-EqkIOLgD_Bx24.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Rapper Kendrick Lamar to Pay More Than $40 Million for Los ...",
+      "link": "https://www.wsj.com/real-estate/luxury-homes/kendrick-lamar-los-angeles-home-de1c7b5b#:~:text=The%20deal%20for%20the%20roughly,priciest%20so%20far%20this%20year&text=Your%20browser%20does%20not%20support%20the%20audio%20tag.&text=This%20article%20is%20in%20your%20queue.&text=Be%20the%20first%20to%20know,people%20familiar%20with%20the%20deal.",
+      "snippet": "May 17, 2024 \u2014 The deal for the roughly 16,000-square-foot Brentwood home is one of the city's priciest so far this year. ... Your browser does n...",
+      "source": "The Wall Street Journal",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/yq1eEq8zus-pxgi70vj8Zene8HDwzspyi2PbuIpCz9E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/1Q_7cpKP4mXyJyx9ucK-KPs9i0JWCXYEnenBUapfqss.png",
+      "index": 9
+    },
+    {
+      "title": "Back-to-Back: Kendrick Lamar and SZA Take Home Record of ...",
+      "link": "https://www.wglr.com/2026/02/03/back-to-back-kendrick-lamar-and-sza-take-home-record-of-the-year/#:~:text=Home-,Back%2Dto%2DBack:%20Kendrick%20Lamar%20and%20SZA%20Take%20Home,for%20recorded%20music%20in%202025.",
+      "snippet": "Feb 3, 2026 \u2014 Back-to-Back: Kendrick Lamar and SZA Take Home Record of the Year. Feb 3, 2026 | 1:01 AM. Featureflash / Depositphotos.com. A majo...",
+      "source": "WGLR",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/G51Xqim8lLoc4OgABa9Ctu_QPDxNUzp0fMsFIwQHfCs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/JL3S-lDr4tlpZreSPO_xOK-fkusAc4WIomWVqJK90rw.png",
+      "index": 10
+    },
+    {
+      "title": "Kendrick Lamar Arrives at the 2026 Grammy Awards in a ...",
+      "link": "https://www.aol.com/articles/kendrick-lamar-arrives-2026-grammy-014000821.html#:~:text=He%20took%20home%20the%20first,for%20%E2%80%9C30%20For%2030.%E2%80%9D",
+      "snippet": "Feb 1, 2026 \u2014 He took home the first award of the ceremony, Best Rap Album for GNX, and also won Best Rap Song for \u201ctv off,\u201d Best Melodic Rap Pe...",
+      "source": "AOL.com",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/NbXi8zmFM1V_mtYjv5Ea_ceMTOPD-HNlUSn7_cDCeRQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/6y6VmfSqF0Mwh4SCQuIUeetg0q7Mcoj-SnVbBaZ9HYA.png",
+      "index": 11
+    },
+    {
+      "title": "How many Grammys did Kendrick Lamar win? - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/02/01/how-many-grammys-did-kendrick-lamar-win/88393300007/#:~:text=Kendrick%20Lamar's%202026%20Grammys%20wins%20and%20nominations,Best%20pop%20duo/group%20performance:%20%2230%20for%2030%22",
+      "snippet": "Feb 1, 2026 \u2014 Kendrick Lamar's 2026 Grammys wins and nominations * WINNER: Best rap performance: \"Chains & Whips\" with The Clipse, Pharrell. * W...",
+      "source": "USA Today",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/gJcHF2tvfbjFCyDbefr6ZEyr5A-SAIKIsMx-xRQPTtk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/B-r3ympUT5HSwdzv6WOo4rvhS0fKBBCr82ODRaiH2qI.png",
+      "index": 12
+    },
+    {
+      "title": "Grammys 2026: Kendrick Lamar Makes History, Breaks Jay-Z Record",
+      "link": "https://www.eonline.com/news/1428019/grammys-2026-kendrick-lamar-makes-history-breaks-jay-z-record#:~:text=1.,Love%20y'all.%22&text=Heading%20into%20music's%20biggest%20night,%2C%22%20also%20featuring%20Pharrell.)",
+      "snippet": "Feb 1, 2026 \u2014 1. (See the full list of winners from the 2026 Grammys.) In his acceptance speech, Lamar\u2014who scored three more Grammy wins earlier...",
+      "source": "E! Online",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/euUQK2sWojOcPSrq0pMzI9mo5pwfguvakZNmnFw2vzc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/RNGG5fOClOs_fgBBZeaQ3W_B1SQDuYFAhfBYc_29E-g.png",
+      "index": 13
+    },
+    {
+      "title": "For years, Kendrick Lamar called the coastal town of Manhattan ...",
+      "link": "https://www.facebook.com/100064114116846/posts/for-years-kendrick-lamar-called-the-coastal-town-of-manhattan-beach-home-after-r/1032998228847305/#:~:text=Rap%20Icon%20Kendrick%20Lamar's%20$2.65,a%20pool%20and%20hot%20tub.",
+      "snippet": "Feb 19, 2025 \u2014 For years, Kendrick Lamar called the coastal town of Manhattan Beach home. After renting for a while, the acclaimed rapper and son...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/zTE8FQDMcK4jAfHHqu92Wt7d4EjOrENxYqJNhhSYNe4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/ANOq_eUGztjnf2IX7TLsQ_r8xh1Kxvv9AzZ8ol5eJ8g.png",
+      "index": 14
+    },
+    {
+      "title": "Kendrick Lamar's Life and Music Career - Facebook",
+      "link": "https://www.facebook.com/groups/7770644756330437/posts/8031886750206235/#:~:text=Kendrick%20Lamar%20Duckworth%20was%20born,release%2C%20%22Overly%20Dedicated.%22",
+      "snippet": "Jul 13, 2024 \u2014 Kendrick Lamar Duckworth was born in Compton, California on June 17th, 1987. His name was given to him by his mother in honor of A...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/3Fyw4zcyL7bq93On0cBkBSiK9vqiglcqaNYjo6nZZWs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c314c4f20f6a817ec3f5/images/683dLLlACAxSkmsohZSry_q8a0BdP6AMPfbMP3qAEUk.png",
+      "index": 15
+    },
+    {
+      "title": "@kendricklamar\u2019s impact on Black history is ongoing and undeniable. As one of the most influential rappers of his generation, Kendrick\u2019s music powerfully reflects the pulse of Black culture, weaving together activism and artistry in a way few artists have achieved. Kendrick has consistently used his platform to uplift the Black community and push hip-hop forward as a tool for social commentary. Kendrick Lamar is Black history in Real-time! #BlackHistoryMonth #KendrickLamar #Grammys2025 #MusicNews",
+      "link": "https://www.instagram.com/p/DFqawcFSs-b/#:~:text=@kendricklamar's%20impact%20on%20Black%20history%20is%20ongoing,in%20a%20way%20few%20artists%20have%20achieved.",
+      "snippet": "@kendricklamar's impact on Black history is ongoing and undeniable. As one of the most influential rappers of his generation, Kend...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSe2W-FeOzfKR2y3eGXIutWrWkC4hCMgoJVVNOxuEj8DN0pVYH",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "The year of Kendrick Lamar",
+      "link": "https://thebutlercollegian.com/2024/09/the-year-of-kendrick-lamar/",
+      "snippet": "The year of Kendrick Lamar On Sept. This year was far from the first time Lamar ( Kendrick Lamar ) dominated the charts and discus...",
+      "source": "The Butler Collegian",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7rKxGfaToBTikmdDzLtHmQShg6r9iAKLzFbStMfwhw-bIRO6",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thebutlercollegian.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Day 41\u2014on ignorance and bliss and kendrick lamar and radiohead and the fulfillment that comes from\u2026",
+      "link": "https://leviweaver.medium.com/day-41-on-ignorance-and-bliss-and-kendrick-lamar-and-radiohead-and-the-fulfillment-that-comes-from-aadc15c80a3f#:~:text=Rap%20is%20a%20genre%20that%20can%20be,walk%2Doff%20home%20run%2C%20a%20360%C2%B0%20slam%20dunk.",
+      "snippet": "Rap is a genre that can be difficult to translate to a live performance, but Lamar did it with unparalleled precision and technica...",
+      "source": "Levi Weaver \u2013 Medium",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCgpYyhEybfrK2otVkrUOzhaDVhVQEfMtaPwq9ke5rNYKA2H_7",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://leviweaver.medium.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are common themes in Kendrick Lamar's lyrics?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+common+themes+in+Kendrick+Lamar%27s+lyrics%3F&subsequent_request_token=6wZClHicTZFJjqtWAEWl7CA7YPi_FFeB6YxKNaBvbEzz6CeIzoB5GExnzDwbib4SKRvIArKKymriUZQ7vNI5utL99bei_kvKDCWJQMjRtzNWHExcM4WZVX8UcMi-_ubb7hE69r1wRCLxeyWF3pyLq5NKkQXESffQlTujturIjy3ZuNqHzDmC1dVqejm8QZgE3JaiHpdg56VQ4JIL2j6SzrIuV6OFQj2C0LUcW3Axrgd7dItgg-oiDEM8XF2_3OxWAq4Ege6VeLZ5uFjlcogyauj1ju-qeNoQa-RUlo72lq14HLC7k3dtVhCcqbyNnmmg_zmPxRAnZXGbvma92-rXqnfyDUW-6UlW36ZurD4Q9TYVEHkViAGQAMHQGCNj-jvC9j0s_CI91tM7hZJv2BtGIt-OiqOffkFg3RSIXGRN9x3ximGsu9s7dniZQXJJhvo_4Pes65q6-Oenn1mR_2QTrU3I-QIqhRpDNPWfN7BL21M4OxVEwUS2mn2L2XRZpDAla643QMHAikEfH0gcgyKbh2LHufxRdD55fVQ-EMH7LHfczD_vDmug7ahY6NNI48se61f7CR8vmooDLWt3pb-G7Cv_MwHHNj9ZgRK6csbDiBIH4_RMQqCby_3k5NLyuOYlN1-53U6Bu7NJaGHjHVmfKqbBoRplfWDnYFBUyHuBrg8iHuzJw3JPXZUwkj47SL0zOsHaLh_IWRU-yf3h03x9SLDXGa_Fy7btJwjo2ntePS3IjsdK6UqiaybGA8FAeuFDA3leV8Kh2IY7nmUClcLw5D2HiBISPLX43Hwc8T0v0e1iJFTojJdQ5dmqxKdltFSQhkSrJDHugIiJ6KkUNlITRUt2mMkT3MeY7U35aZ1mnDteQpxIxHjPmVfSiI-MWhx7HiVoeHBqt4NZ22MXWbgPeZvtSJ-mI_bGOXhvZvmotXQlqnru0-Cm1ww4JJMh7_uZmg1C2N1twiFLmxrRpbDoFS99pmEpWEvEj3acmq8_WHcS1wvXpulWod4KaYMliCvRcx6WPdygU4Z7Ifnnp9zdNQildjbbcav7ARU7vPcxkrfDhTzxZhyJorBsPYPXZJTx_TUca05IjFinH_EUtUCh3B22qbEW50L0NHpWtkYdutkpo8FIxhXwF0ljztqVMLrGVLO-D-atMg7SRHJ08y-F3GiE"
+    },
+    {
+      "question": "What contributed to GNX winning Best Rap Album?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+contributed+to+GNX+winning+Best+Rap+Album%3F&subsequent_request_token=6wZClHicTZFJjqtWAEWl7CA7YPi_FFeB6YxKNaBvbEzz6CeIzoB5GExnzDwbib4SKRvIArKKymriUZQ7vNI5utL99bei_kvKDCWJQMjRtzNWHExcM4WZVX8UcMi-_ubb7hE69r1wRCLxeyWF3pyLq5NKkQXESffQlTujturIjy3ZuNqHzDmC1dVqejm8QZgE3JaiHpdg56VQ4JIL2j6SzrIuV6OFQj2C0LUcW3Axrgd7dItgg-oiDEM8XF2_3OxWAq4Ege6VeLZ5uFjlcogyauj1ju-qeNoQa-RUlo72lq14HLC7k3dtVhCcqbyNnmmg_zmPxRAnZXGbvma92-rXqnfyDUW-6UlW36ZurD4Q9TYVEHkViAGQAMHQGCNj-jvC9j0s_CI91tM7hZJv2BtGIt-OiqOffkFg3RSIXGRN9x3ximGsu9s7dniZQXJJhvo_4Pes65q6-Oenn1mR_2QTrU3I-QIqhRpDNPWfN7BL21M4OxVEwUS2mn2L2XRZpDAla643QMHAikEfH0gcgyKbh2LHufxRdD55fVQ-EMH7LHfczD_vDmug7ahY6NNI48se61f7CR8vmooDLWt3pb-G7Cv_MwHHNj9ZgRK6csbDiBIH4_RMQqCby_3k5NLyuOYlN1-53U6Bu7NJaGHjHVmfKqbBoRplfWDnYFBUyHuBrg8iHuzJw3JPXZUwkj47SL0zOsHaLh_IWRU-yf3h03x9SLDXGa_Fy7btJwjo2ntePS3IjsdK6UqiaybGA8FAeuFDA3leV8Kh2IY7nmUClcLw5D2HiBISPLX43Hwc8T0v0e1iJFTojJdQ5dmqxKdltFSQhkSrJDHugIiJ6KkUNlITRUt2mMkT3MeY7U35aZ1mnDteQpxIxHjPmVfSiI-MWhx7HiVoeHBqt4NZ22MXWbgPeZvtSJ-mI_bGOXhvZvmotXQlqnru0-Cm1ww4JJMh7_uZmg1C2N1twiFLmxrRpbDoFS99pmEpWEvEj3acmq8_WHcS1wvXpulWod4KaYMliCvRcx6WPdygU4Z7Ifnnp9zdNQildjbbcav7ARU7vPcxkrfDhTzxZhyJorBsPYPXZJTx_TUca05IjFinH_EUtUCh3B22qbEW50L0NHpWtkYdutkpo8FIxhXwF0ljztqVMLrGVLO-D-atMg7SRHJ08y-F3GiE"
+    },
+    {
+      "question": "Tell me more about his songwriting skills",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+his+songwriting+skills&subsequent_request_token=6wZClHicTZFJjqtWAEWl7CA7YPi_FFeB6YxKNaBvbEzz6CeIzoB5GExnzDwbib4SKRvIArKKymriUZQ7vNI5utL99bei_kvKDCWJQMjRtzNWHExcM4WZVX8UcMi-_ubb7hE69r1wRCLxeyWF3pyLq5NKkQXESffQlTujturIjy3ZuNqHzDmC1dVqejm8QZgE3JaiHpdg56VQ4JIL2j6SzrIuV6OFQj2C0LUcW3Axrgd7dItgg-oiDEM8XF2_3OxWAq4Ege6VeLZ5uFjlcogyauj1ju-qeNoQa-RUlo72lq14HLC7k3dtVhCcqbyNnmmg_zmPxRAnZXGbvma92-rXqnfyDUW-6UlW36ZurD4Q9TYVEHkViAGQAMHQGCNj-jvC9j0s_CI91tM7hZJv2BtGIt-OiqOffkFg3RSIXGRN9x3ximGsu9s7dniZQXJJhvo_4Pes65q6-Oenn1mR_2QTrU3I-QIqhRpDNPWfN7BL21M4OxVEwUS2mn2L2XRZpDAla643QMHAikEfH0gcgyKbh2LHufxRdD55fVQ-EMH7LHfczD_vDmug7ahY6NNI48se61f7CR8vmooDLWt3pb-G7Cv_MwHHNj9ZgRK6csbDiBIH4_RMQqCby_3k5NLyuOYlN1-53U6Bu7NJaGHjHVmfKqbBoRplfWDnYFBUyHuBrg8iHuzJw3JPXZUwkj47SL0zOsHaLh_IWRU-yf3h03x9SLDXGa_Fy7btJwjo2ntePS3IjsdK6UqiaybGA8FAeuFDA3leV8Kh2IY7nmUClcLw5D2HiBISPLX43Hwc8T0v0e1iJFTojJdQ5dmqxKdltFSQhkSrJDHugIiJ6KkUNlITRUt2mMkT3MeY7U35aZ1mnDteQpxIxHjPmVfSiI-MWhx7HiVoeHBqt4NZ22MXWbgPeZvtSJ-mI_bGOXhvZvmotXQlqnru0-Cm1ww4JJMh7_uZmg1C2N1twiFLmxrRpbDoFS99pmEpWEvEj3acmq8_WHcS1wvXpulWod4KaYMliCvRcx6WPdygU4Z7Ifnnp9zdNQildjbbcav7ARU7vPcxkrfDhTzxZhyJorBsPYPXZJTx_TUca05IjFinH_EUtUCh3B22qbEW50L0NHpWtkYdutkpo8FIxhXwF0ljztqVMLrGVLO-D-atMg7SRHJ08y-F3GiE"
+    }
+  ]
+}

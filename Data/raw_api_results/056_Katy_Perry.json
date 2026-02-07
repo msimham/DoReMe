@@ -1,0 +1,488 @@
+{
+  "search_metadata": {
+    "id": "6987c313ccb1e9c255cffb10",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9J7nf7D6zZcibH-QomGvqA/6987c313ccb1e9c255cffb10.json",
+    "created_at": "2026-02-07 22:56:19 UTC",
+    "processed_at": "2026-02-07 22:56:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Katy+Perry%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Katy+Perry%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/9J7nf7D6zZcibH-QomGvqA/6987c313ccb1e9c255cffb10.html",
+    "prettify_html_file": "https://serpapi.com/searches/9J7nf7D6zZcibH-QomGvqA/6987c313ccb1e9c255cffb10.prettify",
+    "total_time_taken": 8.36
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Katy Perry, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "-sdAG3icTVJJrqtWFJSykTD8X4rf42JjGz15cE1rWtMbJogeTN8YDFKG2Uj0lUhZQBaQXbysJv6DKKkzO3WqVEeqX36N8z_po8L57p5lBhLrxuE6DVTmq9_isg8__yKrZnYM9yIxEJdMfvSZbNBqeZK2EadiLaaz7eLWZ92nVFzXAW7fmSZkn7xUt6JotUA3w9G8W0tku5YB-MEqXCcA7WSX_KDf-UneSrjOtHJQEa7G8qK10mhUW2xIu5qxnoFsZqVZWLZJabWLaTWduYxCExfHajANdVd15Z8RJ6tRLdM-y2hsOt6dwh0Nri3jSuMN9Y_HEPeen8b1-Pmz1Kx5Wfrv-BuKfLHzOmrmAZENBKBv6AfyWux3H8hzv_uKwPZlYMeBkI_v-Pbwtt0jXwTOkMSfkDIvYoSNw6L5ipBZ31TxO3hdoN8H0f3E7_N_JXSU_sf9FjZNkcd___AjpMkT9PnKx0c6b7rCcQX79TWMFNYWxo273Wxkrp34bCFvFkwSiloAmfuhPrplcn8l9Tw9Dh99vDmbpEAbJ1I8sh8IZZ0kTI43ysashBQMnIouSuAlGIZfn0s549WUHUNjMTM9mFMIKYpy7nHFTA0LoARf-J-zbmjXE6T2VJNOMscDNG2yFLValevakZxzFrQWk2vLrEqTZJQqQfeRlV9kCTug-2gWOebWtqPT9mxsgKEGeOne17MH5tSMPFXjJ5MqxXb-QOQLdcKx40kcqKm_yYQV6xyZOoJv9_alyIe4fW5nSi0XwsCeSxUyF39S9KMdju1DlIO1O4DDsqCbuF9S2wa93AskG7nqY7c7WxWg21sNDy4_eaWzmn59XeciDppk8ovEYCw-abGIoescjlLqEftc4qsq5W0nDcJZ8XSumOcpoCdi1rgsuW6TB-5120FQHU0cQVFCdl6maaCJsMikBGCgywZOm7BK0ZojrC7oCn13NmpA5OV9qVNl0Q2SsW_tg4_U9IDnHlfY0m0IMBQmUD72KlS_VcNYfP4OzZF-JuelscN0qTEL5l15Rzvz6Hry7qYWcUaeSe7MddVBXvaOLIKuXBQ55C6pMGkOaDcXQjxs6Wjj3auBscRrhB8Tfn-DjkaNE3bgu4bWqF3xJIJiK1-yKlzcXaGIpV6M8BA8yuGW0jsoB07NkiRmiMQ9KzgzPX-vGH4VGrjmD-kfm99wlg",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Katy Perry is 41 years old (born October 25, 1984). She is a globally recognized pop star known for her theatrical style and record-breaking hits.",
+      "reference_indexes": [
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Occupations"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "table": [
+        [
+          "Occupation / Skill",
+          "Proficiency & Details"
+        ],
+        [
+          "Singer",
+          "High Proficiency. She possesses a vocal range of approximately three octaves (E3 to D6) and is known for powerhouse pop vocals and anthemic choruses."
+        ],
+        [
+          "Songwriter",
+          "High Proficiency. She has co-written the majority of her hits, including \"I Kissed a Girl\" and \"Firework\". Her writing focuses on storytelling, empowerment, and humor."
+        ],
+        [
+          "Guitarist",
+          "Moderate Proficiency. She has played acoustic and electric guitar since age 13, often performing unplugged sessions with her guitar."
+        ],
+        [
+          "TV Personality / Judge",
+          "Experienced. Served as a judge on American Idol for seven seasons (2018\u20132024), where she mentored aspiring artists."
+        ],
+        [
+          "Businesswoman",
+          "Active. She founded her own record label, Unsub Records (formerly Metamorphosis Music), and launched a successful shoe line, Katy Perry Collections."
+        ],
+        [
+          "Actress",
+          "Occasional. Voiced Smurfette in The Smurfs films and has made various cameos in television and film."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Occupation / Skill"
+          },
+          {
+            "snippet": "Proficiency & Details"
+          }
+        ],
+        [
+          {
+            "snippet": "Singer"
+          },
+          {
+            "snippet": "High Proficiency. She possesses a vocal range of approximately three octaves (E3 to D6) and is known for powerhouse pop vocals and anthemic choruses."
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriter"
+          },
+          {
+            "snippet": "High Proficiency. She has co-written the majority of her hits, including \"I Kissed a Girl\" and \"Firework\". Her writing focuses on storytelling, empowerment, and humor."
+          }
+        ],
+        [
+          {
+            "snippet": "Guitarist"
+          },
+          {
+            "snippet": "Moderate Proficiency. She has played acoustic and electric guitar since age 13, often performing unplugged sessions with her guitar."
+          }
+        ],
+        [
+          {
+            "snippet": "TV Personality / Judge"
+          },
+          {
+            "snippet": "Experienced. Served as a judge on American Idol for seven seasons (2018\u20132024), where she mentored aspiring artists."
+          }
+        ],
+        [
+          {
+            "snippet": "Businesswoman"
+          },
+          {
+            "snippet": "Active. She founded her own record label, Unsub Records (formerly Metamorphosis Music), and launched a successful shoe line, Katy Perry Collections."
+          }
+        ],
+        [
+          {
+            "snippet": "Actress"
+          },
+          {
+            "snippet": "Occasional. Voiced Smurfette in The Smurfs films and has made various cameos in television and film."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "occupation_skill": "Singer",
+          "proficiency_details": "High Proficiency. She possesses a vocal range of approximately three octaves (E3 to D6) and is known for powerhouse pop vocals and anthemic choruses."
+        },
+        {
+          "occupation_skill": "Songwriter",
+          "proficiency_details": "High Proficiency. She has co-written the majority of her hits, including \"I Kissed a Girl\" and \"Firework\". Her writing focuses on storytelling, empowerment, and humor."
+        },
+        {
+          "occupation_skill": "Guitarist",
+          "proficiency_details": "Moderate Proficiency. She has played acoustic and electric guitar since age 13, often performing unplugged sessions with her guitar."
+        },
+        {
+          "occupation_skill": "TV Personality / Judge",
+          "proficiency_details": "Experienced. Served as a judge on American Idol for seven seasons (2018\u20132024), where she mentored aspiring artists."
+        },
+        {
+          "occupation_skill": "Businesswoman",
+          "proficiency_details": "Active. She founded her own record label, Unsub Records (formerly Metamorphosis Music), and launched a successful shoe line, Katy Perry Collections."
+        },
+        {
+          "occupation_skill": "Actress",
+          "proficiency_details": "Occasional. Voiced Smurfette in The Smurfs films and has made various cameos in television and film."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Katy Perry currently resides in Montecito, California (Santa Barbara County).",
+      "snippet_links": [
+        {
+          "text": "Montecito, California",
+          "link": "https://www.google.com/search?q=Montecito,+California&kgmid=/m/0r623&sa=X&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ3egRegQIBxAC"
+        }
+      ],
+      "reference_indexes": [
+        29,
+        30
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Her primary residence is a $14.2 million oceanview estate purchased in 2020."
+        },
+        {
+          "snippet": "Following a lengthy legal battle, she also recently finalized the acquisition of a second $15 million compound in the same area in late 2025."
+        }
+      ],
+      "reference_indexes": [
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "If you'd like, I can provide more details on her business ventures or a full list of her chart-topping singles to see how her music has evolved over time."
+    }
+  ],
+  "references": [
+    {
+      "title": "Katy Perry - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Katy_Perry%23:~:text%3DOutside%2520of%2520music%252C%2520Perry%2520released,UNICEF%2520Goodwill%2520Ambassador%2520in%25202013.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAC&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "* Singer. * songwriter. * television personality. ... The world's highest-paid female musician in 2015 and 2018, she was named by ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/khsERZuHi5Un7Hsq_s-cJ1agDzbLP8203RIcnbm0w2k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/J1j59QBVi_HETDoohz9W8R2NhcPZi0LvW7bwxQKHA8M.png",
+      "index": 0
+    },
+    {
+      "title": "Inside Katy Perry's $40 Million Property Portfolio - Robb Report",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://robbreport.com/shelter/celebrity-homes/lists/katy-perry-property-portfolio-1237400425/%23:~:text%3DThe%2520property%2520itself%2520is%2520impressive,estate%2520battles%2520to%2520an%2520end.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAG&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Dec 12, 2025 \u2014 The fight, however, didn't end there. Perry then sought about $5 million in damages, claiming she'd lost significant rental income...",
+      "source": "Robb Report",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/sBLfJj81FqeKhsAyBuvxQmOd_Ws8CPK690GYRrQETq8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/aHtym98d-cN0-A5rtJcq9wckHYTdYGAEjx8-iMs8m7U.png",
+      "index": 1
+    },
+    {
+      "title": "Katy Perry Lights Up Housing Market With a $14.2M Montecito ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.realtor.com/news/celebrity-real-estate/katy-perry-lights-up-housing-market-with-montecito-mansion/%23:~:text%3DKaty%2520Perry%2520Lights%2520Up%2520Housing%2520Market%2520With%2520a%2520$14.2M%2520Montecito%2520Mansion,-By%2520Claudine%2520Zap%26text%3DThe%2520pop%2520singer%2520Katy%2520Perry,Meghan%2520Markle%2520and%2520Prince%2520Harry.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAK&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Mar 1, 2021 \u2014 Katy Perry Lights Up Housing Market With a $14.2M Montecito Mansion. ... The pop singer Katy Perry and the actor Orlando Bloom hav...",
+      "source": "Realtor.com",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/Xs8p9jMHY-c6iGoHlWb7N0AydA-ure8tryAVrqbmIHg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/Mn7SSvUUkq5E8s30HB4yAmMBXGekq9Cb_o-y6dHI-uM.png",
+      "index": 2
+    },
+    {
+      "title": "Happy 41st Birthday to Katy Perry! (Born October 25, 1984)",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/metamorphosis.videos/posts/happy-41st-birthday-to-katy-perryborn-october-25-1984/847922964237117/%23:~:text%3DHappy%252041st%2520Birthday%2520to%2520Katy,Metamorphosis&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAO&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Oct 25, 2025 \u2014 Happy 41st Birthday to Katy Perry! (Born October 25, 1984) ... Happy 41st Birthday to Katy Perry! (Born October 25, 1984) ... Eric...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/JoZTqJR9hPpSYwddhH9a48sqyt4sGm15WlVMh3PxnTA.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Exploring Katy Perry's Incredible Vocal Range - TikTok",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.tiktok.com/@brittanyraymusic/video/7458308988808072478%23:~:text%3D%25F0%259F%2591%2591%2520Let's%2520dive%2520into%2520Katy's,she%2520can%2520push%2520even%2520higher!&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAS&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Jan 10, 2025 \u2014 Exploring Katy Perry's Incredible Vocal Range. \ud83c\udfa4\u2728 Celebrating a throwback to one year ago on this day! It's all about the incredi...",
+      "source": "TikTok",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/jf45XeGPQeuuhoz1RKJ_4E3i3qmlL-2bJiFm2JQtkEQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/YsQrXMrlMbJSqgqbJFmOCw8SNi-N9vPeZLl9TtCkQJQ.png",
+      "index": 4
+    },
+    {
+      "title": "Katy Perry's Music Career and Pop Culture Impact - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/7973148649384711/posts/24074087242197595/%23:~:text%3DKaty%2520Perry%2520is%2520a%2520pop%2520sensation%2520whose%2520vibrant%252C%2520catchy%2520tunes,Firework%2520%2523PopStar%2520%2523MusicIcon%2520%2523KatyCats&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAW&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "May 20, 2025 \u2014 Katy Perry \u2013 The Pop Powerhouse with Unstoppable Spark Katy Perry is a global pop icon known for her powerhouse vocals, vibrant st...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/j5ayIfD8v-wuXAG3_Gl7URpOXypuimt2jSe8omVY0Bg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/IDOXh6LsSWb0w-XCtNIuYs5JKNkSTutBfmjF7ptH1QA.png",
+      "index": 5
+    },
+    {
+      "title": "The Katy Perry Wiki | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://katyperry.fandom.com/wiki/Katy_Perry%23:~:text%3DDuring%2520her%2520formative%2520years%252C%2520Katy,as%2520Katy%2520Hudson%2520in%25202001.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAa&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Trivia * Katy was born at 7:58 AM (PDT). * Katy's ancestry is 3/16 Portuguese (Katy's mother is of 3/8 Portuguese descent). Katy's...",
+      "source": "The Katy Perry Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/-iHeWu0TQVdQp9H6Ay4Nxcj5TDVCIzL5GhTkQKs6esk.png",
+      "index": 6
+    },
+    {
+      "title": "Katy Perry facts: Singer's age, real name, husband, children ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.smoothradio.com/news/music/katy-perry-age-husband-children-facts/%23:~:text%3DAs%2520well%2520as%2520appearing%2520as,follow%252Dup%2520The%2520Smurfs%25202.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAe&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "May 5, 2023 \u2014 Katy Perry is one of the biggest stars of the last 15 years. She's also been an ever-present in the showbiz columns, as well as ju...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/zr28qoKnLPXIs9236rW5suugMyShbUvlEXJY4IOGH1M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/ypX8lM9DJIky5TuHDn0PlQBY77vlq5qsZjW5Kvaly4s.png",
+      "index": 7
+    },
+    {
+      "title": "The Rise and Evolution of Katy Perry\u2019s Iconic Pop Career - Medium",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://medium.com/@shubhamdass1112/katy-perry-bio-the-rise-and-evolution-of-katy-perrys-iconic-pop-career-4f3a7e2d1f0b%23:~:text%3Dby%2520GetSomeKnowledge%2520%257C%2520Medium-,Katy%2520Perry%2520Bio%2520%25E2%2580%2594%2520%25E2%2580%259CThe%2520Rise%2520and%2520Evolution%2520of,Katy%2520Perry's%2520Iconic%2520Pop%2520Career%25E2%2580%259D%26text%3DKaty%2520Perry%252C%2520born%2520Katheryn%2520Elizabeth,impact%2520on%2520the%2520music%2520industry.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAi&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "May 2, 2023 \u2014 Katy Perry Bio \u2014 \u201cThe Rise and Evolution of Katy Perry's Iconic Pop Career\u201d ... Katy Perry, born Katheryn Elizabeth Hudson, is an ...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/nQg12dOWMFWCyMweaDxfsiy5ZEDaAWfvsgbQNCFcTB8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/B28QDFQb36H-5Snsrm5SpQkJ9YBlqp_tSxioxuR0-4s.png",
+      "index": 8
+    },
+    {
+      "title": "Learning English Through Music: Katy Perry",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://learningenglish.voanews.com/a/katy-perry-133993058/131320.html%23:~:text%3DKaty%2520says%2520telling%2520a%2520story,want%2520to%2520really%2520sing%2520along.%25E2%2580%259D&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAm&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Nov 16, 2011 \u2014 Katy says telling a story is important to her when she is writing a song. She says what makes a song fun is when the words to the ...",
+      "source": "VOA - Voice of America English News",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/YTWU66n7ht2dDctar0Np6c1ZNvyrGRX8o55KjYSAhyw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/Fz7fr4GRHdQDtEYt8aijCifuWLw7OEUPyYnKBC4lbh0.png",
+      "index": 9
+    },
+    {
+      "title": "Katy Perry \u2014 The Movie Database (TMDB)",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.themoviedb.org/person/111455-katy-perry%23:~:text%3DBiography,female%2520artist%2520to%2520do%2520so.&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAq&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "She later embarked on her first concert residency titled Play in Resorts World Las Vegas, selling out multiple shows and receiving...",
+      "source": "The Movie Database (TMDB)",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/qGICbbolJq2oof87dcFh5GIX4Ug8qDbCL1AG3Jc6Sa4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/ezVDVmN3mj7L63LSbuk4TBRUbk5byWDkeDIRorj3kIw.png",
+      "index": 10
+    },
+    {
+      "title": "American singer and songwriter biography",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/3051209565172499/posts/3874719586154822/%23:~:text%3DPerry's%2520music%2520is%2520celebrated%2520for,48w%2520%25C2%25B7%2520Public&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAu&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Oct 24, 2025 \u2014 Katheryn Elizabeth Hudson (born October 25, 1984), known professionally as Katy Perry, is an American singer, songwriter, and tele...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/LocjyS2nHeLagrTNKEy3Nqy6Us3vTI4tKVo-xhIc1U0.jpeg",
+      "index": 11
+    },
+    {
+      "title": "Katy Perry finally gets keys to $15 million Montecito mansion after ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.supertalk.fm/katy-perry-finally-gets-keys-to-15-million-montecito-mansion-after-court-battle-with-mississippi-businessman/%23:~:text%3DKaty%2520Perry%2520finally%2520gets%2520keys,with%2520Mississippi%2520businessman%2520%252D%2520SuperTalk%2520Mississippi&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxAy&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "May 29, 2024 \u2014 Katy Perry finally gets keys to $15 million Montecito mansion after court battle with Mississippi businessman * After a years-long...",
+      "source": "SuperTalk Mississippi Media",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/AHsiJOfIlkblI1jHAZdu31ZCMm-PrB2X40l8XMmcE4s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/z4qWzZ_2h8ARt6wO5wnhQSsjIVhNsUI9kA1MfuqVOok.png",
+      "index": 12
+    },
+    {
+      "title": "Katy Perry",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://jhmovie.fandom.com/wiki/Katy_Perry&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxA2&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Dec 10, 2011 \u2014 Katy Perry * Birth name. Katheryn Elizabeth Hudson. * Born. October 25, 1984 (age 41) * Birth place. Santa Barbara, California, U.",
+      "source": "JH Wiki Collection Wiki",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/xgi0-wIKRPBC6okMyXyid99ywr4Cdxl5x6ps8geaHcQ.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Katy Perry biography and birthday - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/321174751660862/posts/2273045876473730/%23:~:text%3D%25E2%259D%25A4%25EF%25B8%258FKaty%2520Perry%2520//%2520%25F0%259F%2591%258D,%25E2%259D%25A4%25EF%25B8%258F&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxA5&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Oct 25, 2025 \u2014 \u2764\ufe0fKaty Perry // \ud83d\udc4dTaylor Swift Katy Perry is an American singer, songwriter, and television personality known for her vibrant pop ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/G_DJdWErOF3JQO0avG2jFA7su5gRiamveDP2ktToZ64.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/fi9ZV5TMod_ZFgCsKsBNnV6Z-jo0VFu0Ml7djD9d01M.png",
+      "index": 14
+    },
+    {
+      "title": "Katy Perry age, hometown, biography - Last.fm",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.last.fm/music/Katy%2BPerry/%2Bwiki%23:~:text%3DBorn,The%2520result?&ved=2ahUKEwiIjIaDvciSAxXwl2oFHcZQOLQQ1fkOegQICxA9&opi=89978449&cd&psig=AOvVaw1AYYN03L2ofo4B43F16lef&ust=1770591379580000",
+      "snippet": "Aug 11, 2025 \u2014 Born. 25 October 1984 (age 41) Born In. Santa Barbara, Santa Barbara County, California, United States. Katheryn Elizabeth Hudson,",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/HAJ1lki3bfuPwLmbHGLGMhux554lvZw3k-dtVDNlYdc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313ccb1e9c255cffb10/images/RBCFFAmHJqNlcMz6doPiqoGKJb92VJebcL0yGHHdGUY.png",
+      "index": 15
+    },
+    {
+      "title": "Katy Perry",
+      "link": "https://jhmovie.fandom.com/wiki/Katy_Perry",
+      "snippet": "Katy Perry * Birth name. Katheryn Elizabeth Hudson. * Born. October 25, 1984 (age 41) * Birth place. Santa Barbara, California, U.",
+      "source": "JH Wiki Collection Wiki",
+      "thumbnail": "https://jhmovie.fandom.com/wiki/Katy_Perry",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://jhmovie.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Happy 41st Birthday to Katy Perry! (Born October 25, 1984)",
+      "link": "https://www.facebook.com/metamorphosis.videos/posts/happy-41st-birthday-to-katy-perryborn-october-25-1984/847922964237117/#:~:text=Happy%2041st%20Birthday%20to%20Katy,Metamorphosis",
+      "snippet": "Happy 41st Birthday to Katy Perry! (Born October 25, 1984) ... Happy 41st Birthday to Katy Perry! (Born October 25, 1984) ... Eric...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT_hrnA2OQ1jC_xr8fWujSAyWYyuYmzsWmtkL5q5ubso_JWypXC",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Katy Perry biography and birthday - Facebook",
+      "link": "https://www.facebook.com/groups/321174751660862/posts/2273045876473730/#:~:text=%E2%9D%A4%EF%B8%8FKaty%20Perry%20//%20%F0%9F%91%8D,%E2%9D%A4%EF%B8%8F",
+      "snippet": "\u2764\ufe0fKaty Perry // \ud83d\udc4dTaylor Swift Katy Perry is an American singer, songwriter, and television personality known for her vibrant pop ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqq-qggYjezhyPAnTRx4dIrTEpHu4QdPWybNBemSrKEFaJcZ0r",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Katy Perry - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Katy_Perry#:~:text=Outside%20of%20music%2C%20Perry%20released,UNICEF%20Goodwill%20Ambassador%20in%202013.",
+      "snippet": "* Singer. * songwriter. * television personality. ... The world's highest-paid female musician in 2015 and 2018, she was named by ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1A2fjL3-1T6FKZ_jFPhkrmm0JQQuCBPrPUXavG68peKz4Yind",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Exploring Katy Perry's Incredible Vocal Range - TikTok",
+      "link": "https://www.tiktok.com/@brittanyraymusic/video/7458308988808072478#:~:text=%F0%9F%91%91%20Let's%20dive%20into%20Katy's,she%20can%20push%20even%20higher!",
+      "snippet": "Exploring Katy Perry's Incredible Vocal Range. \ud83c\udfa4\u2728 Celebrating a throwback to one year ago on this day! It's all about the incredi...",
+      "source": "TikTok",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5zOE4VrFM4twcN2pTZx1MI5JtTJcmTGTwZ_PnssHad9VOVqk2",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tiktok.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Katy Perry's Music Career and Pop Culture Impact - Facebook",
+      "link": "https://www.facebook.com/groups/7973148649384711/posts/24074087242197595/#:~:text=Katy%20Perry%20is%20a%20pop%20sensation%20whose%20vibrant%2C%20catchy%20tunes,Firework%20%23PopStar%20%23MusicIcon%20%23KatyCats",
+      "snippet": "Katy Perry \u2013 The Pop Powerhouse with Unstoppable Spark Katy Perry is a global pop icon known for her powerhouse vocals, vibrant st...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQvw9PMbbEw6dLX4TKsFpC3ME5Ukb8cAzHFCtJevehxQmvtAMQE",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Katy Perry age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Katy+Perry/+wiki#:~:text=Born,The%20result?",
+      "snippet": "Born. 25 October 1984 (age 41) Born In. Santa Barbara, Santa Barbara County, California, United States. Katheryn Elizabeth Hudson,",
+      "source": "Last.fm",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSoFqe7tJn9ljlyt3cf-N6hyCkEnASz4-Lv2ddR4qTxRwZ2Dwmy",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.last.fm&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "The Rise and Evolution of Katy Perry\u2019s Iconic Pop Career - Medium",
+      "link": "https://medium.com/@shubhamdass1112/katy-perry-bio-the-rise-and-evolution-of-katy-perrys-iconic-pop-career-4f3a7e2d1f0b#:~:text=by%20GetSomeKnowledge%20%7C%20Medium-,Katy%20Perry%20Bio%20%E2%80%94%20%E2%80%9CThe%20Rise%20and%20Evolution%20of,Katy%20Perry's%20Iconic%20Pop%20Career%E2%80%9D&text=Katy%20Perry%2C%20born%20Katheryn%20Elizabeth,impact%20on%20the%20music%20industry.",
+      "snippet": "Katy Perry Bio \u2014 \u201cThe Rise and Evolution of Katy Perry's Iconic Pop Career\u201d ... Katy Perry, born Katheryn Elizabeth Hudson, is an ...",
+      "source": "Medium",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR245q6h9I3Jqdl4liEVMEPdnBJ_EnkTSdOdkwGGQqOxJwRcN1Q",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Learning English Through Music: Katy Perry",
+      "link": "https://learningenglish.voanews.com/a/katy-perry-133993058/131320.html#:~:text=Katy%20says%20telling%20a%20story,want%20to%20really%20sing%20along.%E2%80%9D",
+      "snippet": "Katy says telling a story is important to her when she is writing a song. She says what makes a song fun is when the words to the ...",
+      "source": "VOA - Voice of America English News",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrdsqQxlW3QeptY9kWNADF3ay3UJPudrRWF2P5yg0F5fu3v3xO",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://learningenglish.voanews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "The Katy Perry Wiki | Fandom",
+      "link": "https://katyperry.fandom.com/wiki/Katy_Perry#:~:text=During%20her%20formative%20years%2C%20Katy,as%20Katy%20Hudson%20in%202001.",
+      "snippet": "Trivia * Katy was born at 7:58 AM (PDT). * Katy's ancestry is 3/16 Portuguese (Katy's mother is of 3/8 Portuguese descent). Katy's...",
+      "source": "The Katy Perry Wiki | Fandom",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRB3Mypam9ReOnZ8KUFQwaToM_rTrQpTGfm2pt7Z-3iw9xy0D-N",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://katyperry.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "American singer and songwriter biography",
+      "link": "https://www.facebook.com/groups/3051209565172499/posts/3874719586154822/#:~:text=Perry's%20music%20is%20celebrated%20for,48w%20%C2%B7%20Public",
+      "snippet": "Katheryn Elizabeth Hudson (born October 25, 1984), known professionally as Katy Perry, is an American singer, songwriter, and tele...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qgeo-6dW52JjoCGxly9Z_A4SuWsvVVA-PCtJH-HtkOsqesye",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Katy Perry \u2014 The Movie Database (TMDB)",
+      "link": "https://www.themoviedb.org/person/111455-katy-perry#:~:text=Biography,female%20artist%20to%20do%20so.",
+      "snippet": "She later embarked on her first concert residency titled Play in Resorts World Las Vegas, selling out multiple shows and receiving...",
+      "source": "The Movie Database (TMDB)",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUbqlGiTgcGCGOwM5ERBzR8XLzfiLmR78hj3Q230fkPYw64lf9",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.themoviedb.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Katy Perry facts: Singer's age, real name, husband, children ...",
+      "link": "https://www.smoothradio.com/news/music/katy-perry-age-husband-children-facts/#:~:text=As%20well%20as%20appearing%20as,follow%2Dup%20The%20Smurfs%202.",
+      "snippet": "Katy Perry is one of the biggest stars of the last 15 years. She's also been an ever-present in the showbiz columns, as well as ju...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_jpeksRBD_CCW5_LRjeiXA8pzI85JD4-NGBwzCyqoUVeRg82p",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smoothradio.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Katy Perry Lights Up Housing Market With a $14.2M Montecito ...",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/katy-perry-lights-up-housing-market-with-montecito-mansion/#:~:text=Katy%20Perry%20Lights%20Up%20Housing%20Market%20With%20a%20$14.2M%20Montecito%20Mansion,-By%20Claudine%20Zap&text=The%20pop%20singer%20Katy%20Perry,Meghan%20Markle%20and%20Prince%20Harry.",
+      "snippet": "Katy Perry Lights Up Housing Market With a $14.2M Montecito Mansion. ... The pop singer Katy Perry and the actor Orlando Bloom hav...",
+      "source": "Realtor.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS06faMYt7J7QnWj5WyYTHv5bWMlV8rVL03FlcRAKR097uJFHrS",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Inside Katy Perry's $40 Million Property Portfolio - Robb Report",
+      "link": "https://robbreport.com/shelter/celebrity-homes/lists/katy-perry-property-portfolio-1237400425/#:~:text=The%20property%20itself%20is%20impressive,estate%20battles%20to%20an%20end.",
+      "snippet": "The fight, however, didn't end there. Perry then sought about $5 million in damages, claiming she'd lost significant rental income...",
+      "source": "Robb Report",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRq3eOxSAUwxiYTL9KPE0nw0SVOAttIZO5HQUaYcwhEi4cwktLZ",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://robbreport.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Katy Perry finally gets keys to $15 million Montecito mansion after ...",
+      "link": "https://www.supertalk.fm/katy-perry-finally-gets-keys-to-15-million-montecito-mansion-after-court-battle-with-mississippi-businessman/#:~:text=Katy%20Perry%20finally%20gets%20keys,with%20Mississippi%20businessman%20%2D%20SuperTalk%20Mississippi",
+      "snippet": "Katy Perry finally gets keys to $15 million Montecito mansion after court battle with Mississippi businessman * After a years-long...",
+      "source": "SuperTalk Mississippi Media",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXwqsmt5H5Oe4NQ45BFSlg0C8FAt0RGFejZAq7C3BXQ6aQT1kD",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.supertalk.fm&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    }
+  ]
+}

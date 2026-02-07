@@ -1,0 +1,391 @@
+{
+  "search_metadata": {
+    "id": "6987c313bd1731eaef20984d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NsRmOe5Uyx0RYEgwXftLYQ/6987c313bd1731eaef20984d.json",
+    "created_at": "2026-02-07 22:56:19 UTC",
+    "processed_at": "2026-02-07 22:56:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Ariana+Grande%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Ariana+Grande%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/NsRmOe5Uyx0RYEgwXftLYQ/6987c313bd1731eaef20984d.html",
+    "prettify_html_file": "https://serpapi.com/searches/NsRmOe5Uyx0RYEgwXftLYQ/6987c313bd1731eaef20984d.prettify",
+    "total_time_taken": 8.05
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Ariana Grande, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "Yk6cvXicPZBJrqNWAEWl7CA7YFglxf_TGIz15QHNowfDA4PxBNGZ5tHYBptmno1EpUTKBrKArOJnNamSotw7PUe6ur_-lld_AfaoxJcrrUSkurNCu4hr_c7h3_LmkX7-LbT9FHpQz4NpNvzsGTcFBc88iFHTZzikzbNmeVQD_BXefZmoczlcE3lkLmSzJHLjZQjqR7-8WLVDmGs5njwLmMENT9CeTNs9nyLL9FbYJB58QIBGHyHKRcTFAqNoSVrjrhfZB3DJ5IyKfZ8HZSYdwV4N_Vtrncqr-Z33msa5kNLdpSTe5HsjxK0f6Oi7xMXs0j-fQ_6I4iLvxs_c7NeqaeJ3-g3HvpwJ4gMzqu45YzPLRMz2K8bdbk0e5Ileje80tXujGOyLrnim8QvWVCjH5DxF_VdMKB99m78TW_IN_1HMja_xo_pP-T3te1Tl__z0cxS5efp85BvXg_aBExmxL16CJkTBFNuoLQO3zqu5fPIDFRpy7EQL15WUCgZHpi5rEYq3RfMtKKeewQ7t8TXPxd3bu14QRfwmGV5ZwOBoK8NWsoPr3aOG_APjgHDgYq2N6dcrdQejZ6lajCQx6WS5UJjE3Q6LNqdmGpeZ6TiZMHk2EoW2gVzYteoH9v9o_iTowDsIJid-YKJ_ADslYhHO6mAqBsXBl2MSXUlSO_NLMxFNpKDdmOLu1Z25H_nALFU80CR70B40hc84gHtAVI-NI9mzPlpN58sqPBOisGTTbGfqUX9mQbqnzjrDPJaV3xxF8njCzSksTjrPloB1u0GT4nOwDJ00yLJC6GtvL08CrG6Wjdxp8cJUXqG728WXLD2DSahh3QXalPB7VTfNmdeczaMGa1bcBF2xFsa_uqifXruUJjQZv6MB0l2a3o2r8GS3m-3VTMLLzNt9A3j-qg6pGJiWr9DGTLPrKmwk2OhRQzQ2KAKr83YzPOaIL3QYvXKtYuXvr96YG9qIr912v2enb-0wos8_uNMI5qtA2ve1NhLp7gRDmc-aKZi24Fq8-gyl05C8ZA1ZayNkdpbr1XN29mnJwhKtfA-QnxFlqp5O7qkatR3JnVN3sWCDYErZcm27Y9zezh0tQX876WMgRvfC4NqR8HGqY8vqYqCiqg2DvT3xYHdW71w1UbAkHMUjapJRNM0RzH8B2k1jLg",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Ariana Grande remains a prominent figure in the entertainment industry, balancing a return to her musical theater roots with a major upcoming tour."
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 32 years old (Born June 26, 1993)."
+        },
+        {
+          "snippet": "Current Residence: Los Angeles, California. She notably owns a mansion in the Hollywood Hills."
+        }
+      ],
+      "reference_indexes": [
+        9,
+        7,
+        6,
+        13,
+        15
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer & Songwriter: Her primary career since 2013, with seven studio albums released."
+        },
+        {
+          "snippet": "Actress: Currently prioritizing film and stage roles; starred as Glinda in Wicked (2024) and Wicked: For Good (2025).",
+          "snippet_links": [
+            {
+              "text": "Wicked",
+              "link": "https://www.google.com/search?q=Wicked&kgmid=/g/11b_2659rr&sa=X&ved=2ahUKEwigj4WDvciSAxVTRvEDHT5PC-AQ3egRegQIBhAD"
+            },
+            {
+              "text": "Wicked: For Good",
+              "link": "https://www.google.com/search?q=Wicked:+For+Good&kgmid=/g/11q9rs4r1d&sa=X&ved=2ahUKEwigj4WDvciSAxVTRvEDHT5PC-AQ3egRegQIBhAF"
+            }
+          ]
+        },
+        {
+          "snippet": "Businesswoman & Designer: Founder of r.e.m. beauty (launched 2021) and a multi-billion dollar fragrance line."
+        },
+        {
+          "snippet": "Philanthropist: Advocate for mental health, LGBTQ+ rights, and animal welfare."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        2,
+        8,
+        4,
+        16
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Abilities"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        0,
+        11,
+        5,
+        14,
+        12,
+        1
+      ],
+      "table": [
+        [
+          "Skill / Ability",
+          "Proficiency & Notable Details"
+        ],
+        [
+          "Vocal Performance",
+          "Master Level. Known for a four-octave range, mastery of the whistle register, and precise technical control."
+        ],
+        [
+          "Songwriting",
+          "High. Involved in writing the majority of her discography, often blending pop, R&B, and trap genres."
+        ],
+        [
+          "Vocal Arrangement",
+          "High. Heavily involved in the production and vocal layering/arrangement of her studio recordings."
+        ],
+        [
+          "Musical Theater",
+          "Expert. Professionally trained from childhood; recently completed extensive vocal retraining for her role in Wicked."
+        ],
+        [
+          "Live Performance",
+          "Elite. Regarded for consistency in live vocals that match studio quality; she is set to embark on the \"Eternal Sunshine Tour\" in June 2026."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill / Ability"
+          },
+          {
+            "snippet": "Proficiency & Notable Details"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Performance"
+          },
+          {
+            "snippet": "Master Level. Known for a four-octave range, mastery of the whistle register, and precise technical control."
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriting"
+          },
+          {
+            "snippet": "High. Involved in writing the majority of her discography, often blending pop, R&B, and trap genres."
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Arrangement"
+          },
+          {
+            "snippet": "High. Heavily involved in the production and vocal layering/arrangement of her studio recordings."
+          }
+        ],
+        [
+          {
+            "snippet": "Musical Theater"
+          },
+          {
+            "snippet": "Expert. Professionally trained from childhood; recently completed extensive vocal retraining for her role in Wicked."
+          }
+        ],
+        [
+          {
+            "snippet": "Live Performance"
+          },
+          {
+            "snippet": "Elite. Regarded for consistency in live vocals that match studio quality; she is set to embark on the \"Eternal Sunshine Tour\" in June 2026."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_ability": "Vocal Performance",
+          "proficiency_notable_details": "Master Level. Known for a four-octave range, mastery of the whistle register, and precise technical control."
+        },
+        {
+          "skill_ability": "Songwriting",
+          "proficiency_notable_details": "High. Involved in writing the majority of her discography, often blending pop, R&B, and trap genres."
+        },
+        {
+          "skill_ability": "Vocal Arrangement",
+          "proficiency_notable_details": "High. Heavily involved in the production and vocal layering/arrangement of her studio recordings."
+        },
+        {
+          "skill_ability": "Musical Theater",
+          "proficiency_notable_details": "Expert. Professionally trained from childhood; recently completed extensive vocal retraining for her role in Wicked."
+        },
+        {
+          "skill_ability": "Live Performance",
+          "proficiency_notable_details": "Elite. Regarded for consistency in live vocals that match studio quality; she is set to embark on the \"Eternal Sunshine Tour\" in June 2026."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Activities (2026)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Touring: She will kick off the Eternal Sunshine Tour on June 6, 2026, in Oakland, CA. She has hinted this may be her last major tour for some time as she shifts focus toward acting."
+        },
+        {
+          "snippet": "Theater: Confirmed to star in a West End revival of Sunday in the Park with George alongside Jonathan Bailey."
+        },
+        {
+          "snippet": "Film: Set to star in the film Focker In-Law, targeted for a late 2026 release.",
+          "snippet_links": [
+            {
+              "text": "Focker In-Law",
+              "link": "https://www.google.com/search?q=Focker+In-Law&kgmid=/g/11ydktvdrh&sa=X&ved=2ahUKEwigj4WDvciSAxVTRvEDHT5PC-AQ3egRegQICxAE"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Ariana Grande - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ariana_Grande",
+      "snippet": "Table_content: header: | Ariana Grande | | row: | Ariana Grande: Grande in 2024 | : | row: | Ariana Grande: Born | : Ariana Grande...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/HPSR-bVmBri4cJ03TfLbVLPnygZwDOCCgp6gBiX-S8o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/3L4f7yZOTXlyOdz2n-SI5HNOj61x7IznzN3gL3sPiFc.png",
+      "index": 0
+    },
+    {
+      "title": "Ariana Grande Announces 2026 Tour Dates - IMDb",
+      "link": "https://www.imdb.com/news/ni65450228/#:~:text=Grammy%20winner%20Ariana%20Grande%20is,targeting%20a%20Thanksgiving%202026%20release.",
+      "snippet": "Ariana Grande Announces 2026 Tour Dates - IMDb. ... Grammy winner Ariana Grande is going to have a very busy 2026. After reprising...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/LAbkhYbbdZXSFYWVvjrF9q-P4Hg1MA2Q4323aBh-4kY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/nTqlf-T0EJKjvueDbw6oHZWfteudAmeSgKZ1Ah5uDjg.jpeg",
+      "index": 1
+    },
+    {
+      "title": "Ariana Grande Speaks Out on Potential Career Break - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/music/articles/ariana-grande-speaks-potential-career-110334835.html#:~:text=And%20by%20few%2C%20I%20mean,Break%20appeared%20first%20on%20Mandatory.",
+      "snippet": "Jan 27, 2026 \u2014 And by few, I mean 15.\u201d \u201cBalance is the goal for the next 15 years \u2026 I don't think they will look like the previous 15 years. I th...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/ir7aD1E7YLTW5NqBeNUbr4hGvAL2Bob-O4ho756MynE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/uI_xqKRSAbbTe5Go3BLZGqN4yodcMj7U6YBAQdjCWUw.png",
+      "index": 2
+    },
+    {
+      "title": "Ariana Grande Ends Pop Star Era, Focuses on Acting Career",
+      "link": "https://popcrush.com/ariana-grande-last-tour-2026-acting-career/#:~:text=Ariana%20Grande%20Ends%20Pop%20Star,she%20told%20host%20Amy%20Poehler.",
+      "snippet": "Nov 19, 2025 \u2014 Ariana Grande Ends Pop Star Era, Focuses on Acting Career. Dimitrios Kambouris, Getty Images. Ariana Grande Is Ending Her Pop Star...",
+      "source": "PopCrush",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/bKThCLmxYgZYft_yFuTzWnkC7n0RK1fwRmAnVQLOJLo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/m3ARhXrIw8gJwQdWfceRf4aa5oyt1iOquHGfuqf7Rd0.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Ariana Grande is reportedly shifting her focus toward acting long-term ...",
+      "link": "https://www.facebook.com/seen.everything/posts/ariana-grande-is-reportedly-shifting-her-focus-toward-acting-long-term-following/1200920595578939/#:~:text=Ariana%20Grande%20has%20found%20her,theaters%20on%20November%2025%2C%202026.",
+      "snippet": "Jan 29, 2026 \u2014 Ariana Grande is reportedly shifting her focus toward acting long-term following her acclaimed performance in Wicked. She recently...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/bD-H0KcsHH6zjNM5-ZfpRuQO7OuykTmdcdYxSatJltg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/BNm2HHoWV19knlyYDBo8TKrxbzfh59MMFbLfsXRze0Q.png",
+      "index": 4
+    },
+    {
+      "title": "Unveiling Ariana Grande's Talents: Why She's A Superstar",
+      "link": "https://presensi.perpusnas.go.id/pro-ideas/unveiling-ariana-grandes-talents-why-shes-a-superstar-1767646372#:~:text=in%20every%20performance.-,The%20Vocal%20Range%20and%20Techniques,is%20apparent%20in%20every%20performance.",
+      "snippet": "Jan 6, 2026 \u2014 This is the main strength of Ariana Grande that can't be understated. It's the foundation upon which her entire career has been bu...",
+      "source": "PerpusNas",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/CZUjCLbvlAUnCUBrDcmbeoBgpOJcxR-keMqZBhqN0uc.png",
+      "index": 5
+    },
+    {
+      "title": "Ariana Grande\u2019s house in Los Angeles, California. - Instagram",
+      "link": "https://www.instagram.com/reel/DChKPB3uTy2/#:~:text=Ariana%20Grande's%20house%20in%20Los%20Angeles%2C%20California.&text=%F0%9F%8E%A5%20Video%20Credit%20:%20@realestates.,foryoupage%20%23mansion%20%23explore%20%23explorepage",
+      "snippet": "Nov 18, 2024 \u2014 Ariana Grande's house in Los Angeles, California. ... \ud83c\udfa5 Video Credit : @realestates.ai \u2022 \u2022 \ud83c\udff7\ufe0f #arianagrande #singer #music #cele...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/WnCYIVc62d9ZDb4cNNqb5YJCUtvC1KPTswyx6HSaixA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/QTjckfOu8XCDEXIc6ay6BCbzojjis-KqJM0vQyCt3Ss.png",
+      "index": 6
+    },
+    {
+      "title": "\ud83c\udfb6 Ariana Grande\u2019s $13M Dream Home in LA ... - Instagram",
+      "link": "https://www.instagram.com/p/DMdH0VOIOy9/#:~:text=Home%20in%20LA-,Just%20before%20her%20wedding%2C%20Ariana%20bought%20this%20modern%2010%2C000%20sq,:%20Woods%20+%20Dangaran%20%7C%20iDesignArch)&text=%2D-,%23realestate%20%23property%20%23design%20%23architecture%20%23home%20%23,house%20%23luxury%20%23wealth%20%23viral",
+      "snippet": "Jul 23, 2025 \u2014 \ud83c\udfb6 Ariana Grande's $13M Dream Home in LA. Just before her wedding, Ariana bought this modern 10,000 sq ft home in the exclusive Bi...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/svfNqoXS6txsPLhItB86ObhUEEBz-sLkXz6OrmCj1r0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/ktgecWwGqZWbpUZ5MufTZiUNve4ekb1dK9O1nbnf22c.png",
+      "index": 7
+    },
+    {
+      "title": "Ariana Grande's birthday and biography - Facebook",
+      "link": "https://www.facebook.com/groups/321174751660862/posts/2166784357099883/#:~:text=%F0%9F%8E%82Happy%2032nd%20birthday%20to,%F0%9F%8E%82",
+      "snippet": "Jun 26, 2025 \u2014 \ud83c\udf82Happy 32nd birthday to singer and actress Ariana Grande! Grande was born on Ariana Grande-Butera on June 26, 1993 in Boca Raton,",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/hqVj9nMFwzuG_jPmBDuLzrlnQ2UdGYnEA-O7TUoUGzE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/jEfwxajglX3JgHpoXIMxysoMfOei9DidZxyZrGQIi2Y.png",
+      "index": 8
+    },
+    {
+      "title": "Ariana Grande Wiki | Fandom",
+      "link": "https://arianagrande.fandom.com/wiki/Ariana_Grande#:~:text=General%20information,James%20Marchione%20(stepbrother)",
+      "snippet": "Feb 1, 2024 \u2014 General information. Born. Ariana Grande-Butera. June 26, 1993 (age 32) Boca Raton, Florida, U.S. Nickname(s) Ari. Gender. Female.",
+      "source": "Ariana Grande Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/58S4xvhHIym9_zkFZ83aLD_zZWrm3PGo8ARLwpjHPFM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/yT6v82ArzIgb9s3NLT8KtgX-gVR783Dqk5Py1o2ocZA.png",
+      "index": 9
+    },
+    {
+      "title": "Explaining on Instagram: \"Ariana Grande has built a career ...",
+      "link": "https://www.instagram.com/reel/DSbX4LuDG1y/?hl=en#:~:text=Ariana%20Grande%20has%20built%20a,explaining",
+      "snippet": "Dec 18, 2025 \u2014 Ariana Grande has built a career defined by vocal precision, range, and consistency in an era dominated by studio production. From...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/PYHZ5HZdeplbYtH9SU-CeykSdJ-vfc4gJXz2GbdqI8c.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Happy 29th birthday to **Ariana Grande**, born on **June 26, 1993* ...",
+      "link": "https://www.facebook.com/61552152400047/posts/happy-29th-birthday-to-ariana-grande-born-on-june-26-1993-in-boca-raton-florida-/122290045346071746/#:~:text=Happy%20birthday%20to%20the%20beautiful,extends%20into%20the%20whistle%20register.",
+      "snippet": "Oct 13, 2025 \u2014 Happy birthday to the beautiful American Singer Ariana Grande \ud83c\udf39\ud83c\udf39 Born: June 26, 1993 (age 32 years) Regarded as a pop icon and a...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/up6D-OoYx8cG6-rpTT-Sl5hcqdpoSf7QErR3T_o8qZU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/kKkk5rMyZlnsaO6FSQmJkH-urlAsZQT0xf97-xtF_es.png",
+      "index": 11
+    },
+    {
+      "title": "Ariana Grande Says She Did 'Extensive Vocal Training' for ...",
+      "link": "https://www.complex.com/music/a/markelibert/ariana-grande-vocal-training-wicked#:~:text=Grande%20pointed%20out%20that%20while,my%20life%2C%E2%80%9D%20she%20said.",
+      "snippet": "Jan 13, 2026 \u2014 Grande pointed out that while she does have a musical theater foundation and was trained as a young performer, her voice has spent...",
+      "source": "Complex",
+      "thumbnail": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/L-9Cj01rZBituMrBUv748eBjlpEdntoJMRpUsFRvjDE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/wAihK-2j8cr7RKR1cgTtnzk0f4iJJfxDt1iL32N-3x0.png",
+      "index": 12
+    },
+    {
+      "title": "Ariana Grande's Hollywood Hills Mansion Built In Seconds ...",
+      "link": "https://www.instagram.com/reel/DTQHSjTEpM5/#:~:text=LuxRise%20%7C%20Ariana%20Grande's%20Hollywood%20Hills,????...",
+      "snippet": "Jan 8, 2026 \u2014 Ariana Grande's Hollywood Hills Mansion Built In Seconds. #Timelapse #Construction #ArianaGrande #CelebsHome. Ariana Grande has ow...",
+      "source": "Instagram",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/FeHR7ns2-2xMU4nL2PZzeu5ehNNiimPLhA0VgJWl5HQ.png",
+      "index": 13
+    },
+    {
+      "title": "The Amazing Talents Of Ariana Grande: More Than Just A ...",
+      "link": "https://vault.nimc.gov.ng/blog/the-amazing-talents-of-ariana-grande-more-than-just-a-pop-star-1764818632#:~:text=Table%20of%20Contents,yet%20powerful%2C%20and%20instantly%20recognizable.",
+      "snippet": "Dec 4, 2025 \u2014 Table of Contents * Vocal Prowess and Range. * Songwriting Abilities. * Dancing and Performance. * Acting Skills. * Business Acume...",
+      "source": "National Identity Management Commission (NIMC)",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/X0WReBV7MMRyVwAq2vigqqpRf5sYmKBA2fqdZwmVXOw.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Where Does Ariana Grande Live? Inside the Star's Incredible Real ...",
+      "link": "https://www.yahoo.com/entertainment/celebrity/articles/where-does-ariana-grande-live-164900715.html#:~:text=Hollywood%20Hills%20Haven,Angeles's%20swanky%20Hollywood%20Hills%20neighborhood.",
+      "snippet": "Nov 11, 2025 \u2014 Hollywood Hills Haven In 2020, as her career soared with the success of her albums \u201cThank U, Next\u201d and \u201cPositions,\u201d Grande upgrade...",
+      "source": "www.yahoo.com",
+      "source_icon": "https://serpapi.com/searches/6987c313bd1731eaef20984d/images/f-5du0uLPyylkYYvtuJU2WATZHUt5jWcofZZDIWsu80.png",
+      "index": 15
+    },
+    {
+      "title": "Ariana Grande On Her Future In Music Amid 'Focker In-Law ...",
+      "link": "https://deadline.com/2025/11/ariana-grande-future-music-focker-in-law-american-horror-story-season-13-casting-1236608044/#:~:text=Ariana%20Grande%20Mike%20Coppola%20/%20Getty,to%20have%20a%20heart%20attack.%E2%80%9D",
+      "snippet": "Ariana Grande Mike Coppola / Getty Images. Ariana Grande has been making headlines lately for booking roles in film and television...",
+      "source": "Deadline",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuvESNDaLZ5tnGD_4TLwMWymuSncqSQPjtBa97XohjMg6aaUpE",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://deadline.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What were some highlights of Ariana Grande's 2025 music and film releases?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+were+some+highlights+of+Ariana+Grande%27s+2025+music+and+film+releases%3F&subsequent_request_token=Yk6cvXicPZBJrqNWAEWl7CA7YFglxf_TGIz15QHNowfDA4PxBNGZ5tHYBptmno1EpUTKBrKArOJnNamSotw7PUe6ur_-lld_AfaoxJcrrUSkurNCu4hr_c7h3_LmkX7-LbT9FHpQz4NpNvzsGTcFBc88iFHTZzikzbNmeVQD_BXefZmoczlcE3lkLmSzJHLjZQjqR7-8WLVDmGs5njwLmMENT9CeTNs9nyLL9FbYJB58QIBGHyHKRcTFAqNoSVrjrhfZB3DJ5IyKfZ8HZSYdwV4N_Vtrncqr-Z33msa5kNLdpSTe5HsjxK0f6Oi7xMXs0j-fQ_6I4iLvxs_c7NeqaeJ3-g3HvpwJ4gMzqu45YzPLRMz2K8bdbk0e5Ileje80tXujGOyLrnim8QvWVCjH5DxF_VdMKB99m78TW_IN_1HMja_xo_pP-T3te1Tl__z0cxS5efp85BvXg_aBExmxL16CJkTBFNuoLQO3zqu5fPIDFRpy7EQL15WUCgZHpi5rEYq3RfMtKKeewQ7t8TXPxd3bu14QRfwmGV5ZwOBoK8NWsoPr3aOG_APjgHDgYq2N6dcrdQejZ6lajCQx6WS5UJjE3Q6LNqdmGpeZ6TiZMHk2EoW2gVzYteoH9v9o_iTowDsIJid-YKJ_ADslYhHO6mAqBsXBl2MSXUlSO_NLMxFNpKDdmOLu1Z25H_nALFU80CR70B40hc84gHtAVI-NI9mzPlpN58sqPBOisGTTbGfqUX9mQbqnzjrDPJaV3xxF8njCzSksTjrPloB1u0GT4nOwDJ00yLJC6GtvL08CrG6Wjdxp8cJUXqG728WXLD2DSahh3QXalPB7VTfNmdeczaMGa1bcBF2xFsa_uqifXruUJjQZv6MB0l2a3o2r8GS3m-3VTMLLzNt9A3j-qg6pGJiWr9DGTLPrKmwk2OhRQzQ2KAKr83YzPOaIL3QYvXKtYuXvr96YG9qIr912v2enb-0wos8_uNMI5qtA2ve1NhLp7gRDmc-aKZi24Fq8-gyl05C8ZA1ZayNkdpbr1XN29mnJwhKtfA-QnxFlqp5O7qkatR3JnVN3sWCDYErZcm27Y9zezh0tQX876WMgRvfC4NqR8HGqY8vqYqCiqg2DvT3xYHdW71w1UbAkHMUjapJRNM0RzH8B2k1jLg"
+    },
+    {
+      "question": "What's Sunday in the Park with George about?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What%27s+Sunday+in+the+Park+with+George+about%3F&subsequent_request_token=Yk6cvXicPZBJrqNWAEWl7CA7YFglxf_TGIz15QHNowfDA4PxBNGZ5tHYBptmno1EpUTKBrKArOJnNamSotw7PUe6ur_-lld_AfaoxJcrrUSkurNCu4hr_c7h3_LmkX7-LbT9FHpQz4NpNvzsGTcFBc88iFHTZzikzbNmeVQD_BXefZmoczlcE3lkLmSzJHLjZQjqR7-8WLVDmGs5njwLmMENT9CeTNs9nyLL9FbYJB58QIBGHyHKRcTFAqNoSVrjrhfZB3DJ5IyKfZ8HZSYdwV4N_Vtrncqr-Z33msa5kNLdpSTe5HsjxK0f6Oi7xMXs0j-fQ_6I4iLvxs_c7NeqaeJ3-g3HvpwJ4gMzqu45YzPLRMz2K8bdbk0e5Ileje80tXujGOyLrnim8QvWVCjH5DxF_VdMKB99m78TW_IN_1HMja_xo_pP-T3te1Tl__z0cxS5efp85BvXg_aBExmxL16CJkTBFNuoLQO3zqu5fPIDFRpy7EQL15WUCgZHpi5rEYq3RfMtKKeewQ7t8TXPxd3bu14QRfwmGV5ZwOBoK8NWsoPr3aOG_APjgHDgYq2N6dcrdQejZ6lajCQx6WS5UJjE3Q6LNqdmGpeZ6TiZMHk2EoW2gVzYteoH9v9o_iTowDsIJid-YKJ_ADslYhHO6mAqBsXBl2MSXUlSO_NLMxFNpKDdmOLu1Z25H_nALFU80CR70B40hc84gHtAVI-NI9mzPlpN58sqPBOisGTTbGfqUX9mQbqnzjrDPJaV3xxF8njCzSksTjrPloB1u0GT4nOwDJ00yLJC6GtvL08CrG6Wjdxp8cJUXqG728WXLD2DSahh3QXalPB7VTfNmdeczaMGa1bcBF2xFsa_uqifXruUJjQZv6MB0l2a3o2r8GS3m-3VTMLLzNt9A3j-qg6pGJiWr9DGTLPrKmwk2OhRQzQ2KAKr83YzPOaIL3QYvXKtYuXvr96YG9qIr912v2enb-0wos8_uNMI5qtA2ve1NhLp7gRDmc-aKZi24Fq8-gyl05C8ZA1ZayNkdpbr1XN29mnJwhKtfA-QnxFlqp5O7qkatR3JnVN3sWCDYErZcm27Y9zezh0tQX876WMgRvfC4NqR8HGqY8vqYqCiqg2DvT3xYHdW71w1UbAkHMUjapJRNM0RzH8B2k1jLg"
+    },
+    {
+      "question": "Show me R.E.M. beauty products",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Show+me+R.E.M.+beauty+products&subsequent_request_token=Yk6cvXicPZBJrqNWAEWl7CA7YFglxf_TGIz15QHNowfDA4PxBNGZ5tHYBptmno1EpUTKBrKArOJnNamSotw7PUe6ur_-lld_AfaoxJcrrUSkurNCu4hr_c7h3_LmkX7-LbT9FHpQz4NpNvzsGTcFBc88iFHTZzikzbNmeVQD_BXefZmoczlcE3lkLmSzJHLjZQjqR7-8WLVDmGs5njwLmMENT9CeTNs9nyLL9FbYJB58QIBGHyHKRcTFAqNoSVrjrhfZB3DJ5IyKfZ8HZSYdwV4N_Vtrncqr-Z33msa5kNLdpSTe5HsjxK0f6Oi7xMXs0j-fQ_6I4iLvxs_c7NeqaeJ3-g3HvpwJ4gMzqu45YzPLRMz2K8bdbk0e5Ileje80tXujGOyLrnim8QvWVCjH5DxF_VdMKB99m78TW_IN_1HMja_xo_pP-T3te1Tl__z0cxS5efp85BvXg_aBExmxL16CJkTBFNuoLQO3zqu5fPIDFRpy7EQL15WUCgZHpi5rEYq3RfMtKKeewQ7t8TXPxd3bu14QRfwmGV5ZwOBoK8NWsoPr3aOG_APjgHDgYq2N6dcrdQejZ6lajCQx6WS5UJjE3Q6LNqdmGpeZ6TiZMHk2EoW2gVzYteoH9v9o_iTowDsIJid-YKJ_ADslYhHO6mAqBsXBl2MSXUlSO_NLMxFNpKDdmOLu1Z25H_nALFU80CR70B40hc84gHtAVI-NI9mzPlpN58sqPBOisGTTbGfqUX9mQbqnzjrDPJaV3xxF8njCzSksTjrPloB1u0GT4nOwDJ00yLJC6GtvL08CrG6Wjdxp8cJUXqG728WXLD2DSahh3QXalPB7VTfNmdeczaMGa1bcBF2xFsa_uqifXruUJjQZv6MB0l2a3o2r8GS3m-3VTMLLzNt9A3j-qg6pGJiWr9DGTLPrKmwk2OhRQzQ2KAKr83YzPOaIL3QYvXKtYuXvr96YG9qIr912v2enb-0wos8_uNMI5qtA2ve1NhLp7gRDmc-aKZi24Fq8-gyl05C8ZA1ZayNkdpbr1XN29mnJwhKtfA-QnxFlqp5O7qkatR3JnVN3sWCDYErZcm27Y9zezh0tQX876WMgRvfC4NqR8HGqY8vqYqCiqg2DvT3xYHdW71w1UbAkHMUjapJRNM0RzH8B2k1jLg"
+    }
+  ]
+}

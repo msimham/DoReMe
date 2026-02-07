@@ -1,0 +1,258 @@
+{
+  "search_metadata": {
+    "id": "6987c2e84c437f2463b56851",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/tSYiJ3cQAk4gaPjibOc8Rw/6987c2e84c437f2463b56851.json",
+    "created_at": "2026-02-07 22:55:36 UTC",
+    "processed_at": "2026-02-07 22:55:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Stevie+Wonder%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Stevie+Wonder%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/tSYiJ3cQAk4gaPjibOc8Rw/6987c2e84c437f2463b56851.html",
+    "prettify_html_file": "https://serpapi.com/searches/tSYiJ3cQAk4gaPjibOc8Rw/6987c2e84c437f2463b56851.prettify",
+    "total_time_taken": 8.22
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Stevie Wonder, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "5rKmHHicPY9JjqNmAIWlXCMblt1SqGI2yPKCyczYzMMGMdlgfgYzFJh9XyRqJVIukAPkFJXTpCNFeW_3SU_63rdfy_pPytDkNNNWJYE_at24Mswte1ne9xKM-edffNuvkWun9h7hWYtWnsD5pdBgjmxyBYJOFs4SqT88ra6SrXberd0UHWQApVhMuTzIvjjwsWATWdC8DKFSHDDYLji_3AZwpsg881Ak0870MlTFo8d5zdv5YXoMlQmq7OwA-EGsWXuspw9xyzCyE6scc71ZiQJVLxBw08N4cEXUurigjTpg-3avl-2gOruZ2iEnm774xzKVY5Ley27-7I1-rwFI38k3BPoS1F3RrxNkuhCKvCFH6AegiCO0UcRXiB1-vAjKTKvndxI_vOEU9EWTXUP_BQJ1U0JSmTf9V4ivxr4t31Ecf0P-LeSkt3Ss_5v8lvd9U5d___Rzkjhlvowl7Lj29cQKlNDfF5BUd22LifXu0XEcugpypREzu_YfZ9g56JXENKLFEHZ0gWdMG2pAjkTWYkjiCQieVdVLGaynAT6cSVA8yVT4hynvBXtuPfYIsSJ_YlO1Tcm5ZBAS2Gc0zVLUdSVyZ2wbu3TX2dIbXLNmthEk3PSisCGrK0cXG78eof-NOY_XRPfEc9MREvwTC5Py4Uxci8RA72xfIFwiD4aGXKoLWLe2zbVhMEF0pe4ry16EkbidRWPQPWc12B85QqYinEiMPinK4vpxuFAF3lMSVWndsBai4_FF0LVYbDxhkWBjql5826LALigXFC4WdWEBjfCU0wC7fmBj1PnJmCYD0W28rqbaaCJuuHeu34Rm3pFJs2V31NBpK8srJaRk_YHdwpycBoJcGp1MFlE8D7UdM6LrPBhuXktOD9I4vs_61uIVvfDFQRIuneSPEz48kMTUpqTLbP9WrMuHbGIHc2QXT3nBPjx3DEZ1o-fP6plRcR8MDYHjiD82WWiY8BN1U-qhjNXYpZSO0m7lMZbJfW-nufn8nfVmcbvxZRwiZ7ewnlTEVnU_HV5cthzcuBhdIndIZGATNdL5Lu20vo0vwaZ7ik0v9DV4iQp7LTzq5pOyKuv04WHNvJDIUhu58BRGTiYFTitIG_wULFZtg9fTkxBK2hhPaYEtB1U5PzPvEpYvlXgZHf4II-UO2sWWh53s7ng6b2fvH4RbZrY",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Stevie Wonder is 75 years old, born on May 13, 1950. He is widely recognized as a \"musical genius\" and a virtuoso child prodigy who mastered multiple instruments by age nine.",
+      "reference_indexes": [
+        2,
+        1,
+        10,
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Occupations: Singer, songwriter, multi-instrumentalist, record producer, and sound engineer."
+        },
+        {
+          "snippet": "Vocal Abilities: Renowned for a three-octave range, exceptional breath control, and the ability to transition seamlessly between rich low notes and a smooth falsetto."
+        },
+        {
+          "snippet": "Instrumentation Proficiency:",
+          "list": [
+            {
+              "snippet": "Piano/Keyboards: Master/Virtuoso level; he is a pioneer in the use of synthesizers and Clavinets."
+            },
+            {
+              "snippet": "Harmonica: Virtuoso; known for his \"frantic\" and sophisticated chromatic harmonica playing."
+            },
+            {
+              "snippet": "Drums/Percussion: Master level; he often plays drums on his own studio recordings."
+            },
+            {
+              "snippet": "Others: Highly proficient in bass guitar, congas, bongos, and the harpejji.",
+              "snippet_links": [
+                {
+                  "text": "harpejji",
+                  "link": "https://ultimatepopculture.fandom.com/wiki/Stevie_Wonder"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Technical Skills: Possesses perfect pitch (absolute pitch) and is an expert in sound design and music production."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        4,
+        5,
+        8,
+        12,
+        14,
+        3,
+        9
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence Location"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary City/State: Los Angeles, California.",
+          "snippet_links": [
+            {
+              "text": "Los Angeles, California",
+              "link": "https://www.google.com/search?q=Los+Angeles,+California&kgmid=/m/030qb3t&sa=X&ved=2ahUKEwjC2MjuvMiSAxWrD1kFHVrYIB0Q3egRegQIBxAC"
+            }
+          ]
+        },
+        {
+          "snippet": "Specific Neighborhood: He resides in a large estate in Bel Air Crest."
+        },
+        {
+          "snippet": "Dual Residency: In May 2024, he was officially granted Ghanaian citizenship and has expressed a long-standing desire to spend significant time in Ghana."
+        }
+      ],
+      "reference_indexes": [
+        7,
+        13,
+        6,
+        11
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of the specific instruments Stevie Wonder played on his most famous albums?"
+    }
+  ],
+  "references": [
+    {
+      "title": "\u201cLittle\u201d Stevie Wonder: Motown musical prodigy - Illinois Experts",
+      "link": "https://experts.illinois.edu/en/publications/little-stevie-wonder-motown-musical-prodigy/#:~:text=Abstract,State",
+      "snippet": "Abstract. Stevie Wonder began his career as a soul musician at Motown records at the age of 11. His work there playing R&B represe...",
+      "source": "Illinois Experts",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/G7jTRz8drAIg4K57J47Za5o-ghok-i7tE3Fha5WkZxM.png",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/sShpUDMfHH4Y6frhf3GjtwH6Yi65MMwHXzTf5rLw7lQ.png",
+      "index": 0
+    },
+    {
+      "title": "Stevie Wonder - New World Encyclopedia",
+      "link": "https://www.newworldencyclopedia.org/entry/Stevie_Wonder#:~:text=Table_content:%20header:%20%7C%20Stevie%20Wonder%20%7C%20%7C,Stevie%20Wonder:%20Website%20%7C%20:%20http://www.steviewonder.org.uk%20%7C",
+      "snippet": "Table_content: header: | Stevie Wonder | | row: | Stevie Wonder: Stevie Wonder at a conference in Bahia, Brazil | : | row: | Stevi...",
+      "source": "New World Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/h_MiXAaHDU_VrOk5q8tqODcTD8ObGbbnuOQdNU-joHI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/1ANJRSRVvhopxxZKm3LDQt0HnBNt7wax_szljWX2dfM.png",
+      "index": 1
+    },
+    {
+      "title": "Stevie Wonder - New World Encyclopedia",
+      "link": "https://www.newworldencyclopedia.org/entry/Stevie_Wonder#:~:text=Table_content:%20header:%20%7C%20Stevie%20Wonder%20%7C%20%7C,Wonder:%20Years%20active%20%7C%20:%201961%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Stevie Wonder | | row: | Stevie Wonder: Born | : May 13 1950 (age 75) Saginaw, Michigan, United States | ...",
+      "source": "New World Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/VZ105bu68X2xWSoQmsGMV_gFa5uWrOKfLMUWJzNgth0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/nbtanyXk3tsEP_-iDd0n_LN6SzqTQMbqycaopXWl2Gc.png",
+      "index": 2
+    },
+    {
+      "title": "Stevie Wonder. Stevie Wonder is never going to read\u2026 | by ...",
+      "link": "https://medium.com/@soundslavestudio1/stevie-wonder-0a9c2f48eda6#:~:text=Some%20people%20consider%20Stevie%20Wonder,a%20lot%20of%20other%20instruments",
+      "snippet": "Oct 24, 2024 \u2014 Some people consider Stevie Wonder a lyrical and musical genius, and there is definitely a lot of reasons why, he made innovative ...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/-0BHBl85XWYlejNx5WfAU0yo5D5qGHbF5Cp-lKy2hi0.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Stevie Wonder - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Stevie_Wonder#:~:text=Table_content:%20header:%20%7C%20Stevie%20Wonder%20%7C%20%7C,:%20Singer%20songwriter%20musician%20record%20producer%20%7C",
+      "snippet": "Table_content: header: | Stevie Wonder | | row: | Stevie Wonder: Born | : Stevland Hardaway Judkins May 13, 1950 Saginaw, Michigan...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/XmwzVI4bs7pVk58994TkmI9gxwhtFMaZf_Y4Qv3SsJg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/gLOkiMosLqZqVByedPT9gtsjrffQLu6c2NFlGAP0bRk.png",
+      "index": 4
+    },
+    {
+      "title": "Stevie Wonder is one of the most legendary vocalists of our time. He's ...",
+      "link": "https://www.instagram.com/p/DAdEWM-oZDl/#:~:text=of%20our%20time.-,He's%20known%20for%20his%20exceptional%20range%2C%20agility%2C%20and%20emotion%2D,and%20a%20clear%2C%20smooth%20falsetto.",
+      "snippet": "Sep 25, 2024 \u2014 Stevie Wonder is one of the most legendary vocalists of our time. He's known for his exceptional range, agility, and emotion-fille...",
+      "source": "Instagram",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/IipHY9AbOWB7i8rIDRiteFYa6msLUVnWM3IO0FhnJxA.png",
+      "index": 5
+    },
+    {
+      "title": "Renowned musician Stevie Wonder officially became a Ghanaian ...",
+      "link": "https://www.instagram.com/p/C7C2boNyCpR/#:~:text=amplifyafrica-,Renowned%20musician%20Stevie%20Wonder%20officially%20became%20a%20Ghanaian%20citizen%20on,Video:",
+      "snippet": "May 16, 2024 \u2014 Renowned musician Stevie Wonder officially became a Ghanaian citizen on May 13th, coinciding with his 74th birthday. President Aku...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/YExguoS_sQDtOjMqWrHP5-BRgmxgZ0cnRr_5f5vRzJc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/VWlmNJsMYN9qCC6P9R6bea4JNTmJTodnQNgZYEhiIgg.png",
+      "index": 6
+    },
+    {
+      "title": "Stevie Wonder's residence is situated in Bel Air Crest, Los Angeles, ...",
+      "link": "https://www.facebook.com/HouseOfCeleb/videos/stevie-wonders-residence-is-situated-in-bel-air-crest-los-angeles-california-it-/487737037102377/#:~:text=House%20Of%20Celebs-,Stevie%20Wonder's%20residence%20is%20situated%20in%20Bel%20Air%20Crest%2C%20Los,%23luxuryhomes%20%23fyp%E3%82%B7%20%23losangeles",
+      "snippet": "Jun 28, 2024 \u2014 Stevie Wonder's residence is situated in Bel Air Crest, Los Angeles, California. It boasts 11 bedrooms and 15 bathrooms, including...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/1wa41kXMkphoPdEqa7JKVnDkA-HfINrVzTv54BW9Hw0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/-l9CEVOEp1YQmQJ57YAfvbhWcjXaUbMDFVKlTmwLpJo.png",
+      "index": 7
+    },
+    {
+      "title": "Stevie Wonder | National Black History Month | SFGMC",
+      "link": "https://www.sfgmc.org/national-black-history-month/stevie-wonder",
+      "snippet": "Stevie Wonder * Stevie Wonder. Born: May, 13, 1950. Place: Saginaw, MI. ... * For the Black community, the 60s were a pivotal mome...",
+      "source": "San Francisco Gay Men's Chorus",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/sNTYFZobLA_Y1XFSYGyB2IpBTX6N1AUQbfdF5F2JiVw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/4p3Sv5NPdz_3Epe4VdIwDJ8HVfVLwPe-DRdiTFCyfsc.jpeg",
+      "index": 8
+    },
+    {
+      "title": "perfect pitch (Sept/Oct 2003) - Yale Alumni Magazine",
+      "link": "http://archives.yalealumnimagazine.com/issues/03_09/perfectpitch.html#:~:text=Many%20of%20the%20greatest%20composers,Brian%20Wilson%2C%20and%20Jimi%20Hendrix.",
+      "snippet": "Many of the greatest composers\u2014Beethoven, Bach, Chopin, Handel, Mozart, and Bartok, to name several\u2014are thought to have had perfec...",
+      "source": "Yale Alumni Magazine",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/qhEyhqecrtGkQzr-L9CqKz_WD6ZO5R7n1GAZDeZ3-Is.png",
+      "index": 9
+    },
+    {
+      "title": "Stevie Wonder | Library of Congress",
+      "link": "https://www.loc.gov/item/n50013801/steve-wonder/#:~:text=Born%20in%20Saginaw%2C%20Michigan%20in,when%20he%20was%20age%2012.",
+      "snippet": "Born in Saginaw, Michigan in 1950, Stevie Wonder became blind shortly after birth. He learned to play the harmonica, piano and dru...",
+      "source": "The Library of Congress (.gov)",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/PnYF9vcSzNyYF42FwQBQNS6VuhDTI42VFU42qQQBQOU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/jzYCFOO7XDW_WPYIiEfkX0XRo4GvGvNH9hkmia4t-bc.png",
+      "index": 10
+    },
+    {
+      "title": "Stevie Wonder Finds a New Home: Musician Receives Ghanaian ...",
+      "link": "https://continenttours.com/stevie-wonder-finds-a-new-home-musician-receives-ghanaian-citizenship/#:~:text=A%20Turning%20Point:%20From%20Admiration,his%20new%20life%20in%20Ghana.",
+      "snippet": "May 15, 2024 \u2014 A Turning Point: From Admiration to Belonging. Stevie's interest in Ghana was not sudden. He previously hinted at a desire to relo...",
+      "source": "Continent Tours",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/aXT_Kmi12BwVYiphwUEEnWsx5fxjJgJJ42LkG1kMfJ8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/p-m6nwxCedZZ0nyoHa12k_DAgiBLvFdZp97z_1gC7Is.png",
+      "index": 11
+    },
+    {
+      "title": "Stevie Wonder | Biography, Albums, Songs, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Stevie-Wonder#:~:text=Blind%20from%20birth%20and%20raised,Chicago's%20Regal%20Theatre%20in%201963.",
+      "snippet": "Dec 30, 2025 \u2014 Blind from birth and raised in inner-city Detroit, he was a skilled musician by age eight. Renamed Little Stevie Wonder by Berry G...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/2RdyfyiW0r6OQh5kycsVU8-G0mnafSk6SpkWS3wYbEU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/5EwM-im1mM04BZFpoNZXx0pWKcXnr_5FovamcHVLZWo.png",
+      "index": 12
+    },
+    {
+      "title": "Stevie Wonder buys Bel-Air mansion for $19.5 million - nine.com.au",
+      "link": "https://www.nine.com.au/property/news/stevie-wonder-buys-bel-air-mansion-from-saudi-prince-los-angeles-celebrity-real-estate/0ddca590-4fad-489c-9f82-0d813940551b#:~:text=Music%20legend%20Stevie%20Wonder%20acquires,Saudi%20Prince%20for%20$19.5%20million&text=Stevie%20Wonder%20buys%20Bel%2DAir%20mansion%20from%20Saudi%20Prince%20for,no%20less%20than%2015%20bathrooms.&text=Apart%20from%20its%20epic%20proportions,Fresh%20Prince%20of%20Bel%2DAir.&text=No%2C%20Dirt%20reports%20the%20multiple,community%20for%20nearly%20a%20decade.",
+      "snippet": "Dec 21, 2021 \u2014 Music legend Stevie Wonder acquires Bel-Air mansion from Saudi Prince for $19.5 million. ... Stevie Wonder buys Bel-Air mansion fr...",
+      "source": "Nine",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/pCHe4DrQN8MV1djUAgO303mNn5S_fujMgdbWrJZRP9c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/KWCvoE1dTTNc31cGiJIhMHmwpqarBqnfd5nzmfoPbNs.png",
+      "index": 13
+    },
+    {
+      "title": "Stevie Wonder | Ultimate Pop Culture Wiki | Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Stevie_Wonder#:~:text=Table_content:%20header:%20%7C%20Stevie%20Wonder%20%7C%20%7C,guitar%2C%20congas%2C%20bongos%2C%20keytar%2C%20accordion%2C%20harpejji%20%7C",
+      "snippet": "Jun 15, 2005 \u2014 Table_content: header: | Stevie Wonder | | row: | Stevie Wonder: Born | : (1950-05-13) May 13, 1950 (age 75) Saginaw, Michigan, U.",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/gl2GuLpXoAUnJQxC5_su_XvkInPVEcjjxoLRjeJQKOY.png",
+      "index": 14
+    },
+    {
+      "title": "Stevie Wonder - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Stevie_Wonder#:~:text=Stevland%20Hardaway%20Judkins%20(born%20May,producer%2C%20and%20multi%2Dinstrumentalist.&text=Saginaw%2C%20Michigan%2C%20U.S.&text=A%20child%20prodigy%2C%20Wonder%20became,him%20%22Messenger%20of%20Peace%22.",
+      "snippet": "Stevland Hardaway Judkins (born May 13, 1950) known by his stage name Stevie \"The Visionary\" Wonder, is an American musician, sing...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/jc7OjEXbY0Ff0tyDJxAnIhxfNSGTfOxhO2S5z0-N-JU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e84c437f2463b56851/images/k-eKXldS9SpZY-sCTPR0KrIVWpI6U21KLMInHJHipdA.png",
+      "index": 15
+    }
+  ]
+}

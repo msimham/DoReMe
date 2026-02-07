@@ -1,0 +1,384 @@
+{
+  "search_metadata": {
+    "id": "6987c32d6c4c0c2014736db1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/lymTw-dG4iXbnGrtW4WJgQ/6987c32d6c4c0c2014736db1.json",
+    "created_at": "2026-02-07 22:56:45 UTC",
+    "processed_at": "2026-02-07 22:56:45 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=The+Kinks%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=The+Kinks%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/lymTw-dG4iXbnGrtW4WJgQ/6987c32d6c4c0c2014736db1.html",
+    "prettify_html_file": "https://serpapi.com/searches/lymTw-dG4iXbnGrtW4WJgQ/6987c32d6c4c0c2014736db1.prettify",
+    "total_time_taken": 8.11
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "The Kinks, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "a4Xa83icTYxJjqNmAEalnCBHYNkthSpmg0peMNtMBsy8QRh-M4PNZGDfF4laiZQL5AA5Rec0qUhZ5Hu7J73v26-g_FNLL6ckxeMTM3ftVJv7fQaYJX4HzZD--Itv-1fouNs1sHer4oSsNayrYGyGZK227_Fh46m2o09R7clZ52F6Y1vA94REfMj-KZOtFiVTVBkML7vqXWQAoXl-uiLApHuKZYnvT5UhF6G-R2NSFyhoo7MheVxUN6GNK42xc6QnRGdXJpeLE3VikekhwpxDX98DJCczn5wyebI-OzRyFNu2ew2IIma16W5hnh5i9B_zCIY4yUE3_ej1fi-bJnkn3xDoi192Wf8aIcOBUOQN-YA-BUV8QCtFfIXYx6MBPrip5fRO4oc3nIK-qCdH136BmrIGkAzSuv8K8cXQt-AdJfA35F-ga3JPhvK_5Le07-sS_P3Tz6zIH9lEaRNy3myw5fsjrcgkpxoYMUsNfo4P2HzKFCK8mpUwkoQrp8LRD6R6S_eT9QHF8RWk8wBgzuVV0TnyF1H6gATvaMH86ruYjHvn53iykO1yi-8Yqtw2v3kxTUHFgZK2cN6uIvu5_z1dHds8sgIl9PmEXzeGb_VlK9eCDbXGd92J86TDS3gW9tq_SG_pXM0_ZAZ5p4Q03ujllqDL1FrBQHme64paxFVOoNDsYZf51lVM0SN8BZQqpn5Axlk4khh95JRou_CuQnIFnsAoNtNm5YzSzLL-tvRVE-SpgF5oZWmlmarxrK1uJK9N66WiLenq0Pz5gt1rRH5oCQFLARzSqo2NJhvsaAXzQ0qoxOXF9EpKPLa8XvdSHPmRdLhCP1sPkj-3LTch6JCrNzs2Lj0Dxpg6p0BLbhjT0ApPdUkYJz4vMl4J6JfBUJ0Sx7fQofT7Sas0Suv3_pk9S8kc1ELeu24E1HNfiliCH4hudxJpq4feIOVxADgakIIUUyqb1Guh6yIT7vyWI6q1Uvn3dpzqH7-z7iSud1a96aoyr3Pcv3C8L8eGqIUFR0mr1Z4GBoLYXMSNCURW4grfXdfZ2k5WSxTFUBmmhWsKjlGUW62MCUpDdMbXwXRsy8z8hq_34ESXPuem1Mi0cQDig1njNNerExthgx1UVNIt5QLfdMfLqxb277Bo7Z_GYRS1Rgn4kIn_AEEiY74",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Key details for the core surviving members of The Kinks are provided below. Original bassist Pete Quaife passed away in 2010.",
+      "reference_indexes": [
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "1. Ray Davies"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 81 (Born June 21, 1944)."
+        },
+        {
+          "snippet": "Occupations: Musician, singer, songwriter, director, and producer."
+        },
+        {
+          "snippet": "Musical Skills & Abilities:",
+          "list": [
+            {
+              "snippet": "Vocals: Lead vocalist with a distinctive, witty delivery; highly proficient."
+            },
+            {
+              "snippet": "Songwriting: Principal writer; world-renowned for observational and satirical lyrics; expert level."
+            },
+            {
+              "snippet": "Instruments: Rhythm guitar, keyboards, and harmonica."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: London, England (Fortis Green/Muswell Hill area)."
+        }
+      ],
+      "reference_indexes": [
+        20,
+        13,
+        1,
+        22,
+        23,
+        4,
+        0,
+        15,
+        10
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "2. Dave Davies"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 78 (Born February 3, 1947)."
+        },
+        {
+          "snippet": "Occupations: Musician, singer, and songwriter."
+        },
+        {
+          "snippet": "Musical Skills & Abilities:",
+          "list": [
+            {
+              "snippet": "Lead Guitar: Known for pioneering distorted guitar tones and power chords; expert level (ranked 88th in Rolling Stone's 100 Greatest Guitarists).",
+              "snippet_links": [
+                {
+                  "text": "Rolling Stone's 100 Greatest Guitarists",
+                  "link": "https://www.last.fm/music/Dave+Davies/+wiki"
+                }
+              ]
+            },
+            {
+              "snippet": "Vocals: Lead vocals on select tracks (e.g., \"Death of a Clown\") and backing vocals."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: Bergen County, New Jersey (USA).",
+          "snippet_links": [
+            {
+              "text": "Bergen County",
+              "link": "https://www.google.com/search?q=Bergen+County&kgmid=/m/0n5j_&sa=X&ved=2ahUKEwi12cKPvciSAxUgk2oFHeggBekQ3egRegQIBxAI"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        8,
+        11,
+        2,
+        14,
+        7,
+        9
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "3. Mick Avory"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 81 (Born February 15, 1944)."
+        },
+        {
+          "snippet": "Occupations: Musician and studio manager."
+        },
+        {
+          "snippet": "Musical Skills & Abilities:",
+          "list": [
+            {
+              "snippet": "Drums/Percussion: Longest-serving drummer for The Kinks; known for a \"tight and steady\" jazz-influenced style; highly proficient."
+            },
+            {
+              "snippet": "Management: Manager of Konk Studios since leaving the band in 1984."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: London, England (Hampton/Surrey area).",
+          "snippet_links": [
+            {
+              "text": "London",
+              "link": "https://www.google.com/search?q=London&kgmid=/m/04jpl&sa=X&ved=2ahUKEwi12cKPvciSAxUgk2oFHeggBekQ3egRegQICRAH"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        3,
+        5,
+        18,
+        19,
+        6
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about the specific albums produced during their most influential years or the status of a potential reunion?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Ray Davies - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ray_Davies#:~:text=Table_title:%20Ray%20Davies%20Table_content:%20header:%20%7C%20Sir,%7C%20:%20Vocals%20guitar%20harmonica%20keyboards%20%7C",
+      "snippet": "Table_title: Ray Davies Table_content: header: | Sir Ray Davies CBE | | row: | Sir Ray Davies CBE: Born | : Raymond Douglas Davies...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/kXFGTdrLdejPzU1XnhhAOWUHj6gC_3B0u9CQ3kuYT7g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/8Gr4cgamG3cm6USZk6D3qYwVXgh6J5kgN1FysnMKXXY.png",
+      "index": 0
+    },
+    {
+      "title": "Ray Davies - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Ray_Davies#:~:text=Sir%20Raymond%20Douglas%20Davies%20CBE,embarked%20on%20a%20solo%20career.",
+      "snippet": "Sir Raymond Douglas Davies CBE (born 21 June 1944) is an English musician. He was the lead vocalist, rhythm guitarist and primary ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/AUGFjhX6leqJoaJBWfWYlw3SuVXaPlrsBl84YCkV3qE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/gcGIIEaHkMH1KAYJHOh2deIOTGzf5NibinW2WVZJTuk.png",
+      "index": 1
+    },
+    {
+      "title": "Dave Davies - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dave_Davies#:~:text=David%20Russell%20Gordon%20Davies%20(/%CB%88,metal%20and%20punk%20rock%20acts.",
+      "snippet": "David Russell Gordon Davies (/\u02c8de\u026avi\u02d0z/ DAY-veez; born 3 February 1947) is an English guitarist, singer and songwriter. He was the...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/7locDsNKtY223E8DJGcp0xWeCssr4NMMDi8wS1pPEpI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/sJSH-6_a5E6SQfeAh7QozzIot_ut6_qhztNoXio1lUU.png",
+      "index": 2
+    },
+    {
+      "title": "Here's the one and only Mick Avory! - Facebook",
+      "link": "https://www.facebook.com/groups/117000625525/posts/10168350326030526/#:~:text=Born%20today%20in%201944%20%2D%20Mick,apart%20from%20the%20Davies%20brothers.",
+      "snippet": "Mar 3, 2024 \u2014 Born today in 1944 - Mick Avory Mick Avory, drummer with The Kinks who had the 1964 UK No. 1 & US No. 7 'You Really Got Me', and t...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/VpEenIb8HktqtBVRqCxR0_g1DkS9o002f7Qu7zIb_PA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/YRoQro632Frb9prPezmJBlnqXUR-u_tMJED-yidlwPs.png",
+      "index": 3
+    },
+    {
+      "title": "Ray Davies facts: The Kinks singer's age, songs, career, wife ...",
+      "link": "https://www.goldradio.com/artists/the-kinks/ray-davies-age-songs-wife-children/#:~:text=How%20old%20is%20Ray%20Davies,did%20he%20form%20The%20Kinks?",
+      "snippet": "Jun 6, 2024 \u2014 Ray's storytelling and wit have left a lasting impact on music, making him one of the most respected and influential figures in th...",
+      "source": "Gold Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/EKAJ0netwv_xWHwb8Jewez2qUfQcA72LfuqCQ5lEfFM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/HdEtyqZuIJUqgYqEldzl5dYtU0eoBeGJFZxiarFD_Bw.png",
+      "index": 4
+    },
+    {
+      "title": "Mick Avory - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mick_Avory#:~:text=Table_content:%20header:%20%7C%20Mick%20Avory%20%7C%20%7C,Avory:%20Occupations%20%7C%20:%20Drummer%2C%20percussionist%20%7C",
+      "snippet": "Table_content: header: | Mick Avory | | row: | Mick Avory: Born | : Michael Charles Avory 15 February 1944 Chipping Barnet, Hertfo...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/CkT3qOyB16IFRGdPnEEAs5NI-hipQvpbCBQ1Yw8aU3k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/2GeVEdPd13kuzKzyHdtkRF88gp7Zi-auPmNWW3WMzPU.png",
+      "index": 5
+    },
+    {
+      "title": "Mick Avory - The Kinks",
+      "link": "https://thekinks.info/biographies/mick-avory/#:~:text=Mick%20Avory%2C%20born%2015%20February,a%20Ready%20Steady%20Go%20performance.",
+      "snippet": "Mick Avory, born 15 February 1944, in East Molesey, Surrey, drummed with The Kinks from January 1964 to 1984, making him the longe...",
+      "source": "The Kinks Official Site",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/Fr1bsuyIN6ud5QrB_bnPi0TuE3ZZQjdviEKxy_9pn6o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/jV4wPa2__OWZt6EWCPxjRcKmi67oeqVDW3jhpj823Ic.png",
+      "index": 6
+    },
+    {
+      "title": "Dave Davies of the Kinks Loves New Jersey",
+      "link": "https://njmonthly.com/articles/arts-entertainment/dave-davies-the-kinks-new-jersey-bergen-county/#:~:text=In%20the%20booth%20at%20Miller's,%E2%80%9CYou%20Really%20Got%20Me.%E2%80%9D",
+      "snippet": "Aug 2, 2024 \u2014 In the booth at Miller's, Davies, 77, wears a straight-brimmed black fedora, a purple Ben Sherman shirt, and a black coat with a N...",
+      "source": "New Jersey Monthly Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/IKeNW54e8ijC6zsNtQdlMCcZnIP9kZyLcY_TV-kyfWQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/nSWVssviWVWiAe0QEZt0IDL3A70mD06Zy3yVrl67L58.jpeg",
+      "index": 7
+    },
+    {
+      "title": "Dave Davies of The Kinks, one of the forefathers of hard rock and ...",
+      "link": "https://www.facebook.com/groups/835124990031973/posts/2948985118645939/#:~:text=Happy%2078th%20birthday%20to%20Dave,%F0%9F%8E%B8%F0%9F%94%A5%F0%9F%8E%B6",
+      "snippet": "Oct 25, 2025 \u2014 Happy 78th birthday to Dave Davies, the legendary guitarist and co-founder of *The Kinks*! Born on February 3, 1947, Davies' groun...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/g3vudinrDiCyBlq4eBG5ClJnyG9U2sMoBkEQgmw1PJY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/ltHsDtvDKuGyE9lUcdua2AaYA2p79oxawG-KeNnzdC4.png",
+      "index": 8
+    },
+    {
+      "title": "Dave Davies of The Kinks will sign books at Bookends in Ridgewood",
+      "link": "https://www.njarts.net/dave-davies-of-the-kinks-will-sign-books-at-bookends-in-ridgewood/#:~:text=Davies%2C%20who%20now%20lives%20in,and%20sang%20lead%20on%20them.",
+      "snippet": "May 3, 2025 \u2014 Davies, who now lives in Bergen County, formed The Kinks with his brother Ray (plus drummer Mick Avory and bassist Pete Quaife) in...",
+      "source": "NJArts.net",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/dX58vTEp5037OfSWdMId7Ul0hdchgze5_hTmHAh1biE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/cwkIPOeO7j0vdcfoAeJCHn9HWs4_IVuwxbWCcL6BvLI.png",
+      "index": 9
+    },
+    {
+      "title": "Ray Davies - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0203919/bio/#:~:text=Quotes%20(12)%20Edit-,Overview,for%20You%22%2C%20and%20others.",
+      "snippet": "Overview. Born. June 21, 1944 \u00b7 London, England, UK. Birth name. Raymond Douglas Davies. Nickname. The Godfather of Britpop. Heigh...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/icVEtRRURSZ1it6uGTrTKjErN_DN5Ddm5SauVsNzd-I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/I4NHUhvKK5N-H13dMquCWVwxUonwW071usehl2ZLvqY.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Also on February 3: On this day in 1947, Dave Davies was born. ...",
+      "link": "https://www.facebook.com/fabfourfaq2/posts/also-on-february-3-on-this-day-in-1947-dave-davies-was-bornhttpsyoutubeecfj66osf/1481905367273941/#:~:text=Happy%2078th%20Birthday%20to%20the,%23HappyBirthdayDaveDavies%20%23classicrockvideo%20%23classicrockvideos",
+      "snippet": "Feb 2, 2026 \u2014 Happy 78th Birthday to the legendary DAVE DAVIES, founding member and lead guitarist of the iconic British rock band The Kinks! Bo...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/E4tG0FyrsXNSqfaI-y1cxKC6AIWEJfp3uTFMboHFd1o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/rLMbgNnEWu-VncpCIRUvuw8HgLOoKtwFuwaKqoIwtu8.png",
+      "index": 11
+    },
+    {
+      "title": "The Kinks and Replacements: Career Derailing Bands - Facebook",
+      "link": "https://www.facebook.com/groups/537792766296918/posts/6670055566403910/#:~:text=Officially%20it%20was%20due%20to,social%20commentary%20keeps%20them%20timeless!",
+      "snippet": "Oct 24, 2023 \u2014 Officially it was due to union issues and bad behavior on tour \u2014 but many believe the Kinks were targeted for being \u201cunruly\u201d compa...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/jPrvqKLz2zm_1pe84kOnu918hgl-5lFG6ZEgz35dnMA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/rYkKuohhpRKwvvx649-w4DCkuNqzJSPnmKdT7Jix_YM.png",
+      "index": 12
+    },
+    {
+      "title": "Ray Davies Facts for Kids",
+      "link": "https://kids.kiddle.co/Ray_Davies#:~:text=Table_title:%20Ray%20Davies%20facts%20for%20kids%20Table_content:,CBE:%20Years%20active%20%7C%20:%201962%E2%80%93present%20%7C",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Ray Davies facts for kids Table_content: header: | Quick facts for kids Sir Ray Davies CBE | | row: | Quick facts for...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/H3fbUHtA1_vnrpT7Y3b22pmtmdvZuRcMxbXvM3ABSjo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/Np2jjg-bpQ5XtZvAXxyISQ3B7J80PYUrUMQZQW-Y5M4.png",
+      "index": 13
+    },
+    {
+      "title": "Dave Davies Facts for Kids",
+      "link": "https://kids.kiddle.co/Dave_Davies#:~:text=Table_title:%20Dave%20Davies%20facts%20for%20kids%20Table_content:,Associated%20acts%20%7C%20:%20The%20Kinks%20%7C",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Dave Davies facts for kids Table_content: header: | Quick facts for kids Dave Davies | | row: | Quick facts for kids ...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/MLo1vAxMB9Ewqyo8uGqhHSg_FAXQ0jqGz9JBQ1u9EuI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/cHopKGnou9Z8YHHDM5NCXL7iGyu6aiXyltlaRaq7zAw.png",
+      "index": 14
+    },
+    {
+      "title": "Ray Davies birthday on June 21 - Facebook",
+      "link": "https://www.facebook.com/groups/6751224771666935/posts/9778350962287619/#:~:text=21st%20June%201944%2080%20years,'You%20Really%20Got%20Me'.",
+      "snippet": "Jun 21, 2025 \u2014 21st June 1944 80 years old today. The singer-songwriter Raymond Douglas 'Ray' Davies CBE was born at 6 Denmark Terrace, Fortis Gr...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/hhZXaqiJnNP-Hq0OR7VkrsQGGfh7ji1tTyxG4TWS3g8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/uh2aacXwNCfEbvzV-l9UTaceZ1Pv9hP06rz3mQVONgY.png",
+      "index": 15
+    },
+    {
+      "title": "The one and only, Mick Avory! - Facebook",
+      "link": "https://www.facebook.com/groups/117000625525/posts/10163277401665526/#:~:text=Mick%20Avory%20%2D%20English%20drummer%20Michael,two%20decades%20of%20their%20career.",
+      "snippet": "Apr 21, 2020 \u2014 Mick Avory - English drummer Michael Charles \"Mick\" Avory (born February 15, 1944, in Hampton, England) is an English drummer, bes...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/vyXpU_vD48WgM5kmnpqAA69Rya--fyW1UqYFhIQAMdM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/yMr3vfu5fIp9ghog6JSCd-lgbgFQx7cY1sHbOAQHLdQ.png",
+      "index": 16
+    },
+    {
+      "title": "Dave Davies biography - Last.fm",
+      "link": "https://www.last.fm/music/Dave+Davies/+wiki#:~:text=David%20Russell%20Gordon%20%22Dave%22%20Davies,sing%20and%20play%20piano%20together.",
+      "snippet": "Feb 3, 2014 \u2014 David Russell Gordon \"Dave\" Davies (born 3 February 1947) is an English rock musician best known for his role as lead guitarist an...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/t7w1l8reUCCw3vWc2x7trA2sJPtjyLgPG-yEZR0BJMI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/vAYoSiXopDN88fQww2Y40Q8j16u2hu1FNMoLiZjZ8zw.png",
+      "index": 17
+    },
+    {
+      "title": "Happy Birthday MICK AVORY! (born Michael Charles ... - Facebook",
+      "link": "https://www.facebook.com/sajukebox/posts/happy-birthday-mick-avoryborn-michael-charles-avory-15-february-1944-east-molese/1014765880683651/#:~:text=Birthday%20MICK%20AVORY!-,(born%20Michael%20Charles%20Avory%20%E2%80%93%2015%20February%201944%20%2D%20East%20Molesey,(Via%20Henry%20Howard)",
+      "snippet": "Feb 15, 2025 \u2014 (born Michael Charles Avory \u2013 15 February 1944 - East Molesey, Surrey, England). Drummer: The KINKS (1964-84), The Kast Off Kinks,",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/IrPkHwKA3JNIMGTpAqPXzPt4LwX6eXH04_Ost20OFhY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/_cIRPJZpIYNdPtD0I6W5HQZYOvJi566GxEUQnqesbSw.png",
+      "index": 18
+    },
+    {
+      "title": "The Kinks hometown, lineup, biography | Last.fm",
+      "link": "https://www.last.fm/music/The+Kinks/+wiki#:~:text=With%20Ray%20Davies'%20songwriting%20skills,Edit%20this%20wiki",
+      "snippet": "Jun 14, 2025 \u2014 With Ray Davies' songwriting skills and unabashedly English voices, Dave Davies' impressive guitar work, and Avory's tight and ste...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/JqIyZ9slLuaINzHjNyTMbD3dXMJ4VpFEdIRjMwrI2Fw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/-AueKNKjwZRR79MFbaY05BW0IgK4oqOHMiCE-PBDOgg.png",
+      "index": 19
+    },
+    {
+      "title": "Ray Davies | Kinks, Songs, Age, & Americana - Britannica",
+      "link": "https://www.britannica.com/biography/Ray-Davies#:~:text=Ray%20Davies%20(born%20June%2021,the%20rock%20band%20the%20Kinks.",
+      "snippet": "Jan 29, 2026 \u2014 Ray Davies (born June 21, 1944, London, England) is an English musician and songwriter best known for his work with the rock band ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/JbQwh9W5jwArkZN0-GSPFVAHjmW4K1mRx03q_hLdEw4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/Sgyzh6G7Ymqi_M0uUDzBgm4SAenEa--DYG5tv_KITYc.png",
+      "index": 20
+    },
+    {
+      "title": "FEBRUARY 15, 1944 - Today he turns 80 years old #happybirthday",
+      "link": "https://www.youtube.com/shorts/iYu_6pwf7Go#:~:text=@longplay_85-,%22MICK%20AVORY%22%20(BIRTH)%20%2D%20FEBRUARY%2015%2C%201944,turns%2080%20years%20old%20%23happybirthday&text=TODAY%20HE%20TURNS%2080%20YEARS%20OLD%20ARTIST:%20%22MICK%20AVORY%22,copyright%20of%20their%20respective%20owners.",
+      "snippet": "Feb 15, 2024 \u2014 \"MICK AVORY\" (BIRTH) - FEBRUARY 15, 1944 - Today he turns 80 years old #happybirthday. ... TODAY HE TURNS 80 YEARS OLD ARTIST: \"MI...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/1mPXxqvEJNpDh1XmjZNy0daUn00C5sI-2oazDM051c4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/ZpoKjzChumrIMSRGVhn_Dh4kunExZHAmjyYLRYFxH50.png",
+      "index": 21
+    },
+    {
+      "title": "The Kinks | Members, Background, Songs, & Facts | Britannica",
+      "link": "https://www.britannica.com/topic/The-Kinks",
+      "snippet": "Jan 7, 2026 \u2014 * the Kinks, influential 1960s British Invasion group who infused their rhythm-and-blues beginnings with sharp social observation ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/rGlIHOds_9bJCoTAi0bhzI8jugLWta6Pfjm_vGma7qU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/scxpN8gxhRoPzUoIt5SwLikLVXb-SRrmbBsWF19LydQ.png",
+      "index": 22
+    },
+    {
+      "title": "The Kinks Band History and Music - Facebook",
+      "link": "https://www.facebook.com/groups/497882510748897/posts/1923735851496882/#:~:text=The%20Kinks%20were%20an%20English%20rock%20band%2C%20formed%20in%20Muswell,his%20'masterclasses'%20around%20country.&text=Ron%20Harsin%20%E2%96%BA%20Have%20You%20Heard%20This?",
+      "snippet": "Feb 15, 2025 \u2014 The Kinks were an English rock band, formed in Muswell Hill, London in 1963, by brothers, Ray and Dave Davies, along with Pete Qua...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/VF7tnpnEqg7kQI3y30xya7txNOy5cGkRhLeq03dIgyo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32d6c4c0c2014736db1/images/ub6IWP3_CbcxBBd7tDz8CdZYcPxZvtOXShqyhCpXEeY.png",
+      "index": 23
+    }
+  ]
+}

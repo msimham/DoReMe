@@ -1,0 +1,367 @@
+{
+  "search_metadata": {
+    "id": "6987c3352088af3784a404d4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ap-HUqSLmZ3S949t1YrbHw/6987c3352088af3784a404d4.json",
+    "created_at": "2026-02-07 22:56:53 UTC",
+    "processed_at": "2026-02-07 22:56:53 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Lana+Del+Rey%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Lana+Del+Rey%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/ap-HUqSLmZ3S949t1YrbHw/6987c3352088af3784a404d4.html",
+    "prettify_html_file": "https://serpapi.com/searches/ap-HUqSLmZ3S949t1YrbHw/6987c3352088af3784a404d4.prettify",
+    "total_time_taken": 8.38
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Lana Del Rey, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "gYe_inicPZNJjqNmAIWlHCEnYNktxVWAsQGVvGAeDJh52iDMYObpBwPe90WiViLlAjlATtE5TSpSlPftnvRJb_O-_ZqVf2rgJsbhvaPnhVx1Sj8PqLoY2PesmZIffzFtvwZ2itzZpr3DmxjXKTDQ066JfGu1qZh6mmFUmmdUaXXjpJNrO9vdHaasHty7YGrxi2cckULSLuRc1yzcFqw3Uas1gVduIs-rTQGrnat5LnEMqwI4ovaK7bAzXHlUfQcJ67RSebcOXmYdsybNFektgUkpcIfyXstwajdHh-MNraN223dNje4Vmy9ugU_PJuweE5v6YwHZFMWPrJt_LGr_Kpsmfj-9wdAXNU7Kbu5B8QFJ3Zw10GcB3SzIhxA4Qk4R_hWihqHJvOx-Lef30xF_O56hL1fRVpVfoKasM0jIkrr_CjHF1LfZO3JE3uB_gaw4j6fyP-W3pO_rMvv7p5-jyMqSZcoOlm3qF4o9s_0DwGwpqJXXVh1WcE9U0i0cs3YOHlZf4nA015NQDXC_vKpHdCnnSR3zpKxlWRVrjXjwW_Igt00xBYDwOZokFSsJnAPjI4pSp_IDojjmQsVyG59mmVRd53YlrHPNRyTfqDgew5TXzVy4FC15fKoNxTT8THbKIV_TKPKN4AP6fzTtMFfOvjDKQ_yAWPdCbA0xjk4NAmmEWVpPXpbFe2hxLr1m3erQG2Pe0mfqtXLUZz4gTWIvJ5S4sGHZDnuXTCWmT7GMDOdRWpScQUI5VB87QqZyvHSTIngjKFzEtpqnxYIKaBOIVl7E5D0F2KjDPV9r62q0al9pUyn5kVpiRKlSjyO25MWRSR6ivMj05KztKXBgfgbZBjzfguOJ8pIng7BP_zlKRsNYOnV7CHjbjFh9Ns9or8dlZV6t7iFF3GwxubBL23DiTHkcDW371Ch20MFt3rPCdCqUpFsya4mrwQKviYQB5h0ccHkGu6g5LweAlSEf2O3T9K9Xes04ZD3JC44l3PcWzPWP3yln5racUm5JaB7MRj4oiMIfcsPMDhiCmjlR7-Fdw51lNaiIGqrE5hJ6fdrHZCRRlMUkB2ujGQgcY8YZIlj7YqILTFL5WZbYwFFAU9GBXK5GSYTBZnQ0lWBP4vOpT6D29PmeWbttioTHkfGewwdQyeRakyTijrHf2GNUMpTs8tw_GcNoeg",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Lana Del Rey (Elizabeth Woolridge Grant) is 40 years old, born on June 21, 1985. She is currently based in Des Allemands, Louisiana, following her 2024 marriage to Jeremy Dufrene, though she maintains a significant residence in Los Angeles, California.",
+      "snippet_links": [
+        {
+          "text": "Des Allemands, Louisiana",
+          "link": "https://www.google.com/search?q=Des+Allemands,+Louisiana&kgmid=/m/013d9m&sa=X&ved=2ahUKEwjxjcSTvciSAxWJHXcKHdJXF70Q3egRegQIAhAC"
+        },
+        {
+          "text": "Los Angeles, California",
+          "link": "https://www.google.com/search?q=Los+Angeles,+California&kgmid=/m/030qb3t&sa=X&ved=2ahUKEwjxjcSTvciSAxWJHXcKHdJXF70Q3egRegQIAhAE"
+        }
+      ],
+      "reference_indexes": [
+        1,
+        11,
+        8,
+        9,
+        13
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lana is a multifaceted artist whose career spans various creative roles:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer-Songwriter: Her primary occupation. She has been named one of the greatest American songwriters of the 21st century by Rolling Stone UK."
+        },
+        {
+          "snippet": "Record Producer: Credits on several of her own projects, demonstrating technical involvement in her sound."
+        },
+        {
+          "snippet": "Poet & Author: Published the collection Violet Bent Backwards over the Grass (2020), which was accompanied by a spoken word album."
+        },
+        {
+          "snippet": "Director & Visual Artist: Often directs or scripts her own music videos and short films, such as the 30-minute film Tropico."
+        },
+        {
+          "snippet": "Musician: Plays the guitar, which she began learning at age 18."
+        }
+      ],
+      "reference_indexes": [
+        1,
+        0,
+        2,
+        7,
+        5,
+        10,
+        3
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Technical Proficiencies & Vocal Profile",
+      "reference_indexes": [
+        16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lana is highly regarded for her distinct technical abilities, often characterized as a Dugazon or Contralto vocal type.",
+      "reference_indexes": [
+        4,
+        15
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        4,
+        15,
+        2,
+        5,
+        6,
+        14,
+        12
+      ],
+      "table": [
+        [
+          "Skill Area",
+          "Proficiency Highlights",
+          "Source"
+        ],
+        [
+          "Vocal Range",
+          "Spans roughly 3 octaves (approx. A2 to Eb6)."
+        ],
+        [
+          "Lower Register",
+          "Considered her signature area; noted for its dark, \"smoky\" and \"husky\" tone."
+        ],
+        [
+          "Falsetto/Head Voice",
+          "Praised for being light, airy, and \"operatic,\" allowing her to stay in high registers for extended periods."
+        ],
+        [
+          "Songwriting",
+          "Recognized for \"cinematic\" storytelling, complex narratives, and use of literary allusions."
+        ],
+        [
+          "Musicality",
+          "Versatile across genres including indie pop, baroque pop, dream pop, and psychedelic rock."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill Area"
+          },
+          {
+            "snippet": "Proficiency Highlights"
+          },
+          {
+            "snippet": "Source"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Range"
+          },
+          {
+            "snippet": "Spans roughly 3 octaves (approx. A2 to Eb6)."
+          }
+        ],
+        [
+          {
+            "snippet": "Lower Register"
+          },
+          {
+            "snippet": "Considered her signature area; noted for its dark, \"smoky\" and \"husky\" tone."
+          }
+        ],
+        [
+          {
+            "snippet": "Falsetto/Head Voice"
+          },
+          {
+            "snippet": "Praised for being light, airy, and \"operatic,\" allowing her to stay in high registers for extended periods."
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriting"
+          },
+          {
+            "snippet": "Recognized for \"cinematic\" storytelling, complex narratives, and use of literary allusions."
+          }
+        ],
+        [
+          {
+            "snippet": "Musicality"
+          },
+          {
+            "snippet": "Versatile across genres including indie pop, baroque pop, dream pop, and psychedelic rock."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_area": "Vocal Range",
+          "proficiency_highlights": "Spans roughly 3 octaves (approx. A2 to Eb6)."
+        },
+        {
+          "skill_area": "Lower Register",
+          "proficiency_highlights": "Considered her signature area; noted for its dark, \"smoky\" and \"husky\" tone."
+        },
+        {
+          "skill_area": "Falsetto/Head Voice",
+          "proficiency_highlights": "Praised for being light, airy, and \"operatic,\" allowing her to stay in high registers for extended periods."
+        },
+        {
+          "skill_area": "Songwriting",
+          "proficiency_highlights": "Recognized for \"cinematic\" storytelling, complex narratives, and use of literary allusions."
+        },
+        {
+          "skill_area": "Musicality",
+          "proficiency_highlights": "Versatile across genres including indie pop, baroque pop, dream pop, and psychedelic rock."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "She has famously noted that she views herself as a \"writer first and a singer second,\" emphasizing that her vocal style is often shaped by the characters and narratives she creates.",
+      "reference_indexes": [
+        3
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Lana Del Rey Wiki | Fandom",
+      "link": "https://lanadelrey.fandom.com/wiki/Lana_Del_Rey#:~:text=Elizabeth%20Woolridge%20Grant%20(born%20June,particularly%201950s%20and%201960s%20Americana.",
+      "snippet": "Information * Full name. Elizabeth Woolridge Grant. * Born. June 21, 1985 (age 40) * Hometown. Lake Placid, New York, U.S. * Occup...",
+      "source": "Lana Del Rey Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/-q14JWDRLHNcvmBl75xRoCzGToA6G_gC-acm_5W8ghM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/GRGTSxfQViOY2TNBZPb29Wca2RUtzMs3iJRK7cwo8Fg.png",
+      "index": 0
+    },
+    {
+      "title": "Lana Del Rey Wiki | Fandom",
+      "link": "https://lanadelrey.fandom.com/wiki/Lana_Del_Rey#:~:text=Information,Los%20Angeles%2C%20California%2C%20U.S.",
+      "snippet": "Information. Full name. Elizabeth Woolridge Grant. Born. June 21, 1985 (age 40) Hometown. Lake Placid, New York, U.S. Occupation. ...",
+      "source": "Lana Del Rey Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/M2q_8vg51ZqhAXCtnWtC4l8KM_eWYl7G6ydEsCAkgkE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/uR_wfAYSyj8uz1OFzz1ol41TW5FmLCzFX8GYsDxVpoQ.png",
+      "index": 1
+    },
+    {
+      "title": "Lana Del Rey's Birthday and Music Career Achievements - Facebook",
+      "link": "https://www.facebook.com/groups/mainpopgirls/posts/1192986215353830/#:~:text=HAPPY%2040th%20BIRTHDAY%20Elizabeth%20Woolridge,Songwriter%20of%20the%2021st%20century.",
+      "snippet": "Jun 21, 2024 \u2014 HAPPY 39TH BIRTHDAY, LANA DEL REY! She is a third-time MTV award-winning singer- songwriter. In 2014, her first studio album, Ultr...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/jgLg7_MVWOvCCffYfTcSad_E1bnxY2kYklV_paqm3wo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/TJTOsHKfiUlrxQKu89lEzzfQnC8z8iWVm1so7zfaYzo.png",
+      "index": 2
+    },
+    {
+      "title": "Lana Del Rey - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm4787894/bio/#:~:text=On%20January%204%2C%202012%2C%20it,Scott%20and%20stars%20Damian%20Lewis.",
+      "snippet": "Biography * Vocalist Lana Del Rey makes atmospheric, orchestral, retro-'60s-sounding pop that showcases her torchy image and sensu...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/sk_TgcrDCvd8b7oCkyVr27g2uGJfWphSXLLaCcrALZ0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/NaN8xeBNQkkyRINfZvqJWw6lo88MevxjaaIGjjiLquk.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Lana Del Rey Vocal Range - Voice's Critic - WordPress.com",
+      "link": "https://vocalrangesratings.wordpress.com/2019/09/03/lana-del-rey-vocal-range/#:~:text=It%20also%20sounds%20very%20easy,4/10",
+      "snippet": "Sep 3, 2019 \u2014 Lana Del Rey Vocal Range * Vocal Type: Dugazon. * Vocal Range: 3 Octaves, three notes and one semitone (A2-F#5-Eb6). * Grade: B. *",
+      "source": "WordPress.com",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/AeYrHOOXga2RPzcEoBZXD4lt5VEWjIss7RSFYjROV2c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/6j9bVEA3d8koDmqR2fIBFXfSnbdA0HChJtbDW4zuEUE.png",
+      "index": 4
+    },
+    {
+      "title": "Lana Del Rey - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Lana_Del_Rey#:~:text=Elizabeth%20Woolridge%20Grant%20(born%20June,and%20four%20EPs%20since%202008.",
+      "snippet": "Lana Del Rey. ... Elizabeth Woolridge Grant (born June 21, 1985), also known as her stage name Lana Del Rey, is an American singer...",
+      "source": "Wikipedia",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/orF_khcLjl_g2k5wYQ88mbmoCBOQqNYUzCrFXqPzS5c.png",
+      "index": 5
+    },
+    {
+      "title": "Lana Del Rey has demonstrated an ability - Enlightened Conflict",
+      "link": "https://brucemctague.com/tag/lana-del-rey-has-demonstrated-an-ability#:~:text=Vocal%20Type:%20Mezzo%2DSoprano,soulless%E2%80%9D%20and%20%E2%80%9Chollow%E2%80%9D.",
+      "snippet": "Aug 29, 2013 \u2014 Katy has done it one way. Lana is doing it another way. ... Anyway. I do love that Lana Del Rey is not one of those 'one big hit' ...",
+      "source": "brucemctague.com",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/DSmeGh9Nc5Fo6s6Uht2txl9U7jJGdgezIo1-ZA4ccsA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/HUFL3peqTsLHyxEulWPxi4qMJqEOoV0_x35zVcUwkLk.png",
+      "index": 6
+    },
+    {
+      "title": "Lana Del Rey: A Deep Dive into Her Enigmatic Life and Career",
+      "link": "https://medium.com/@myarticlejournal/lana-del-rey-a-deep-dive-into-her-enigmatic-life-and-career-c228da0f6762#:~:text=Lana%20Del%20Rey%2C%20born,%2C%20loss%2C%20and%20Americana%20themes.",
+      "snippet": "Mar 25, 2023 \u2014 Lana Del Rey: A Deep Dive into Her Enigmatic Life and Career. ... Lana Del Rey, born Elizabeth Woolridge Grant, is an American sin...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/mVshIwxtf8H5XgC7BaxnCp36FT6vbKSOsanApjcR88A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/QiZs0ek6bwNUM6f0HNHQXEVM3VNxdJqZ2l_UxKY6NRk.png",
+      "index": 7
+    },
+    {
+      "title": "Lana Del Rey Talks Husband Jeremy Dufrene, New Country Album in 2026",
+      "link": "https://www.rollingstone.com/music/music-news/lana-del-rey-husband-jeremy-dufrene-new-country-album-2026-1235415567/#:~:text=Popular%20on%20Rolling%20Stone,with%20the%20alligators%2C%E2%80%9D%20too.",
+      "snippet": "Aug 26, 2025 \u2014 Popular on Rolling Stone. Since marrying, Del Rey has largely relocated to Louisiana, though she still spends some time in Los Ang...",
+      "source": "Rolling Stone",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/j6q35SQViGece_vdXV7npctqQYNTXsaQFUG9VYylZwo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/PUE27wGhPu47asU8jTwYcm2qKdp8kEDq2LWo2K7MY4U.png",
+      "index": 8
+    },
+    {
+      "title": "Lana Del Rey and gator guide husband Jeremy Dufrene's ...",
+      "link": "https://www.the-sun.com/entertainment/14141708/lana-del-rey-husband-jeremy-dufrenes-louisiana-home/#:~:text=Lana%20Del%20Rey%20and%20gator,months%20after%20they%20began%20dating.",
+      "snippet": "May 1, 2025 \u2014 Lana Del Rey and gator guide husband Jeremy Dufrene's $273k Louisiana love nest featuring bayou views. Exclusive. SOUTHERN LOVIN' ...",
+      "source": "The Sun",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/h-VStyv3ALO54aHEwPjRLJm9UudNa9gtB7Cn7mXMXMY.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Lana Del Rey | Biography, Songs, Albums, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Lana-Del-Rey#:~:text=Lana%20Del%20Rey%20(born%20June,of%20Hollywood's%20golden%20era.",
+      "snippet": "Mar 20, 2024 \u2014 Lana Del Rey (born June 21, 1985, Manhattan, New York, U.S.) is an American singer-songwriter known for pairing glamorously morose...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/jdrUcM9JBakxitUz1ihipx8iNMHEdpuU7hJO3uHZ3LQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/x3bZHuGkUx52-KJq2UV6pCrqwIlF2NWJiKOvyHvMuMM.png",
+      "index": 10
+    },
+    {
+      "title": "Lana Del Rey age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Lana+Del+Rey/+wiki#:~:text=Born,21%20June%201985%20(age%2040)",
+      "snippet": "Dec 19, 2025 \u2014 Biography * Born. 21 June 1985 (age 40) * Born In. Manhattan, New York, New York, United States.",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/dDfvq9AQ6Dax2DJ4xsxOW3DeUGEG2gvB_K4ENkhT5x0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/EtXltggA6KmQ4jCxxHbpDolEGjUak5yxlRAI1sMYEdE.png",
+      "index": 11
+    },
+    {
+      "title": "Lana Del Rey's talent and vibe pay tribute to past musical greats [column]",
+      "link": "https://lancasteronline.com/opinion/columnists/lana-del-rey-s-talent-and-vibe-pay-tribute-to-past-musical-greats-column/article_3fbe46be-d8ec-11ef-a0ca-179d71aac279.html#:~:text=Del%20Rey's%20countless%20literary%20allusions,short%20film%2C%20%E2%80%9CTropico.%E2%80%9D",
+      "snippet": "Jan 26, 2025 \u2014 She references \u201cLolita\u201d by Vladimir Nabokov, \u201cA Streetcar Named Desire\u201d by Tennessee Williams and \u201cThe Decay of Lying\u201d by Oscar Wi...",
+      "source": "LancasterOnline",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/qkpHr1iTqE6bum2zClMmIya6p6m7d2SLCCwLx6ZwwFk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/eQWbt6hKBGsNewlQOZjF3pPnlUbww5uPA0v_d8FCgP8.png",
+      "index": 12
+    },
+    {
+      "title": "Where Does Lana Del Rey Live? Exploring the Singer's Real ...",
+      "link": "https://www.designs-now.com/article/92487/where-does-lana-del-rey-live?-exploring-the-singers-real-estate-portfolio#:~:text=%E2%80%9CShe%20took%20%5BDufrene%5D%20and,source%20told%20the%20Daily%20Mail.",
+      "snippet": "Mar 6, 2025 \u2014 Exploring the Singer's Real Estate Portfolio. ... She made headlines for marrying an alligator swamp tour guide last September, bu...",
+      "source": "Trending Now design",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/cVUcIV0HSF4YPaR2tsOunHB78fO85Fj0NEcGXnwqe9s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/ANMI7v-lT5YmqfCxHqzMh8U_20mA26iy8uw-8mDUU3k.png",
+      "index": 13
+    },
+    {
+      "title": "Vocal Range and Profile: Lana Del Rey - Critic of Music",
+      "link": "https://criticofmusic.com/vocal-range-and-profile-lana-del-rey#:~:text=Her%20voice%20compliments%20her%20darker,her%20voice%20is%20often%20nasal.",
+      "snippet": "May 26, 2013 \u2014 Her voice compliments her darker musical styling, but can also adopt a much happier style (Compare Born To Die to Off To the Races...",
+      "source": "Critic of Music",
+      "thumbnail": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/aFDhDbVPV1Aa2Mk4eRi_-Yq5V33x773hImJViQJx1fg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/FNgW7OIh_fFmbKdqo-Xfu8Vmx_Kt2hbXL-IPNULRQBE.png",
+      "index": 14
+    },
+    {
+      "title": "What qualities make Lana Del Rey's songs distinctive ... - Quora",
+      "link": "https://www.quora.com/What-qualities-make-Lana-Del-Reys-songs-distinctive-than-others#:~:text=As%20a%20lyricist%2C%20Lana%20makes,restraint%20on%20the%20producer's%20part.",
+      "snippet": "Nov 30, 2018 \u2014 What qualities make Lana Del Rey's songs distinctive than others? ... * As a lyricist, Lana makes great use of contrasting archety...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3352088af3784a404d4/images/iCBg_m9snz7bPkAh71lblSCEZfpmmSWzEXYNNQ7QKFY.png",
+      "index": 15
+    },
+    {
+      "title": "SAQA",
+      "link": "https://allqs.saqa.org.za/showQualification.php?id=120161#:~:text=Display%20vocal%20proficiency%2C%20and%20technical%20requirements%20for%20music%20expression%20and%20performance.",
+      "snippet": "Display vocal proficiency, and technical requirements for music expression and performance.",
+      "source": "SAQA",
+      "thumbnail": "https://allqs.saqa.org.za/showQualification.php?id=120161",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://allqs.saqa.org.za&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    }
+  ]
+}

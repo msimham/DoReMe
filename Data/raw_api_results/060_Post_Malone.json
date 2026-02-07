@@ -1,0 +1,395 @@
+{
+  "search_metadata": {
+    "id": "6987c3134632b5311049bfd7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/mU-HjlJvTpqezuMa2tplUA/6987c3134632b5311049bfd7.json",
+    "created_at": "2026-02-07 22:56:19 UTC",
+    "processed_at": "2026-02-07 22:56:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Post+Malone%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Post+Malone%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/mU-HjlJvTpqezuMa2tplUA/6987c3134632b5311049bfd7.html",
+    "prettify_html_file": "https://serpapi.com/searches/mU-HjlJvTpqezuMa2tplUA/6987c3134632b5311049bfd7.prettify",
+    "total_time_taken": 8.04
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Post Malone, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "9VTYyHicTYxJrqNWAEWlbCBbYFglhf8B09j68oDmAbZpDLxnDBNED6Y1jQ2e10aiUiJlA1lAVvGzmqSkDHLP7Ejnfvs1Lf-UdVMN_dNZON9qxujOeXwuaX78ntZD_PmX2HRPD_oHHxGM3ZDlpU4oX_ElhxonJB9Z5NqbCNSbC0U-bISouClUy-11E0xHqBSsRz1XvTacGO0GE_WqhWxgu4kXtjEdU31jyDaICfnkvdCiS-ClX5LClYU-QccxVHzCJn3ZgjodtYKabOoWFIkC0e7gXXoNgaMVNk8SNjvLpwwrhLYQL51mN8zdUWsIL33j1OiPeUyHIMzTdvqc9e5V1nX4zrwR2Bc9jMt26sbiAzu0U1pj_wrMdLArRhIByQTcV4zv-zp10-hUTu_MhnvbsNiXkwp17ResLqsUU9K46r5iYjF0TfpObrZvxA8wJ8zCofwv-S3uuqpM__7pZx6Iez48NiEzH7WCuimd6J8VCV_xWOut_mklqGq2XCutaAE9Hnanex_rCNdviWg1-QcWBE4az0OKC0g8AbgXDUL4wKTLvtp6Zil5zqE_dKNqEasZBRm16ZNirZ9ko3s97BNjAKcr_2P_e3Kgfd7zEit1-XRryoxlWKmptUjE19GSj9ZoEXlbsWAh_dSmFUE3jNe6vhq8pyRR9quEXUSuJB84JK9wU9JN3EX5MsmsLDuNcFskN2Ak10zpD8w4SHuG2u4zQGovazhJ18hx5XvZDo8tl3DabNusneE7cuVr8IjGjHnQJn6zG95As0v0xqqnkewgJjHM4AijZag2cRlkdD4yi7dlAjjerZLMqtxlR9dbn40lMLyTQXap1KtJrMF0NSURitzYJDMMjiJXXJIEPBHkosEPL8-z0BXH-2wVl6tCtmpyd16VrOd3mqHPx1DzB4Pf8rSBxAnAPHto2-cNBR3etmFMQADUFoaXlgOAMxel0zMkS44y9C4HhOyh0DNqbVALTd4m81j69fdmnKrP33k0gSXjHYlSon7anaXXQWEX4EUUM44wmxyJ32q5FtuNvVhjIrzmY_aoInHQimuf7bbKaAa5FMPdKOsTl5DZbCHkOCeCUkyds-8kvcS9qhhn8WWuI6xHtR6T1WwfGwbASJ3V7pDtIH6nJsYoDlbosdpGrS8KK59Sdbc8Zk6LnbP-D1gfZ0U",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, here are the details regarding Post Malone\u2019s background, skills, and current residence:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 30 years old. Born July 4, 1995, in Syracuse, New York."
+        },
+        {
+          "snippet": "Current Residence: Cottonwood Heights, Utah. He lives in a $3.1 million, \"apocalypse-proof\" mansion situated on approximately seven acres near Salt Lake City.",
+          "snippet_links": [
+            {
+              "text": "Cottonwood Heights, Utah",
+              "link": "https://www.google.com/search?q=Cottonwood+Heights,+Utah&kgmid=/m/010fnk&sa=X&ved=2ahUKEwjmgqiDvciSAxUiMlkFHcLqCDMQ3egRegQIBBAD"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        7,
+        13,
+        2,
+        11,
+        12,
+        8
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music Occupations & Roles"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Post Malone is a multifaceted artist active in the industry since 2011. His primary occupations include:",
+      "reference_indexes": [
+        2,
+        1,
+        17
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer & Rapper: Known for a \"laconic\" vocal style and a wide vocal range that spans hip-hop, pop, and country."
+        },
+        {
+          "snippet": "Songwriter: Heavily involved in writing his own material, often exploring introspective themes of heartbreak and personal struggle."
+        },
+        {
+          "snippet": "Record Producer: Credits on various projects, including his own studio albums."
+        },
+        {
+          "snippet": "Guitarist: Frequently performs with an acoustic or electric guitar during live shows and recordings."
+        },
+        {
+          "snippet": "Record Label Owner: Established Stoney Creek Records in 2015 to foster new talent."
+        }
+      ],
+      "reference_indexes": [
+        1,
+        2,
+        4,
+        6,
+        0,
+        5,
+        3
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Musical Skills & Proficiencies"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Malone is widely recognized for his \"genre-bending\" ability, seamlessly blending hip-hop, country, R&B, and rock.",
+      "reference_indexes": [
+        1,
+        6,
+        10
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        4,
+        5,
+        7,
+        3,
+        1,
+        15,
+        14,
+        9,
+        16
+      ],
+      "table": [
+        [
+          "Skill / Ability",
+          "Proficiency & Notes"
+        ],
+        [
+          "Vocals",
+          "High. Capable of hitting high notes and maintaining a steady pitch without autotune during live performances."
+        ],
+        [
+          "Guitar",
+          "Advanced. Self-taught via YouTube and Guitar Hero; he incorporates intricate melodies and solos into his music."
+        ],
+        [
+          "Genre Versatility",
+          "Expert. Successfully transitioned from a \"SoundCloud rapper\" to a chart-topping country artist with his 2024 album F-1 Trillion."
+        ],
+        [
+          "Performance",
+          "High. Known for energetic, engaging live shows; he performed a tribute to Ozzy Osbourne at the 2026 Grammy Awards."
+        ],
+        [
+          "Piano",
+          "Moderate/Developing. While noted as not being an \"expert\" piano player compared to his guitar skills, he has some basic proficiency."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill / Ability"
+          },
+          {
+            "snippet": "Proficiency & Notes"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocals"
+          },
+          {
+            "snippet": "High. Capable of hitting high notes and maintaining a steady pitch without autotune during live performances."
+          }
+        ],
+        [
+          {
+            "snippet": "Guitar"
+          },
+          {
+            "snippet": "Advanced. Self-taught via YouTube and Guitar Hero; he incorporates intricate melodies and solos into his music."
+          }
+        ],
+        [
+          {
+            "snippet": "Genre Versatility"
+          },
+          {
+            "snippet": "Expert. Successfully transitioned from a \"SoundCloud rapper\" to a chart-topping country artist with his 2024 album F-1 Trillion."
+          }
+        ],
+        [
+          {
+            "snippet": "Performance"
+          },
+          {
+            "snippet": "High. Known for energetic, engaging live shows; he performed a tribute to Ozzy Osbourne at the 2026 Grammy Awards."
+          }
+        ],
+        [
+          {
+            "snippet": "Piano"
+          },
+          {
+            "snippet": "Moderate/Developing. While noted as not being an \"expert\" piano player compared to his guitar skills, he has some basic proficiency."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_ability": "Vocals",
+          "proficiency_notes": "High. Capable of hitting high notes and maintaining a steady pitch without autotune during live performances."
+        },
+        {
+          "skill_ability": "Guitar",
+          "proficiency_notes": "Advanced. Self-taught via YouTube and Guitar Hero; he incorporates intricate melodies and solos into his music."
+        },
+        {
+          "skill_ability": "Genre Versatility",
+          "proficiency_notes": "Expert. Successfully transitioned from a \"SoundCloud rapper\" to a chart-topping country artist with his 2024 album F-1 Trillion."
+        },
+        {
+          "skill_ability": "Performance",
+          "proficiency_notes": "High. Known for energetic, engaging live shows; he performed a tribute to Ozzy Osbourne at the 2026 Grammy Awards."
+        },
+        {
+          "skill_ability": "Piano",
+          "proficiency_notes": "Moderate/Developing. While noted as not being an \"expert\" piano player compared to his guitar skills, he has some basic proficiency."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Post Malone - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Post_Malone#:~:text=Table_content:%20header:%20%7C%20Post%20Malone%20%7C%20%7C,Malone:%20Works%20%7C%20:%20Discography%20production%20%7C",
+      "snippet": "Table_content: header: | Post Malone | | row: | Post Malone: Born | : Austin Richard Post July 4, 1995 Syracuse, New York, U.S. | ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/bWf0AAyMgyGrTDT0LBgVjkw-6Y2fhsXkS7ruxahABSI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/-UeOTeKtqAzBpAnXSK19f29r0ccIX0OTyJZwVxongWM.png",
+      "index": 0
+    },
+    {
+      "title": "Post Malone - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Post_Malone",
+      "snippet": "For the song by Sam Feldt featuring Rani, see Post Malone (song). * Austin Richard Post (born July 4, 1995), known professionally ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/6xd-Mct3H4orrw70Kfi0UFM_-rOZobjIfrPVcomuBYs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/UpzwahZFDuA7C9bBICEwr6G8LJXqaAQyUCbVbnz1wR0.png",
+      "index": 1
+    },
+    {
+      "title": "Post Malone - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Post_Malone#:~:text=Table_content:%20header:%20%7C%20Post%20Malone%20%7C%20%7C,Malone:%20Awards%20%7C%20:%20Full%20list%20%7C",
+      "snippet": "Table_content: header: | Post Malone | | row: | Post Malone: Born | : Austin Richard Post July 4, 1995 Syracuse, New York, U.S. | ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/6eANzfjWPJTHzaEEIfFh8Bzj2pFEFY1Qh_NzRm-x-eU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/qlCN-2k1aY4c82cZ_oyJ_RJDhgCo-Z78Hc8w2as9jeA.png",
+      "index": 2
+    },
+    {
+      "title": "Everything to know about Post Malone: From rap to country",
+      "link": "https://hellorayo.co.uk/absolute-radio-country/entertainment/music/post-malone#:~:text=Who%20is%20Post%20Malone?,began%20to%20play%20the%20guitar.",
+      "snippet": "Nov 15, 2025 \u2014 Explore the talented artist's chart-topping hits, groundbreaking albums, and his evolution as an artist... * Who is Post Malone? P...",
+      "source": "Rayo",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/d4ncLOhkgyPOzqbB6x-b32b2NcY63xa4Aiuk9eS1yRk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/6NeimT4G3CC8t-kK8yMnpPbMgyDHxXIqZsJmUUmSULU.png",
+      "index": 3
+    },
+    {
+      "title": "Artists\u2019 showcase: A look at Post Malone\u2019s musical career",
+      "link": "https://www.studlife.com/cadenza/2017/09/21/artists-showcase-a-look-at-post-malones-musical-career#:~:text=Post's%20vocals,off%20his%20full%20vocal%20range.",
+      "snippet": "Sep 21, 2017 \u2014 \u201cCongratulations\u201d and \u201cDeja Vu\u201d singer Post Malone performs at a concert in December 2016. * Post's musical ambidexterity. Based o...",
+      "source": "www.studlife.com",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/Lgzp-_Six07prLZaPKftK30GTdoFElLCinkG5wzqCwg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/3TklkyCgT5-B1FGwfx9hSzFeXI_fSqcgAT_zk5yd7Lw.png",
+      "index": 4
+    },
+    {
+      "title": "5 Things You Didn\u2019t Know About Post Malone | by The Ghost - Medium",
+      "link": "https://medium.com/@TheGhostX/5-things-you-didnt-know-about-post-malone-62e111107baa#:~:text=Post%20Malone's%20Passion%20for%20Music,and%20expression%20to%20his%20performances.",
+      "snippet": "Jan 2, 2023 \u2014 5 Things You Didn't Know About Post Malone * Uncovering the Many Layers of Post Malone. Post Malone is a name that has become syno...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/4Y2baNXZQeyArD-S9GMyi9YEd22D8nP7joCX3SXFl-8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/h5eyLygdaPEJ_yHSPA-j61OgHbGp5ty2XvEOpelkjvs.png",
+      "index": 5
+    },
+    {
+      "title": "Unveiling Post Malone's Background: Discoveries And Insights",
+      "link": "https://advocates.radcampaign.com/130103244/unveiling-post-malone-039-s-background-discoveries-and-insights/#:~:text=Musical%20Influences:%20Post%20Malone's%20diverse,a%20rich%20and%20dynamic%20soundscape.",
+      "snippet": "Jan 16, 2026 \u2014 This influence is evident in his music, which often incorporates elements of country twang and storytelling. Additionally, his ear...",
+      "source": "Rad Campaign",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/HU6WxXtGJDrIFp6T2Uz5d-WGeRDL_Vg3KRlL1ytWesg.png",
+      "index": 6
+    },
+    {
+      "title": "Austin Richard Post, better known as Post Malone, was born in ...",
+      "link": "https://www.facebook.com/classiccountrymusicfans/posts/austin-richard-post-better-known-as-post-malone-was-born-in-syracuse-new-york-on/807451968295029/#:~:text=Classic%20Country%20Music-,Austin%20Richard%20Post%2C%20better%20known%20as%20Post%20Malone%2C%20was%20born,he%20enjoys%20his%20birthday%20today!&text=Sorry%2C%20I'm%20old%20&,oh%20well%E2%80%A6&text=Damn%20a%20country%20guy%20from,Wow%20yeah%20us%20lmao!&text=Ronnie%20Babb%20raised%20up%20in%20Texas%20tho.&text=He's%20only%2030???&text=He's%20going%20to%20party%20like%20it's%201995%20(his%20birth%20year).&text=Yeah%20and%20get%20your%20teeth%20fixed.&text=Post%20Malone%20and%20Jelly%20Roll,with%20those%20nasty%20face%20tattoos..&text=Valerie%20Beck%20...,he%20looks%20like%20a%20freak..&text=Could%20use%20a%20makeover.&text=Tony%20Castellucio%20NOT%20ALL%20REAL%20COUNTRY%20!&text=Wait%20till%20ur%2050!,Happy%20birthday!!&text=Posted%20on%20a%20%22Classic%20country,My%20ass!!!&text=Jerry%20Blankenship%20definitely%20more%20than,Lmfao%E2%80%A6.&text=Jerry%20Blankenship%20NOPE%20HE%20IS%20NOT%20!&text=Happy%20birthday%20Austin!!&text=Happy%20Birthday%20Posty!!",
+      "snippet": "Jul 4, 2025 \u2014 Austin Richard Post, better known as Post Malone, was born in Syracuse, New York, on July 4, 1995. He turns 30 today! \ud83c\udf89 While Pos...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/Hqyforaw-a2RjAuNjCBHwzeUIHanZe6ZiXuhg_Kmv50.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/KrhXRv-0Mle71pwKKTbSQDr-6Klvn_n9psYS65ocPUg.png",
+      "index": 7
+    },
+    {
+      "title": "#postmalone",
+      "link": "https://www.instagram.com/reel/DD6a6lRRTNa/?hl=en",
+      "snippet": "Dec 22, 2024 \u2014 This is the home of American singer Post Malone located in Cottonwood Heights, Utah. Valued at 3. 1 million. He has transformed it...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/ymDjY7lY2Bq7W_-qGWu0Val5D_KkMkOX5j71xunei0E.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Watch Post Malone, Slash, and Duff McKagan Honor Ozzy Osbourne at 2026 Grammys",
+      "link": "https://pitchfork.com/news/watch-post-malone-slash-and-duff-mckagan-honor-ozzy-osbourne-at-2026-grammys/#:~:text=Last%20night's%20Grammys%20Awards%20ceremony,Watch%20the%20performance%20below.",
+      "snippet": "Feb 2, 2026 \u2014 Last night's Grammys Awards ceremony featured a tribute to Ozzy Osbourne, who died last year at the age of 76. Post Malone, Duff M...",
+      "source": "Pitchfork",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/tU9f-Kjw_-N1_G1XpOY1fHe4w9a0NBBZ9QSXmJtaQhY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/UwD2fnQzg31tGlv6--02OfqY8FNeAINmAjK7meCLVkY.png",
+      "index": 9
+    },
+    {
+      "title": "Post Malone's Musical Evolution: From Hip-Hop to Rock and ...",
+      "link": "https://hot969boston.com/2025/08/15/post-malones-musical-evolution-from-hip-hop-to-rock-and-country/#:~:text=The%20Power%20of%20Genre%2DBending,Kayla%20MorganWriter",
+      "snippet": "Aug 15, 2025 \u2014 The Power of Genre-Bending. Post Malone's career shows how blending genres can keep an artist's work fresh and relevant. He's not ...",
+      "source": "HOT 96.9 Boston",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/5p-PqFg8DX3CfT69P9Y63kENp_PqXblbhJMz7hOGVFk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/sobJNsiALfwR_93Ew44DdJmRIlEspIfQRzPTJ71bxA0.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Where Does Post Malone Live? Here's What We Know About ...",
+      "link": "https://www.yahoo.com/entertainment/where-does-post-malone-live-193223119.html#:~:text=The%20versatile%20singer%20currently%20resides,artist%20friends%20for%20some%20time.",
+      "snippet": "Mar 5, 2025 \u2014 All products featured on Architectural Digest are independently selected by Architectural Digest editors. However, when you buy so...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/eWuM48g62pUD-Psk7dpj1HOLy2wEuaNz_9pKL28Bnkw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/n5ioOFKST0oQ8g1ZTP96vYewIo-wLQvj3TUg-uQ-neM.png",
+      "index": 11
+    },
+    {
+      "title": "Remember When Post Malone Made a Mansion Into a Doomsday ...",
+      "link": "https://tasteofcountry.com/post-malone-doomsday-bunker-utah/#:~:text=Post%20Malone's%20Home%20in%20Cottonwood,see%20inside%20this%20fabulous%20home.",
+      "snippet": "Jul 9, 2024 \u2014 Post Malone's Home in Cottonwood Heights, Utah. The newly-minted country artist bought the sprawling 12,702-foot mansion in what h...",
+      "source": "Taste of Country",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/NnnxFhfBgKlwTDUZZ6u8x5fMJ6WsG4VwRO4Gab9JDAg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/lT3rTIfHwVMZGrGbnUIWJmOzBUHJ3YhBHNU49DVzokk.png",
+      "index": 12
+    },
+    {
+      "title": "Post Malone Wiki | Fandom",
+      "link": "https://postmalone.fandom.com/wiki/Post_Malone",
+      "snippet": "Post Malone * Birth name. Austin Richard Post. * Born. July 4, 1995 (age 30) Syracuse, New York, U.S. * Hometown. Grapevine, Texas...",
+      "source": "Post Malone Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/H7d2JfssFg6Y2WzlwcB_QmaNDrqsMF6uIpVRvy7nOvc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/8qxBAFtix6AxG1xde-BliiCKKtcfo95ngy8sfH98eK4.png",
+      "index": 13
+    },
+    {
+      "title": "Fun Facts about Post Malone - Did You Know?",
+      "link": "https://lovinlifemusicfest.com/news/fun-facts-about-post-malone-did-you-know/#:~:text=Post%20Malone's%20real%20name%20is,Call%20of%20Duty%E2%80%9D%20on%20Twitch.",
+      "snippet": "Dec 8, 2023 \u2014 Post Malone's real name is Austin Richard Post. He was born on July 4, 1995, in Syracuse, New York. Post Malone's father introduce...",
+      "source": "Lovin' Life Music Fest",
+      "thumbnail": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/uJh6rAAlPPkBoSDfh-K9zhga66V6Lwv7-hpE5h7Cbek.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/b8psQTUYNW6yRjlgixG3ApAI_ZhJKWUMVEBxB2QTtkA.png",
+      "index": 14
+    },
+    {
+      "title": "Post malone is a good singer honestly : r/singing - Reddit",
+      "link": "https://www.reddit.com/r/singing/comments/jpvsvg/post_malone_is_a_good_singer_honestly/#:~:text=Spoken%20like%20someone%20who%20knows,%E2%80%A2%2010mo%20ago",
+      "snippet": "Nov 7, 2020 \u2014 Last Year 2019, I went to a post malone concert. He did not use any auto tune. He was just playing his guitar, and just singing hi...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/WAygAmqZoXTNPsB-ZkznetV927ubf0g4XQ2i6yw5Wt0.png",
+      "index": 15
+    },
+    {
+      "title": "Can Post Malone play piano? - Quora",
+      "link": "https://www.quora.com/Can-Post-Malone-play-piano#:~:text=Post%20Malone%20may%20be%20no,got%20good%20results%20with%20it.",
+      "snippet": "Nov 20, 2019 \u2014 Post Malone may be no expert piano player, but he definitely has some skills when it comes to the guitar. Post has impressed live ...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3134632b5311049bfd7/images/Kj_bL9gXefJ_jrjQZjoysdCehWF9U_QOF9HwSsy3OKA.png",
+      "index": 16
+    },
+    {
+      "title": "Post Malone - Wikipedia",
+      "link": "https://sco.wikipedia.org/wiki/Post_Malone#:~:text=Table_content:%20header:%20%7C%20Post%20Malone%20%7C%20%7C,Malone:%20Years%20active%20%7C%20:%202011%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Post Malone | | row: | Post Malone: Malone performing in 2021 | : | row: | Post Malone: Born | : Austin R...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTt_4kaY6bWyWoeMTInN_kakcYJ1KBZt-dS9HakqAHnE53kefyr",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sco.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are Post Malone's other music production or acting credits?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+Post+Malone%27s+other+music+production+or+acting+credits%3F&subsequent_request_token=9VTYyHicTYxJrqNWAEWlbCBbYFglhf8B09j68oDmAbZpDLxnDBNED6Y1jQ2e10aiUiJlA1lAVvGzmqSkDHLP7Ejnfvs1Lf-UdVMN_dNZON9qxujOeXwuaX78ntZD_PmX2HRPD_oHHxGM3ZDlpU4oX_ElhxonJB9Z5NqbCNSbC0U-bISouClUy-11E0xHqBSsRz1XvTacGO0GE_WqhWxgu4kXtjEdU31jyDaICfnkvdCiS-ClX5LClYU-QccxVHzCJn3ZgjodtYKabOoWFIkC0e7gXXoNgaMVNk8SNjvLpwwrhLYQL51mN8zdUWsIL33j1OiPeUyHIMzTdvqc9e5V1nX4zrwR2Bc9jMt26sbiAzu0U1pj_wrMdLArRhIByQTcV4zv-zp10-hUTu_MhnvbsNiXkwp17ResLqsUU9K46r5iYjF0TfpObrZvxA8wJ8zCofwv-S3uuqpM__7pZx6Iez48NiEzH7WCuimd6J8VCV_xWOut_mklqGq2XCutaAE9Hnanex_rCNdviWg1-QcWBE4az0OKC0g8AbgXDUL4wKTLvtp6Zil5zqE_dKNqEasZBRm16ZNirZ9ko3s97BNjAKcr_2P_e3Kgfd7zEit1-XRryoxlWKmptUjE19GSj9ZoEXlbsWAh_dSmFUE3jNe6vhq8pyRR9quEXUSuJB84JK9wU9JN3EX5MsmsLDuNcFskN2Ak10zpD8w4SHuG2u4zQGovazhJ18hx5XvZDo8tl3DabNusneE7cuVr8IjGjHnQJn6zG95As0v0xqqnkewgJjHM4AijZag2cRlkdD4yi7dlAjjerZLMqtxlR9dbn40lMLyTQXap1KtJrMF0NSURitzYJDMMjiJXXJIEPBHkosEPL8-z0BXH-2wVl6tCtmpyd16VrOd3mqHPx1DzB4Pf8rSBxAnAPHto2-cNBR3etmFMQADUFoaXlgOAMxel0zMkS44y9C4HhOyh0DNqbVALTd4m81j69fdmnKrP33k0gSXjHYlSon7anaXXQWEX4EUUM44wmxyJ32q5FtuNvVhjIrzmY_aoInHQimuf7bbKaAa5FMPdKOsTl5DZbCHkOCeCUkyds-8kvcS9qhhn8WWuI6xHtR6T1WwfGwbASJ3V7pDtIH6nJsYoDlbosdpGrS8KK59Sdbc8Zk6LnbP-D1gfZ0U"
+    },
+    {
+      "question": "Post Malone's genre-bending has earned him significant critical acclaim and numerous awards, including multiple Billboard Music Awards and Grammy nominations",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Post+Malone%27s+genre-bending+has+earned+him+significant+critical+acclaim+and+numerous+awards%2C+including+multiple+Billboard+Music+Awards+and+Grammy+nominations&subsequent_request_token=9VTYyHicTYxJrqNWAEWlbCBbYFglhf8B09j68oDmAbZpDLxnDBNED6Y1jQ2e10aiUiJlA1lAVvGzmqSkDHLP7Ejnfvs1Lf-UdVMN_dNZON9qxujOeXwuaX78ntZD_PmX2HRPD_oHHxGM3ZDlpU4oX_ElhxonJB9Z5NqbCNSbC0U-bISouClUy-11E0xHqBSsRz1XvTacGO0GE_WqhWxgu4kXtjEdU31jyDaICfnkvdCiS-ClX5LClYU-QccxVHzCJn3ZgjodtYKabOoWFIkC0e7gXXoNgaMVNk8SNjvLpwwrhLYQL51mN8zdUWsIL33j1OiPeUyHIMzTdvqc9e5V1nX4zrwR2Bc9jMt26sbiAzu0U1pj_wrMdLArRhIByQTcV4zv-zp10-hUTu_MhnvbsNiXkwp17ResLqsUU9K46r5iYjF0TfpObrZvxA8wJ8zCofwv-S3uuqpM__7pZx6Iez48NiEzH7WCuimd6J8VCV_xWOut_mklqGq2XCutaAE9Hnanex_rCNdviWg1-QcWBE4az0OKC0g8AbgXDUL4wKTLvtp6Zil5zqE_dKNqEasZBRm16ZNirZ9ko3s97BNjAKcr_2P_e3Kgfd7zEit1-XRryoxlWKmptUjE19GSj9ZoEXlbsWAh_dSmFUE3jNe6vhq8pyRR9quEXUSuJB84JK9wU9JN3EX5MsmsLDuNcFskN2Ak10zpD8w4SHuG2u4zQGovazhJ18hx5XvZDo8tl3DabNusneE7cuVr8IjGjHnQJn6zG95As0v0xqqnkewgJjHM4AijZag2cRlkdD4yi7dlAjjerZLMqtxlR9dbn40lMLyTQXap1KtJrMF0NSURitzYJDMMjiJXXJIEPBHkosEPL8-z0BXH-2wVl6tCtmpyd16VrOd3mqHPx1DzB4Pf8rSBxAnAPHto2-cNBR3etmFMQADUFoaXlgOAMxel0zMkS44y9C4HhOyh0DNqbVALTd4m81j69fdmnKrP33k0gSXjHYlSon7anaXXQWEX4EUUM44wmxyJ32q5FtuNvVhjIrzmY_aoInHQimuf7bbKaAa5FMPdKOsTl5DZbCHkOCeCUkyds-8kvcS9qhhn8WWuI6xHtR6T1WwfGwbASJ3V7pDtIH6nJsYoDlbosdpGrS8KK59Sdbc8Zk6LnbP-D1gfZ0U"
+    },
+    {
+      "question": "Tell me more about his record label, Stoney Creek Records",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+his+record+label%2C+Stoney+Creek+Records&subsequent_request_token=9VTYyHicTYxJrqNWAEWlbCBbYFglhf8B09j68oDmAbZpDLxnDBNED6Y1jQ2e10aiUiJlA1lAVvGzmqSkDHLP7Ejnfvs1Lf-UdVMN_dNZON9qxujOeXwuaX78ntZD_PmX2HRPD_oHHxGM3ZDlpU4oX_ElhxonJB9Z5NqbCNSbC0U-bISouClUy-11E0xHqBSsRz1XvTacGO0GE_WqhWxgu4kXtjEdU31jyDaICfnkvdCiS-ClX5LClYU-QccxVHzCJn3ZgjodtYKabOoWFIkC0e7gXXoNgaMVNk8SNjvLpwwrhLYQL51mN8zdUWsIL33j1OiPeUyHIMzTdvqc9e5V1nX4zrwR2Bc9jMt26sbiAzu0U1pj_wrMdLArRhIByQTcV4zv-zp10-hUTu_MhnvbsNiXkwp17ResLqsUU9K46r5iYjF0TfpObrZvxA8wJ8zCofwv-S3uuqpM__7pZx6Iez48NiEzH7WCuimd6J8VCV_xWOut_mklqGq2XCutaAE9Hnanex_rCNdviWg1-QcWBE4az0OKC0g8AbgXDUL4wKTLvtp6Zil5zqE_dKNqEasZBRm16ZNirZ9ko3s97BNjAKcr_2P_e3Kgfd7zEit1-XRryoxlWKmptUjE19GSj9ZoEXlbsWAh_dSmFUE3jNe6vhq8pyRR9quEXUSuJB84JK9wU9JN3EX5MsmsLDuNcFskN2Ak10zpD8w4SHuG2u4zQGovazhJ18hx5XvZDo8tl3DabNusneE7cuVr8IjGjHnQJn6zG95As0v0xqqnkewgJjHM4AijZag2cRlkdD4yi7dlAjjerZLMqtxlR9dbn40lMLyTQXap1KtJrMF0NSURitzYJDMMjiJXXJIEPBHkosEPL8-z0BXH-2wVl6tCtmpyd16VrOd3mqHPx1DzB4Pf8rSBxAnAPHto2-cNBR3etmFMQADUFoaXlgOAMxel0zMkS44y9C4HhOyh0DNqbVALTd4m81j69fdmnKrP33k0gSXjHYlSon7anaXXQWEX4EUUM44wmxyJ32q5FtuNvVhjIrzmY_aoInHQimuf7bbKaAa5FMPdKOsTl5DZbCHkOCeCUkyds-8kvcS9qhhn8WWuI6xHtR6T1WwfGwbASJ3V7pDtIH6nJsYoDlbosdpGrS8KK59Sdbc8Zk6LnbP-D1gfZ0U"
+    }
+  ]
+}

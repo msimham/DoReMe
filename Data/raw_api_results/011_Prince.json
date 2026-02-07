@@ -1,0 +1,302 @@
+{
+  "search_metadata": {
+    "id": "6987c2f0e6cb30f6d4828b01",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4HWfNA4jfBmYrqtlxLNTQQ/6987c2f0e6cb30f6d4828b01.json",
+    "created_at": "2026-02-07 22:55:44 UTC",
+    "processed_at": "2026-02-07 22:55:44 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Prince%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Prince%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/4HWfNA4jfBmYrqtlxLNTQQ/6987c2f0e6cb30f6d4828b01.html",
+    "prettify_html_file": "https://serpapi.com/searches/4HWfNA4jfBmYrqtlxLNTQQ/6987c2f0e6cb30f6d4828b01.prettify",
+    "total_time_taken": 7.95
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Prince, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "C5cCanicTYxJrqNWAEWlbCQMq6T4fxpjQF8eAKaxMcbAozET9MDPgGmejenntZGolEjZQBaQVfysJhUpg-jMztG9335FxZ-8aegQ6YX5umcvZJ4bMzF6O_uOqjb9_Euu8XgB0RApVW_e98yVugawnl6AVpg0rJ6nOp8T8qF5qtqby9VF96sULoc7AOrgLlGFSify6opJA4q2lDy0_IOSMphBVU45dXRMwWHyvMm6eqrm-_yIdG82aZVJtYmO9FyHpFpBJgpskl1QfZCUPF0Dr9tfAn8PPWqB9XWJPMpOSqpwGd-JJnxEGj86jF-cAo-1SfKP_oXaGGao6T57Ey9FVcF39o0kvpgwLZoOv_IPYt90qCJ-CMJyiZCgyJhiY-4rIT4eFQpQYhTdO8twb8yG-GLowDz-QlRFiQgNpSX-Ssh5i2v0TjHMG_kvhAtvsC3-m_yWYlwW6O-ffhYVeSvCQw3ZboPCCFIHF5-yMfYDZsGde01df7Y4WVCAqD0mpW3bfhKWUwj047zOPog4dlHat2glebKhgK18GqUPYudvM5Llmls4Hlek8NJtcraS-EbT7C6H1cjWQ86nYPZyt51EUdR3F9TQMyMN2Mm8H0L837MLnPNW3G12OOt8DEIr0zLX1bX8R5tn6v7wbmur4MhzMZ_d9s61YbCOy1hi2FJN5TOXKk6fAv7B80-kBshJJOMyrvH6rBcMu3GkaB6ip2V_EKf9bsvS_DbXZA5ShnV8KLjMBSE1TA6Oar2uT8VZqRR55fVsQx5mRjkV7AqOZmdq_E2WhkGmbJEqPeEQAdBIZbCEJjsk4_J8FtCeZx8PCcPg1cHHcz2LxmJXa0MKIhApLTDsHtuzLEJzlKPeo2S_OlXjsefVIvPD9uAZ0266lNr6Iob0bEsDmJxitZuwocHp-jIma-8pVqGu_Nh8wkvRznmHm8hIM4nWVHClqAkPU_HYpxH3VO6mu2oHSaSanNlHWE7keu2K-dKxZCve58JzYhbtv9evrvz8XfQ6ZbpJCPBA6XS3Pu01R38FfH2V1tgBcR0INs-JO2FjUJap2FoFULAI50YAcaJHNQiEZxdXITdB_8qZGgwa3SOXzqV3SeqcL5sVlF43JdFpSBtxdKam2rOPaizG1IVien8q48bSO2GJLhKr3Oz8-JL3wuk4HBMarTP7ehTHObP_Aef0bYc",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Prince passed away on April 21, 2016, at the age of 57.",
+      "reference_indexes": [
+        1,
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music Related Skills & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Prince was a legendary multi-instrumentalist known for performing nearly all instruments on his studio recordings. His core professional roles included:",
+      "reference_indexes": [
+        14,
+        3
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Occupations: Singer-songwriter, record producer, musician, dancer, actor, film director, and studio engineer."
+        },
+        {
+          "snippet": "Primary Musical Skills:",
+          "list": [
+            {
+              "snippet": "Vocals: Renowned for a wide vocal range, featuring a far-reaching falsetto, baritone registers, and high-pitched screams."
+            },
+            {
+              "snippet": "Guitar: Considered a virtuoso; proficient in funk, rock, blues, and jazz styles."
+            },
+            {
+              "snippet": "Keyboards/Piano: Mastered early in life; integrated complex chords and innovative synthesizer sounds into the \"Minneapolis Sound\"."
+            },
+            {
+              "snippet": "Drums/Percussion: Skilled in intricate, complex funk-influenced drumming; also a pioneer in the use of drum machines."
+            },
+            {
+              "snippet": "Bass Guitar: Played distinctive and inventive bass lines on many of his own recordings."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        3,
+        6,
+        13,
+        8,
+        4
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Instrument Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "On his debut album, For You, Prince was credited with playing 27 different instruments. While he was a master of the core rhythm section (guitar, bass, drums, keyboards), he was also proficient in:",
+      "reference_indexes": [
+        3,
+        5,
+        15,
+        16
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Strings/Wind: Saxophone, flute, harmonica, and reportedly violin and trumpet."
+        },
+        {
+          "snippet": "Percussion: Congas, bongos, timbales, finger cymbals, and tambourine."
+        }
+      ],
+      "reference_indexes": [
+        4,
+        11,
+        12,
+        7
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current/Last Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "At the time of his death, Prince's primary residence and creative headquarters was Paisley Park.",
+      "snippet_links": [
+        {
+          "text": "Paisley Park",
+          "link": "https://www.google.com/viewer/place?mid=/g/120mbqvw&sa=X&ved=2ahUKEwjP3b_yvMiSAxUZSWwGHZpWFMsQqdYPegQICxAC"
+        }
+      ],
+      "reference_indexes": [
+        5,
+        2
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "City: Chanhassen"
+        },
+        {
+          "snippet": "State: Minnesota"
+        }
+      ],
+      "reference_indexes": [
+        0,
+        6,
+        2,
+        10
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to learn more about the museum tours currently offered at his Paisley Park estate?",
+      "snippet_links": [
+        {
+          "text": "Paisley Park",
+          "link": "https://www.paisleypark.com/"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Prince (musician) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Prince_(musician)#:~:text=%2C%20known%20to%20fans%20as%20the,recording%20studio%20in%20Chanhassen%2C%20Minnesota.",
+      "snippet": "Table_title: Prince (musician) Table_content: header: | Prince | | row: | Prince: Prince in a promotional picture for his album Lo...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/izguXO07j8dPdmT8gXoOvWdVHloVBnxxgmjjT2HN93M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/IAHVTxYaj_3fq9pNw4SGbw8OWbtT2iOieqd_xPXqDrY.png",
+      "index": 0
+    },
+    {
+      "title": "Legendary musician and megawatt star Prince dies at 57 ...",
+      "link": "https://www.history.com/this-day-in-history/april-21/music-legend-prince-dies#:~:text=Legendary%20musician%20and%20megawatt%20star,%7C%20April%2021%2C%202016%20%7C%20HISTORY",
+      "snippet": "Apr 9, 2019 \u2014 Legendary musician and megawatt star Prince dies at 57. ... On the morning of April 21, 2016, Prince, the virtuosic musician who c...",
+      "source": "History.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/ev9-1WWAXedsueM0OG7LTpLHlCO_dOdeiCvhqlc1jlc.jpeg",
+      "index": 1
+    },
+    {
+      "title": "Legendary musician and megawatt star Prince dies at 57 ...",
+      "link": "https://www.history.com/this-day-in-history/april-21/music-legend-prince-dies#:~:text=dies%20at%2057-,HISTORY.com%20Editors,He%20was%2057%20years%20old.",
+      "snippet": "Apr 9, 2019 \u2014 Legendary musician and megawatt star Prince dies at 57. ... On the morning of April 21, 2016, Prince, the virtuosic musician who c...",
+      "source": "History.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/uozEo7CIjBU7Ig1ikncXGXE6q5igr8eNPjdgZpAQd2Q.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Prince was a musical genius whose unparalleled creativity ...",
+      "link": "https://www.facebook.com/PrinceUltimateFanCommunity/posts/prince-was-a-musical-genius-whose-unparalleled-creativity-and-genre-blending-sou/122145210020336481/#:~:text=Prince%20was%20a%20musical%20genius,to%20create%20something%20entirely%20original.",
+      "snippet": "Nov 29, 2024 \u2014 His approach to music theory and composition was unique\u2014while many musicians rely heavily on reading sheet music, Prince's ability...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/mG91nui0dLRr30YCBGybYcAqpdXzg_A9x7R_DJBm224.jpeg",
+      "index": 3
+    },
+    {
+      "title": "IBG Inspiration - Prince's Multifaceted Talent: Exploring His ...",
+      "link": "https://indiebandguru.com/ibg-inspiration-prince/#:~:text=Prince%20was%20known%20for%20his%20ability%20to%20play%20in%20a,Fender%20Rhodes%2C%20and%20the%20synthesizer.",
+      "snippet": "Mar 16, 2023 \u2014 IBG Inspiration \u2013 Prince's Multifaceted Talent: Exploring His Proficiency in Numerous Instruments. ... Prince Rogers Nelson, popul...",
+      "source": "Indie Band Guru -",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/Q98PGcFBJ3fvW7bW88iPLjp8BnNTEk90953ZPm2UKXU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/nZm90YQaqiJYlJmFVc8sGyyu5T_n3jR5p9QtLVum4sc.jpeg",
+      "index": 4
+    },
+    {
+      "title": "Prince found dead at Paisley Park estate in Minnesota - Facebook",
+      "link": "https://www.facebook.com/groups/soultraingroup/posts/9589431691173474/",
+      "snippet": "Apr 21, 2025 \u2014 April 21st Today In Music History 21st|April|2016 - Prince History Highlights: Prince was found dead at his home in Minnesota at t...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/AW6KUDmQUi2WEuecpKH_TEbXnpQ8R2NVYU1DDfCttXg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/iGLZ05YoqYGKAKFajgSqVUMb5lyZs85i7POm23TCanw.png",
+      "index": 5
+    },
+    {
+      "title": "Prince (1958\u20132016) | MNopedia - Minnesota Historical Society",
+      "link": "https://www.mnhs.org/mnopedia/search/index/person/prince-1958-2016#:~:text=Prince%20was%20a%20Minnesota%2Dbased,development%20of%20the%20Minneapolis%20Sound.",
+      "snippet": "Oct 1, 2025 \u2014 Prince was a Minnesota-based singer, songwriter, musician, studio engineer, actor, director, dancer, and music legend. Over his ne...",
+      "source": "Minnesota Historical Society",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/X_aLLXKRzAXu5FeFHJm1yffvtFov5H6pWt2Vo1NlRgk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/MRsSlQjke7AV6E8OxkVUVlsGJp4u0m5z10rXXG3ZFsE.png",
+      "index": 6
+    },
+    {
+      "title": "Prince (musician) - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/Prince_(musician)",
+      "snippet": "Table_title: Prince (musician) Table_content: header: | Prince | | row: | Prince: Prince performing during the Nude Tour in Tokyo,",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/87PwzjTAGQw5grQT_w46yw6pANn697Gw9wxg7IIxF_k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/a8AkF47HrRoOvyMjdKmWWC2yK6yWfP4gb_t7pyqSfi4.png",
+      "index": 7
+    },
+    {
+      "title": "Remembering Prince Rogers Nelson, who was born on this ...",
+      "link": "https://www.facebook.com/soultvofficial/posts/remembering-prince-rogers-nelson-who-was-born-on-this-day-june-7-1958-april-21-2/1120040236821142/#:~:text=Remembering%20Prince%20Rogers%20Nelson%2C%20who,%2C%20and%201999%20(1982).",
+      "snippet": "Jun 7, 2025 \u2014 Remembering Prince Rogers Nelson, who was born on this day. (June 7, 1958 \u2013 April 21, 2016). Simply known as Prince, he was a sing...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/WK88jRKaETRqlrRiMurG0elNUCzRDnDycvMxv6rrwVY.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Prince Rogers Nelson (\"Prince,\" \"The Artist Formerly Known ...",
+      "link": "https://blackpast.org/african-american-history/nelson-prince-rogers-prince-artist-formerly-known-prince-1958/#:~:text=Prince%20was%20one%20of%20the,all%20aspects%20of%20music%20production.",
+      "snippet": "Jul 1, 2025 \u2014 Prince was one of the most popular musical artists of the 1980s. During a prolific 38-year career, Prince released 39 albums and a...",
+      "source": "BlackPast.org",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/rHkihzaFLakpaDCqUyeuHWcdwaX2uiVlxvnfozz4K_8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/M9aaVM49x4244we7X5z_VjH8khObZ7nD7t31yWOcHuA.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Music legend Prince found dead at his estate - oregonlive.com",
+      "link": "https://www.oregonlive.com/today/2016/04/death_reported_at_princes_reco.html#:~:text=Updated%20at%207:30%20p.m.,responders%20couldn't%20revive%20him.",
+      "snippet": "Apr 21, 2016 \u2014 The musician seemed to be shedding his reclusive reputation. He hosted several late-night jam sessions where he serenaded Madonna,",
+      "source": "OregonLive.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/etapPffffTCZiMzTb2u52HG2jMEgz4tfg8fPc5LPb5A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/I3DO89Y_wUcCPmtWsI8utxUZnyB5YqS1HYDRNJdADwI.png",
+      "index": 10
+    },
+    {
+      "title": "How many instruments could Prince play proficiently and what ...",
+      "link": "https://www.quora.com/How-many-instruments-could-Prince-play-proficiently-and-what-were-they#:~:text=He%20was%20good%20enough%20at,how%20he%20got%20so%20good.",
+      "snippet": "Apr 23, 2016 \u2014 * Tyrone Norwood. Studied Music History 1895-2016 Author has 57 answers and. \u00b7 9y. It has been said by Jimmy Jam when he met Princ...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/VPUw_hKNmtQRFAxBYsNm0mOcuZGu4b2LBZhQgQ5kO0s.png",
+      "index": 11
+    },
+    {
+      "title": "Prince - Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/prince#:~:text=At%20a%20Glance%E2%80%A6,%2C%20Beverly%20Hills%2C%20CA%2090210.",
+      "snippet": "Aug 8, 2016 \u2014 Addresses: Record company \u2014Redline Entertainment, 7075 Flying Cloud Dr., Eden Prairie, MN 55344. Website \u2014Prince Official Website:",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/ZWoy-r9V8_TAnkoLSrln1c16MjUlBB7EBw1wF49VwQM.png",
+      "index": 12
+    },
+    {
+      "title": "Prince Vault",
+      "link": "https://princevault.com/index.php?title=Prince",
+      "snippet": "Oct 5, 2013 \u2014 Table_title: Prince Table_content: header: | Artist details | | row: | Artist details: Date Of Birth: | : 7 June 1958, Minneapolis...",
+      "source": "Prince Vault",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/k5QSSkzqRUPzIl4fQIcUAOeuyT9LV8v-Dsq-ipwvsGA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/PkdGBYuk4ESaPbwTr0dal6W7rMam11AWaisTUOWS0ao.png",
+      "index": 13
+    },
+    {
+      "title": "Prince | Biography, Songs, Music, Purple Rain, Significance ...",
+      "link": "https://www.britannica.com/biography/Prince-singer-and-songwriter#:~:text=Prince%20(born%20June%207%2C%201958,in%20all%20the%20performing%20roles.",
+      "snippet": "Jan 19, 2026 \u2014 Prince (born June 7, 1958, Minneapolis, Minnesota, U.S.\u2014died April 21, 2016, Chanhassen, Minnesota) was an American singer, guitar...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/_6-5OVfiyOg4SWxE9l3PoCwM7QUlGzdQYVOYtOxsumI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0e6cb30f6d4828b01/images/3ETf8dyQ9HqhvLkzwyt3q0pwFonRwQ2TBvla83UUvRg.png",
+      "index": 14
+    },
+    {
+      "title": "Music Final Exam Flashcards - Quizlet",
+      "link": "https://quizlet.com/345225353/music-final-exam-flash-cards/",
+      "snippet": "A Quartet? A Trio? The rhythm section consists of instruments that provide harmony, bass, and percussion. More than one harmony in...",
+      "source": "Quizlet",
+      "thumbnail": "https://quizlet.com/345225353/music-final-exam-flash-cards/",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://quizlet.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Prince June 7, 1958 \u2013 April 21, 2016 \u2764\ufe0f \ud83c\udfb6 \ud83c\udfb5 Singer, songwriter, musician, and actor. Regarded as one of the most influential musicians of his generation, Prince was known for his flamboyant, androgynous persona, wide vocal range, which included a far-reaching falsetto and high-pitched screams, as well as his skill as a multi-instrumentalist, often preferring to play all or most of the instruments on his recordings. His music incorporated a wide variety of styles, including funk, R\\u0026B, rock, new wave, soul, synth-pop, pop, jazz, blues, and hip hop. Prince produced his albums himself, pioneering the Minneapolis sound. Prince has sold more than 100 million records worldwide, ranking him among the best-selling music artists of all time.[19] His awards include the Grammy President's Merit Award, the American Music Awards for Achievement and of Merit, the Billboard Icon Award, an Academy Award, and a Golden Globe Award. He was inducted into the Rock and Roll Hall of Fame in 2004, the UK Music Hall of Fame in 2006, and the Rhythm and Blues Music Hall of Fame in 2016, and was inducted twice into the Black Music \\u0026 Entertainment Walk of Fame in 2022. Estimates of the complete",
+      "link": "https://www.facebook.com/Legends966/posts/prince-june-7-1958-april-21-2016-%EF%B8%8F-singer-songwriter-musician-and-actor-regarded/1171420201663298/#:~:text=A%20multi%20instrumentalist%2C%20he%20(%20The%20Artist,R&B%2C%20new%20wave%2C%20soul%2C%20psychedelia%2C%20and%20pop.",
+      "snippet": "A multi instrumentalist, he ( The Artist Formerly Known as Prince ) was considered a guitar virtuoso and was also skilled at playi...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUgFQCbyQKGRyBjnvCkRxhDMrOlm7M67aNFqMY1eE3uKcGRIo6",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    }
+  ]
+}

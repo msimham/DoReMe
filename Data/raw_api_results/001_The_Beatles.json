@@ -1,0 +1,367 @@
+{
+  "search_metadata": {
+    "id": "6987c2e83336177f02f0133d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/pHXgqT0URQbvrtQHGh0gdQ/6987c2e83336177f02f0133d.json",
+    "created_at": "2026-02-07 22:55:36 UTC",
+    "processed_at": "2026-02-07 22:55:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=The+Beatles%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=The+Beatles%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/pHXgqT0URQbvrtQHGh0gdQ/6987c2e83336177f02f0133d.html",
+    "prettify_html_file": "https://serpapi.com/searches/pHXgqT0URQbvrtQHGh0gdQ/6987c2e83336177f02f0133d.prettify",
+    "total_time_taken": 8.42
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "The Beatles, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "LyIoA3icRZJJjqtmAISlnITle1LczWAmtbzADAZsDPzMbNDPYEP7B8wMvc9FoqdEygVygJyic5p0pEip2pVU0idV_fJrUf3JGGcVwuYsG03yHG3rofd-bS8_CtRnn3-JdbtEbqwa6mNMa3srHtoKm7iFUrY4gW97KthcIpZdBbRQ9gPnRMuAOL4bhD4G_jWM_ONmBHoMTrponlAM3GuXu9cjRLzny8ABHyiEj6cShQoAp7gBXixmFJKAqpBA4S0bX-v4tFKF560g9Cm5zEjXG7UoUCYH968p4pdcUWyIPze_JkC-thfjRFg-dSyvZFybvvzHNBR9Au9FM35ORvtRIQRf6Rcc-2bArGrGdijfMK0ZC4R9BZjpYCFG4AlBJ-x3THg-UREU6bkaX2mKfaEY7NtZdY3LzxiqHgV2KrJH-x0Ty76ti1eC4l7wf4058Ab76r_Kb1nbPqri75-wJHGKbOqLneMC6yBIjNTep7ygpwZZoB0voxhTy3CGJlV1xFw3d_qUq_qwQ893xiSSD-HKT2mGh6Gv6y7nMMueWVrHmYNJfpb3paOmTBIaglqDGU04n2bXN0yQxYMA9RrSU59a6WCWyhxHwjTdpUvaXspKB_ayXYSaGquMdxFouU4cLMkuVI-9v_3PfPTEs-weRN1W3jDJPwwsWsJN1Fj-vg2qjW9mmtxI_MnYDFroei65zN280kkXT_iCeL4rpEe3Yl_asvClN-yqSQea5A7-2dDtHp78XbRdTpxyyfiRX1OS6RJOY-KwQXJx0zz_ZvLsMxkkz-Vdz5imwHwqiYXImiN3Jqc-2rydQRT3IO9ctkurqZ9m3Stpr7cTX-mkakyvNucKe_18HY94DYd8twU5cOFabzT58C7P1rZpffDOXcMf-9g-WoA90kAvNIq9n6N7QoYDV7HM3XeRVvkWs-0i_pr1efO-y61eNECirwKUEICyjieDdivElDD0wchgxzu3NOalZbMJc24-YJeOFN9CnNLXXs1mFjeWH_UwPj5_F7xRXm9iOhrE_muhPSG9c1AMufajMbubxi44N87NfkfzvNqp7nFeViUJQmDuYcPP9o0SidDZhhQsHR9Zg-bVBBVEpbqJQQjfefHG7zNgGeFd3qm2BR4hilzm6z_RkUK3LFH1PCfpYOtgMiBvF0VaQbYDHcUyfaKTIIn5QLbHWfsHfTxtqA",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of early 2026, the two living members of The Beatles are Paul McCartney and Ringo Starr. John Lennon and George Harrison are deceased.",
+      "reference_indexes": [
+        1,
+        0,
+        18,
+        19
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Living Members"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Paul McCartney",
+          "list": [
+            {
+              "snippet": "Age: 83 (born June 18, 1942)."
+            },
+            {
+              "snippet": "Occupations: Singer, songwriter, musician, record and film producer, businessman."
+            },
+            {
+              "snippet": "Music Skills & Proficiency:",
+              "list": [
+                {
+                  "snippet": "Bass Guitar: Exceptional; widely regarded as one of history's top bassists for his melodic and contrapuntal style."
+                },
+                {
+                  "snippet": "Vocals: High proficiency; known for a wide tenor range and versatile styles, from ballads to rock \"screamers\"."
+                },
+                {
+                  "snippet": "Piano/Keyboards: Highly proficient; self-taught and able to compose complex pieces across multiple genres."
+                },
+                {
+                  "snippet": "Guitar: Proficient; played lead guitar on tracks like \"Taxman\"."
+                },
+                {
+                  "snippet": "Multi-instrumentalist: Mastered over 40\u201350 instruments, including mandolin, ukulele, and drums."
+                }
+              ]
+            },
+            {
+              "snippet": "Current Residence: Sussex, England (primary estate); also maintains residences in London, New York City, NY, and Beverly Hills, CA."
+            }
+          ]
+        },
+        {
+          "snippet": "Ringo Starr",
+          "list": [
+            {
+              "snippet": "Age: 85 (born July 7, 1940)."
+            },
+            {
+              "snippet": "Occupations: Drummer, singer, songwriter, actor."
+            },
+            {
+              "snippet": "Music Skills & Proficiency:",
+              "list": [
+                {
+                  "snippet": "Drums: Master; pioneering \"matched grip\" and known for an impeccable sense of time and unique fills due to being left-handed on a right-handed kit."
+                },
+                {
+                  "snippet": "Vocals: Capable/Distinctive; typically sang lead on one song per album (e.g., \"Yellow Submarine\")."
+                },
+                {
+                  "snippet": "Songwriting: Competent; wrote \"Octopus's Garden\" and \"Don't Pass Me By\"."
+                }
+              ]
+            },
+            {
+              "snippet": "Current Residence: Beverly Hills, California."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        13,
+        7,
+        17,
+        6,
+        2,
+        5,
+        12,
+        3,
+        16,
+        4,
+        10,
+        11,
+        8,
+        9,
+        14
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Deceased Members"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "John Lennon",
+          "list": [
+            {
+              "snippet": "Status: Deceased (1940\u20131980); would have been 85."
+            },
+            {
+              "snippet": "Skills: Rhythm guitar (proficient), harmonica (proficient), piano (competent), and master songwriter."
+            },
+            {
+              "snippet": "Last Residence: New York City, New York (The Dakota).",
+              "snippet_links": [
+                {
+                  "text": "New York City, New York",
+                  "link": "https://www.google.com/search?q=New+York+City,+New+York&kgmid=/m/02_286&sa=X&ved=2ahUKEwjS-rXuvMiSAxVxlYkEHf2DGgQQ3egRegQICBAF"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "George Harrison",
+          "list": [
+            {
+              "snippet": "Status: Deceased (1943\u20132001); would have been 83."
+            },
+            {
+              "snippet": "Skills: Lead guitar (exceptional/virtuoso), sitar (highly proficient), and songwriter."
+            },
+            {
+              "snippet": "Last Residence: Friar Park, Henley-on-Thames, England.",
+              "snippet_links": [
+                {
+                  "text": "Friar Park, Henley-on-Thames, England",
+                  "link": "https://www.google.com/viewer/place?mid=/m/019gtp&sa=X&ved=2ahUKEwjS-rXuvMiSAxVxlYkEHf2DGgQQqdYPegQICBAL"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        1,
+        0,
+        17,
+        3,
+        2,
+        16,
+        15
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "The Beatles | Members, Songs, Let It Be, Albums, & Facts",
+      "link": "https://www.britannica.com/topic/the-Beatles#:~:text=*%20John%20Lennon%20(born%20October%209%2C%201940%2C,Ringo%20Starr%20(born%20July%207%2C%201940%2C%20Liverpool)",
+      "snippet": "Feb 2, 2026 \u2014 * John Lennon (born October 9, 1940, Liverpool, Merseyside, England\u2014died December 8, 1980, Manhattan, New York, U.S.) * Paul McCar...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/6JeKzFrl2gWLLhIDNR7hLhvlMDLF5g1Ykd9T6WKmENo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/5ZCJRopYAK4jFB9rc4-Pe5kQAlztZvzv8s9s_XFb1lw.png",
+      "index": 0
+    },
+    {
+      "title": "Beatles members birthdays and legacy - Facebook",
+      "link": "https://www.facebook.com/groups/361717340550274/posts/24615048154790521/#:~:text=%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%98%20%F0%9D%97%95%F0%9D%97%98%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%9F%F0%9D%97%98%F0%9D%97%A6%20%F0%9F%94%A5%E2%9D%A4%EF%B8%8F%201%EF%B8%8F%E2%83%A3,Birthplace:%20Liverpool%2C%20England%20%F0%9F%95%8A%EF%B8%8F%20Died",
+      "snippet": "Oct 9, 2025 \u2014 John Lennon (one of the two deceased Beatles) was born 85 years ago today on October 9, 1940. George Harrison is the other decease...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/6rZWQeS7ChMFTCP9HIbh3K7-gGOR8F_xnkLvBRbEP-M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/y_4mngZ_oAglNaKlVE17LLk8WApa9RdJY6L_PbcafTg.png",
+      "index": 1
+    },
+    {
+      "title": "Was Paul McCartney the best musician in The Beatles? - Facebook",
+      "link": "https://www.facebook.com/groups/361717340550274/posts/5532876073434349/#:~:text=Paul%20McCartney%20is%20not%20just,is%20a%20true%20musical%20genius.",
+      "snippet": "Dec 5, 2022 \u2014 2. Musical versatility: McCartney not only excelled as a singer and songwriter, but also as a multi- instrumentalist. Over the yea...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/qHuprcfEqD7j0zwP9yEypMs5kpkPfhwDTk6frsuGE9E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/tLLztuwmvluc260z1pQUlmto800WRzrny48HLt-cJP0.png",
+      "index": 2
+    },
+    {
+      "title": "Paul McCartney was the most talented musician in The Beatles",
+      "link": "https://www.facebook.com/groups/361717340550274/posts/6358590847529530/#:~:text=Was%20Paul%20McCartney%20the%20best,%E2%80%9D%20to%20describe%20his%20playing.)",
+      "snippet": "Aug 13, 2023 \u2014 2. Musical versatility: McCartney not only excelled as a singer and songwriter, but also as a multi- instrumentalist. Over the yea...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/3SS-kT51vLlA41XIKqAXCcQoUX_uKfQUJxecr9_AGC8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/MKjfN2ApGBRkoNn9jnnaiBMUdXjvoKekSIT_35gsy8Y.png",
+      "index": 3
+    },
+    {
+      "title": "Ringo Starr's drumming skills and rating as a drummer - Facebook",
+      "link": "https://www.facebook.com/groups/IWantMyRock/posts/6104183989701426/#:~:text=Starr%20joined%20The%20Beatles%20in,drumporn%20%23vicfirth%20%23drummerslife%20%23cymbals",
+      "snippet": "May 1, 2023 \u2014 Starr joined The Beatles in 1962, and his unique drumming style became an integral part of their groundbreaking sound. While not a...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/XR4B2dPjdicKKV-rVyvcxWQuDTpr635DAeYjlVn5fo4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/HNDtH24BW601GpqO0taLeFP4auGEZ31DzbxZv6UGAC0.png",
+      "index": 4
+    },
+    {
+      "title": "Answer to Which Beatles songs in your view best highlighted Paul ...",
+      "link": "https://www.facebook.com/groups/236620520128407/posts/1311473915976390/#:~:text=Paul%20McCartney%2C%20one%20of%20the%20most%20influential%20musicians%20in%20history,*Live%20and%20Let%20Die*.",
+      "snippet": "Jul 30, 2021 \u2014 Answer to Which Beatles songs in your view best highlighted Paul McCartney's overall skills as a musician? by Rick Bonner * Joe To...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/7dk6jldNFbt9Pc73-STBozvXkagDrAlz_C1ptAnSgYw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/xrz-aj2KYNSoNq81UfSidydB_bb8SswAVK9r_OebBxw.png",
+      "index": 5
+    },
+    {
+      "title": "What specific skills or habits might have helped Paul ... - Quora",
+      "link": "https://www.quora.com/What-specific-skills-or-habits-might-have-helped-Paul-McCartney-excel-at-singing-and-playing-bass-at-the-same-time#:~:text=He%20grew%20up%20in%20a,ukulele%2C%20violin%2C%20and%20trumpet.",
+      "snippet": "Sep 4, 2025 \u2014 * I'm venturing that his very early piano mastery and sing alongs with family trained his independence between right and left hand...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/5pxsPhtl0sd212KoYyT_fCsMDqLCkD9d8HXTYH10vDU.png",
+      "index": 6
+    },
+    {
+      "title": "Paul McCartney - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Paul_McCartney#:~:text=Sir%20James%20Paul%20McCartney%20(born,Vee%2DJay",
+      "snippet": "Sir James Paul McCartney (born 18 June 1942) is an English musician. He gained global fame with the Beatles, for whom he was the b...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/cChbShpHLhyJNbWtkfv6CLmv_hn5VqUxEDB5nWXiXTc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/wwHSf9JPlf7zBf5zcIDRJOnMp41M3EUElwmKCL6Jk4g.png",
+      "index": 7
+    },
+    {
+      "title": "Ringo Starr: 5 Reasons The Beatles Drummer Is A Genius",
+      "link": "https://www.drumeo.com/beat/beatles-ringo-starr-drumming-genius/#:~:text=Ringo's%20signature%20style%20includes%20quarter,8%20and%2010/8).",
+      "snippet": "Jul 7, 2023 \u2014 * Ringo has a unique drumming style. One reason Ringo has such a unique vice on the kit is \u2013 surprise, surprise \u2013 he's a left-hand...",
+      "source": "Drumeo",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/NvTm_UgDrkxKXEDLWYhUCY0-thtaJPkoNZkz7qwaOAA.jpeg",
+      "index": 8
+    },
+    {
+      "title": "How good was Ringo Starr as a drummer? Did he have any ...",
+      "link": "https://www.quora.com/How-good-was-Ringo-Starr-as-a-drummer-Did-he-have-any-training-or-instruction-in-his-craft-Did-he-ever-write-or-arrange-any-songs-for-The-Beatles#:~:text=He%20wasn't%20formally%20trained,explains%20this%20in%20a%20video.",
+      "snippet": "Mar 25, 2023 \u2014 How good was Ringo Starr as a drummer? Did he have any training or instruction in his craft? Did he ever write or arrange any song...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/EKLOCC7c_yFoa1Rmx-4CYisHp0mEHGMW2DOxcDMOzEw.png",
+      "index": 9
+    },
+    {
+      "title": "Ringo Starr\u2019s Drumming Skills Are Even More Impressive Because ...",
+      "link": "https://www.facebook.com/groups/361717340550274/posts/5321405381248087/#:~:text=This%20wasn't%20just%20drumming,influence%20on%20generations%20of%20drummers.",
+      "snippet": "Sep 23, 2022 \u2014 * Dean Dimaggio. I think Ringo was great, because he got along with the others, at the start they lived in close quarters. I don't...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/VpCekB1-8Bz3Qwp8kWT28K_-lbGSzZBShJiE1BK8qtw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/1aJhVZsc0nAI330rtPEDOWRPU9-kr51NiXIh1Pk2BEU.png",
+      "index": 10
+    },
+    {
+      "title": "The Genius of Ringo",
+      "link": "https://www.youtube.com/watch?v=7CB8xToC-CU&t=15",
+      "snippet": "Aug 2, 2020 \u2014 If there's one thing I want you to take away from this video it's this that never happened really if there's two things I want you...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/9tBlduEdYTsFhqlOreatWx5Jog96ZTU7ScLiOMqzCPc.jpeg",
+      "index": 11
+    },
+    {
+      "title": "It has been suggested that McCartney\u2019s low knowledge of music ...",
+      "link": "https://www.quora.com/It-has-been-suggested-that-McCartney-s-low-knowledge-of-music-theory-is-one-reason-his-songwriting-was-innovative-Do-you-think-the-same-might-hold-for-intellectual-fields-that-too-much-time-being-taught-the-rules",
+      "snippet": "Jan 9, 2021 \u2014 * It's a myth that Paul McCartney has a low knowledge of music theory. * Paul knows: * On rhythm guitar majot, minor, major 7ths, ...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/JX8uf2F9Xh5SiEbrwqIb0YGaRUcZSm_fAWcwbkltcf0.png",
+      "index": 12
+    },
+    {
+      "title": "Paul McCartney and Ringo Starr reflect on 'special' bond as ...",
+      "link": "https://nypost.com/2025/07/02/entertainment/paul-mccartney-ringo-starr-reflect-on-their-lasting-beatles-bond/#:~:text=Paul%20McCartney%20and%20Ringo%20Starr,realize%20that%20it's%20very%20special.%E2%80%9D",
+      "snippet": "Jul 2, 2025 \u2014 Paul McCartney and Ringo Starr reflect on 'special' bond as only living members of The Beatles. By. Amanda Rubio. Published July 2...",
+      "source": "New York Post",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/17tCS4p8C8ZNQELK7pQO8iHCpgCUyhc5nMpy6-ayAic.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Ringo Starr's epic Beverly Hills mansion is a Beatles time capsule",
+      "link": "https://www.hellomagazine.com/homes/810240/ringo-starr-beverly-hills-mansion-beatles-tributes/#:~:text=He%20often%20shares%20updates%20from,worth%20a%20staggering%20$14%20million.",
+      "snippet": "Jan 28, 2025 \u2014 He often shares updates from his home studio with his 1.4 million Instagram followers, as well as occasional glimpses around the r...",
+      "source": "HELLO! Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/fo99NoF1lTaJe6H50vYpjK_VquxCsVMs4hsabqaW0s4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/-D28lP3hezukDLigkhVYzuCviJg9hE7r4FAcDYM5Qj0.png",
+      "index": 14
+    },
+    {
+      "title": "The Beatles | Reason to Rock",
+      "link": "https://www.reasontorock.com/artists/beatles.html#:~:text=First%20on%20the%20list%20of,own%20as%20a%20unique%20achievement.",
+      "snippet": "First on the list of The Beatles' many talents were the songwriting skills of Lennon and McCartney. Unlike most of their contempor...",
+      "source": "www.reasontorock.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/ouop0aQtO0lFV4gbj2J1RcRDC72fMGjZGmJzPkgyH5Q.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/33nv4sNWEIvMlkhLFm7KNrjXPjTaw2bDyLH5q05Yc-Q.png",
+      "index": 15
+    },
+    {
+      "title": "Where do the two Beatles, Ringo and Paul, live nowadays? - Quora",
+      "link": "https://www.quora.com/Where-do-the-two-Beatles-Ringo-and-Paul-live-nowadays#:~:text=Actually%20Sir%20Paul%20McCartney%20has,own%20a%20house%20in%20California.&text=Paul%20McCartney%20and%20Ringo%20Starr%20are%20alive.&text=Paul%20is%2075%2C%20he%20currently,he'll%20play%20in%20Atlanta.&text=George%20and%20Paul%20were%20very,original%20Quarrybank%20High%20School%20buddies.",
+      "snippet": "Apr 20, 2020 \u2014 Actually Sir Paul McCartney has denied the reports that his former bandmate George Harrison, died at any house that he owned in Ca...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/7hC-u5JZySRd5p9CbMRdbDp8Wc7j82Adgm1NMg_k5QI.png",
+      "index": 16
+    },
+    {
+      "title": "How skilled were The Beatles as musicians compared to other ...",
+      "link": "https://www.quora.com/How-skilled-were-The-Beatles-as-musicians-compared-to-other-bands-during-their-time-Were-they-considered-highly-talented-or-just-average-for-pop-music#:~:text=Einar%20Severinson,Respected%20by%20other%20drummers.",
+      "snippet": "Jul 13, 2024 \u2014 Einar Severinson. Owner-Operator (2013\u2013present) Author has. \u00b7 Updated Jan 11. But it's really about the sum of the parts. The Ramo...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e83336177f02f0133d/images/aIuux-O_FuibH9AQ7XVcG8e0nYhCJbQ4Dwq4ftVqUMw.png",
+      "index": 17
+    },
+    {
+      "title": "PAUL \\u0026 RINGO ANNOUNCE THE FINAL BEATLES TOUR: More than 60 years after changing music forever, Paul McCartney and Ringo Starr are reuniting for the 2026 farewell tour, One Last Beat \u2014 a tribute to John and George. But it\u2019s the hidden surprise behind this once-in-a-lifetime tour that has fans buzzing. \u25b6\ufe0f Watch Here: https://greatestoldcountrymusic.shop/paul-ringo-announce-the-final-beatles-tour-more-than-60-years-after-changing-music-forever-paul-mccartney-and-ringo-starr-are-reuniting-for-the-2026-farewell-tour-one-last-beat-a-tribu/ For over six decades, The Beatles have stood as the greatest musical phenomenon the world has ever known. Their songs shaped not just a generation, but the very language of popular music itself. Now, in a moment that seemed impossible, the two surviving members \u2014 Paul McCartney and Ringo Starr \u2014 have announced their final chapter together: the 2026 Farewell Tour, One Last Beat. Billed as both a farewell and a tribute, the tour will honor not only their own enduring partnership but also the memory of John Lennon and George Harrison. Fans are already calling it the most emotional reunion in music history, a living monument to four young men",
+      "link": "https://www.facebook.com/61557523955984/posts/paul-ringo-announce-the-final-beatles-tour-more-than-60-years-after-changing-mus/122225892158250798/#:~:text=Their%20(%20The%20Beatles%20)%20songs%20shaped,the%202026%20Farewell%20Tour%2C%20One%20Last%20Beat.",
+      "snippet": "Their ( The Beatles ) songs shaped not just a generation, but the very language of popular music itself. Now, in a moment that see...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswpprzGGdDsGJ8Wr3PMIk8Mye9Lwnj6YrD72IiCKQOJNNfjge",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "What are the birthdates and birthplaces of The Beatles members?",
+      "link": "https://www.quora.com/What-are-the-birthdates-and-birthplaces-of-The-Beatles-members",
+      "snippet": "* The Beatles. * Ringo Starr (b. July 7, 1940) * John Lennon (b. October 9, 1940) * Paul McCartney (b. June 18, 1942) * George Har...",
+      "source": "Quora",
+      "thumbnail": "https://www.quora.com/What-are-the-birthdates-and-birthplaces-of-The-Beatles-members",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are Ringo Starr's most iconic drum performances with The Beatles?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+Ringo+Starr%27s+most+iconic+drum+performances+with+The+Beatles%3F&subsequent_request_token=LyIoA3icRZJJjqtmAISlnITle1LczWAmtbzADAZsDPzMbNDPYEP7B8wMvc9FoqdEygVygJyic5p0pEip2pVU0idV_fJrUf3JGGcVwuYsG03yHG3rofd-bS8_CtRnn3-JdbtEbqwa6mNMa3srHtoKm7iFUrY4gW97KthcIpZdBbRQ9gPnRMuAOL4bhD4G_jWM_ONmBHoMTrponlAM3GuXu9cjRLzny8ABHyiEj6cShQoAp7gBXixmFJKAqpBA4S0bX-v4tFKF560g9Cm5zEjXG7UoUCYH968p4pdcUWyIPze_JkC-thfjRFg-dSyvZFybvvzHNBR9Au9FM35ORvtRIQRf6Rcc-2bArGrGdijfMK0ZC4R9BZjpYCFG4AlBJ-x3THg-UREU6bkaX2mKfaEY7NtZdY3LzxiqHgV2KrJH-x0Ty76ti1eC4l7wf4058Ab76r_Kb1nbPqri75-wJHGKbOqLneMC6yBIjNTep7ygpwZZoB0voxhTy3CGJlV1xFw3d_qUq_qwQ893xiSSD-HKT2mGh6Gv6y7nMMueWVrHmYNJfpb3paOmTBIaglqDGU04n2bXN0yQxYMA9RrSU59a6WCWyhxHwjTdpUvaXspKB_ayXYSaGquMdxFouU4cLMkuVI-9v_3PfPTEs-weRN1W3jDJPwwsWsJN1Fj-vg2qjW9mmtxI_MnYDFroei65zN280kkXT_iCeL4rpEe3Yl_asvClN-yqSQea5A7-2dDtHp78XbRdTpxyyfiRX1OS6RJOY-KwQXJx0zz_ZvLsMxkkz-Vdz5imwHwqiYXImiN3Jqc-2rydQRT3IO9ctkurqZ9m3Stpr7cTX-mkakyvNucKe_18HY94DYd8twU5cOFabzT58C7P1rZpffDOXcMf-9g-WoA90kAvNIq9n6N7QoYDV7HM3XeRVvkWs-0i_pr1efO-y61eNECirwKUEICyjieDdivElDD0wchgxzu3NOalZbMJc24-YJeOFN9CnNLXXs1mFjeWH_UwPj5_F7xRXm9iOhrE_muhPSG9c1AMufajMbubxi44N87NfkfzvNqp7nFeViUJQmDuYcPP9o0SidDZhhQsHR9Zg-bVBBVEpbqJQQjfefHG7zNgGeFd3qm2BR4hilzm6z_RkUK3LFH1PCfpYOtgMiBvF0VaQbYDHcUyfaKTIIn5QLbHWfsHfTxtqA"
+    },
+    {
+      "question": "What musical projects are Paul McCartney and Ringo Starr involved in now?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+musical+projects+are+Paul+McCartney+and+Ringo+Starr+involved+in+now%3F&subsequent_request_token=LyIoA3icRZJJjqtmAISlnITle1LczWAmtbzADAZsDPzMbNDPYEP7B8wMvc9FoqdEygVygJyic5p0pEip2pVU0idV_fJrUf3JGGcVwuYsG03yHG3rofd-bS8_CtRnn3-JdbtEbqwa6mNMa3srHtoKm7iFUrY4gW97KthcIpZdBbRQ9gPnRMuAOL4bhD4G_jWM_ONmBHoMTrponlAM3GuXu9cjRLzny8ABHyiEj6cShQoAp7gBXixmFJKAqpBA4S0bX-v4tFKF560g9Cm5zEjXG7UoUCYH968p4pdcUWyIPze_JkC-thfjRFg-dSyvZFybvvzHNBR9Au9FM35ORvtRIQRf6Rcc-2bArGrGdijfMK0ZC4R9BZjpYCFG4AlBJ-x3THg-UREU6bkaX2mKfaEY7NtZdY3LzxiqHgV2KrJH-x0Ty76ti1eC4l7wf4058Ab76r_Kb1nbPqri75-wJHGKbOqLneMC6yBIjNTep7ygpwZZoB0voxhTy3CGJlV1xFw3d_qUq_qwQ893xiSSD-HKT2mGh6Gv6y7nMMueWVrHmYNJfpb3paOmTBIaglqDGU04n2bXN0yQxYMA9RrSU59a6WCWyhxHwjTdpUvaXspKB_ayXYSaGquMdxFouU4cLMkuVI-9v_3PfPTEs-weRN1W3jDJPwwsWsJN1Fj-vg2qjW9mmtxI_MnYDFroei65zN280kkXT_iCeL4rpEe3Yl_asvClN-yqSQea5A7-2dDtHp78XbRdTpxyyfiRX1OS6RJOY-KwQXJx0zz_ZvLsMxkkz-Vdz5imwHwqiYXImiN3Jqc-2rydQRT3IO9ctkurqZ9m3Stpr7cTX-mkakyvNucKe_18HY94DYd8twU5cOFabzT58C7P1rZpffDOXcMf-9g-WoA90kAvNIq9n6N7QoYDV7HM3XeRVvkWs-0i_pr1efO-y61eNECirwKUEICyjieDdivElDD0wchgxzu3NOalZbMJc24-YJeOFN9CnNLXXs1mFjeWH_UwPj5_F7xRXm9iOhrE_muhPSG9c1AMufajMbubxi44N87NfkfzvNqp7nFeViUJQmDuYcPP9o0SidDZhhQsHR9Zg-bVBBVEpbqJQQjfefHG7zNgGeFd3qm2BR4hilzm6z_RkUK3LFH1PCfpYOtgMiBvF0VaQbYDHcUyfaKTIIn5QLbHWfsHfTxtqA"
+    },
+    {
+      "question": "Describe some unique drumming techniques Ringo Starr popularized",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Describe+some+unique+drumming+techniques+Ringo+Starr+popularized&subsequent_request_token=LyIoA3icRZJJjqtmAISlnITle1LczWAmtbzADAZsDPzMbNDPYEP7B8wMvc9FoqdEygVygJyic5p0pEip2pVU0idV_fJrUf3JGGcVwuYsG03yHG3rofd-bS8_CtRnn3-JdbtEbqwa6mNMa3srHtoKm7iFUrY4gW97KthcIpZdBbRQ9gPnRMuAOL4bhD4G_jWM_ONmBHoMTrponlAM3GuXu9cjRLzny8ABHyiEj6cShQoAp7gBXixmFJKAqpBA4S0bX-v4tFKF560g9Cm5zEjXG7UoUCYH968p4pdcUWyIPze_JkC-thfjRFg-dSyvZFybvvzHNBR9Au9FM35ORvtRIQRf6Rcc-2bArGrGdijfMK0ZC4R9BZjpYCFG4AlBJ-x3THg-UREU6bkaX2mKfaEY7NtZdY3LzxiqHgV2KrJH-x0Ty76ti1eC4l7wf4058Ab76r_Kb1nbPqri75-wJHGKbOqLneMC6yBIjNTep7ygpwZZoB0voxhTy3CGJlV1xFw3d_qUq_qwQ893xiSSD-HKT2mGh6Gv6y7nMMueWVrHmYNJfpb3paOmTBIaglqDGU04n2bXN0yQxYMA9RrSU59a6WCWyhxHwjTdpUvaXspKB_ayXYSaGquMdxFouU4cLMkuVI-9v_3PfPTEs-weRN1W3jDJPwwsWsJN1Fj-vg2qjW9mmtxI_MnYDFroei65zN280kkXT_iCeL4rpEe3Yl_asvClN-yqSQea5A7-2dDtHp78XbRdTpxyyfiRX1OS6RJOY-KwQXJx0zz_ZvLsMxkkz-Vdz5imwHwqiYXImiN3Jqc-2rydQRT3IO9ctkurqZ9m3Stpr7cTX-mkakyvNucKe_18HY94DYd8twU5cOFabzT58C7P1rZpffDOXcMf-9g-WoA90kAvNIq9n6N7QoYDV7HM3XeRVvkWs-0i_pr1efO-y61eNECirwKUEICyjieDdivElDD0wchgxzu3NOalZbMJc24-YJeOFN9CnNLXXs1mFjeWH_UwPj5_F7xRXm9iOhrE_muhPSG9c1AMufajMbubxi44N87NfkfzvNqp7nFeViUJQmDuYcPP9o0SidDZhhQsHR9Zg-bVBBVEpbqJQQjfefHG7zNgGeFd3qm2BR4hilzm6z_RkUK3LFH1PCfpYOtgMiBvF0VaQbYDHcUyfaKTIIn5QLbHWfsHfTxtqA"
+    }
+  ]
+}

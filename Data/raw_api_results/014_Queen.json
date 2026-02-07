@@ -1,0 +1,339 @@
+{
+  "search_metadata": {
+    "id": "6987c2f0792d6846ef5406bf",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jAox9W1XSm9BCMFT-nc0Ag/6987c2f0792d6846ef5406bf.json",
+    "created_at": "2026-02-07 22:55:44 UTC",
+    "processed_at": "2026-02-07 22:55:44 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Queen%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Queen%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/jAox9W1XSm9BCMFT-nc0Ag/6987c2f0792d6846ef5406bf.html",
+    "prettify_html_file": "https://serpapi.com/searches/jAox9W1XSm9BCMFT-nc0Ag/6987c2f0792d6846ef5406bf.prettify",
+    "total_time_taken": 8.72
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Queen, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "LCSkn3icPY5JrqNWAEWlLCBrYFglhf_BBmzrywM60zemNUwQzTNgHq2fbWBeG4lKiZRx5lnHz2pSiqLcMzvSke63X0H95z7X5NSbTkhnDsIutNZHo3wHcMo__-Lb_hV5MZV1sZvJUHQ8x3EIZ7XCA3OGB_dCELQrxmpGFkMKTdIj_Y2_IQ2XODlmwI2-aDJhcAgNLyacLWR0z-kyf5gzEXVmeyZBcHLyznRAe3LDtqKLpnD9lVtBMKznVX0aPp1mTeF7C8n7oemI1ZmKCKREgbM4nWOYNyiaZGGDLphcp9dBuN9EK2wiH75CKf_jcQdTkpagQ58Po19rCNN3-o3AvhhpXneov1cfmNIhALEfArNc7IKRRELSye4rxg4DBCHItBq909vd25bBvmiyZ-i_YLBuACaBvOm_Ynw19S14Jyni7V8wN72mU_1f8lve900N_v7p5yRxQf6YAO56jn1kBUboyyesV3TJFKW90dKFUZDnskkJSMpz9SzOo4zqcqRvZb-m6QebyongwdMQiWW90ylrvCvbLf8karLnLbZoZsGQ1fKOElsn-lHCPzBW5I9sqrYpjWKxkqJXrEUu0y2quriWtoN-765TJVQjWKyMe7ToZm5x3RoAnrlS-YH9_5nzeU30jrxBcB-YEBzPM03ucGZAfdmVbF8QXCIPhtLMVQhfc9vm2jCYMLLH2mB_7AMzFeFIb_ZHKVw5nKmmvMcbYXt2D9IzTSh7UjKdSQ4Q5_NaSLgnkjS1vIr67ezTanPbG_HN7zVCncnZ3Vza9vJC_MPhXNlXntKLybvAl0A7qwin8p7wlZrObL9gUM_tAgCJ_SOVGtxwKsq82XYK6eg13sEBXE2f2pcXplIcyunqZaH0fA31jNEuL1667nzxAgf6cN52YZfjlnjG21i021ySa0uYiC6VLKZgl2cxgfLWykWUO5sSb6HMj2pmBfLV9DaPYWUdSKGcOjipxl2S_Z1alu_tHTWfv7M-EuercE14k09RI9jjyRSIKFD7dOaD1NgxSj-2Tsu-Tm31Iv3BAsvmFXNcpwHJVjfllFeHET3j8_SoIYI443enLsq2Y-eSRG_7gmwXd0Ng-vMyKblOHE5cXF2LYfMgsnXMn7w4M-6J39Ug29lcUIOnrlczxcyaODBqIDYzpS33fwBA_GVU",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Since the term \"Queen\" can refer to several prominent figures, here are details for the most likely subjects:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Queen Latifah (Dana Elaine Owens)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 55 (born March 18, 1970)."
+        },
+        {
+          "snippet": "Occupations: Rapper, singer, songwriter, actress, and producer."
+        },
+        {
+          "snippet": "Music Skills & Proficiency:",
+          "list": [
+            {
+              "snippet": "Rapping: Expert; a hip-hop pioneer who released her debut album, All Hail the Queen, at age 19."
+            },
+            {
+              "snippet": "Singing: Highly proficient; transition from hip-hop to jazz and traditional pop."
+            },
+            {
+              "snippet": "Beatboxing: Early career skill; she began as a human beatbox for the group Ladies Fresh."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: While she maintains properties in Los Angeles, CA, she primarily identifies with her hometown of East Orange, NJ.",
+          "snippet_links": [
+            {
+              "text": "East Orange, NJ",
+              "link": "https://www.google.com/search?q=East+Orange,+NJ&kgmid=/m/0xmlp&sa=X&ved=2ahUKEwig4NTyvMiSAxUCqFYBHTSMAwEQ3egRegQIBBAI"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        16,
+        4,
+        19,
+        8,
+        18,
+        20,
+        15
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Queen (The Rock Band Members)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Brian May (Guitarist): 78 years old. Expert guitarist, songwriter, and vocalist. Resides in London, UK."
+        },
+        {
+          "snippet": "Roger Taylor (Drummer): 76 years old. Multi-instrumentalist (drums, vocals, guitar). Resides in Surrey, UK."
+        },
+        {
+          "snippet": "John Deacon (Bassist - Retired): 74 years old. Expert bassist and songwriter. Resides in London, UK."
+        },
+        {
+          "snippet": "Freddie Mercury (Lead Singer): Deceased (1991). Was an expert vocalist and pianist."
+        }
+      ],
+      "reference_indexes": [
+        10,
+        7,
+        6,
+        9,
+        11
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Queen Mary of Denmark"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 54 (born February 5, 1972)."
+        },
+        {
+          "snippet": "Music Skills: Studied piano, flute, and clarinet as a child."
+        },
+        {
+          "snippet": "Current Residence: Copenhagen, Denmark, primarily at Amalienborg Palace."
+        }
+      ],
+      "reference_indexes": [
+        14,
+        12,
+        17,
+        13
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Queen Elizabeth II"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Status: Deceased. She died at age 96 on September 8, 2022."
+        },
+        {
+          "snippet": "Music Skills: Played the piano."
+        },
+        {
+          "snippet": "Final Residence: Balmoral Castle, Scotland."
+        }
+      ],
+      "reference_indexes": [
+        5,
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more specific details on the discography or musical awards for any of these individuals?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Elizabeth II - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Elizabeth_II#:~:text=Elizabeth%20II%20(Elizabeth%20Alexandra%20Mary,any%20queen%20regnant%20in%20history.",
+      "snippet": "Table_content: header: | Elizabeth II | | row: | Elizabeth II: Head of the Commonwealth | : | row: | Elizabeth II: Formal portrait...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/kZmTkH0ZzMI_AemU4kWwp8My934P3MHQ5fIch_ifFUU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/HytysxXNDR9a-pX6GmwYJ_m8EL3i5H2l2ZhdOhf2Ok0.png",
+      "index": 0
+    },
+    {
+      "title": "Queen Elizabeth II ( 1952 - 2022 ) - Britroyals",
+      "link": "https://www.britroyals.com/kings.asp?id=elizabeth2",
+      "snippet": "* Name: Queen Elizabeth II. * Full Name: Elizabeth Alexandra Mary. * Born: April 21, 1926 at 17, Bruton Street, London. * Parents:",
+      "source": "Britroyals",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/Rw-cN63F9ECHBrsQ6EvgeFTHeAejwXeebvLbXcFgTcQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/tvh9FZ_YKzZhbPL1YDkGjumD8SCOvuvBFh8DNfIjFpQ.png",
+      "index": 1
+    },
+    {
+      "title": "Elizabeth II | Biography, Family, Reign, & Facts - Britannica",
+      "link": "https://www.britannica.com/biography/Elizabeth-II#:~:text=the%20British%20monarchy?-,Show%20more,reigning%20monarch%20in%20British%20history.",
+      "snippet": "Feb 3, 2026 \u2014 Elizabeth II (born April 21, 1926, London, England\u2014died September 8, 2022, Balmoral Castle, Aberdeenshire, Scotland) was the queen...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/uu3UL27EQhAbm4fGO-aYJeMj3PHTKrDuMM8N__6ydJA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/USS9yJ-ioOD818VKZtK1atDrHON7NeNCKGRg_aE_8lI.png",
+      "index": 2
+    },
+    {
+      "title": "Elizabeth II - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Elizabeth_II",
+      "snippet": "Elizabeth II. ... Elizabeth II (Elizabeth Alexandra Mary; 21 April 1926 \u2013 8 September 2022) was Queen of the United Kingdom and th...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/GIxZTTaMr6uMJCNvYSaLwOh6715SEDFjWysMzBk349w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/BhUonC-Gcr0JjxCOZZkcLt1JGu6kAtTO1Y0Rv9jyGhc.png",
+      "index": 3
+    },
+    {
+      "title": "Queen Latifah - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Queen_Latifah#:~:text=Table_content:%20header:%20%7C%20Queen%20Latifah%20%7C%20%7C,Latifah:%20Years%20active%20%7C%20:%201988%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Queen Latifah | | row: | Queen Latifah: Latifah in 2025 | : | row: | Queen Latifah: Born | : Dana Elaine ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/-ZWVpIFptv0Mvaer1sLQPEOzLjgpy2OFHNhIVsjjmQs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/8DDrSHyQFWglmq0fZo-c8I8cSP28uJxhzU4gn9pHiYY.png",
+      "index": 4
+    },
+    {
+      "title": "Queen Elizabeth II (21 April 1926 \u2013 8 September 2022) was ...",
+      "link": "https://www.facebook.com/BritishMonarchy.co.uk/posts/queen-elizabeth-ii-21-april-1926-8-september-2022-was-queen-of-the-united-kingdo/1391564935672662/#:~:text=As%20queen%2C%20Elizabeth%20was%20served,her%20eldest%20son%2C%20Charles%20III.",
+      "snippet": "Nov 3, 2025 \u2014 As queen, Elizabeth was served by more than 170 prime ministers across her realms. Her many historic visits & meetings included st...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/SNI7bc6DBrphES9u5s6EPC1lBItwQXd3sIcSLOLGOTA.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Queen Members - IMDb",
+      "link": "https://www.imdb.com/list/ls098807881/#:~:text=2.,songwriter%20and%20occasional%20lead%20vocalist.",
+      "snippet": "2. Roger Taylor. Actor. Music Department. Composer Flash Gordon (1980) Roger Meddows Taylor (born 26 July 1949) is an English musi...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/Mj151jGYSfi18bZdGPM9UTlN20OfKfUlwMEVECQfe9k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/Ccsp-bRahZxjUYJyNEu3Akpxhlt88cuvkhZHteYUlqA.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Queen Band | Members, Discography & Music - Study.com",
+      "link": "https://study.com/academy/lesson/queen-overview-history-songs.html#:~:text=of%20all%20time.-,Brian%20May,the%20legendary%20guitarist%20of%20Queen.",
+      "snippet": "Brian May. Brian May is the guitarist of the band Queen and also a composer of some songs and a vocalist at times. He was born on ...",
+      "source": "Study.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/ZRaNvl6hBdqTP4U6rEmYMjKKp9TztRV7zBoSr0ZRY_M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/YNDW_22dKpUP7g56FFqRhaXtDZXdX8oCDSfhMhIbV8c.png",
+      "index": 7
+    },
+    {
+      "title": "Queen Latifah first rose to fame as a hip-hop artist before having an ...",
+      "link": "https://www.facebook.com/AARP/posts/queen-latifah-first-rose-to-fame-as-a-hip-hop-artist-before-having-an-award-winn/1236068461900532/#:~:text=HAPPY%2055th%20BIRTHDAY%20Dana%20Elaine,hit%20single%20%22Ladies%20First%22.",
+      "snippet": "Sep 22, 2025 \u2014 HAPPY 55th BIRTHDAY Dana Elaine Owens (born March 18, 1970), better known by the stage name Queen Latifah, is a rapper, actress an...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/8OqaF-iQ07nXY-JD8q9-5QezZlP-IINp4v_RBLKdVjk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/k3kfuHEfv0_MverAzp0o-rkjX-34I7UG18wEDjs-qns.png",
+      "index": 8
+    },
+    {
+      "title": "Queen Band Members: All About the Legendary Rockers",
+      "link": "https://www.firstforwomen.com/entertainment/music/queen-band-members-all-about-the-legendary-rockers#:~:text=Throughout%20his%20run%20with%20Queen,Tags:",
+      "snippet": "Jul 9, 2024 \u2014 Throughout his run with Queen, Deacon began working with other artists, including The Immortals and Elton John. Unfortunately, aft...",
+      "source": "www.firstforwomen.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/OxjX_l4o8eZzT32BaW72gQbzPU_L6gEoQms8A8NBX5w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/uFfbJt_9JoMQNdrCljzbFkVGPRRXEHRXi86WM2BOJW4.png",
+      "index": 9
+    },
+    {
+      "title": "Queen | We Will Rock You, Movie, Freddie Mercury, Songs, Band ...",
+      "link": "https://www.britannica.com/topic/Queen-British-rock-group#:~:text=*%20Freddie%20Mercury%20(byname%20of%20Farrokh%20Bulsara;,born%20July%2026%2C%201949%2C%20King's%20Lynn%2C%20Norfolk)",
+      "snippet": "Jan 5, 2026 \u2014 * Freddie Mercury (byname of Farrokh Bulsara; born September 5, 1946, Stone Town, Zanzibar [now in Tanzania]\u2014died November 24, 199...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/sHAhtn7u2ZmJsgzjzXs2-gGGfE6DeScqXqwgpBERDDY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/kUexu8VJEwURRmFzGA5nICewvaYJrU2_lPkBFT8PnNM.png",
+      "index": 10
+    },
+    {
+      "title": "Where are the Queen band members now? - Quora",
+      "link": "https://www.quora.com/Where-are-the-Queen-band-members-now#:~:text=Freddie%20Mercury%20passed%20away%20at,in%20the%20movie%20BO...",
+      "snippet": "Dec 25, 2019 \u2014 Freddie Mercury passed away at age 45 in November 1991 of AIDS. Still hurts. What a man. He continues to be the #1 frontman in the...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/3yazzyiy-fH53A35NuZzOi3YTzXWCJBzLYq5UyBgRok.png",
+      "index": 11
+    },
+    {
+      "title": "Queen Mary of Denmark | Life, Career, Royal Family, Charities ...",
+      "link": "https://www.britannica.com/biography/Queen-Mary-of-Denmark#:~:text=Quick%20Facts,which%20she%20is%20a%20patron.",
+      "snippet": "Feb 1, 2026 \u2014 Quick Facts. N\u00e9e: Mary Elizabeth Donaldson, officially Mary Elizabeth, Her Majesty the Queen of Denmark, Countess of Monpezat. Bor...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/qOKSW9vxbJNoSaDtatdxBySVymiY8P6jK4eaVv5cBmA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/zvwk8px3w8PWDJbesb-Dl087cEhmizJwm9anieL50u4.png",
+      "index": 12
+    },
+    {
+      "title": "Queen Mary of Denmark - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/Queen_Mary_of_Denmark#:~:text=Mary%20(born%20Mary%20Elizabeth%20Donaldson,wife%20of%20King%20Frederik%20X.",
+      "snippet": "Mary (born Mary Elizabeth Donaldson; 5 February 1972) is the Queen of Denmark since 2024 as the wife of King Frederik X.",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/Z0BFOmfM52c3ZXy9qs50MYKf3WA-KNq_C8IoRmwpZkw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/oxC97dcYCTxYIKYFKX80mMJnDUOVlSwVLRKi87uG3cs.png",
+      "index": 13
+    },
+    {
+      "title": "Queen Mary of Denmark | European Royals Wiki | Fandom",
+      "link": "https://european-royals.fandom.com/wiki/Queen_Mary_of_Denmark#:~:text=Born,Henrietta%20Clark%20Horne",
+      "snippet": "Born. February 5, 1972 (age 54) Queen Alexandra Hospital, Battery Point, Hobart, Tasmania, Australia. Spouse. King Frederik X of D...",
+      "source": "European Royals Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/hMGJwtyN_ZezooW62ejn8-AU6pKYsC_yaMX1qZG_qQE.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Queen Latifah | Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/queen-latifah#:~:text=Dance%20for%20me.%E2%80%9D-,At%20a%20Glance%E2%80%A6,.%2C%20New%20York%2C%20NY%2010128",
+      "snippet": "Aug 18, 2018 \u2014 At a Glance\u2026 Born Dana Owens c. 1970; raised in East Orange, NJ. Began performing in high school as human beat box in rap group La...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/2V6uPNaQUSJbiw4yPDxMZMDppQqV90hkpGx1LxwTXxc.png",
+      "index": 15
+    },
+    {
+      "title": "Queen Latifah | Ultimate Pop Culture Wiki | Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Queen_Latifah#:~:text=Table_content:%20header:%20%7C%20Queen%20Latifah%20%7C%20%7C,:%20East%20Orange%2C%20New%20Jersey%2C%20US%20%7C",
+      "snippet": "Oct 4, 2008 \u2014 Table_content: header: | Queen Latifah | | row: | Queen Latifah: Born | : Dana Elaine Owens (1970-03-18) March 18, 1970 (age 55) N...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/G0TuGJu7S0S4UInOe5mKSprOC6HOIKSBqzD-5Eik6AY.png",
+      "index": 16
+    },
+    {
+      "title": "Queen Mary of Denmark Facts for Kids",
+      "link": "https://kids.kiddle.co/Queen_Mary_of_Denmark#:~:text=As%20a%20child%2C%20Mary%20was,piano%2C%20flute%2C%20and%20clarinet.",
+      "snippet": "Jan 1, 2026 \u2014 As a child, Mary was very active. She enjoyed sports like basketball and hockey. She also studied music, learning to play the pian...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/N6l_YORB0Aw1ZHV1IDTC6gy0KF8n8dfs5vgTcjc99io.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/T0W_1AEQjLAzKDX2OauIYJiNu533is9hIDtRS0_z7oU.png",
+      "index": 17
+    },
+    {
+      "title": "Queen Latifah's birthday and career success - Facebook",
+      "link": "https://www.facebook.com/groups/1188260286124223/posts/1272952857654965/#:~:text=Queen%20Latifah%2C%20born%20Dana%20Elaine,powerful%20voice%20in%20hip%2Dhop.",
+      "snippet": "Aug 30, 2025 \u2014 Queen Latifah, born Dana Elaine Owens on March 18, 1970, is a multi-talented American rapper, singer, actress, producer, and entre...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/gayvj9gkvnj4t1IpymXFywtegLr6UIXd69DKfrM8W3I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/X9KvcR4U7TOHDoAduF1LLnz3cUl3qyzI9IWmZcjXwkQ.png",
+      "index": 18
+    },
+    {
+      "title": "Queen Latifah - Wikipedia",
+      "link": "https://sco.wikipedia.org/wiki/Queen_Latifah#:~:text=Dana%20Elaine%20Owens%20(born%20Mairch,album%20wi%20Tommy%20Boy%20Records.",
+      "snippet": "Dana Elaine Owens (born Mairch 18, 1970), kent professionally bi her stage name Queen Latifah, is an American rapper, sangwriter, ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/yyCHHxU6hAJHMc5TtE0RexrXJydsFVABmCGGZQQQfT4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/-TJPxHScM1tV0sYJBNTHe27fqIf254cZMVO59_hwihc.png",
+      "index": 19
+    },
+    {
+      "title": "Queen Latifah - New Jersey Hall of Fame",
+      "link": "https://njhalloffame.org/hall-of-famers/2011-inductees/queen-latifah/#:~:text=2011%20INDUCTEE%20%2D%20ARTS%20&%20ENTERTAINMENT,glamorous%20film%20and%20TV%20star.",
+      "snippet": "Oct 2, 2025 \u2014 2011 INDUCTEE - ARTS & ENTERTAINMENT. \ue61e Queen LatifahGreg Panos2025-10-02T06:55:16-04:00. Queen Latifah. Recording artist, actress...",
+      "source": "New Jersey Hall of Fame",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/AcdCt99oqyOoYfMNWP1pldwaaCYE_ybUMXqEHuqqh_U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0792d6846ef5406bf/images/Drbgudjc1gtAgffhYWOJjKPrlNZNksdG9pOVGzWWwG0.png",
+      "index": 20
+    }
+  ]
+}

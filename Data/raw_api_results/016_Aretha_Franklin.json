@@ -1,0 +1,293 @@
+{
+  "search_metadata": {
+    "id": "6987c2f0f680d168ba3d3a60",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Qf2VINRU_zFaLdn-9j5_mg/6987c2f0f680d168ba3d3a60.json",
+    "created_at": "2026-02-07 22:55:44 UTC",
+    "processed_at": "2026-02-07 22:55:44 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Aretha+Franklin%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Aretha+Franklin%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/Qf2VINRU_zFaLdn-9j5_mg/6987c2f0f680d168ba3d3a60.html",
+    "prettify_html_file": "https://serpapi.com/searches/Qf2VINRU_zFaLdn-9j5_mg/6987c2f0f680d168ba3d3a60.prettify",
+    "total_time_taken": 8.52
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Aretha Franklin, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "2No2N3icPZJJrqNmAISlXCBXYNktxe8xD7LeAtuY2WAMGNhYP_Az_gwGYzD7vkjUSqRcIAfIKTqnyYsUpWpX0ieVSvXtV1j-yZu6AlKWsKaS63naXk-x04n5d4iG5Mdf-6abQ9chADovscx0Ian5TqsxLkrvoS89HOW0xhJj-VUhO41KnNbUBgd0goG2XJTdyfN7K6yXIGqP0Tk4KlFjLtf6YYWIZ0xpaV2cGNM2qhIiBZbvGCaKKk_xg9TfSafD6XQJ0CPGCSnGfSvEI0oqEtr1Hmp4PZOmJxDATWfr4JxhzZReI-yipTPCOqK9VXPNo2C7pPnHNMLhBnLYPn50ZreWCIF35g3HvlzLNu3mETu5GIG_4VvsM2DpLbaw9FdM7HsErzDWy8c7Q3FvFIt90RXXNH7BUFlDTIZJ3X3F9sXQNfCdoKg3_F9jF5CBofwP-S3purqEf__08-12gck0wM3FdewP8cAeunzML2fW5KLZcesX39SvKpVxnhzq0Gn5EQRVJmwWrzKSlANG4pVC14txfrXlYHIGZ-9HL5N_jmRKvRZ5Y9VEKyimlHpa-mDmLSZK-w8RaA1gnq5pdq9AL1pemXK99CftBXakjnh3l_Xo7gzeTjWAIRRjKGoI7SZ03mL_N955e11yP_ZquN9iB_-DX4H3UhfhCaV6VM74y4pvGUlpkQPQLKCCvQVa0mxyeabFT22xk3r4YEj-w6qFMQ-ulyI6jmGj01FaLiPZLEujUkkntndp3uQNDS4iTehCfAH1Md2no92QQTF1Lt4YGYRsRbIj2x-UiTVstCjkGhWcrw4SuD_xNWR2jkYN-RTRZx6PiZdlF-OYGxIEMzqvqpHd4rLpY-rRDNKxqGSOpSsmW8sWWpwaRI8WPkf2YZx3G3TqSnESDV1cONznjYoUUy-hS1I35fJQZmCeEHGJ7Iy7T12f3JHXlxBsbge5MfbJAUnkJqopeadDehl7tLpemGx8edPJlC59b8ZH_eN30XtIS7bPfMs7JMcIv792sOrH0ClSe-UDq15JSdeuyXPvztmTs60XFWgmexLaghwoaKhExAjCYoYV9Aga2Jo0t0HOxeldAfby-QDS5BLS8aQA9WS4WqPvbZa9W8mFUpWrTcyQu3WXz-2rZlE2qmFl51RbhMlrL_PTkwq1lDWXyf8BVqdmhA",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of 2026, it has been over seven years since the passing of Aretha Franklin. She died on August 16, 2018, at the age of 76.",
+      "reference_indexes": [
+        6,
+        12,
+        14
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations & Music-Related Roles"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Aretha Franklin was a multi-faceted artist widely recognized for her mastery across several roles:",
+      "reference_indexes": [
+        9,
+        15
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer: Known globally as the \"Queen of Soul\"."
+        },
+        {
+          "snippet": "Songwriter: Penned or co-wrote many of her hits, including \"Think\" and \"Rock Steady\"."
+        },
+        {
+          "snippet": "Pianist: A self-taught prodigy who played by ear and accompanied herself throughout her career."
+        },
+        {
+          "snippet": "Record Producer / Arranger: Frequently contributed to the production and musical arrangement of her own recordings."
+        },
+        {
+          "snippet": "Actress: Notably appeared in films such as The Blues Brothers (1980)."
+        }
+      ],
+      "reference_indexes": [
+        6,
+        0,
+        3,
+        4,
+        10
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Franklin is regarded as one of the most technically proficient and influential musicians in history.",
+      "reference_indexes": [
+        16
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Vocal Technique (Master Proficiency):",
+          "list": [
+            {
+              "snippet": "Range: Possessed a powerful four-octave vocal range."
+            },
+            {
+              "snippet": "Genre Versatility: Effortlessly commanded styles including Soul, R&B, Gospel, Jazz, Pop, Rock, and even Opera (notably her 1998 performance of \"Nessun Dorma\")."
+            },
+            {
+              "snippet": "Technical Mastery: Famous for her groundbreaking use of melisma (singing multiple notes on one syllable) and her precise breath control."
+            }
+          ]
+        },
+        {
+          "snippet": "Piano Proficiency (Expert/Professional):",
+          "list": [
+            {
+              "snippet": "Although she never learned to read music, she was an accomplished pianist who utilized a \"magic\" and \"inspirational\" style that drew praise from other elite musicians like Elton John and Carole King."
+            }
+          ]
+        },
+        {
+          "snippet": "Interpretation (Unparalleled Proficiency):",
+          "list": [
+            {
+              "snippet": "Renowned for her ability to \"re-invent\" songs written by others, such as her iconic cover of Otis Redding\u2019s \"Respect,\" which she transformed into a civil rights and feminist anthem."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        4,
+        3,
+        0,
+        7,
+        9,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Residence Location"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Current Location: Aretha Franklin is interred at Woodlawn Cemetery in Detroit, Michigan."
+        },
+        {
+          "snippet": "Final Residence: At the time of her death in 2018, she resided at her home in Riverfront Towers, Detroit, Michigan."
+        }
+      ],
+      "reference_indexes": [
+        11,
+        1
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Aretha Franklin - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+      "snippet": "Aretha Franklin * Singer. * songwriter. * pianist. * civil rights activist. * record producer. ... For other uses, see Aretha (dis...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/ZVVR802qzVsFGNmyF600QmFCbbcGvV2YX4n5fJKzhLw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/d73MVIzKHkA1FxD1z4YDilkaHeTMnLe96hNKCCHYYmI.png",
+      "index": 0
+    },
+    {
+      "title": "Aretha Franklin - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Aretha_Franklin#:~:text=Table_content:%20header:%20%7C%20Aretha%20Franklin%20%7C%20%7C,Franklin:%20Years%20active%20%7C%20:%201954%E2%80%932017%20%7C",
+      "snippet": "Table_content: header: | Aretha Franklin | | row: | Aretha Franklin: Died | : August 16, 2018 (aged 76) Detroit, Michigan, U.S. | ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/Q98W3eKIdm7F7I_43G-B6vG1qK2RKPxW6yDa62IfF_8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/JkAoJkcZzI0YUV0iA00pqbPV5KI19LisxnyQcYCJUwU.png",
+      "index": 1
+    },
+    {
+      "title": "Aretha had such a wide range. Her voice was so beautiful. She ...",
+      "link": "https://www.facebook.com/groups/61237421072/posts/10160292135991073/#:~:text=Who%20is%20the%20Greatest%20Female%20Singer%20of%20All%20Time%20Based,role%20as%20a%20cultural%20icon.",
+      "snippet": "Nov 29, 2024 \u2014 This emotional resonance is a hallmark of great artistry. * Soulful Interpretation: Franklin was a master of interpreting songs. S...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/2sTfqYjNcZHyG-infblkgRKC-SztUakfstnPCwocQv0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/CMju3yE545kdDlwEret0Qyd_hP2_9nzs2KKgA0bAMwY.png",
+      "index": 2
+    },
+    {
+      "title": "5 deeper insights into Aretha Franklin's legacy | The Song ...",
+      "link": "https://thesonginsidethetune.wordpress.com/2018/08/16/5-deeper-insights-into-aretha-franklins-legacy/#:~:text=Her%20voice%20had%20flexibility%20in,voiced%20vocalists%20that%20followed%20her.",
+      "snippet": "Aug 16, 2018 \u2014 But here are 5 deeper insights into her legacy that some may not be as knowledgeable about. * 5) She was a brilliant pianist. * 4)",
+      "source": "The Song Inside The Tune",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/E7xFPWg1OAU4eSNc6L9DXL-uLTp-bBhIzEaaeOtz5BU.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Aretha Franklin Fast Facts | CNN",
+      "link": "https://www.cnn.com/us/aretha-franklin-fast-facts#:~:text=Due%20to%20an%20in%2Dflight,of%20Music%20and%20Yale%20University.",
+      "snippet": "Other Facts. Had a four-octave vocal range. Was a self-taught pianist, who learned without knowing how to read music. Her father w...",
+      "source": "CNN",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/gH2LfF1-nKqiERly952ZPrjpAFc1mvRKF-qmlCvkREY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/H0BylQgicKofcw4pSLR8bT96cmTwUvK2SjyASaQg7dU.png",
+      "index": 4
+    },
+    {
+      "title": "Aretha had such a wide range. Her voice was so beautiful ... - Facebook",
+      "link": "https://www.facebook.com/groups/61237421072/posts/10160292135991073/#:~:text=The%20Late%20Aretha%20Franklin%20Because,a%20hallmark%20of%20great%20artistry.",
+      "snippet": "Nov 29, 2024 \u2014 This emotional resonance is a hallmark of great artistry. * Soulful Interpretation: Franklin was a master of interpreting songs. S...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/jVQCwIAIv5xVC3y9eJL2NRdJAvc1zD0wNFki93LVE_A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/Y07YMjLlckNpoAxC7G74eEe9TpD7JBxMCGE_Nb1QKsY.png",
+      "index": 5
+    },
+    {
+      "title": "Aretha Franklin age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Aretha+Franklin/+wiki#:~:text=Born,Songs%20of%20Faith%20in%201956.",
+      "snippet": "Aug 18, 2018 \u2014 Born. 25 March 1942. Born In. Memphis, Shelby County, Tennessee, United States. Died. 16 August 2018 (aged 76) Aretha Franklin (Ma...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/JRAOhX5UVqGcC6tzDe2XYDKNQS37nTJ1gacw-K2Neq0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/lfl7RdJQ5hGG5oa0OcgnbUhl2_INXWb0nTGyuFnGTHA.png",
+      "index": 6
+    },
+    {
+      "title": "What Makes Aretha Franklin Great? \u2014 Beth Roars",
+      "link": "https://www.bethroars.com/singing-blog-tips/what-makes-aretha-franklin-great#:~:text=Further%20Technique,Aretha%20Franklin%20(1970)",
+      "snippet": "Jun 6, 2021 \u2014 What Makes Aretha Franklin Great? * Crowned \u201cThe Queen Of Soul\u201d, Aretha Franklin is one of the best selling musical artists in his...",
+      "source": "Beth Roars",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/c_EjzScar8xkFzxu_S6O9BttZ5WDoeHIqADmhZkprE0.jpeg",
+      "index": 7
+    },
+    {
+      "title": "What made Aretha Franklin the Queen of Soul? Born in 1942 in ...",
+      "link": "https://www.facebook.com/HistorcHaven/posts/what-made-aretha-franklin-the-queen-of-soul-born-in-1942-in-memphis-tennessee-ar/122234040062139406/#:~:text=Franklin%20rose%20to%20fame%20in,in%20the%20history%20of%20music.",
+      "snippet": "Jul 16, 2025 \u2014 Renowned for her powerful voice, emotional intensity, and genre-crossing talent, Franklin earned the title \"Queen of Soul\" through...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/mf9rDHjer85O3ShnhyjNNE6THzHrGBVoZneVj0IXox8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/OCOotQ4g0dWazN6ZRWRV5idmQwNJG1dEKp-fZFe5I3w.png",
+      "index": 8
+    },
+    {
+      "title": "Aretha Franklin | Biography, Songs, Respect, Death, Albums ...",
+      "link": "https://www.britannica.com/biography/Aretha-Franklin#:~:text=Aretha%20Franklin%20(born%20March%2025,%2C%20rock%2C%20and%20even%20opera.",
+      "snippet": "Dec 29, 2025 \u2014 Aretha Franklin (born March 25, 1942, Memphis, Tennessee, U.S.\u2014died August 16, 2018, Detroit, Michigan) was an American singer who...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/jWbGUPaekgn6slrjK7cgMX0oNtgV-ufnCh0Ib9siU8E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/q9Em87DW0jWbK_K7b-K724oCxejCo9HbkEe-JtTl_Ec.png",
+      "index": 9
+    },
+    {
+      "title": "Aretha Franklin - Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/aretha-franklin#:~:text=At%20a%20Glance%E2%80%A6,%2C%20Beverly%20Hills%2C%20CA%2090212.",
+      "snippet": "Aug 13, 2018 \u2014 At a Glance\u2026 Born on March 25, 1942, in Memphis, TN; daughter of Clarence L (a Baptist minister) and Barbara Franklin (a gospel si...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/E5c24RJSUzfns-wJBvkCVpRsq0O9tuJ3JNeO38BmMKo.png",
+      "index": 10
+    },
+    {
+      "title": "#REMEMBERING Aretha Franklin Died: August 16, 2018 (age ...",
+      "link": "https://www.facebook.com/allaboutfunkandsoul/posts/remembering-aretha-franklin-died-august-16-2018-age-76-years-detroit-miaretha-lo/1326981012125189/#:~:text=%23REMEMBERING%20Aretha%20Franklin%F0%9F%98%8D%20Died,Lifetime%20Achievement%20Award%20in%201994.",
+      "snippet": "Aug 16, 2025 \u2014 Aretha Louise Franklin, known as the \u201cQueen of Soul\u201d, Aretha Franklin, often called the \"Queen of Soul,\" was an American singer, s...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/pMbbDLfHIArqJDD16E4cA4U23AXDI3cu3skn0Ib-FcY.jpeg",
+      "index": 11
+    },
+    {
+      "title": "Aretha Franklin, Legendary \u2018Queen of Soul,\u2019 Dies at Age 76 - Billboard",
+      "link": "https://www.billboard.com/music/music-news/aretha-franklin-dead-7318784/#:~:text=Aretha%20Franklin%2C%20whose%20legendary%20voice,Quinn%20confirms%20in%20a%20statement%E2%80%A6",
+      "snippet": "Aug 16, 2018 \u2014 Aretha Franklin, Legendary 'Queen of Soul,' Dies at Age 76. Aretha Franklin, whose legendary voice inaugurated her enduring reign ...",
+      "source": "Billboard",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/s4a45Ze2w3ifK2md6JCFdyLL_cBxwtN2gSRsrLNz0xk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/OA-U2n4EFIY7V1YyvUnaolU5yZ-e8fqY397WVpOxxn0.png",
+      "index": 12
+    },
+    {
+      "title": "In Memoriam: Aretha Franklin March 25, 1942 - Facebook",
+      "link": "https://www.facebook.com/MusicWorldGroup/posts/in-memoriam-aretha-franklinmarch-25-1942-august-16-2018aretha-franklin-the-queen/741342468515040/#:~:text=%F0%9F%84%BB%F0%9F%84%B3%20%F3%B1%A2%8F-,In%20Memoriam:%20Aretha%20Franklin%20March%2025%2C%201942%20%2D%20August%2016,Detroit%2C%20surrounded%20by%20her%20family.",
+      "snippet": "Aug 16, 2025 \u2014 In Memoriam: Aretha Franklin March 25, 1942 - August 16, 2018. Aretha Franklin, the \"Queen of Soul,\" died on August 16, 2018, at t...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/-MfDJq3rixTw_xPmkmqISaeZM81RI_DDHFTvVZ1iROQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0f680d168ba3d3a60/images/8cvr-KX4VsZ-iLAriZe_mqQIYABvaKnrijU60lR289k.png",
+      "index": 13
+    },
+    {
+      "title": "Museum a fitting host for Aretha Franklin's public viewings",
+      "link": "https://www.wjtv.com/news/national/museum-a-fitting-host-for-aretha-franklins-public-viewings/",
+      "snippet": "2026 election qualifying period begins in Mississippi FILE \u2013 In this Jan. 14, 2012 file photo, singer Aretha Franklin ( The Queen ...",
+      "source": "WJTV",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoZMawIIH2tgEtbsWpJYR47_T7KpgoHkgV-WyOhGwjxOI0f9J8",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wjtv.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 14
+    },
+    {
+      "title": "Aretha Franklin | Biography, Songs, Respect, Death, Albums, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Aretha-Franklin#:~:text=Top%20Questions-,Who%20was%20Aretha%20Franklin?,like)%20A%20Natural%20Woman.%E2%80%9D",
+      "snippet": "Aretha Franklin * Who was Aretha Franklin? Aretha Franklin was an American singer, songwriter, and civil rights activist who revol...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJtnjZNMrWyOW48M2kQqb1xNsxO5aXrjIzvK1vD8LTQ8qiRS-G",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Aretha Franklin | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/aretha-franklin#:~:text=Aretha%20Franklin%2C%20born%20in%20Memphis,with%20Columbia%20Records%20in%201960.",
+      "snippet": "Aretha Franklin, born in Memphis, Tennessee, in 1942, is celebrated as one of the most influential singers in American music histo...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/biography/aretha-franklin",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    }
+  ]
+}

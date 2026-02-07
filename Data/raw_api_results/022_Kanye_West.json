@@ -1,0 +1,248 @@
+{
+  "search_metadata": {
+    "id": "6987c2f8fdfbab66ac251193",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/22r5akwnPcdEO7s7foFCyg/6987c2f8fdfbab66ac251193.json",
+    "created_at": "2026-02-07 22:55:52 UTC",
+    "processed_at": "2026-02-07 22:55:52 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Kanye+West%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Kanye+West%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/22r5akwnPcdEO7s7foFCyg/6987c2f8fdfbab66ac251193.html",
+    "prettify_html_file": "https://serpapi.com/searches/22r5akwnPcdEO7s7foFCyg/6987c2f8fdfbab66ac251193.prettify",
+    "total_time_taken": 8.83
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Kanye West, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "sG-IEHicPZJJquNmAIQhJ9GyG-Ju_ZZk2Tze4tdgzfOsjZA1W5Yla5b2IfcITQI5QA6QW3ROk9cQUrUrKCg-6pffsuqvQyLxcSIanXSDZ3gwsVlbGPgte_TJ97_ppl0CO41tTt2UpwoUkHJGTYhmXQYZ-1A03306IKwMrLs6dmqF3LipTjuqIGUtvsBvrmkmV_HosutkNGBUrqFg1aB2j13p1DjuHt0ucETKsa9rwlBczCm76rOL44ex0bid7F93zUkZ06VOIbtSbBmMAToKgadKjk_JQc3ihgUsBQv1FDUprhhdhS93407Jlndxb8uf05D1UVxkz_H7pLR79XjEX4kvKPJJiZPqObZD-YYIzzF7IB8BolmIjwA0AkREfkZg1z0yL7tJ1fiVwMgv2An5JPG2Iv-MPKo6Q7gsqdvPCF32bZN9BdjxC_rDiBXncV_9V_k9adu6yv756dcosrJk6rODZZv6O2ROTFvMiTb6imbOiuJLAqpPmC3xgT7S0WuHwst3pU4ER-0egV23TyxJaSzngRIVLwy1tmq-4Ie0aVerqLe7CCNdEbvKMiilu5qy0LwhkKXfYSw2MTHsLIRO87RfNWjDaaW7s8EfW8lulz5MPIrDGiiwHo4bKWGktmYmPL28If-PphxaYu13Wg-4N0QVmHfieH5nX84Vc9ppBw02tiDJr5vg9Rcu1ZhxFLjgUJD50gqnYc7ll-cv1XzCgiXouviM5dPckqwvR6w7HLiVTVLqYB_wULkOppKuzQFfZ2-rjgc5uHATWsDRCF3edAJzyI98Wb0GsiVkRS6DvD_R0f1ZTxg9VSYLI8Oial6_BZfJU40l0j0PfPxX0uuY90bvYsMS1vSEhQvJS9ta23hs7UOmVSQI5gdFXMt98bbWLfo5FXGs7E70Ds8WpvRY4MoFuuTm84jK1EbOxnmtijfE-gEEsqz0EoYo8UWtj_eauZ_7CpxrJptH2jYb4oATZ2-D3XzSGgFwvfksY2GWS1K60Xi41KM2ACYKVeu-kikZon73iBMz6S_ofT-1jFc4bwjjvsMIvVV6db3Q9WHgDXTTblF-BOFueo-FaObynNibU1rkskCo0nkJdJJX-SdaKPBD35phrL__AZ2RXXOaThIQ4cTrgx3HVuYVnp1VpiR76aoTPBvtK53KyjZcP6ZVytmHymNcFF0wKLLcnm-aODk8t_rGnM90W5JEQcCG4RmRikkx3LhlBTdSzUpZPoKjnnQY35W3ZXo5MVsCyfHqUlFGhSwoZztfvJPDoyhBMkSq9_FYctEt-Rdnkow8",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Kanye West is 48 years old, having been born on June 8, 1977.",
+      "reference_indexes": [
+        4
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "He is widely regarded as one of the most influential figures in modern music, transitioning from a background producer to a global solo artist.",
+      "reference_indexes": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Record Producer (Master Proficiency): His core skill. He is famous for his \"chipmunk soul\" sampling technique\u2014pitching up vocal samples\u2014and is often ranked as one of the greatest producers of all time."
+        },
+        {
+          "snippet": "Rapper/Vocalist (High Proficiency): Known for his unique flow and cadence. While some critics debate his technical \"flow\" compared to peers, he is praised for his vulnerability, humor, and emotional delivery."
+        },
+        {
+          "snippet": "Songwriter (Expert Proficiency): He is credited on almost all his work and has written for numerous other industry icons like Jay-Z and Alicia Keys.",
+          "snippet_links": [
+            {
+              "text": "Jay-Z and Alicia Keys",
+              "link": "https://imvdb.com/n/kanye-west/biography"
+            }
+          ]
+        },
+        {
+          "snippet": "Pianist (Self-Taught Proficiency): Though not classically trained, he uses the piano as a foundational tool for songwriting and live performances, often seen playing it during events."
+        },
+        {
+          "snippet": "Composer/Arranger (Master Proficiency): Noted for his ability to blend diverse genres, from industrial minimalism to soaring orchestral arrangements."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        13,
+        14,
+        8,
+        12,
+        3,
+        0
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Location: Beverly Hills, California.",
+          "snippet_links": [
+            {
+              "text": "Beverly Hills, California",
+              "link": "https://www.google.com/search?q=Beverly+Hills,+California&kgmid=/m/0k049&sa=X&ved=2ahUKEwiy1732vMiSAxVhOBAIHW6XLGAQ3egRegQICBAC"
+            }
+          ]
+        },
+        {
+          "snippet": "Details: As of early 2026, West primarily resides in an ultra-private, $35 million mansion in the exclusive Beverly North Park gated community. While he maintains properties elsewhere, including a childhood home in Chicago and interests in Japan, this Beverly Hills estate is his primary domestic base.",
+          "snippet_links": [
+            {
+              "text": "Beverly North Park",
+              "link": "https://www.google.com/search?q=Beverly+North+Park&kgmid=/m/0f8tgz&sa=X&ved=2ahUKEwiy1732vMiSAxVhOBAIHW6XLGAQ3egRegQICBAF"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        5,
+        9,
+        7,
+        10,
+        6,
+        11
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of the Grammy-winning albums produced or performed by Kanye West?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Kanye West | Biography, Albums, Songs, & Facts - Britannica",
+      "link": "https://www.britannica.com/biography/Kanye-West#:~:text=career%20in%20music.-,The%20College%20Dropout,t%20Know%20My%20Name%E2%80%9D).",
+      "snippet": "Feb 2, 2026 \u2014 With potent rhymes that were in equal parts boastful and self-effacing, instrumentation that ranged from tribal drums to soaring o...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/TCxLKRpbxOSy0fPNaStlZ1bpcFmU99vzhvDvE8b-oFU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/ro7ugfOBTRwUCoFvNK9RWBvyX6LdTyyYpC-mQEbEfYY.png",
+      "index": 0
+    },
+    {
+      "title": "Kanye West | Biography, Albums, Songs, & Facts - Britannica",
+      "link": "https://www.britannica.com/biography/Kanye-West#:~:text=Kanye%20West%20(born%20June%208,talent%20shows%20as%20a%20child.",
+      "snippet": "Feb 2, 2026 \u2014 American producer, rapper, and fashion designer who parlayed his production success in the late 1990s and early 2000s into a caree...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/-gRQjlU5P1e3fgAScC4qW_mqQS6e_pRDJ5Dav_U_J3U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/-EzNkr9Y6F8mpqfQ1xeclFiqroX9dZkOIiHDMsIIcWM.png",
+      "index": 1
+    },
+    {
+      "title": "Kanye West | Ultimate Pop Culture Wiki - Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Kanye_West#:~:text=%2Dyay)%2C%20is%20an%20American,to%20critical%20and%20commercial%20success.",
+      "snippet": "He is widely regarded as one of the greatest and most influential hip hop musicians of all time, West gained recognition producing...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/HVWcjFgw2TU5nnJY_rnj3SWctR3JbRO56a0itlJNxXI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/i1vnk5cCJQUNORJUYgVRg9vjvmbT7NznxEZLX2VXCm8.png",
+      "index": 2
+    },
+    {
+      "title": "Can Kanye West Play Piano? Skills & Facts - SonusGear - Alibaba.com",
+      "link": "https://sonusgear.alibaba.com/piano/can-kanye-play-piano#:~:text=Kanye%20does%20not%20have%20formal,most%20influential%20non%2Dtraditional%20pianists.&text=The%20data%20shows%20that%20piano,in%20multiple%20chart%2Dtopping%20albums.",
+      "snippet": "Jan 27, 2026 \u2014 Yes, Kanye West can play piano. While not formally trained in classical music, he is a self-taught pianist who uses the instrument...",
+      "source": "Sonus Gear",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/eSW-ey03NmCTvs1Pi2EiPDu45_YvFcRijv7niV3qZM4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/yY8RSHKg6DrKeo44ktxTZb05RqCHCe7R4I0uHmmC7b8.png",
+      "index": 3
+    },
+    {
+      "title": "How Old Is Kanye West - Oreate AI Blog",
+      "link": "https://www.oreateai.com/blog/how-old-is-kanye-west/e70d755fa25d7753571f4a33b62d90f0#:~:text=How%20Old%20Is%20Kanye%20West,shapes%20conversations%20around%20culture%20today.",
+      "snippet": "Jan 7, 2026 \u2014 Kanye West, born on June 8, 1977, is currently 48 years old. If you're counting in days, that's a remarkable total of 17,607 days!",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/-ZhHp9IzkotDvrgUL4JyyMUHZd_MzwyoP4Lrh4mSN3w.png",
+      "index": 4
+    },
+    {
+      "title": "Kanye West's Beverly Hills Mansion, a Surprise GRAMMYs ...",
+      "link": "https://www.instagram.com/p/DUTM3RCEtfK/#:~:text=**Kanye%20West's%20Beverly%20Hills,that%20no%20one%20saw%20coming.",
+      "snippet": "Feb 3, 2026 \u2014 Kanye West's ultra-private Beverly Hills estate remains one of the most talked-about properties in Los Angeles. The modern mansion...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/WRmLzj4wFQ9BjFI0s-i-PUU1zpmd_ZplOsDctHS6PhQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/F9ZgvHOjabutbt5Io4ipLbfjE-07GXEBvlGEKLdjUTc.png",
+      "index": 5
+    },
+    {
+      "title": "Celebrities Living in Chicago: 2025 Updates - Pearson Realty Group",
+      "link": "https://www.pearsonrealtygroup.com/celebrities-living-in-chicago-2025/#:~:text=Kanye%20West%20%E2%80%93%20Rapper%2C%20Producer%20(,powerful%20nod%20to%20his%20roots.",
+      "snippet": "Mar 28, 2025 \u2014 In 2020, Kanye West repurchased his childhood home in the South Shore neighborhood \u2014 a modest house that features prominently in h...",
+      "source": "Pearson Realty Group",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/fSRg5KLqQdR4NQU_Z6qo65S1Tsjcoj7Udyq93irxbWY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/yhjWyx1aSAm4WzQASvNVJyT3cDEh96XPWfQb_Rqr40E.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Kanye West Buys $35 Million Beverly Hills Mansion\u2014See ...",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/kanye-west-beverly-hills-mansion/#:~:text=Kanye%20West%20Spends%20$35%20Million,for%20$24.5%20million%2C%20records%20show.",
+      "snippet": "Oct 31, 2024 \u2014 West purchased his new 11-bedroom, 18-bathroom mansion, situated in the exclusive gated community of Beverly North Park, through a...",
+      "source": "Realtor.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/-K-9Kx_38mUhnx8yarwYlP4KMPQbWg6azHGEPGG1kn4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/_wEGq9yokq7FBkqQFUJhmEj5ANZytvYpG8A0lbKMdso.png",
+      "index": 7
+    },
+    {
+      "title": "The Talent of Kanye West - La Vista",
+      "link": "https://www.lavistamchs.com/the-talent-of-kanye-west/#:~:text=During%20the%20late%201990s%20and,memorable%20songs%20to%20this%20day.",
+      "snippet": "Mar 20, 2015 \u2014 West's ability to combine vocals with beats and have them complement one another, rather than clash and overpower each other, lead...",
+      "source": "www.lavistamchs.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/8_T94Bpj--D0GLIwrugO1X0M_C6TQTQYaRAAuXXzLD0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/aNDwrxdO2KdCeD6Wa4hw5c2f6yrwMyWneOrBsrpiIfA.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Kanye West drops $35m on Beverly Hills home featuring 18 ...",
+      "link": "https://www.the-sun.com/entertainment/12779583/kanye-west-beverly-hills-mansion-pics-tennis-court/#:~:text=Kanye%20West%20drops%20$35m,group%20of%20Beverley%20Hills%20residents.",
+      "snippet": "Oct 29, 2024 \u2014 Kanye West drops $35m on Beverly Hills home featuring 18 bathrooms & tennis court after selling crumbling Malibu mansion.",
+      "source": "The Sun",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/I7ahpsdbaXnTS4urCyMq1v2AQYa9nKEqIFi9SCfb2dc.png",
+      "index": 9
+    },
+    {
+      "title": "Kanye West Pays $35 Million for Saudi Billionaire's Former ...",
+      "link": "https://robbreport.com/shelter/celebrity-homes/kanye-west-house-los-angeles-beverly-park-1235979290/#:~:text=Now%20that%20he's%20offloaded%20his,community%20of%20Beverly%20Park%20North.",
+      "snippet": "Nov 4, 2024 \u2014 The music mogul-turned-Yeezy fashion designer this one a glitzy mansion in the exclusive gated community of Beverly Park North.",
+      "source": "Robb Report",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/RhlpVVQaS8CNTnoLeSsOfZWhdXYDuexCGdJPj1qn13M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/uYIPoLgyi-pcIuMDRwoxZG6lInIZjZoFauuZH2DyUao.png",
+      "index": 10
+    },
+    {
+      "title": "Kanye West Has Things 'Easier' Living in Japan: Avoids Being 'Constantly ...",
+      "link": "https://www.yahoo.com/entertainment/kanye-west-things-easier-living-000044345.html#:~:text=While%20that%20may%20present%20some,frequently%20popping%20up%20in%20Tokyo.",
+      "snippet": "Jan 23, 2025 \u2014 \u201cThings are just so much easier for Kanye in Japan,\u201d as \u201che doesn't get hassled and he can be himself.\u201d Kanye has spent the last s...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/6ME5jj2K1XrI7hLyXEcv1GzNStaHxQR8AiUuduDwTuY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/2TnCzABF48sTPKy90oSvnymM3RWScNDhdmekBHQPcsU.png",
+      "index": 11
+    },
+    {
+      "title": "Biography - Kanye West - IMVDb",
+      "link": "https://imvdb.com/n/kanye-west/biography#:~:text=Kanye%20Omari%20West%20(born%20June,his%20own%20drums%20and%20instruments.",
+      "snippet": "Kanye Omari West (born June 8, 1977 in Atlanta, Georgia) is a Grammy award winning rapper, producer, author, designer and singer. ...",
+      "source": "IMVDb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/BfhfOwtem5UZYRkq_GJdOfbpkECRpjKag3jMvF1KubI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/tyzC4LNVSo9HOjFKbisIhVGBHfG-i1snqMD5UphASHc.png",
+      "index": 12
+    },
+    {
+      "title": "Kanye West - The Art of Rap Wiki",
+      "link": "https://the-rap-database.fandom.com/wiki/Kanye_West#:~:text=Kanye%20Omari%20West%20(born%20June,most%20awarded%20in%20his%20generation.",
+      "snippet": "Kanye Omari West is an American rapper, producer and fashion designer he has become one of the most influential artists, commonly ...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/zx2-TvgmCsqg7biXK7iJ4ntZRqEg7uBHvG2Nus_cooY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/89Ih_OrglPYJKDouWX-TIo-BNYxi0Nz40hVPXOelD-4.png",
+      "index": 13
+    },
+    {
+      "title": "What is it about Kanye West's music that makes it catchy and ... - Quora",
+      "link": "https://www.quora.com/What-is-it-about-Kanye-Wests-music-that-makes-it-catchy-and-appreciated-by-many#:~:text=What%20else%20makes%20Kanye%20%E2%80%9Cbrilliant%E2%80%9D%20are%20his,versatility%2C%20consciousness%2C%20relevance%2C%20business%20sense%20and%20free%2Dthinking.",
+      "snippet": "Mar 24, 2014 \u2014 What else makes Kanye \u201cbrilliant\u201d are his flow, cadence, lyricism, adaptability, musical versatility, consciousness, relevance, bu...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2f8fdfbab66ac251193/images/87Cx-zFCSzY0naGPfIfW8AVX2YolcLx_iwQcZNmnQJg.png",
+      "index": 14
+    }
+  ]
+}

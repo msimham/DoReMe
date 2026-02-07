@@ -1,0 +1,588 @@
+{
+  "search_metadata": {
+    "id": "6987c3253f79e88eaf8819f7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ng4hiifDEkGIfSXBKmUi3w/6987c3253f79e88eaf8819f7.json",
+    "created_at": "2026-02-07 22:56:37 UTC",
+    "processed_at": "2026-02-07 22:56:37 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Def+Leppard%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Def+Leppard%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/ng4hiifDEkGIfSXBKmUi3w/6987c3253f79e88eaf8819f7.html",
+    "prettify_html_file": "https://serpapi.com/searches/ng4hiifDEkGIfSXBKmUi3w/6987c3253f79e88eaf8819f7.prettify",
+    "total_time_taken": 8.76
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Def Leppard, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "LT30eXicRZNJrqNmAISlnCBHYNkthffAGGxkecFoZsPPzAYxGTPb8NtgpF7mIlErkXKBHCCneDlNXhZJqnb1qaTa1M-_FNUfynSWkjQo2Sm9zMbWhBRRTYz1vWjH7ONPrhvm0LEI120Xy4WqjdFQF5baxj1JJ8DFWPUt8JTaCcS73wmYt1qE7i-j7lpbIAlEVItQ94AKvAa6TqvkeE4UfDuAviTPwu2VuwoGCFbzXVK1RQGPNgpbeOIma3Jgi8BJeOUZNvScEAP0VpEVrrmaYbQc-koYYcoadhHh1MDK-XBNAoN1waDlOCtbLZBdjD5FWPP7YyrGOCmLHn5804e1atvknXzDkC9-1efDPCGGg-DYG3ZAPgNqe0AWavsVYW63tvCLVK3gO0ns3ggK-aJKjq79hLRVUyCnImuGrwh3HYeueMcJ6g37x4idXJKx-rci5OX_7NdsGJqq-OuHH-PYLrLHWKC2A8wjw1P8UMJUL14vholJW495dA57z0lv9hB4O230hiVAxfO8JDGnhWKNXjjHiKj7I_AXjciZxA6oORvrp3iq835RLbgzJndMtcBSIMYcEEbgjkyidAn5kCP77MRUluUOf97J4knrM9yXs3a8DDu43ywPO2wKKnQe51Xyw6gGg3BA_pvMupwqOEdOxU4HhPeO2UIBB6uCSzxVGM-a2Wrboo8DguPaeWlErBdBA0BpWCHzqQNiyPyR3OyPIBq2MjmdBLWVh0QxOCGIYzENeLGMcS2tDJNk22xC6RGgN82mnzA1UZGvZDvW2fU5nyU4rlHt92VYqcJTpyN9k4ud0LAKKdR-vlRubES0lwvUBq7tGFW91t3qOfOkEVPp0XhgPLBYbr-YLlvfrC7Txapsmu1s7HpulOI7dP1N-oAkeSVjacqFa3omhv51NuWn-_Qj8-LrXbg7UcBN9o82qQtdm6htxKfuViCkYORwQ6BTpT8Lsc_zMI4XK622-733mv27eJPM_YUZkjZpvncTbD5-Y1woLBcuaXBq0vYYdOugN8smw6zOhVYzln7gfB6kXgZ00wW4TJOjtLzaOyAbt3W9SJ_RkF5u635OLNk-NfSk1PeBIrtr2TrQt9Ncr3z-2uuC6UVV0t6L-WSD0EHzJI8S-oTS6XiXQ7XF-OCBk8mCLp6_OsQe4pgKKf7Fq_rNGv4G2AlohQ",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, the current members of Def Leppard are Joe Elliott, Phil Collen, Rick Savage, Vivian Campbell, and Rick Allen.",
+      "reference_indexes": [
+        23,
+        24
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Joe Elliott"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 66 (Born August 1, 1959)."
+        },
+        {
+          "snippet": "Occupations & Skills: Lead vocalist, musician, and songwriter."
+        },
+        {
+          "snippet": "Abilities & Proficiency: High proficiency in vocals (known for a wide, raspy range); also plays guitar, piano, drums, and electronic keyboards."
+        },
+        {
+          "snippet": "Residence: Dublin, Ireland."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Phil Collen"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 68 (Born December 8, 1957)."
+        },
+        {
+          "snippet": "Occupations & Skills: Lead guitarist and backing vocalist."
+        },
+        {
+          "snippet": "Abilities & Proficiency: Expert guitarist (noted for innovative techniques) and songwriter. He is also a black belt in Muay Thai kickboxing."
+        },
+        {
+          "snippet": "Residence: Laguna Hills, California (commonly cited as his long-term U.S. base)."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Rick Savage (\"Sav\")"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 65 (Born December 2, 1960)."
+        },
+        {
+          "snippet": "Occupations & Skills: Bass guitarist and backing vocalist."
+        },
+        {
+          "snippet": "Abilities & Proficiency: Expert bassist; also plays guitar and contributes to the band's signature harmonized vocals."
+        },
+        {
+          "snippet": "Residence: Sheffield, England (the only member still living in their home city)."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        32,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Vivian Campbell"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 63 (Born August 25, 1962)."
+        },
+        {
+          "snippet": "Occupations & Skills: Guitarist and backing vocalist."
+        },
+        {
+          "snippet": "Abilities & Proficiency: Expert guitarist (dual guitar attack with Collen) and songwriter."
+        },
+        {
+          "snippet": "Residence: Los Angeles, California."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        32,
+        40,
+        43
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Rick Allen (\"The Thunder God\")"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 62 (Born November 1, 1963)."
+        },
+        {
+          "snippet": "Occupations & Skills: Drummer and percussionist."
+        },
+        {
+          "snippet": "Abilities & Proficiency: Expert drummer; highly proficient in using a specialized semi-electronic drum kit designed for one-armed playing."
+        },
+        {
+          "snippet": "Residence: Jupiter, Florida."
+        }
+      ],
+      "reference_indexes": [
+        25,
+        32,
+        41,
+        44
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Note: As of February 2026, the entire band is temporarily residing in Las Vegas, Nevada, for their residency at The Colosseum at Caesars Palace.",
+      "snippet_links": [
+        {
+          "text": "Las Vegas, Nevada",
+          "link": "https://www.google.com/search?q=Las+Vegas,+Nevada&kgmid=/m/0cv3w&sa=X&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ3egRegQIDhAC"
+        }
+      ],
+      "reference_indexes": [
+        24,
+        42
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Def Leppard | Members, Background, Songs, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/topic/Def-Leppard%23:~:text%3DDef%2520Leppard%252C%2520British%2520rock%2520band,%252C%2520and%2520Vivian%2520Campbell%2520(b.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAC&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Jan 6, 2026 \u2014 Def Leppard, British rock band that was one of the prime movers of the new wave of British heavy metal in the 1980s and remained p...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/9ZJQfqDWcDqzWc5cwY_9P2xSFLrg96FCNud3_KS0VrY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/PyvGBZshOumcxjL5krCa5djJkdMxhseRqhGMHStX7u4.png",
+      "index": 0
+    },
+    {
+      "title": "Archives: Members | Def Leppard",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://defleppard.com/band/&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAG&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Band * Phil Collen Guitar & Backing Vocals 1982 - Present. * Rick Allen Drums & Percussion 1978 - Present. * Joe Elliott Lead & Ba...",
+      "source": "Def Leppard | Official Website",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/-ht020Br19Jlf1BmUXi3IkDGMweOW5VVC-eSbFC7b2Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/CUecG5Km3IshsdFBJ-3Zt_nrHmmKRrudbmpDx7Ja5Zw.png",
+      "index": 1
+    },
+    {
+      "title": "Rock legends shake the scene in Caesars Palace opener",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://neon.reviewjournal.com/kats/rock-legends-shake-the-scene-in-caesars-palace-opener-3329069/%23:~:text%3DLAS%2520VEGAS%252C%2520NEVADA%2520%252D%2520FEBRUARY%252003:%2520Guitarist%2520Vivian%2520Campbell%252C,for%2520Live%2520Nation%2520Las%2520Vegas)&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAK&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Feb 5, 2026 \u2014 LAS VEGAS, NEVADA - FEBRUARY 03: Guitarist Vivian Campbell, bass guitarist Rick Savage, singer Joe Elliott, drummer Rick Allen and...",
+      "source": "Las Vegas Review-Journal",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/ASKWIuVicgvXx37lFPrhoKJ3vT2vTNKloVpCJA26ZVA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/a0TDK-y4me2Emo9vX-h9t8FRI1r0H8IXZmqDV4479oM.jpeg",
+      "index": 2
+    },
+    {
+      "title": "DEF LEPPARD Will Have Surprises/New Stage For 2026 Las ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.deflepparduk.com/def-leppard-will-have-surprises-new-stage-for-2026-las-vegas-residency.html%23:~:text%3D23rd%2520July%25202025-,DEF%2520LEPPARD%2520Will%2520Have%2520Surprises/New%2520Stage%2520For%25202026%2520Las,Las%2520Vegas%2520Residency&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAO&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Jul 23, 2025 \u2014 * DEF LEPPARD Will Have Surprises/New Stage For 2026 Las Vegas Residency. Screenshots. Def Leppard members Joe Elliott and Phil Co...",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/khkHxiQqAbdsHnU76AStXbxF1wsEIc2_jTJuaVnBluo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/pWM4XRp4v8v6spUP0cJZgTvmiwtJb_SpsRMSAIsrMeA.png",
+      "index": 3
+    },
+    {
+      "title": "Def Leppard rocks biggest hits, surprise songs at stunning Las Vegas residency",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.usatoday.com/story/entertainment/music/2026/02/04/def-leppard-las-vegas-residency-2026/88504518007/%23:~:text%3DLed%2520by%2520silver%2520fox%2520frontman,integral%2520to%2520Def%2520Leppard's%2520sound.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAS&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Feb 4, 2026 \u2014 Led by silver fox frontman Joe Elliott, Def Leppard exudes the confidence of a band that has absolutely nothing left to prove, but...",
+      "source": "USA Today",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/wsNrVy_pzJyrw2ble0_GRiyRt74kTob9ab8pBFSBzwQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/HQHDjn9dab6PYqnKjdL1fCrJB1QoDZkJO13a7r4gw8U.png",
+      "index": 4
+    },
+    {
+      "title": "Phil Collen Bio \u2013 Jacksonguitars.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.jacksonguitars.com/pages/phil-collen-bio&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAW&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "* BORN: Hackney, East London, England. * SIDE PROJECTS: In 2004, Collen formed Manraze with Simon Laffy from his old band Girl and...",
+      "source": "Jackson Guitars",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/MDFniI2kEW6bczkuoCnfpdskUSkKjbUcTuqWP0QTX8U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/eo0V09ytv2ag8NFBuOcymFHvB_xPWDw2T6e7tkmfBi0.png",
+      "index": 5
+    },
+    {
+      "title": "Happy Birthday to Def Leppard's JOE ELLIOTT, who turns 66 on ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/DefLeppardReport/posts/happy-birthday-to-def-leppards-joe-elliott-who-turns-66-on-august-1-indulge-in-m/1675576756723363/%23:~:text%3DHappy%252066th%2520Birthday%2520JOE%2520ELLIOTT,1959%2520Def%2520Leppard%2520%2523classicrockvideos%2520%2523classicrockvideo&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAa&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Jul 31, 2025 \u2014 Happy 66th Birthday JOE ELLIOTT August 1, 1959 Def Leppard #classicrockvideos #classicrockvideo.",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/6erOwUOR3xGkYWmqJv_tsbHWV5Rx60b2xE8imtUFmiI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/AYwtXhW0THSwQw7TW8xaMGwLr5eq3556T-6UbeqEjG8.png",
+      "index": 6
+    },
+    {
+      "title": "Phil Collen Age: A Deep Dive Into The Life And Career Of The ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://inventory.simbiprops.com/phil-collen-age-a-deep-dive-into-the/25637485/%23:~:text%3DPhil%2520Collen's%2520influence%2520on%2520the,Conclusion&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAe&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Jan 21, 2026 \u2014 Phil Collen's influence on the rock music scene is undeniable. As a member of Def Leppard, he has played a vital role in shaping t...",
+      "source": "inventory.simbiprops.com",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/MlXV2GMWTo1ZHyAYL2Lliv5x_8UZTLarnGUIUCitr3c.png",
+      "index": 7
+    },
+    {
+      "title": "Joe Elliott | Def Leppard",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://defleppard.com/member/joe-elliott/&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAh&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Details * Full Name: Joseph Thomas Elliott. * Birthdate: Sat, 1959-08-01. * Birthplace: Sheffield, UK. * Current Residence: Dublin...",
+      "source": "Def Leppard | Official Website",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/DRLxIHPr-_tjEfgC_B4yqO4FkfmByrz69orMVRLN5lA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/gGPgAJpW_xvcDBl1lYiPOiCsl4E6RaB2v0UQKS8ruaA.png",
+      "index": 8
+    },
+    {
+      "title": "Happy 68th birthday today to Def Leppard guitarist, Phil Collen, born ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/80sruled/posts/happy-68th-birthday-today-to-def-leppard-guitarist-phil-collen-born-december-8-1/910033085003259/%23:~:text%3DThe%252080s%2520Ruled-,Happy%252068th%2520birthday%2520today%2520to%2520Def%2520Leppard%2520guitarist%252C%2520Phil%2520Collen,from%2520the%252080s%2520to%2520now!%26text%3DI%2520have%2520always%2520Loved%2520Def,this%2520day!!!!!%26text%3DShane%2520Hodgetts%2520How%2520cool%2520is,is%2520worth?????%26text%3DVersatile%2520chap.,to%2520be%2520drummer%2520for%2520Genesis.%26text%3DWhat%2520are%2520the%2520best%2520bodies%2520in%2520rock%2520'n'%2520roll%2520still?%26text%3DI%2520seen%2520that%2520concert%2520in,played%2520at%2520the%2520sky%2520show.%26text%3DJohn%2520W%2520Snyder%2520billy%2520Who?%26text%3DWhat's%2520up%2520with%2520the%2520no%2520shirt??.%26text%3DPut%2520a%2520shirt%2520on%2520dude,Who%2520are%2520u%2520brad%2520gillis?%26text%3DMuay%2520Thai%252C%2520not%2520karate.,different%2520on%2520a%2520few%2520levels.%26text%3DHappy%2520Birthday!,had%2520a%2520crush%2520on%2520him.%26text%3DJohn%2520Barr%2520Phil%2520from%2520LA%2520Guns%252C%2520correct%2520?%26text%3DIf%2520Eddie%2520had%2520taken%2520care,and%2520well%2520being%2520like%2520Phil.%26text%3DHappy%2520birthday%252CPhil!%26text%3DHappy%2520Birthday!!!!&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAl&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 8, 2025 \u2014 Happy 68th birthday today to Def Leppard guitarist, Phil Collen, born December 8 1957 in Hackney, London, England! Phil is also bl...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/TVvxmuuzAD4RuaFs2UGx9k3aLqZNrAQAznD9X_Nb8QE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/qOwBrUHcAvJePaYi4GlpPEOjeRs6Vi1Y7UPcei0h6G0.png",
+      "index": 9
+    },
+    {
+      "title": "Happy Birthday to Guitarist Phil Collen - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/820715888268306/posts/2722990901374119/%23:~:text%3DPhil%2520Collen%252C%2520(born%25208%2520December,is%252068%2520years%2520old%2520today.%26text%3DKasey%2520Lee%2520%25E2%2596%25BA%2520Bring%2520The%2520Noise!&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAp&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 7, 2025 \u2014 Phil Collen, (born 8 December 1957) is an English musician. He is the lead guitarist for the rock band Def Leppard, joining the ba...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/Cyl4IvfLt5GB_pIlNKB2-1nkcZ6fa_riXoPWZCSxYhg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/yBfLP00uNvbr6C79pUCzXtnMIMksYW2hxP9TGrJK4L0.png",
+      "index": 10
+    },
+    {
+      "title": "Phil Collen - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Phil_Collen%23:~:text%3DTable_content:%2520header:%2520%257C%2520Phil%2520Collen%2520%257C%2520%257C,Phil%2520Collen:%2520Occupation%2520%257C%2520:%2520Musician%2520%257C&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAt&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Table_content: header: | Phil Collen | | row: | Phil Collen: Also known as | : One-half of \"The Terror Twins\" with co-guitarist St...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/r-vqvh3-SQNHq7XKYKEFhLpnLvCCXkWQFZGrWNtr_a8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/Y7jbFs-4q1BemvmaSq4mtqtHiCrTQbPUF-hYazk-ogA.png",
+      "index": 11
+    },
+    {
+      "title": "Joe Elliott is 66 years old today. Elliott is an English singer ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/60sandBeyond/posts/joe-elliott-is-66-years-old-todayelliott-is-an-english-singer-songwriter-musicia/1343635817763881/%23:~:text%3DJoe%2520Elliott%2520is%252066%2520years,as%2520piano%2520and%2520electronic%2520keyboard.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBAx&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Aug 1, 2025 \u2014 As a songwriter, Elliott has drawn from his eclectic tastes in music (ranging from pop-rock to folk) as sources of inspiration. He...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/5meBwZ-iY2iXUtlH4gkwln48rJtWD4AM8ByNpM35VjM.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Happy 65th Birthday RICK SAVAGE December 2, 1960 Rick is ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/America1980s/posts/happy-65th-birthday-rick-savagedecember-2-1960rick-is-best-known-for-being-the-b/1434283782030542/%23:~:text%3DHappy%252065th%2520Birthday%2520RICK%2520SAVAGE,Welcome%2520to%2520the%25201980's%2520%25F3%25B1%25A2%258F&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBA1&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 2, 2025 \u2014 Happy 65th Birthday RICK SAVAGE December 2, 1960 Rick is best known for being the bass guitarist and one of the founding members o...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/KXDErw-d4hAatMoh5zsPp8gvo0SbgGcf_ciqtwE2TnQ.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Def Leppard Band Member Rick Savage (Bass Guitar)",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.deflepparduk.com/bandsav.html&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBA5&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "* Full Name - Richard Savage. * Birth Date - Friday, 2nd December 1960. * Birth Location - Sheffield, England. * Nickname - Sav, #",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/oCcmPvl1I6Oi-c22AENtDT0mwrcT2SdwW0sQN2yqQ3M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/YezPh5jSr3TxF_a9Comc0gGPcpGlL6wpatCnU2CCJrM.png",
+      "index": 14
+    },
+    {
+      "title": "Joe Elliott, Lead Singer of Def Leppard, Birthday and Career Highlights",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/httpswww.facebook.comgroups1135327804281856/posts/1211370710010898/%23:~:text%3DJoe%2520Elliott%252C%2520the%2520lead%2520singer,at%2520United%2520States%2520of%2520America.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBA9&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Aug 1, 2024 \u2014 Joe Elliott, the lead singer and founding member of Def Leppard, is a key figure in the rock world, known for his distinctive high...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/2MH6poERZT01ico3eg1YxHWZBDHh_8wvpIXHFXLwJY4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/9yIHSHHOlSYjngYo5CI6in_UBihIIBA-NOgnTrvS9lc.png",
+      "index": 15
+    },
+    {
+      "title": "Joe Elliott - Def Leppard Wiki - Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://def-leppard.fandom.com/wiki/Joe_Elliott%23:~:text%3DJoseph%2520Thomas%2520%2522Joe%2522%2520Elliott%2520(,on%2520every%2520Def%2520Leppard%2520album.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBB&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Joseph Thomas \"Joe\" Elliott (born 1 August 1959) is a British singer-songwriter, and musician, best known as the lead vocalist and...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/WLiaEgVemhcNAIZY5uYnYLidFvO_rHwZqrPYr4SXhnc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/hmgAiSAUqS1SeZQA_qzSRm2x0e727xdNSy1LzPiZoCw.png",
+      "index": 16
+    },
+    {
+      "title": "DEF LEPPARD Bassist RICK SAVAGE Celebrates 64th ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.deflepparduk.com/def-leppard-bassist-rick-savage-celebrates-64th-birthday-photos-2024.html%23:~:text%3DDEF%2520LEPPARD%2520Bassist%2520RICK%2520SAVAGE,the%2520Crookes%2520area%2520of%2520Sheffield.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBF&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 2, 2024 \u2014 DEF LEPPARD Bassist RICK SAVAGE Celebrates 64th Birthday (Photos) Monday, 2nd December 2024. DEF LEPPARD Bassist RICK SAVAGE Celeb...",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/g8waBo__55qLPgVUbYOWa5X_I2-KoJmX4c_zVsiqT6s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/-CwL-arlCKEajXpddpjaxVHnw3_pU2q0qR8n7BL1y50.png",
+      "index": 17
+    },
+    {
+      "title": "Joe Elliott is 66 today. He was born in the UK. He's the lead singer ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/rockmall/posts/24602164126055696/%23:~:text%3D1y%2520%25C2%25B7%2520Public-,Joe%2520Elliott%2520is%2520best%2520known%2520as%2520the%2520lead%2520vocalist%2520of,and%2520the%2520live%2520performance%2520experience.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBJ&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Aug 1, 2025 \u2014 Joe Elliott is best known as the lead vocalist of the iconic British rock band Def Leppard. Born on August 1, 1959, in Sheffield, ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/aegbio9CQ81khs6LInHo05fSm3K8BVPV7Z6zF6yQEQ8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/kvlufi6asy20fgWFR209JM-IPLRBbvOThQkvaHcnt8A.png",
+      "index": 18
+    },
+    {
+      "title": "Def Leppard band. Def Leppard are an English rock band formed in ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/AmericanNoizeMusic/posts/band-spotlight-def-leppard-band-def-leppard-are-an-english-rock-band-formed-in-s/1043857807711196/%23:~:text%3DDef%2520Leppard%252C%2520formed%2520in%2520Sheffield,electrifying%2520performances%2520and%2520unforgettable%2520music.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBN&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Apr 16, 2025 \u2014 Def Leppard, formed in Sheffield, England, in 1977, is one of the most iconic bands in rock history, known for their anthemic soun...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/Im5C9MZtPZftRVlJ2lUNg9Dh0esys6iF-SZyngCjywU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/RE4JczFqlcBOQnIAGHG3H2qb5lafbf_3wjdT6vrYBNQ.png",
+      "index": 19
+    },
+    {
+      "title": "List of Def Leppard band members - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/List_of_Def_Leppard_band_members%23:~:text%3DDef%2520Leppard%2520are%2520an%2520English,Vivian%2520Campbell%2520(since%25201992).&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBR&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Def Leppard are an English rock band formed under the name Atomic Mass in 1977 in Sheffield as part of the new wave of British hea...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/pjnaKJvoW3gUUdzXuyzXlacZzgnvpRdgcAfxQ7lKgBs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/aXVmluA6Z4wCS5bvPWbePtJ0FYot6LYO16bczk2URtk.png",
+      "index": 20
+    },
+    {
+      "title": "Happy Heavenly birthday to Rick Savage, bassist for Def Leppard ( ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1530130114615813/posts/1658840791744744/%23:~:text%3DRick%2520%2522Sav%2522%2520Savage%252C%2520the,creativity%2520in%2520rock%2520music%2520history.&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBV&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 2, 2025 \u2014 Rick \"Sav\" Savage, the bassist of Def Leppard, is a founding member of the legendary rock band, renowned for their melodic hard ro...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/naNaNG3AadILlmVi-7ownOZeViU-CZK8uwMpcIouHlE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/RQZPdpS6td8UVETF6ZG_YyjLeXPZgVdtf7KolO6nPLY.png",
+      "index": 21
+    },
+    {
+      "title": "Def Leppard founding member information - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/3051209565172499/posts/3910349205925193/%23:~:text%3DRichard%2520Savage%2520is%2520an%2520English,Instruments%2520played:%2520Guitar%252C%2520Bass%2520guitar&ved=2ahUKEwipgvWLvciSAxUTyckDHZm-C6wQ1fkOegQIEBBZ&opi=89978449&cd&psig=AOvVaw1FFaOiMSY5K0QMc2h3JSLH&ust=1770591398175000",
+      "snippet": "Dec 1, 2025 \u2014 Richard Savage is an English singer-songwriter and musician best known for being the bass guitarist and one of the founding member...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/mISRfLcwDdJhWwyW12rF0cxB_frw2lI-LnZcEh3Gl-4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3253f79e88eaf8819f7/images/g3w_vLMyBK_SHO_wwyxcBvBfSoZ38jBpykVTMnqEPZg.png",
+      "index": 22
+    },
+    {
+      "title": "List of Def Leppard band members - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/List_of_Def_Leppard_band_members#:~:text=Def%20Leppard%20are%20an%20English,Vivian%20Campbell%20(since%201992).",
+      "snippet": "Def Leppard are an English rock band formed under the name Atomic Mass in 1977 in Sheffield as part of the new wave of British hea...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfF8n2nLjaj1CiRBSA24HsOvs5wtvVlp6bBq7dtfNNdPzE6llI",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Rock legends shake the scene in Caesars Palace opener",
+      "link": "https://neon.reviewjournal.com/kats/rock-legends-shake-the-scene-in-caesars-palace-opener-3329069/#:~:text=LAS%20VEGAS%2C%20NEVADA%20%2D%20FEBRUARY%2003:%20Guitarist%20Vivian%20Campbell%2C,for%20Live%20Nation%20Las%20Vegas)",
+      "snippet": "LAS VEGAS, NEVADA - FEBRUARY 03: Guitarist Vivian Campbell, bass guitarist Rick Savage, singer Joe Elliott, drummer Rick Allen and...",
+      "source": "Las Vegas Review-Journal",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiHHePoxYUOvxnt0FVlwxw7bweeXZDonuQ7WpM3T9C99kj7vcz",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://neon.reviewjournal.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Def Leppard | Members, Background, Songs, \\u0026 Facts",
+      "link": "https://www.britannica.com/topic/Def-Leppard#:~:text=Def%20Leppard%2C%20British%20rock%20band,%2C%20and%20Vivian%20Campbell%20(b.",
+      "snippet": "Def Leppard, British rock band that was one of the prime movers of the new wave of British heavy metal in the 1980s and remained p...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS19-xfhk-wWrkKh0FPLatBejcLnYC7jzsksjlPMUovj4sAfRiN",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Happy Birthday to Def Leppard's JOE ELLIOTT, who turns 66 on ...",
+      "link": "https://www.facebook.com/DefLeppardReport/posts/happy-birthday-to-def-leppards-joe-elliott-who-turns-66-on-august-1-indulge-in-m/1675576756723363/#:~:text=Happy%2066th%20Birthday%20JOE%20ELLIOTT,1959%20Def%20Leppard%20%23classicrockvideos%20%23classicrockvideo",
+      "snippet": "Happy 66th Birthday JOE ELLIOTT August 1, 1959 Def Leppard #classicrockvideos #classicrockvideo.",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyuG5gWYxvUXN8Ed6DqDuxUtY_vwMmsi4RCTzr7pIxIun6BMWU",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Joe Elliott is 66 today. He was born in the UK. He's the lead singer ...",
+      "link": "https://www.facebook.com/groups/rockmall/posts/24602164126055696/#:~:text=1y%20%C2%B7%20Public-,Joe%20Elliott%20is%20best%20known%20as%20the%20lead%20vocalist%20of,and%20the%20live%20performance%20experience.",
+      "snippet": "Joe Elliott is best known as the lead vocalist of the iconic British rock band Def Leppard. Born on August 1, 1959, in Sheffield, ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoy5S55E-id2Vv6FbhBsRt_DV3Xdp9JqosInRrr1HNpjGJV5wa",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Joe Elliott, Lead Singer of Def Leppard, Birthday and Career Highlights",
+      "link": "https://www.facebook.com/groups/httpswww.facebook.comgroups1135327804281856/posts/1211370710010898/#:~:text=Joe%20Elliott%2C%20the%20lead%20singer,at%20United%20States%20of%20America.",
+      "snippet": "Joe Elliott, the lead singer and founding member of Def Leppard, is a key figure in the rock world, known for his distinctive high...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKL6aYSPBt6iuN9Tt7Lz5_cS7e158ECNMftfWA3UbOfGuhiGE",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Joe Elliott is 66 years old today. Elliott is an English singer ...",
+      "link": "https://www.facebook.com/60sandBeyond/posts/joe-elliott-is-66-years-old-todayelliott-is-an-english-singer-songwriter-musicia/1343635817763881/#:~:text=Joe%20Elliott%20is%2066%20years,as%20piano%20and%20electronic%20keyboard.",
+      "snippet": "As a songwriter, Elliott has drawn from his eclectic tastes in music (ranging from pop-rock to folk) as sources of inspiration. He...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlw882GjlHS8KOLZjz9ysdc1SVyTlh7coOCDDoroAAsYzXQhB_",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Joe Elliott | Def Leppard",
+      "link": "https://defleppard.com/member/joe-elliott/",
+      "snippet": "Details * Full Name: Joseph Thomas Elliott. * Birthdate: Sat, 1959-08-01. * Birthplace: Sheffield, UK. * Current Residence: Dublin...",
+      "source": "Def Leppard | Official Website",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgbv0z2WPSzjDugwowQgx3NPDAzZf-Rv09YLVKwBm_c_JqSQhg",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://defleppard.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Happy Birthday to Guitarist Phil Collen - Facebook",
+      "link": "https://www.facebook.com/groups/820715888268306/posts/2722990901374119/#:~:text=Phil%20Collen%2C%20(born%208%20December,is%2068%20years%20old%20today.&text=Kasey%20Lee%20%E2%96%BA%20Bring%20The%20Noise!",
+      "snippet": "Phil Collen, (born 8 December 1957) is an English musician. He is the lead guitarist for the rock band Def Leppard, joining the ba...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj7zyXZy7ALqu5zQ-_rOxuzDH38e4w9EvQu837Qb8-4ifXd5M2",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Archives: Members | Def Leppard",
+      "link": "https://defleppard.com/band/",
+      "snippet": "Band * Phil Collen Guitar \\u0026 Backing Vocals 1982 - Present. * Rick Allen Drums \\u0026 Percussion 1978 - Present. * Joe Elliott Lead \\u0026 Ba...",
+      "source": "Def Leppard | Official Website",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdxjb1wja4Raq94BUxJNR04DzhFm1u-ocDJa7g6VipFKi-aI_g",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://defleppard.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Phil Collen Age: A Deep Dive Into The Life And Career Of The ...",
+      "link": "https://inventory.simbiprops.com/phil-collen-age-a-deep-dive-into-the/25637485/#:~:text=Phil%20Collen's%20influence%20on%20the,Conclusion",
+      "snippet": "Phil Collen's influence on the rock music scene is undeniable. As a member of Def Leppard, he has played a vital role in shaping t...",
+      "source": "inventory.simbiprops.com",
+      "thumbnail": "https://inventory.simbiprops.com/phil-collen-age-a-deep-dive-into-the/25637485/",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inventory.simbiprops.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "Happy 68th birthday today to Def Leppard guitarist, Phil Collen, born ...",
+      "link": "https://www.facebook.com/80sruled/posts/happy-68th-birthday-today-to-def-leppard-guitarist-phil-collen-born-december-8-1/910033085003259/#:~:text=The%2080s%20Ruled-,Happy%2068th%20birthday%20today%20to%20Def%20Leppard%20guitarist%2C%20Phil%20Collen,from%20the%2080s%20to%20now!&text=I%20have%20always%20Loved%20Def,this%20day!!!!!&text=Shane%20Hodgetts%20How%20cool%20is,is%20worth?????&text=Versatile%20chap.,to%20be%20drummer%20for%20Genesis.&text=What%20are%20the%20best%20bodies%20in%20rock%20'n'%20roll%20still?&text=I%20seen%20that%20concert%20in,played%20at%20the%20sky%20show.&text=John%20W%20Snyder%20billy%20Who?&text=What's%20up%20with%20the%20no%20shirt??.&text=Put%20a%20shirt%20on%20dude,Who%20are%20u%20brad%20gillis?&text=Muay%20Thai%2C%20not%20karate.,different%20on%20a%20few%20levels.&text=Happy%20Birthday!,had%20a%20crush%20on%20him.&text=John%20Barr%20Phil%20from%20LA%20Guns%2C%20correct%20?&text=If%20Eddie%20had%20taken%20care,and%20well%20being%20like%20Phil.&text=Happy%20birthday%2CPhil!&text=Happy%20Birthday!!!!",
+      "snippet": "Happy 68th birthday today to Def Leppard guitarist, Phil Collen, born December 8 1957 in Hackney, London, England! Phil is also bl...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSidYQcOFKHEYXru9uwXtBzOCHNfRHCs9Iq9QMD-pGYMiHDZb5",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Phil Collen Bio \u2013 Jacksonguitars.com",
+      "link": "https://www.jacksonguitars.com/pages/phil-collen-bio",
+      "snippet": "* BORN: Hackney, East London, England. * SIDE PROJECTS: In 2004, Collen formed Manraze with Simon Laffy from his old band Girl and...",
+      "source": "Jackson Guitars",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTffoDIo2SFjZWCrc7gEOTz_5Z2PMyTiZ-GT6M3B6ehQLOBM2uo",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jacksonguitars.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Happy 65th Birthday RICK SAVAGE December 2, 1960 Rick is ...",
+      "link": "https://www.facebook.com/America1980s/posts/happy-65th-birthday-rick-savagedecember-2-1960rick-is-best-known-for-being-the-b/1434283782030542/#:~:text=Happy%2065th%20Birthday%20RICK%20SAVAGE,Welcome%20to%20the%201980's%20%F3%B1%A2%8F",
+      "snippet": "Happy 65th Birthday RICK SAVAGE December 2, 1960 Rick is best known for being the bass guitarist and one of the founding members o...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbS-1GRUUkgbzhnJI9pkYuREmODp_ihlVZgpta2F869ge1T_mM",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Def Leppard founding member information - Facebook",
+      "link": "https://www.facebook.com/groups/3051209565172499/posts/3910349205925193/#:~:text=Richard%20Savage%20is%20an%20English,Instruments%20played:%20Guitar%2C%20Bass%20guitar",
+      "snippet": "Richard Savage is an English singer-songwriter and musician best known for being the bass guitarist and one of the founding member...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKyjT-5EWeyJxSPESZhvZfopwJg4zvXtmJNZqHDThRpSFXT7V",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    },
+    {
+      "title": "DEF LEPPARD Bassist RICK SAVAGE Celebrates 64th ...",
+      "link": "https://www.deflepparduk.com/def-leppard-bassist-rick-savage-celebrates-64th-birthday-photos-2024.html#:~:text=DEF%20LEPPARD%20Bassist%20RICK%20SAVAGE,the%20Crookes%20area%20of%20Sheffield.",
+      "snippet": "DEF LEPPARD Bassist RICK SAVAGE Celebrates 64th Birthday (Photos) Monday, 2nd December 2024. DEF LEPPARD Bassist RICK SAVAGE Celeb...",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwLXTeUtgskhwluxaFDWlxHxaqoVkjcR_-ibp8TrFirEfurwuk",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.deflepparduk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 38
+    },
+    {
+      "title": "Def Leppard Band Member Rick Savage (Bass Guitar)",
+      "link": "https://www.deflepparduk.com/bandsav.html",
+      "snippet": "* Full Name - Richard Savage. * Birth Date - Friday, 2nd December 1960. * Birth Location - Sheffield, England. * Nickname - Sav, #",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrmZyn8mQZQuWJzwbbXoDYDRQxmlhCf3LH6wGPPWK3uz_E_92l",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.deflepparduk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 39
+    },
+    {
+      "title": "Def Leppard rocks biggest hits, surprise songs at stunning Las Vegas residency",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/02/04/def-leppard-las-vegas-residency-2026/88504518007/#:~:text=Led%20by%20silver%20fox%20frontman,integral%20to%20Def%20Leppard's%20sound.",
+      "snippet": "Led by silver fox frontman Joe Elliott, Def Leppard exudes the confidence of a band that has absolutely nothing left to prove, but...",
+      "source": "USA Today",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVe6RH2T9yWChfLPiXWtq7I80LgO8QzNclFh0JBwiOTfhoymZe",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 40
+    },
+    {
+      "title": "Def Leppard band. Def Leppard are an English rock band formed in ...",
+      "link": "https://www.facebook.com/AmericanNoizeMusic/posts/band-spotlight-def-leppard-band-def-leppard-are-an-english-rock-band-formed-in-s/1043857807711196/#:~:text=Def%20Leppard%2C%20formed%20in%20Sheffield,electrifying%20performances%20and%20unforgettable%20music.",
+      "snippet": "Def Leppard, formed in Sheffield, England, in 1977, is one of the most iconic bands in rock history, known for their anthemic soun...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgvljTZAmieHyMDMlqx60OLX9pX_nK91BLRDyq19hKThi3r3X-",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 41
+    },
+    {
+      "title": "DEF LEPPARD Will Have Surprises/New Stage For 2026 Las ...",
+      "link": "https://www.deflepparduk.com/def-leppard-will-have-surprises-new-stage-for-2026-las-vegas-residency.html#:~:text=23rd%20July%202025-,DEF%20LEPPARD%20Will%20Have%20Surprises/New%20Stage%20For%202026%20Las,Las%20Vegas%20Residency",
+      "snippet": "* DEF LEPPARD Will Have Surprises/New Stage For 2026 Las Vegas Residency. Screenshots. Def Leppard members Joe Elliott and Phil Co...",
+      "source": "Def Leppard Tour History",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCXFAgH6OLC5LzHcwg9Y-MfBd0KN5yA57jFhOJzXQJ86cefCZw",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.deflepparduk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 42
+    },
+    {
+      "title": "The Def Leppard singer is 66 today \ud83c\udfa4",
+      "link": "https://www.facebook.com/LoudWire/posts/the-def-leppard-singer-is-66-today-/1108145831186743/",
+      "snippet": "DEF LEPPARD guitarist Vivian Patrick Campbell turns 63 today (August 25th, 1962). \ud83c\udf82\ud83c\udfb8 Read Today In Metal History at https://brav...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotBczN9tGVokcepqUJVldpzgZGOOs0eZrF2ut-E6x-PfsCyBb",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 43
+    },
+    {
+      "title": "The Def Leppard singer is 66 today \ud83c\udfa4",
+      "link": "https://www.facebook.com/LoudWire/posts/the-def-leppard-singer-is-66-today-/1108145831186743/#:~:text=Happy%20Birthday%20to%20Def%20Leppard%20guitar%20legend,been%2062%20today.%20No%20photo%20description%20available.",
+      "snippet": "Happy Birthday to Def Leppard guitar legend STEVE STEAMIN' CLARK, who would have been 62 today. No photo description available.",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotBczN9tGVokcepqUJVldpzgZGOOs0eZrF2ut-E6x-PfsCyBb",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 44
+    }
+  ]
+}

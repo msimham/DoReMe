@@ -1,0 +1,379 @@
+{
+  "search_metadata": {
+    "id": "6987c32880a0780094860704",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HOgKrPeKcR2EXHavDfJgmQ/6987c32880a0780094860704.json",
+    "created_at": "2026-02-07 22:56:40 UTC",
+    "processed_at": "2026-02-07 22:56:40 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Black+Sabbath%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Black+Sabbath%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/HOgKrPeKcR2EXHavDfJgmQ/6987c32880a0780094860704.html",
+    "prettify_html_file": "https://serpapi.com/searches/HOgKrPeKcR2EXHavDfJgmQ/6987c32880a0780094860704.prettify",
+    "total_time_taken": 8.2
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Black Sabbath, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "-rmOnXicTZJNrqNGAISlnITsZqTwHr826Okt-P8xYIO7wXiDGnfbYMBgwDZmPxeJRomUC-QAOcXkNHGkLFK1K6k-1aK-_UrKP1f-2kYYTQbe3ATa2PBSaVcK_E7q_vDjL61pHymIdZ8t9nnJTFEyqQjEbNSwPmQK9QC7NeQjEbHF8WCrHWwmN2T33Z4pAGkYEVy6bcTWfd7gFsS4zjW2RWahgSrkIo69-XCEOR-kgR5rsMZPYsnAbzqAmfThgUiHzCAgdh8Qs51zI74YBfYAlJ00iQpixBW0IePBOPTnottaoxpHrUeAeoYG66S8z-5N-MdtIH2GTuQy_mj9di7rGr2Lbwz1JSkvuH0MVAAolnljPqhXsBA-qGkhfKWUrqtJQvJVOb6L_PKNX1BfVjbwvV-ouqwIZZFD1X6ltKJvG_LOCi_Av6a26Ij68r_Kb4e2rUry908_K4b2qSC3QeIQP7c6rLMHpotbbpZReh3C8mnNacZxLpyzzZgHNwz0xArD_UmS2IhzPqgs25LDrSe0CrWVAT41_2F9UHr8ydBTqJoPLCb-Y7BD5rnOs-OLFGlW_RCbeyEdwBMW2_4hKIqqnS0LLi5gP6ETVF76H3kLos2noi_09jQE1rHE45XrXajHjd2tpt3-xOCwN_XonHn3RgA9EhvMDAqDBcnqJzjKp95OgWzcjsF9E-FGZLc0Tha7YhMd9e44nW8JH_j6-fZBBY7-KXLSp8oirDnPBJeMjp2scu7dyqZxfnaCq17Om3Tp0plrjLXtYbzcLBygH6pQHBVe28vSwu6kJEuncuG7zb0yN7CT5vQyJbL4GmJ6qObig7rTaDEZT0e5rPYs69XcYrk72I9M2XHpWPROQlZVdeL512sltEc5rdlTe5kFtlrSbjPJ4TBEk-FpjKvdDCtc4iuZyhrId90Qq7UlR6WQNkrp1o1KSHH2BtBsLfkcceEjsDFvMHpUpuBeB2aLd-FEzP3pVqeQfY5oLSPnqWSqf1a-N8NY_fhdgaMxHdUykDaL8DhqnSVJLqzco0gIkpvVYRuP6SVBMVIMPM-cO_twBusBmQ44zzLDguXuySzTdBT5C58VFlJ4gXCM2U3qOsdcV5eFeEX6hTGxI8YtvJrFUiAHurur_cpDw6UpcjpPuaEk83k1m5FYmdbDGcyeftrnJ2swKjaEfwCFzGjN",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Black Sabbath's original lineup consists of four legendary musicians. As of February 2026, the status of the founding members is as follows:",
+      "reference_indexes": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Founding Members Overview"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Tony Iommi",
+          "list": [
+            {
+              "snippet": "Age: 77 (born February 19, 1948)."
+            },
+            {
+              "snippet": "Skills & Abilities: Master guitarist, pioneering songwriter, and composer. He is widely credited as the \"inventor\" of heavy metal for his signature down-tuned, dark riffs."
+            },
+            {
+              "snippet": "Occupations: Musician, songwriter, and leader of Black Sabbath."
+            },
+            {
+              "snippet": "Proficiency: Considered one of the greatest and most influential guitarists in rock history."
+            },
+            {
+              "snippet": "Current Residence: Birmingham, England.",
+              "snippet_links": [
+                {
+                  "text": "Birmingham, England",
+                  "link": "https://www.google.com/search?q=Birmingham,+England&kgmid=/m/0k33p&sa=X&ved=2ahUKEwi9k_qMvciSAxUqxTgGHek7K-AQ3egRegQIBRAH"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Geezer Butler",
+          "list": [
+            {
+              "snippet": "Age: 76 (born July 17, 1949)."
+            },
+            {
+              "snippet": "Skills & Abilities: Virtuoso bassist and primary lyricist for Black Sabbath. He is known for his melodic playing and pioneering use of the wah-pedal on bass."
+            },
+            {
+              "snippet": "Occupations: Musician and songwriter."
+            },
+            {
+              "snippet": "Proficiency: Consistently ranked among the greatest bassists of all time, notably 21st by Rolling Stone."
+            },
+            {
+              "snippet": "Current Residence: Splits time between Henderson/Las Vegas, Nevada and Utah.",
+              "snippet_links": [
+                {
+                  "text": "Henderson/Las Vegas, Nevada",
+                  "link": "https://www.google.com/search?q=Henderson/Las+Vegas,+Nevada&kgmid=/m/0xc9x&sa=X&ved=2ahUKEwi9k_qMvciSAxUqxTgGHek7K-AQ3egRegQIBRAP"
+                },
+                {
+                  "text": "Utah",
+                  "link": "https://www.google.com/search?q=Utah&kgmid=/m/07srw&sa=X&ved=2ahUKEwi9k_qMvciSAxUqxTgGHek7K-AQ3egRegQIBRAR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Bill Ward",
+          "list": [
+            {
+              "snippet": "Age: 77 (born May 5, 1948)."
+            },
+            {
+              "snippet": "Skills & Abilities: Master drummer known for a jazz-influenced, \"heavy\" swinging style that defined metal percussion."
+            },
+            {
+              "snippet": "Occupations: Musician and former radio host of the Rock 50 program.",
+              "snippet_links": [
+                {
+                  "text": "Rock 50",
+                  "link": "https://www.remindmagazine.com/article/33136/black-sabbath-who-is-still-alive-ozzy-osbourne/"
+                }
+              ]
+            },
+            {
+              "snippet": "Proficiency: Expert level; his drumming on early Sabbath albums is considered the standard for the genre."
+            },
+            {
+              "snippet": "Current Residence: Los Angeles, California.",
+              "snippet_links": [
+                {
+                  "text": "Los Angeles, California",
+                  "link": "https://www.google.com/search?q=Los+Angeles,+California&kgmid=/m/030qb3t&sa=X&ved=2ahUKEwi9k_qMvciSAxUqxTgGHek7K-AQ3egRegQIBRAa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Ozzy Osbourne",
+          "list": [
+            {
+              "snippet": "Status: Deceased (July 22, 2025, at age 76)."
+            },
+            {
+              "snippet": "Legacy Skills: Iconic vocalist, songwriter, and media personality."
+            },
+            {
+              "snippet": "Residence at Death: Jordans, Buckinghamshire, England. Facebook +19",
+              "snippet_links": [
+                {
+                  "text": "Jordans, Buckinghamshire, England",
+                  "link": "https://www.google.com/search?q=Jordans,+Buckinghamshire,+England&kgmid=/m/02649h&sa=X&ved=2ahUKEwi9k_qMvciSAxUqxTgGHek7K-AQ3egRegQIBRAg"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        14,
+        2,
+        1,
+        7,
+        11,
+        17,
+        9,
+        18,
+        3,
+        8,
+        5,
+        6,
+        10,
+        4,
+        15,
+        13,
+        12
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on the discography or solo projects of the surviving members?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Geezer Butler's music continues to inspire - Facebook",
+      "link": "https://www.facebook.com/groups/bassplayerz/posts/24235830312720058/#:~:text=HAPPY%2075th%20BIRTHDAY%20to%20GEEZER,Greg%20Tumanan%20Jr.",
+      "snippet": "Jul 8, 2025 \u2014 HAPPY 75th BIRTHDAY to GEEZER BUTLER \u2022 Birth name: Terence Michael Joseph Butler \u2022 Born: 17 July 1949, Birmingham, England GEEZER ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/1c9y4jReiMxZonfuqv6aJp6FKl9byp8_2QKe9KHAn_Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/fga5-RkasmUS1Z29aW_Frqj5ISUPoOEGp9rlZgLxK8o.png",
+      "index": 0
+    },
+    {
+      "title": "Tony Iommi - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tony_Iommi#:~:text=Table_content:%20header:%20%7C%20Tony%20Iommi%20%7C%20%7C,Iommi:%20Occupations%20%7C%20:%20Musician%20songwriter%20%7C",
+      "snippet": "Table_content: header: | Tony Iommi | | row: | Tony Iommi: Iommi performing with Heaven & Hell in 2009 | : | row: | Tony Iommi: Bo...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/hbYmkafjebugFLZgJsHY6Kapgb5DK63G8Ea0Nb8QFIc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/oONica23GlAWWhiRcPEVO5tjRvoS_FP-IdY5tHnsONc.png",
+      "index": 1
+    },
+    {
+      "title": "Black Sabbath's godfather celebrates 77th birthday - Facebook",
+      "link": "https://www.facebook.com/groups/Complete.Black.Sabbath/posts/10162728587713254/#:~:text=Tony%20Iommi%20is%20a%20legendary,one%20of%20rock's%20greatest%20guitarists.",
+      "snippet": "Feb 19, 2025 \u2014 Tony Iommi is a legendary British guitarist, best known as the co-founder and primary songwriter of the pioneering heavy metal ban...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/eWAK017JAk4X2mpH1LFBZDhLF3Xpw-ju0-6Xu2uH-js.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/luaT1qXjBCHHlldigfHwHmVxpmwcOBZYkMG-oIhFqRA.png",
+      "index": 2
+    },
+    {
+      "title": "Happy Birthday to Black Sabbath founding member and primary ...",
+      "link": "https://www.facebook.com/groups/197624643745929/posts/2837139853127715/#:~:text=1y%20%C2%B7%20Public-,Terence%20Michael%20Joseph%20%22Geezer%22%20Butler%20(born%2017%20July%201949,respected%20figures%20in%20metal%20history.",
+      "snippet": "Jul 18, 2024 \u2014 Happy Birthday to Black Sabbath founding member and primary song writer Geezer Butler who turns 76 years old today on July 17th! ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/57cKsRMj4Cj1ppOlum30iX9rOHZMdLtNDorIHlyTCiE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/qPvIRYhFg9RxWGCiiI2eUEkp4140TBSKCmv31SMmlTk.png",
+      "index": 3
+    },
+    {
+      "title": "Ozzy Osbourne, heavy metal icon, dies at 76 - NPR",
+      "link": "https://www.npr.org/2025/07/22/833512508/ozzy-osbourne-black-sabbath-obituary#:~:text=Ozzy%20Osbourne%2C%20heavy%20metal%20icon%2C%20dies%20at%2076.",
+      "snippet": "Jul 22, 2025 \u2014 Ozzy Osbourne, heavy metal icon, dies at 76.",
+      "source": "NPR",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/QfMTgFnJUb6PL4SfZ1nJWxZ2yh0XkI9t8FhZth75q5w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/B6r5I6iz30WcdZmJ8E0C-GDU52T-8V0Y0l1qCqytNKc.png",
+      "index": 4
+    },
+    {
+      "title": "Who's Still Alive From Black Sabbath? - Remind Magazine",
+      "link": "https://www.remindmagazine.com/article/33136/black-sabbath-who-is-still-alive-ozzy-osbourne/#:~:text=Bill%20Ward%2C%20whose%20drumming%20defined,Fury/Getty%20Images%20for%20SXSW",
+      "snippet": "Jul 22, 2025 \u2014 Bill Ward, whose drumming defined percussion for the genre, stuck with Black Sabbath until the 1980s, leaving after the release of...",
+      "source": "Remind Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/-0s3pK1JbDO-iru7mGmkrcAbldHuGvWvlT31vb93yN0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/AJnX_2_B1WYVC6UCQY0D2EgZ-JGjbOko-XHrHY-qTDk.png",
+      "index": 5
+    },
+    {
+      "title": "Black Sabbath / Ozzy Locations #blacksabbath # ... - Facebook",
+      "link": "https://www.facebook.com/grimmlifecollective/posts/black-sabbath-ozzy-locations-blacksabbath-ozzy-music-england-history/1261589822448065/#:~:text=Black%20Sabbath%2C%20formed%20in%20Birmingham,of%20musicians%20and%20fans%20alike.",
+      "snippet": "Jan 5, 2026 \u2014 Black Sabbath, formed in Birmingham, England, in 1968, is often credited as the pioneering band of heavy metal. With Tony Iommi's ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/Hb5FPswiNuxuQY76QZklImibRHcsyNbdMGH6WXkuPEE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/VzB2o6rQSE4SYe31Z4790WPx0meF65VBt68Yq7ZrCw8.png",
+      "index": 6
+    },
+    {
+      "title": "Biography & Career | Tony Iommi Fan-tastic",
+      "link": "https://www.tonyiommifantastic.com/about-tony/biography-career-pre-sabbath-period-inside-black-sabbath-tony-iommi-solo.html#:~:text=Frank%20Anthony%20Iommi%2C%20best%20known,comes%20to%20heavy%20metal%20music.",
+      "snippet": "Frank Anthony Iommi, best known as Tony Iommi, guitar player and composer, founder and leader of the group Black Sabbath is widely...",
+      "source": "www.tonyiommifantastic.com",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/yuexxiP7JGY_8jfDLoaG1EjYd1qosRM9WLUp7RBXRKI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/eA6H5XEjEpnle7PwnWP62JVa0b-GGa7oTrLMfCSIbfs.png",
+      "index": 7
+    },
+    {
+      "title": "Geezer Butler",
+      "link": "https://music.fandom.com/wiki/Geezer_Butler#:~:text=Background%20Information,Rare%20Breed%2C%20Device%2C%20Bullring%20Brummies",
+      "snippet": "Background Information * Birth name. Terence Michael Joseph Butler. * Also known as. Geezer. GZR. * Born. July 17, 1949 (age 72) *",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/nSjNjrAILTlBCCj4khEwwejIQ5ABNZD9pdjQF8RRppU.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Geezer Butler Facts for Kids",
+      "link": "https://kids.kiddle.co/Geezer_Butler#:~:text=Table_title:%20Geezer%20Butler%20facts%20for%20kids%20Table_content:,Butler:%20Years%20active%20%7C%20:%201967%E2%80%932025%20%7C",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Geezer Butler facts for kids Table_content: header: | Quick facts for kids Geezer Butler | | row: | Quick facts for k...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/vYUu4DL2V35m-rwEb4uP0gmChFoes_HbrLC_ZueoCo4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/v0wgcFdKJCtnPcitem7gMZmB8iRLqhGCNP7ps4yWk_o.png",
+      "index": 9
+    },
+    {
+      "title": "Ozzy Osbourne - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/Ozzy_Osbourne#:~:text=Table_content:%20header:%20%7C%20Ozzy%20Osbourne%20%7C%20%7C,%7C%20:%20Singer%20songwriter%20actor%20artist%20%7C",
+      "snippet": "Table_content: header: | Ozzy Osbourne | | row: | Ozzy Osbourne: Died | : 22 July 2025 (aged 76) Jordans, Buckinghamshire, England...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/IfNNSkos4pzqPPNJknFvW1jG3gjZnepYYzo5yq8zSO8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/nhOTHbvgIcHtcdTnd1x77_Sg0106lFAnsoJfsOZvWpI.png",
+      "index": 10
+    },
+    {
+      "title": "Tony Iommi - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Tony_Iommi",
+      "snippet": "Background Information * Birth name. Anthony Frank Iommi. * Born. February 19, 1948 (age 73) * Origin. Birmingham, England. * Genr...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/I5AiWFTQehN-SDCRAHNFDZcdSDn26t5kf9obmRVqkbI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/IggiVy5kh_wQzEuuQEZipsvd_LtPoPcpxDsCcr0s5KM.png",
+      "index": 11
+    },
+    {
+      "title": "Ozzy Osbourne\u2019s occupation listed on death certificate",
+      "link": "https://fox8.com/news/ozzy-osbournes-occupation-listed-on-death-certificate/#:~:text=Rock%20icon%20Ozzy%20Osbourne%2C%2076%2C%20died%20from,certificate%20obtained%20by%20the%20New%20York%20Times.",
+      "snippet": "Rock icon Ozzy Osbourne, 76, died from a heart attack on July 22, linked to coronary artery disease and Parkinson's, according to ...",
+      "source": "FOX 8 News",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/GpjVbijUFx1FVKF7xlT1faU6SZMYOr415NOMugmpfws.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/FYIQyhQBWiLWeBw5kHXNnOf6gvTzAzf8LbvK9m2Gk7I.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Ozzy Osbourne | Ultimate Pop Culture Wiki - Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Ozzy_Osbourne#:~:text=Table_content:%20header:%20%7C%20Ozzy%20Osbourne%20%7C%20%7C,(%201971%E2%80%9382)%20Sharon%20Levy%20(%20)%20%7C",
+      "snippet": "Mar 5, 2009 \u2014 Table_content: header: | Ozzy Osbourne | | row: | Ozzy Osbourne: Born | : John Michael Osbourne December 3, 1948 Marston Green, Wa...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/SZMIr9rBXANpUyOYycZlmm1iGZk3Y5d6eajeevGL8Bs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/Oe60nAzYruDr6-hqWSuP0U0QP_KoN7fvYPFAUPLndX8.png",
+      "index": 13
+    },
+    {
+      "title": "Tony Iommi Facts for Kids",
+      "link": "https://kids.kiddle.co/Tony_Iommi",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Tony Iommi facts for kids Table_content: header: | Quick facts for kids Tony Iommi | | row: | Quick facts for kids To...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/zPpjDhCexWWCid_TaDsVBahHx8A48sa0YeB-hr5orbM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/G4-7G_XEs4a1LnfXJ_L_cnWRb8yhScPbL0qtN6yRAnk.png",
+      "index": 14
+    },
+    {
+      "title": "Ozzy Osbourne age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Ozzy+Osbourne/+wiki#:~:text=Born,Never%20Say%20Die!%20in%201978.",
+      "snippet": "Jul 22, 2025 \u2014 Born. 3 December 1948. Born In. Aston, Birmingham, West Midlands, England, United Kingdom. Died. 22 July 2025 (aged 76) Ozzy Osbou...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/aMlPALvXSga7Y0NWWFmvFAdS-UD8lletH0XW07y-xf8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/871nRSbpH-2-qcy4b56SPUs2QIH2_8o4hSLd8_y8S-M.png",
+      "index": 15
+    },
+    {
+      "title": "Geezer Butler - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Geezer_Butler#:~:text=English%20bassist%20(born%201949),Deadland%20Ritual%20from%202017%2D2021.",
+      "snippet": "English bassist (born 1949) Terence Michael Joseph \"Geezer\" Butler (born 17 July 1949) is an English musician and songwriter. Butl...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/EhQqrhTjJ0QK7oZ0_AXZpa7xJx4YbD2axKCn128nq9I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/eUGiNoBSjAHMdZeDjMyxInP-q-q15r5_KkGsQxWTX4E.png",
+      "index": 16
+    },
+    {
+      "title": "Black Sabbath | Songs, Members, Paranoid, Final Show, War ...",
+      "link": "https://www.britannica.com/topic/Black-Sabbath#:~:text=*%20Ozzy%20Osbourne%20(byname%20of%20John%20Osbourne;,Bill%20Ward%20(born%20May%205%2C%201948%2C%20Birmingham)",
+      "snippet": "Jan 22, 2026 \u2014 * Ozzy Osbourne (byname of John Osbourne; born December 3, 1948, Birmingham, Warwickshire, England\u2014died July 22, 2025, Harefield) ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/4kiX8FubQY2bTOZSjPjT-Bjnn6gk_rcto3aER3jVOHc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/9ovwY1kJ4VRz-mOXISoXVw-0NhyYpKXVNcTLvEt61DI.png",
+      "index": 17
+    },
+    {
+      "title": "Geezer Butler Shares Photo With Backstreet Boys in Las Vegas",
+      "link": "https://loudwire.com/geezer-butler-backstreet-boys-photo/#:~:text=The%20Sabbath%20bassist%2C%20who%20splits,Boys%20responded%20on%20Butler's%20photo.",
+      "snippet": "Jul 21, 2025 \u2014 The Sabbath bassist, who splits time living in both Nevada and Utah, attended the Backstreet Boys show on July 20. He turned 76 ye...",
+      "source": "Loudwire",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/BZmk3Rc-68wipJ0c_C01G6AphvFRiaO2E0Mz6ZxkuXY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/YtkpLq8jwq-qmRM1cGrj0QWj3-o4A4KHVjkSP_kRAz8.jpeg",
+      "index": 18
+    },
+    {
+      "title": "Tony Iommi - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Tony_Iommi#:~:text=Frank%20Anthony%20%22Tony%22%20Iommi%20(,Black%20Sabbath%20their%20heavy%20sound.&text=In%202003%2C%20Iommi%20was%20listed,and%20Roll%20Hall%20of%20Fame.",
+      "snippet": "Frank Anthony \"Tony\" Iommi (born 19 February 1948, in Birmingham, England) is a British guitarist and songwriter. He is most famou...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32880a0780094860704/images/kEeru-hM0ScsNBrT3QCTSbeJyR0-AHVtw_CXYnySGkA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32880a0780094860704/images/CCPDqx8sWxC2Joz9I9EcZ6sAjbBToFLTJpK7kLDimG0.png",
+      "index": 19
+    },
+    {
+      "title": "Black Sabbath - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm1277292/bio/#:~:text=Black%20Sabbath%20were%20an%20English,Sabbath%20announced%20they%20had%20disbanded.",
+      "snippet": "Black Sabbath were an English rock band, formed in Birmingham in 1968, by guitarist and main songwriter Tony Iommi, bassist and ma...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcP92fmP50EmretTCrLjEdBeunYjE5yLzXeuGMtTOj8gLGgXB0",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Black Sabbath (music group) | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/black-sabbath-music-group#:~:text=Black%20Sabbath%20originated%20in%201968,at%20the%20end%20of%201968.",
+      "snippet": "Black Sabbath originated in 1968 as the Polka Tulk Blues Band. Guitarist Tony Iommi and drummer Bill Ward, from Birmingham, Englan...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/music/black-sabbath-music-group",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Day off in Birmingham, UK, a birthplace of heavy metal. Paying tribute to the almighty @BlackSabbath at their bench on top of Black Sabbath Bridge. Notice how we positioned ourselves behind the appropriate band member. We should start a tribute band! #blacksabbath #heavymetal #birmingham",
+      "link": "https://www.facebook.com/accepttheband/posts/day-off-in-birmingham-uk-a-birthplace-of-heavy-metal-paying-tribute-to-the-almig/561782561969939/#:~:text=Their%20(%20Black%20Sabbath%20)%20iconic%20status,bands%20in%20history%2C%20the%20mighty%20Black%20Sabbath.",
+      "snippet": "Their ( Black Sabbath ) iconic status is well deserved and highly praised here at KTFT, as well as around the world. Tonight we wi...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSjIDlkYdtCtLvJEZFrKib81AEDp9oHfH6QYj6Xq5gwzfVJxnp7",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    }
+  ]
+}

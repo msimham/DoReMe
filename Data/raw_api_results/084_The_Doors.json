@@ -1,0 +1,389 @@
+{
+  "search_metadata": {
+    "id": "6987c32bff596e867f9c08a0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vPtlVVPw13H5GV7yS-FWrA/6987c32bff596e867f9c08a0.json",
+    "created_at": "2026-02-07 22:56:43 UTC",
+    "processed_at": "2026-02-07 22:56:43 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=The+Doors%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=The+Doors%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/vPtlVVPw13H5GV7yS-FWrA/6987c32bff596e867f9c08a0.html",
+    "prettify_html_file": "https://serpapi.com/searches/vPtlVVPw13H5GV7yS-FWrA/6987c32bff596e867f9c08a0.prettify",
+    "total_time_taken": 8.31
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "The Doors, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "Wf3_wHicPZNJrqNmAISlnCBHYNkthfcYDZblBfNsZjDeoJ_BNo_RBvwD-75I1EqkXCAHyCk6p8mLFKVqV9In1aLq269l9afB2irIFNLeB8HAUs5jJPQbx34vm2f-4y-h7WES5NBqlyUK6e1ETA1QhrAIdB6ITRfUtHmK9kZB3OcihBiIvI_4LI8ZyWuBtAyAuBFnbPE9qWlDeW_lcUQE8amK6kUCIU6WcYIDbPCK8ymJpeKV-BgRN_pYKrKX4Xfhopz0MGxsr6YvWefx0r0wbWmvJbGuWhhLR7IHbdFz87O1-m3B23xvFsRw8eVoshVtSj5uf8xj-UzBreymH73Vb1XTgHf6DUO-xFVX9HBETgGCY2_YAfkMdtQBWXbUV4QbhqaMy8yopneaZN7IHfLFUAPL_AVpqrpElDKv-6-IcH_2bfmOk_gb9q8RH1zBs_oP-S3v-7oq__7p5zT1y3x-lqgfeM6RE3dif5v9homgWGzX_BH5fiHr6zTMqaCkFlxU4G7RvSVF0lOMOIGM8HIn_lVvrAfmGz8vwbPU2SrD4U6znBlHQeJMM0uge0yP-ideHxBOEo4c0FtAz4LboFbEwI8timC71tceIzNOAxQ4j8Ztlgo34AfefmR7RzQZAIMQHpD_O_OhYEjBUbBc9YCI0ZFFKybduv7haAMm8k6--b4ck_fCNxq41DLWyV7tebeTK3GfOiAnTTzSBHsUYGrdAlKtOS4CRnLpkwtKB-F2_rD1KZe12Wy8bE35a0Yxdr3PkuuyCyvYafXKnqS1TfaMUV9YTXC61OQhjdYfbC0q1kfOmqdQtwyCqy2WurgUoztV3cebFnJMtWvQu122tkWHPg_C4moGPaqeZ52QVjqRDWH0DZ2RtKKjRkeCVixzI-qQG5kSoTFuLnkjHRoL0pab8aQM0mtKXGDlrGFHPJ0XE93TtQBNo-JtX4WKszLj2XntNQ33qNlXPgeeT-rYSlq5N5f7g9uld_d7O071j9-5cJKWq9BvoCtfvEq4D4vz4sGjZ5_S2cu1quyXFDYOjMxzAUeqkxKn7Fyosiw3o9ZE4jUYdL0h1QTd7bhWYumCnGCowuy8PFF2ajXFfD4Eh9g_GDHLb4-wb4aVi9DQLgroVN6yBljOrNiaBVnz-flcJVlRfMXTKaccK3mNaOlS_wAFJWOu",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Members of The Doors consist of two living and two deceased founding members. Their collective proficiency defined the psychedelic rock genre through a fusion of jazz, classical, and blues.",
+      "reference_indexes": [
+        20,
+        22
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Jim Morrison (Vocalist)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Status: Deceased (July 3, 1971, at age 27)."
+        },
+        {
+          "snippet": "Skills & Occupations: Singer, songwriter, poet, filmmaker, and actor."
+        },
+        {
+          "snippet": "Proficiency: Ranked #47 on Rolling Stone's 100 Greatest Singers list; known for a \"mesmerizing\" baritone and poetic lyricism."
+        },
+        {
+          "snippet": "Last Residence: Paris, France."
+        }
+      ],
+      "reference_indexes": [
+        11,
+        17,
+        1,
+        5,
+        2,
+        6
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Ray Manzarek (Keyboards)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Status: Deceased (May 20, 2013, at age 74)."
+        },
+        {
+          "snippet": "Skills & Occupations: Keyboardist, singer, record producer, director, and author."
+        },
+        {
+          "snippet": "Proficiency: Described as \"one of the best keyboardists ever\" by USA Today; pioneered the \"keyboard bass\" to replace a dedicated bassist."
+        },
+        {
+          "snippet": "Last Residence: Rosenheim, Germany (at time of death)."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        25,
+        14,
+        23,
+        18
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Robby Krieger (Guitar)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Status: Living (Age 80; born January 8, 1946)."
+        },
+        {
+          "snippet": "Skills & Occupations: Guitarist, songwriter, and painter."
+        },
+        {
+          "snippet": "Proficiency: Ranked #248 on Rolling Stone's 2023 Greatest Guitarists list; wrote the band's biggest hit, \"Light My Fire\"."
+        },
+        {
+          "snippet": "Current Residence: Los Angeles, California (Bel-Air area)."
+        }
+      ],
+      "reference_indexes": [
+        24,
+        7,
+        4,
+        3,
+        21
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "John Densmore (Drums)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Status: Living (Age 81; born December 1, 1944)."
+        },
+        {
+          "snippet": "Skills & Occupations: Drummer, songwriter, author, playwright, and actor."
+        },
+        {
+          "snippet": "Proficiency: Regarded as the \"rhythmic engine\" of the band with a heavy influence from jazz legends like Elvin Jones."
+        },
+        {
+          "snippet": "Current Residence: Los Angeles, California."
+        }
+      ],
+      "reference_indexes": [
+        10,
+        12,
+        13,
+        26,
+        8,
+        9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on their post-Doors solo discographies or their film school backgrounds at UCLA?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Remembering Ray Manzarek, the man whose keys defined the ...",
+      "link": "https://www.facebook.com/thedoors/posts/remembering-ray-manzarek-the-man-whose-keys-defined-the-sound-of-the-doorssee-th/1228488488643491/#:~:text=Ray%20Manzarek%20(born%20Raymond%20Daniel,he%20founded%20with%20Jim%20Morrison.",
+      "snippet": "May 20, 2025 \u2014 Ray Manzarek (born Raymond Daniel Manzarek Jr., February 12, 1939 in Chicago, died May 20, 2013 in Rosenheim) was an American musi...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/96hB7wrfNyZ4mo-YC3tW2kZXSHsM7Hs6IfddxZSGHS8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/NqLatntoMONkXve43-Lr4Thggpnua7_F5554UL6YI-E.png",
+      "index": 0
+    },
+    {
+      "title": "Jim Morrison - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Jim_Morrison#:~:text=James%20Douglas%20Morrison%20(December%208,generation%20gap%20and%20youth%20counterculture.",
+      "snippet": "James Douglas Morrison (December 8, 1943 \u2013 July 3, 1971) was an American singer-songwriter and poet who was the lead vocalist and ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/bWboupgm5S-Gsd2HsOV5GG8CT4UjRIvIe01mqOQ9ySE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/cT6CHVDiCCaK6-grUkzFdXKFNbo0LMcMuccULj1ZfXI.png",
+      "index": 1
+    },
+    {
+      "title": "December 8, 1943 On this day in 1943 Jim Morrison was born in ...",
+      "link": "https://www.facebook.com/rockexperiencewithmike/posts/december-8-1943on-this-day-in-1943-jim-morrison-was-born-in-melbourne-florida-of/906726504985007/#:~:text=Jim%20Morrison%20(1943%E2%80%931971),genre%20and%20his%20enduring%20mystique.",
+      "snippet": "Dec 8, 2024 \u2014 Jim Morrison (1943\u20131971) was the charismatic and enigmatic lead singer of The Doors, an influential rock band formed in 1965. Born...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/brhx8GbiL5EVdkZAVOpYSZD1fm8DNiGVOxdwbdZYxNE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/4jITqFna4PioUI4_rTOWMGI6Udn71FrHYNP_6AZi2Nk.png",
+      "index": 2
+    },
+    {
+      "title": "Robby Krieger - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Robby_Krieger#:~:text=Robert%20Alan%20Krieger%20(born%20January,was%20positioned%20at%20number%20248.",
+      "snippet": "Robert Alan Krieger (born January 8, 1946) is an American guitarist and founding member of the rock band the Doors. Krieger wrote ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/K_CEbyWTfTPbIWkMdZAyrlwoSvOYQGa5atjhiHYBaUk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/KgmG1fyUL4e-Vvl5WmpHs0Zj88-Wk-RtaCuFyAx3eFY.png",
+      "index": 3
+    },
+    {
+      "title": "Robert Alan \u201dRobby\u201d Krieger (born January 8, 1946) \ud83c\udfb6 Music",
+      "link": "https://www.facebook.com/groups/8393406199/posts/10161487369541200/#:~:text=Accolades:%20He%20was%20inducted%20into,ROCKIN%20%E2%80%BC%EF%B8%8F%E2%80%BC%EF%B8%8F%E2%80%BC%EF%B8%8F%E2%80%BC%EF%B8%8F",
+      "snippet": "Jan 8, 2025 \u2014 Accolades: He was inducted into the Rock and Roll Hall of Fame in 1993 and was ranked among Rolling Stone's 250 greatest guitarist...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/vM8JUrnC78IDhzebsn3SaFxtOSuOTUsjFXNSQvv82HM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/-QD2SzDQjD-zJ-ngpynDr-aRRAUcfoqHwGk1qsDq-EM.png",
+      "index": 4
+    },
+    {
+      "title": "Official Website Of The Doors",
+      "link": "https://thedoors.com/#:~:text=The%20Doors'%20arrival%20on%20the,music%20but%20on%20popular%20culture.",
+      "snippet": "The Doors' arrival on the rock scene in 1967 marked not only the start of a string of hit singles and albums that would become sto...",
+      "source": "The Doors \u2013 Official Website",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/zcFQxiNnHAI-WhLDKlih8TGwTiHwRan1dtA0JYVuZwU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/HtqIkXcBYzdUv2jjw851g5lwocMvOk39mv3YHAzUX4o.png",
+      "index": 5
+    },
+    {
+      "title": "Jim Morrison | Biography, Death, Grave, Movie, Songs, & Facts",
+      "link": "https://www.britannica.com/biography/Jim-Morrison#:~:text=Quick%20Facts,%2C%202026)%20(Show%20more)",
+      "snippet": "Jan 12, 2026 \u2014 Quick Facts. In full: James Douglas Morrison. Also known as: \u201cthe Lizard King\u201d Born: December 8, 1943, Melbourne, Florida, U.S. (S...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/zxjhEGNtpGOKu6SFzykojfAO8LUht8ZcsPyC9ziAdQU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/1lEGhSX8M1Uyeg9OVzgRJxgolWDSJsHIm27TjaCFBsw.png",
+      "index": 6
+    },
+    {
+      "title": "***Robert Alan Krieger**(born January 8, 1946)is an American and ...",
+      "link": "https://www.facebook.com/groups/429977963783801/posts/6967680010013531/#:~:text=Birth%20name:%20Robert%20Alan%20Krieger,Ford",
+      "snippet": "Jan 8, 2024 \u2014 Birth name: Robert Alan Krieger Born: January 8, 1946 (age 77) Los Angeles, California, U.S. Genres: Rockjazz fusion Occupations: ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/WZLKmBfPnbSewwDiDhTm7x0Q4EqDjU8LNmLmJiBZiE8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/fPodb6uXjJPzcWct-bgdjNOD05FRQWo9TtKkhSwntO4.png",
+      "index": 7
+    },
+    {
+      "title": "Happy Birthday to the one and only, John Densmore! John's jazz ...",
+      "link": "https://www.facebook.com/thedoors/posts/happy-birthday-to-the-one-and-only-john-densmorejohns-jazz-inspired-drumming-gav/1380052893487049/#:~:text=Happy%20Birthday%20to%20John%20Densmore%2C%20drummer%20for%20The%20Doors!,old)%20December%201%2C%201944%20%2D",
+      "snippet": "Dec 1, 2025 \u2014 Happy Birthday to John Densmore, drummer for The Doors! \ud83c\udf82\ud83c\udfb6\ud83e\udd41\ud83c\udfbc (81 yrs old) December 1, 1944 -",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/XxpQTJrbOsTjU_Jwu7w9bWfWNnJ1uyEJorhQJrZ1qRo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/dd8NKiBh_nKT1wtt5FAKR5egd1XWnPb4YsRPbfq-s18.png",
+      "index": 8
+    },
+    {
+      "title": "Arts Preview: Interview with Drummer John Densmore",
+      "link": "https://www.montecitojournal.net/2024/01/23/arts-preview-interview-with-drummer-john-densmore/#:~:text=At%2078%2C%20Densmore%20remains%20active,to%20repurpose%20for%20affordable%20housing.",
+      "snippet": "Jan 23, 2024 \u2014 At 78, Densmore remains active \u2013 performing, writing, and recording. His philanthropic efforts include the Densmore Scholarship at...",
+      "source": "Montecito Journal",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/jYDM08uZe68jRUxdA_rVXdZC4q5p_cMmrQ1WArDwG40.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/AlLlZ-b4SMIpE_2nee_4wrvloqLe16EbMBuWL6LVTws.png",
+      "index": 9
+    },
+    {
+      "title": "John Densmore",
+      "link": "https://www.imdb.com/name/nm0219730/#:~:text=How%20old%20is%20John%20Densmore,0%20inches%2C%20or%201.83%20meters",
+      "snippet": "How old is John Densmore? 80 years old. When was John Densmore born? November 30, 1944. Where was John Densmore born? Santa Monica...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/6Sv6Di_306Eo9lRfeExf_GMivVVbEg4HiVpqMrjQCSc.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Jim Morrison - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Jim_Morrison",
+      "snippet": "Jim Morrison * Birth name. James Douglas Morrison. * Also known as. Mr. Mojo Risin' The Lizard King. * Born. December 8, 1943. * D...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/oEeZzBHqsNZL5KJODh5lbVAUfyOY-Qd90DjJlVIOkdI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/F5aI-Jmo31EcT0Ocd8bJ4S10tx6bcLCrWQucUoUsX2M.png",
+      "index": 11
+    },
+    {
+      "title": "John Densmore | AllSolos",
+      "link": "https://www.allsolos.com/soloist/355/john-densmore#:~:text=Drums,johndensmore.com%20Website",
+      "snippet": "* 81 age. * December 1, 1944 Birthday. * Los Angeles, California, U.S. Birthplace. * johndensmore.com Website.",
+      "source": "AllSolos",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/-KC218p3gDpq8difAR-QSWKBtpg6KmMD7nNHSsoBOYw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/_Txay5yjiHXPE8OmGPaJuR3kDQ8rQJfK3BohNzo_N2k.png",
+      "index": 12
+    },
+    {
+      "title": "John Densmore - Playing For Change",
+      "link": "https://legacy.playingforchange.com/musicians/john-densmore/#:~:text=Biography,the%20topic%20of%20The%20Doors.",
+      "snippet": "Jun 16, 2014 \u2014 Biography. John Densmore is a musician, songwriter, author and actor from Los Angeles, California, best known as the rhythmic engi...",
+      "source": "Playing For Change",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/dNnPwyp4KUkQxillcF6CjOuyJzY93aIHIsMdnZL7Heg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/r2yYGhM6R5X-DtUAzTShATGEjzJoGUzJArC7jSN_tm8.png",
+      "index": 13
+    },
+    {
+      "title": "Ray Manzarek: Founding Member and Keyboardist of The Doors",
+      "link": "https://www.facebook.com/groups/259304734476777/posts/1865832987157269/#:~:text=IN%20MEMORIAM:%20RAY%20MANZAREK%20%E2%80%A2,name:%20Raymond%20Daniel%20Manczarek%20Jr.&text=Born:%2012%20February%201939%2C%20Chicago,GONE%2C%20BUT%20DEFINITELY%20NOT%20FORGOTTEN!&text=RAY%20MANZAREK%20was%20a%20versatile,of%20the%20best%20keyboardists%20ever.%22",
+      "snippet": "Feb 12, 2025 \u2014 Raymond Daniel Manzarek Jr. (n\u00e9 Manczarek; February 12, 1939 \u2013 May 20, 2013) was an American keyboardist. He is best known as a me...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/FcQgYmZLs4ZkpW3SsTAbe2C7XB0PzpaAsaP8XI457Xw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/nA27w3FDvnr8MR3qvbkgnDAXl5W_jxWOOX_oC4B25gU.png",
+      "index": 14
+    },
+    {
+      "title": "**Born January 8th 1946 is Robert Alan \"Robby\" Krieger. He is ...",
+      "link": "https://www.facebook.com/groups/2019684684944005/posts/3913769075535547/#:~:text=On%20October%2012th%202021%2C%20he,.com/photo.php?",
+      "snippet": "Jan 8, 2025 \u2014 On October 12th 2021, he released a memoir Set the Night on Fire: Living, Dying, and Playing Guitar With the Doors, co-written wit...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/R6NavkyTxFFb-t_3I00QqScdCkrufZOzacAveIIV4mU.jpeg",
+      "index": 15
+    },
+    {
+      "title": "Robert Alan Krieger \u2022 Born: 8 January 1946, Los Angeles, California, ...",
+      "link": "https://www.facebook.com/greg.tumanan.jr.2025/posts/happy-80th-birthday-to-robby-krieger-birth-name-robert-alan-krieger-born-8-janua/860066583480603/#:~:text=11y%20%C2%B7%20Public-,Keep%20your%20eyes%20on%20the%20road%20and%20your%20hands%20on,guitarist%20in%20The%20Doors.%20:%2D)&text=Sam%20Hunt%20%E2%96%BA%20LET%20THE%20MUSIC%20PLAY%20.",
+      "snippet": "Jan 7, 2026 \u2014 Keep your eyes on the road and your hands on the wheel as we head over to wish a very HAPPY BIRTHDAY to Robert Alan \"Robby\" Kriege...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/6QUyuoDn2xoTbIi2xVHXgSd_wTw2iYHgofC8K6MOjQI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/4o0QMX89oX_dfMWG0mhI63KsplK27MIrU_g3i8cqAsA.png",
+      "index": 16
+    },
+    {
+      "title": "Jim Morrison of Melbourne, FL Life Story | AdmiredLife.com",
+      "link": "https://admiredlife.com/memorials/5/life-story/#:~:text=James%20Douglas%20Morrison,years%20old)%20%7C%20Melbourne%2C%20FL",
+      "snippet": "James Douglas Morrison. December 8, 1943 \u2014 July 3, 1971 (27 years old) Hometown: Melbourne, FL. December 8, 1943 \u2014 July 3, 1971. (",
+      "source": "Admired Life",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/_F3XslL_BxXZH2sAZAlLjlTRxpP-qOl9ErB9_18SBM4.png",
+      "index": 17
+    },
+    {
+      "title": "Ray Manzarek Obituary (2013) - Ann Arbor, MI",
+      "link": "https://obits.mlive.com/us/obituaries/annarbor/name/ray-manzarek-obituary?id=60244768#:~:text=Ray%20Manzarek%2C%20a%20founding%20member,stricken%20with%20bile%20duct%20cancer.",
+      "snippet": "May 20, 2013 \u2014 Ray Manzarek, a founding member of the 1960s rock group The Doors whose versatile and often haunting keyboards complemented Jim Mo...",
+      "source": "MLive.com",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/vHyNGcqOj6NRiXOkIUbGnmGwfG9xzfVstWRk3KQDWQg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/4v6imj0ZAwbi6xLDN73G0QynjYqUza-olDdOZ8yZSR0.png",
+      "index": 18
+    },
+    {
+      "title": "Jim Morrison was born in Melbourne, Florida. He was an American ...",
+      "link": "https://www.facebook.com/Amantidelrock/posts/onthisdaydecember-8-1943-jim-morrison-was-born-in-melbourne-florida-he-was-an-am/1641535953862970/#:~:text=Jim%20Morrison%20(08.12.,%22King%20of%20Orgasmic%20Rock%22.&text=Amy%20Kalb%20%E2%96%BA%20Music%20Talks!",
+      "snippet": "Dec 8, 2025 \u2014 Jim Morrison (08.12. 1943\u201303.07. 1971) James Douglas \"Jim\" Morrison (December 8, 1943 \u2013 July 3, 1971) was an American singer-songw...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/-SlbXz874Pj7s4wnwZ7kOow9DeKAl8vk8XUlcP7yNeA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/gK-qYcjbMp1EUKOJRJHPWkn6SSfJFGmCVfTVOIXF3UQ.png",
+      "index": 19
+    },
+    {
+      "title": "The Doors | Songs, Members, Movie, Music, Legend, & Facts",
+      "link": "https://www.britannica.com/topic/The-Doors#:~:text=1945%2C%20Los%20Angeles)-,Musical%20style%20and%20themes,troubled%20artiste%20for%20subsequent%20generations.",
+      "snippet": "Jan 2, 2026 \u2014 Musical style and themes. The Doors' instrumentalists\u2014keyboardist Ray Manzarek, guitarist Robby Krieger, and drummer John Densmore...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/QZwDRU1We_HSfUqfSX1lSai27Sa2xNRlU8yKKRslmIA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/-ofm3Un-UXRaXk_hCjLnGPvgT65GkyQDpqIfSCZ5pfk.png",
+      "index": 20
+    },
+    {
+      "title": "January 8, 1946, Robert Krieger, guitarist for The Doors, was born in ...",
+      "link": "https://www.facebook.com/groups/153839684987332/posts/2658653824505893/#:~:text=2y%20%C2%B7%20Public-,Robert%20Alan%20Krieger%20(born%20January%208%2C%201946)%20is%20an,greatest%20guitarists%20of%20all%20time.&text=Tim%20Pollock%20%E2%96%BA%20Name%20the%20Player:%20The%20Classic%20Rock%20Group!",
+      "snippet": "Jan 7, 2026 \u2014 Robert Alan Krieger (born January 8, 1946) is an American rock and roll guitarist and songwriter. In the band The Doors he acted a...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/ZyngtX-7on8zXbaq7nZrUTvfv5zUSbiBm7O-JX0sakY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/oF4UPEvph7VQy7BAPaX3ND_NYScZKhiVdUS1NtWjYMU.png",
+      "index": 21
+    },
+    {
+      "title": "Formed in 1965 in Los Angeles, The Doors were led by ... - Facebook",
+      "link": "https://www.facebook.com/100079685700239/posts/formed-in-1965-in-los-angeles-the-doors-were-led-by-the-enigmatic-and-charismati/577982888201230/#:~:text=Olivia-,Formed%20in%201965%20in%20Los%20Angeles%2C%20The%20Doors%20were%20led,both%20rock%20and%20alternative%20genres.&text=Bloody%20great%20band!&text=De%20lo%20mejor%20para%20la%20%C3%A9poca!",
+      "snippet": "Dec 12, 2024 \u2014 Formed in 1965 in Los Angeles, The Doors were led by the enigmatic and charismatic Jim Morrison, whose poetic lyrics, intense perf...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/9TjBusFYUuSlFYpDZt9dsO24puQiUe0-UmBBm8RgBoQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/JtXDLydcqOed9VkYeFUIrGgBLIGYsSziY2Su_sj6mkc.png",
+      "index": 22
+    },
+    {
+      "title": "Any information about Ray Manzarek's birth? - Facebook",
+      "link": "https://www.facebook.com/groups/rockrageradio/posts/3909486472648826/#:~:text=HE%20IS%20GONE%20BUT%20NEVER,until%20his%20death%20in%202013.",
+      "snippet": "Feb 11, 2025 \u2014 Raymond Daniel Manzarek Jr. (n\u00e9 Manczarek; February 12, 1939 \u2013 May 20, 2013) was an American keyboardist. He is best known as a me...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/FnlAsY8AL40Yd-w6AXd8R-fLnDYC0ESqp4oGzFvawmY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/Z1M9D_jUgnH0fErHXED69L88ujEcnBIlNN4mmpZWgV0.png",
+      "index": 23
+    },
+    {
+      "title": "Robby Krieger age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Robby+Krieger/+wiki#:~:text=Born,to%20jazz%2C%20blues%20and%20folk.",
+      "snippet": "Biography * Born. 8 January 1946 (age 80) * Born In. Los Angeles, Los Angeles County, California, United States.",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/kZTHpImzMZp4LOlSVAAjN6tZF67ms601xwxzPkRA-YA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/90ZCl3Pf5rocfMAKBQjJmTO3dkkfKPJ3bTOTieRY8fA.png",
+      "index": 24
+    },
+    {
+      "title": "Ray Manzarek age, hometown, biography | Last.fm",
+      "link": "https://www.last.fm/music/Ray+Manzarek/+wiki#:~:text=Born,from%202001%20to%20his%20death.",
+      "snippet": "Biography * Born. 12 February 1939. * Born In. Chicago, Cook County, Illinois, United States. * Died. 20 May 2013 (aged 74)",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/vWCwX6t2HrqX1DFEpGFh2RaRTf73J9Zp7IzoF2DA4rY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/kIvRLl4fz4HocueMSuHEWItTYYRYmbDdY-RYQuxql4Y.png",
+      "index": 25
+    },
+    {
+      "title": "John Densmore - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/John_Densmore#:~:text=Table_content:%20header:%20%7C%20John%20Densmore%20%7C%20%7C,John%20Densmore:%20Instruments%20%7C%20:%20Drums%20%7C",
+      "snippet": "Table_content: header: | John Densmore | | row: | John Densmore: Born | : December 1, 1944 Los Angeles, California, U.S. | row: | ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/QXD0Bw0xTX-GxR4sGVuJEjI7ec9N4Gb0xS2jcNjHwVg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32bff596e867f9c08a0/images/RnzdV28eZBpQ5pNBK5sR_euuaQU9T463J73rJKwBpGk.png",
+      "index": 26
+    }
+  ]
+}

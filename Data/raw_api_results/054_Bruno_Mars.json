@@ -1,0 +1,329 @@
+{
+  "search_metadata": {
+    "id": "6987c3128976f713f5828e56",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8I5mR08Y5OC-ngZO10oFdA/6987c3128976f713f5828e56.json",
+    "created_at": "2026-02-07 22:56:18 UTC",
+    "processed_at": "2026-02-07 22:56:18 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Bruno+Mars%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Bruno+Mars%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/8I5mR08Y5OC-ngZO10oFdA/6987c3128976f713f5828e56.html",
+    "prettify_html_file": "https://serpapi.com/searches/8I5mR08Y5OC-ngZO10oFdA/6987c3128976f713f5828e56.prettify",
+    "total_time_taken": 8.05
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Bruno Mars, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "OTutN3icTZBJquNmAIQhB8gZtOyG-D1Zk20eXmgerFm_JMsboXmeJcvWvi8SmgRygT5An-LlNHEgi1TtCuorqG-_J8UP9qgJQUrzrMy3wzzpsN9qmBF9T-ox-vxJN93qAQMPeAmoILYthqoA6-wBYjIuk19VxsYiPle9Mq89x0Fdlrs4_L60EXWLWRs3ENwNQI5fN4cF1ewp1l6OBG8vX2PPhqPVbk6wJZiOxqiU2jqo6eawUWdoCGpLvnJG7MZF1MZyyD6qW6u2bB5zGnsSPffGmLCjmAj-iAXVULjTAjbT9B6dHKG5bZSSobScFnL2X8uUjH6QJe382SndVtR18I6_wdAXt2jjbp0gFUB7-A3-gF4BgX1ADwL7CpF9XyduEl6K-R1HD28oAX25CECRf4PqokogPomq7itE52PXJO977AX415AVpMFY_Ff5I-q6qkj-_uVXkqXPZCA1AX7Xsxt_U4dI0xxDH9CJONn5blg4uelP9Wh5oJ2tqkevlojLxN6Br3r2Afm-lUTLmOwom76w4EyrK_MBMc6ZhdN4cC-MSXklzFB6tFkW58K5-0Dq9VFxcMuZlWlmsyGSL_2PZAFTP5MMwXTZnCzHKyemSmh4mj6m4S2KMIV7qK0NdB6zCuOeG1vbOmk1termwGTt5PRsPkDPZ09dXdkllJfXX5nq3bBFszpYaOfYcxLjtaiKzBlHjudYI1N4Cw5p0wRo4M-RK4wS2hNY13rMkRxSY8uCrTqMHeUx23VIkD2L2tUB8ey14nLpdiBP90FBJ07CV_o4pT4HGroSUmMf0rvUgJtMk1QaEwiZTaNoJkoKMD2bDVM_PrtnwFeMHYxid1-V9hlIR7JMxyB98qVOIeHuuKr8vcFPmXdU115KuShU6ZodNqLI4MGZpti14BPtsCNw95d2Z-qTIa7plvaGL_aRhF-pRhI3Pig9mA4kn2giVC8Yx237ZQrKtEapPnk-WKbMye_NNFeff5L2zD5SJhczv_AVZGfod-Go-ruiVSLPHlYSP15rq7x0PjAFFo0TCQuf_FO699ZiXfPRXbgwHhTsLnoa4gKJ4ItVVNZALhAGWGr9Ojo6tNyFvMAWfHOdsieO85482aa18QTlG_qKKwIpYO4glmNCudaNw6VcuyNAT2jtIMYTQEjyH0T_ZCQ",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of early 2026, here is the profile for the global music icon Bruno Mars:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 40 years old (Born October 8, 1985)."
+        },
+        {
+          "snippet": "Current Residence: Studio City, Los Angeles, California. He owns a Mediterranean-style mansion valued at approximately $7.5 million to $9 million. Rethinking The Future +3",
+          "snippet_links": [
+            {
+              "text": "Studio City",
+              "link": "https://www.google.com/search?q=Studio+City&kgmid=/m/0281rp&sa=X&ved=2ahUKEwjIuPWCvciSAxU2m2oFHbQ2PZ0Q3egRegQIBBAD"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        5,
+        3,
+        7,
+        9
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music Related Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer-Songwriter: Leading soloist and member of the duo Silk Sonic."
+        },
+        {
+          "snippet": "Record Producer: Co-founder of production teams The Smeezingtons and Shampoo Press & Curl."
+        },
+        {
+          "snippet": "Musician/Multi-instrumentalist: Plays multiple instruments on his own tracks and for others."
+        },
+        {
+          "snippet": "Dancer & Choreographer: Known for intricate stage routines and directing his own music video choreography."
+        },
+        {
+          "snippet": "Music Video Director: Co-directs the majority of his visual projects. Wikipedia +4"
+        }
+      ],
+      "reference_indexes": [
+        3,
+        0,
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Musical Skills & Abilities"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        2,
+        1,
+        0,
+        10,
+        8,
+        4,
+        11
+      ],
+      "table": [
+        [
+          "Skill / Ability",
+          "Proficiency / Notable Details"
+        ],
+        [
+          "Vocals",
+          "Master (3-octave tenor range). Renowned for \"retro showmanship,\" vocal agility, and the ability to hit sustained high notes (C5\u2013D5)."
+        ],
+        [
+          "Drums",
+          "Professional. He famously performed a drum solo during the 2014 Super Bowl halftime show."
+        ],
+        [
+          "Guitar",
+          "Advanced. Skilled in electric and acoustic guitar, often playing lead riffs during live performances (e.g., \"Locked Out of Heaven\")."
+        ],
+        [
+          "Piano / Keyboards",
+          "Advanced. Typically uses piano or guitar to write his music; performed \"When I Was Your Man\" on piano."
+        ],
+        [
+          "Songwriting",
+          "Elite. Has written numerous #1 hits for himself and other stars like Adele, CeeLo Green, and Flo Rida."
+        ],
+        [
+          "Other Instruments",
+          "Proficient. Also plays bass, ukulele, congas, and harmonica."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill / Ability"
+          },
+          {
+            "snippet": "Proficiency / Notable Details"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocals"
+          },
+          {
+            "snippet": "Master (3-octave tenor range). Renowned for \"retro showmanship,\" vocal agility, and the ability to hit sustained high notes (C5\u2013D5)."
+          }
+        ],
+        [
+          {
+            "snippet": "Drums"
+          },
+          {
+            "snippet": "Professional. He famously performed a drum solo during the 2014 Super Bowl halftime show."
+          }
+        ],
+        [
+          {
+            "snippet": "Guitar"
+          },
+          {
+            "snippet": "Advanced. Skilled in electric and acoustic guitar, often playing lead riffs during live performances (e.g., \"Locked Out of Heaven\")."
+          }
+        ],
+        [
+          {
+            "snippet": "Piano / Keyboards"
+          },
+          {
+            "snippet": "Advanced. Typically uses piano or guitar to write his music; performed \"When I Was Your Man\" on piano."
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriting"
+          },
+          {
+            "snippet": "Elite. Has written numerous #1 hits for himself and other stars like Adele, CeeLo Green, and Flo Rida."
+          }
+        ],
+        [
+          {
+            "snippet": "Other Instruments"
+          },
+          {
+            "snippet": "Proficient. Also plays bass, ukulele, congas, and harmonica."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_ability": "Vocals",
+          "proficiency_notable_details": "Master (3-octave tenor range). Renowned for \"retro showmanship,\" vocal agility, and the ability to hit sustained high notes (C5\u2013D5)."
+        },
+        {
+          "skill_ability": "Drums",
+          "proficiency_notable_details": "Professional. He famously performed a drum solo during the 2014 Super Bowl halftime show."
+        },
+        {
+          "skill_ability": "Guitar",
+          "proficiency_notable_details": "Advanced. Skilled in electric and acoustic guitar, often playing lead riffs during live performances (e.g., \"Locked Out of Heaven\")."
+        },
+        {
+          "skill_ability": "Piano / Keyboards",
+          "proficiency_notable_details": "Advanced. Typically uses piano or guitar to write his music; performed \"When I Was Your Man\" on piano."
+        },
+        {
+          "skill_ability": "Songwriting",
+          "proficiency_notable_details": "Elite. Has written numerous #1 hits for himself and other stars like Adele, CeeLo Green, and Flo Rida."
+        },
+        {
+          "skill_ability": "Other Instruments",
+          "proficiency_notable_details": "Proficient. Also plays bass, ukulele, congas, and harmonica."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of upcoming tour dates for his newly announced The Romantic Tour starting in 2026?",
+      "snippet_links": [
+        {
+          "text": "The Romantic Tour",
+          "link": "https://levisstadium.com/2026/01/bruno-mars-announces-the-romantic-tour/"
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Bruno Mars - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bruno_Mars#:~:text=Peter%20Gene%20Hernandez%20(born%20October,to%20pursue%20a%20musical%20career.",
+      "snippet": "Bruno Mars * Singer. * songwriter. * record producer. * dancer. ... Musical career * Pop. * R&B. * funk. * soul. ... In 2021, he f...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/jkt1V3VeGNmbx42LG4t-Fh2z7CxX3liyQhHxoxTMFj8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/GR0R3rD_m9KWX1nlsXza3bJmRWqzZNTe41tV6B1bat4.png",
+      "index": 0
+    },
+    {
+      "title": "Bruno Mars - Rio Wiki",
+      "link": "https://rio.fandom.com/wiki/Bruno_Mars",
+      "snippet": "Background information * Birth name. Peter Gene Hernandez. * Born. October 8, 1985. Honolulu, Hawaii, U.S. * Genres. R&B, funk, po...",
+      "source": "Rio Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/lTXmkl-Rl1pq2JqCTacZ45QIJUITovDNP8dbWqbTafM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/_NL022Mi-3GW_p0x5_8gf3R3waWKe5resxlzzBn-HJo.png",
+      "index": 1
+    },
+    {
+      "title": "Is Bruno Mars a good singer, or is he just a good pop star?",
+      "link": "https://www.quora.com/Is-Bruno-Mars-a-good-singer-or-is-he-just-a-good-pop-star#:~:text=Yup.,fingers%20to%20his%20singing%20alone.",
+      "snippet": "Oct 7, 2015 \u2014 Yup. He's got a high, compact, super-clean voice that pops right out the top of his head, excellent tuning, diction, and phrasing,",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/J5B4t9DfQNCnQDDNghU7AYHllFuiHKbPkK6zXuCFUxk.png",
+      "index": 2
+    },
+    {
+      "title": "Bruno Mars age, hometown, biography - Last.fm",
+      "link": "https://www.last.fm/music/Bruno+Mars/+wiki#:~:text=Born,and%20%22The%20Lazy%20Song%22.",
+      "snippet": "Aug 9, 2025 \u2014 Born. 8 October 1985 (age 40) Born In. Honolulu, Honolulu County, Hawaii, United States. Peter Gene Hernandez (born October 8, 198...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/wIsH4obiV5xdHtwLbZDpigmjPMqRKQc0NQ_4SHCIcno.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/2WHdYFwmaRCqDLLhrnMaPQwi7Kzpb_FDrybT86V5Urg.png",
+      "index": 3
+    },
+    {
+      "title": "Bruno Mars - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Kameron_Whalum?oldformat=true",
+      "snippet": "Table_content: header: | Bruno Mars | | row: | Bruno Mars: Mars in 2017 | : | row: | Bruno Mars: Born | : Peter Gene Hernandez Oct...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/iDhyiH6QgsTG-AFf5Y5Q5XSiWH_p0cXlc_ORmE3w-yk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/M9JKhF5CqlHKVQug-9KjTiQZu6qOqkaBE36ZP-5d7SU.png",
+      "index": 4
+    },
+    {
+      "title": "Bruno Mars House: Facts through Architect's Lens - RTF",
+      "link": "https://www.re-thinkingthefuture.com/fun-architecture/a11946-bruno-mars-house-facts-through-architects-lens/#:~:text=A%20Hilltop%20Haven%20in%20Studio,valued%20at%207.5%20million%20dollars).",
+      "snippet": "Jan 19, 2024 \u2014 Unveiling the Man Behind the Mansion * Bruno Mars's residence not only offers a peek into his intriguing life and taste but also s...",
+      "source": "Rethinking The Future",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/PmENPQCjukhJuigqIf4syKPUy_QI7Kks5g0rt2cqBt8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/sRZMUSchrW758qioVRQ6lx5A_plH2Mhamj1-vgkJfEE.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Bruno Mars - IMDb",
+      "link": "https://www.imdb.com/name/nm3960069/#:~:text=Music%20Artist,as%20backup%20singers%20and%20dancers.",
+      "snippet": "Bruno Mars * Music Artist. * Composer. * Actor. Peter Gene Hernandez known professionally as Bruno Mars, is an American singer-son...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/gd7qkwlfGfrSsMO7zNKZbaCNEssACwrLWMtURUgr7b4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/HBLmfhtfOiaGTGZpRzXyicIs1-nl-DmvT8fgp04SbqE.jpeg",
+      "index": 6
+    },
+    {
+      "title": "How Old Is Bruno Mars Now - Oreate AI Blog",
+      "link": "https://www.oreateai.com/blog/how-old-is-bruno-mars-now/d39679ba41381394073f093a5585b51f#:~:text=2026%2D01%2D07T15:51,iconic%20figures%20in%20our%20lives.",
+      "snippet": "Jan 7, 2026 \u2014 2026-01-07T15:51:26+00:00 Leave a comment. Bruno Mars, born Peter Gene Hernandez on October 8, 1985, is now 40 years old. As we na...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/Gmx6yxdIYoRQNFQm2lCG5mZAcM4cr9D5DnUv9k5BlJc.png",
+      "index": 7
+    },
+    {
+      "title": "Can you describe Bruno Mars' technique? : r/singing - Reddit",
+      "link": "https://www.reddit.com/r/singing/comments/d0ri14/can_you_describe_bruno_mars_technique/#:~:text=He's%20using%20mixed%20voice%2C%20but,there%20isnt%20a%20good%20idea.",
+      "snippet": "Sep 7, 2019 \u2014 He's using mixed voice, but he can go unusually high with comfort because of his voice. He's a high tenor. Apparently his highest ...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/eJwCnlAEehGjszStcvxoVlO8a2NcTmO3y9izov4Ri9g.png",
+      "index": 8
+    },
+    {
+      "title": "Where Does Bruno Mars Live? Examining the Singer's Real ...",
+      "link": "https://www.yahoo.com/entertainment/articles/where-does-bruno-mars-live-120000732.html#:~:text=After%20a%20few%20years%20of,ever%20seen%20in%20your%20life?",
+      "snippet": "Jul 3, 2025 \u2014 The \u201cThat's What I Like\u201d singer moved to Los Angeles right after high school and has remained in La La Land ever since. At first, ...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/v4lyQHqW2H5wAddmNgW9Fs3DC5MefsOt69ej256dhOg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/ffxjr_Z3_uzrUGxO7s65iVtATd0q7PoFtP1ZgyWUKdM.png",
+      "index": 9
+    },
+    {
+      "title": "Take a look at the career of entertainer Bruno Mars. - Facebook",
+      "link": "https://www.facebook.com/KIRO7Seattle/posts/take-a-look-at-the-career-of-entertainer-bruno-mars/1293976756098719/#:~:text=17w%20%C2%B7%20Public-,Peter%20Gene%20Hernandez%20(born%20October%208%2C%201985)%2C%20known,to%20pursue%20a%20musical%20career.",
+      "snippet": "Jan 8, 2026 \u2014 Peter Gene Hernandez (born October 8, 1985), known professionally as Bruno Mars, is an American singer, songwriter, musician, and ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/hMqelrXTKx9dVREqOv9tezNN4wG2GaV0TXKBt-U71bE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/Ivn3updZ8STslIbEmdoLoL-bfueu8yBugScnXyQ8_0E.png",
+      "index": 10
+    },
+    {
+      "title": "Bruno Mars - JH Wiki Collection Wiki",
+      "link": "https://jhmovie.fandom.com/wiki/Bruno_Mars",
+      "snippet": "Bruno Mars * Birth name. Peter Gene Hernandez. * Born. October 8, 1985 (age 40) * Birth place. Honolulu, Hawaii, U.S. * Education.",
+      "source": "JH Wiki Collection Wiki",
+      "source_icon": "https://serpapi.com/searches/6987c3128976f713f5828e56/images/mNY9AOVBs2J-6nBXDWAF53icP3-iYnztsL52et_IqQo.jpeg",
+      "index": 11
+    }
+  ]
+}

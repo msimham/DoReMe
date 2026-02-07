@@ -1,0 +1,366 @@
+{
+  "search_metadata": {
+    "id": "6987c2f988de920be6b96d37",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bNZX4znVuOim8tA_Av2D3Q/6987c2f988de920be6b96d37.json",
+    "created_at": "2026-02-07 22:55:53 UTC",
+    "processed_at": "2026-02-07 22:55:53 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Fleetwood+Mac%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Fleetwood+Mac%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/bNZX4znVuOim8tA_Av2D3Q/6987c2f988de920be6b96d37.html",
+    "prettify_html_file": "https://serpapi.com/searches/bNZX4znVuOim8tA_Av2D3Q/6987c2f988de920be6b96d37.prettify",
+    "total_time_taken": 8.26
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Fleetwood Mac, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "sCtXHnicPVJJquNWAIScRMtuiP7XaOtjvNBkybIGa5a8MdLT0zxZs70M5CKhSSAXyAFyis5p8htCqqhNQUFR1K-_weIvFFzkCDw8-ebfMbS67mNpIUzzG6wH8P1vvunW0AkJW-ZM17nJoO0bw8dbze3rWFJENeA8h0xE1_WsT2m-5GKhS02-q78sCS90J9fcaku1U0LHWOL5LTfcRHwLyNoDWN9B54z5jRc4knXRiS24SadKb3DL83U6CZSX7etBhOkBFGvbInpLzMEUYtM59PXNq_LIw5lV9SdTJxQ5KRXLtTpVdbweCElqCNULNuOf8wiHe5TBdvread2rqOvonX7DkC9-0SbdOiK6g-DYG3ZAPo0ddUC2HfUVYfu-hj6ML8X0TpP7N3KHfLnIjqb-jNRFBREJgqr7ivD50DXwHSfxN-wHETtKo6H4L_I76LqqgP_89Mv9bkMwDxC1Het6ZIWd0GWLLbq0gFVqswv0h7hVrMZyZxCfAS7ctRBESdEXZ-AZwYqbO1elLvitvlKFNBLPqekeC1mRKh21GH45bcOMRwxuLwanrZmhwMcBYUX-yEZKE9HzE2deTHCTr9Qu5O543Nw7XpDIVh-oONPmpwIkQjYkmliIWAWiHyTmAfm_M-fyF9E58krHHxD9LBxpgjmyOtm4dIeOAqp6sVbKLWUUI6kEK6ionrpAdMJ7kRb9sUVDzJEzjedefZwHqHnh1khP-Uxm9DSxvaWE3FwHH7aqgv3ZpaEzP5jkfnafGcRdJ6Tka2ywu2dIMdGelJgLFqg54I1cYuDARiY3hnUJPbSOxPx6CQc3Va4fiS58dGGijbj4we_dYj_t5_uzZdu7CxZfT4qheAwktWa7inl6zqriQrGo1FpLBH_dwW1u2TKsmXtp5ndGiEktQ0s7fewCWCoeEEbC6sQDYv9YgxXFy-M8nf0BN-eW4dW9ck03CnrGY2-yYilOrc5qCfxQFp49D7CQyzrTdvqWFtKgDcuJE-pKvcVoSBOyRRinV5_5YzI4tSv5BShT9oAI3vG8uegiD-G0MdQom9jTiO8pgfdDXtQr3Sw5A5ynm9vqmrGsIAhhCZvT0knb560-8a0Zp-r7H6w7iVsqdGpe8H7dotfFkttBiqJHhxlcSIETVXjdbaFmk8MWjgkIutQ64C8C_WQsLJl5uKZXbHnw0zg_AbmNlZD66SWMgmJ_43AA7Zmbo3UmYBq94oxSitXGFM1vbspETICRUMVjX4OiG9IUm8Hpeau5zGke6bMHujTEqrjPuvFffLmK7w",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, the current and long-standing members of Fleetwood Mac are in their late 70s and 80s. While the band\u2019s future remains uncertain following the death of Christine McVie, the individual members remain active in their solo careers.",
+      "reference_indexes": [
+        0,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Core Members"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Mick Fleetwood (78 years old)",
+          "list": [
+            {
+              "snippet": "Occupations: Drummer, bandleader, songwriter, actor, and photographer."
+            },
+            {
+              "snippet": "Skills & Proficiency: A self-taught, world-renowned drummer known for his unique, heavy-hitting rhythmic style that served as the band's \"heartbeat\" for over five decades."
+            },
+            {
+              "snippet": "Current Residence: Maui, Hawaii."
+            }
+          ]
+        },
+        {
+          "snippet": "John McVie (80 years old)",
+          "list": [
+            {
+              "snippet": "Occupations: Bass guitarist."
+            },
+            {
+              "snippet": "Skills & Proficiency: Widely regarded as a master of the melodic, steady bassline. He began his career playing trumpet before switching to bass, later becoming a foundational member of the British blues-rock scene."
+            },
+            {
+              "snippet": "Current Residence: Honolulu, Hawaii (reported historically; primary residence remains in the Hawaii/Pacific area)."
+            }
+          ]
+        },
+        {
+          "snippet": "Stevie Nicks (77 years old; turns 78 in May 2026)",
+          "list": [
+            {
+              "snippet": "Occupations: Singer, songwriter, and musician."
+            },
+            {
+              "snippet": "Skills & Proficiency: An iconic vocalist and songwriter with high proficiency in piano and tambourine. She is celebrated for her poetic lyricism and ethereal stage presence."
+            },
+            {
+              "snippet": "Current Residence: Los Angeles, California."
+            }
+          ]
+        },
+        {
+          "snippet": "Lindsey Buckingham (76 years old)",
+          "list": [
+            {
+              "snippet": "Occupations: Guitarist, singer, songwriter, and producer."
+            },
+            {
+              "snippet": "Skills & Proficiency: A highly technical fingerstyle guitarist known for complex arrangements and innovative studio production."
+            },
+            {
+              "snippet": "Current Residence: Los Angeles, California."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        9,
+        7,
+        8,
+        2,
+        13,
+        3,
+        11,
+        14,
+        4,
+        5,
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Touring Members (Joined 2018)",
+      "reference_indexes": [
+        18,
+        19
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Neil Finn (67 years old)",
+          "list": [
+            {
+              "snippet": "Occupations: Singer, songwriter, and multi-instrumentalist."
+            },
+            {
+              "snippet": "Skills & Proficiency: Expert in vocals, guitar, and keyboards; founder of Crowded House."
+            },
+            {
+              "snippet": "Current Residence: Auckland, New Zealand."
+            }
+          ]
+        },
+        {
+          "snippet": "Mike Campbell (76 years old)",
+          "list": [
+            {
+              "snippet": "Occupations: Guitarist and songwriter."
+            },
+            {
+              "snippet": "Skills & Proficiency: Lead guitarist formerly of Tom Petty and the Heartbreakers, known for a tasteful, rock-focused style."
+            },
+            {
+              "snippet": "Current Residence: Los Angeles, California."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        2,
+        10,
+        20,
+        21,
+        22
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Just Rock Music - Facebook",
+      "link": "https://www.facebook.com/justrockmusicc/photos/stevie-nicks-is-a-monumental-singer-songwriter-and-primary-architect-of-the-flee/1386962286804877/#:~:text=Hall%20of%20Fame.-,Her%20journey%20has%20been%20one%20of%20constant%20evolution%2C%20moving%20from,We%20share%20a%20warm%20tribute.",
+      "snippet": "Jan 22, 2026 \u2014 Her journey has been one of constant evolution, moving from the heights of the 1970s stadium era to a highly successful and respec...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/GcBBECZgv3NE5sieqXygSr5jwK3H12JoA_N6oApEDcE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/XLbxAha9dnXG2S-rl7f_y1y22BHRvG2t5OAEFl_v3zM.png",
+      "index": 0
+    },
+    {
+      "title": "Rock That Music - Facebook",
+      "link": "https://www.facebook.com/rockthatmusic/posts/mick-fleetwood-remains-the-steady-heartbeat-and-visionary-guardian-of-the-fleetw/122258310434277306/#:~:text=five%2Ddecade%20history.-,In%20late%202025%2C%20he%20shared%20his%20%22flatly%20confident%22%20outlook,preservation%20of%20his%20rhythmic%20heritage.&text=Fleetwood%20Mac%20will%20continue%20to,would%20clinch%20it%20for%20me.&text=Can't%20wait%20for%20both,Stevie%20and%20Lindsey%20in%202026.&text=Keep%20rockin%20Mick.,we%20ever%20get%20to%20meet.",
+      "snippet": "Jan 9, 2026 \u2014 In late 2025, he shared his \"flatly confident\" outlook that a meaningful reunion with Lindsey Buckingham and the rest of the famil...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/nVsTuE8Q7K_tjoC2W6VTRE258DrpJos2jA9VTu0d0yk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/UN7FW0S8TOyk-gPMlkIIgIIWgS_hBb353NaraLMS2qU.png",
+      "index": 1
+    },
+    {
+      "title": "Where Fleetwood Mac are now from Stevie Nicks to Lindsey ...",
+      "link": "https://www.express.co.uk/entertainment/music/1826245/Where-are-Fleetwood-Mac-now#:~:text=five%20bandmates%20now?-,Mick%20Fleetwood,damage%20in%20the%20Maui%20wildfires.",
+      "snippet": "Oct 20, 2023 \u2014 Mick Fleetwood. Mick Fleetwood (Image: GETTY) The 76-year-old drummer and co-founder has been a constant in the band for almost 60...",
+      "source": "Daily Express",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/Z50HeAGBfOgfn1axZBjbqWuGo0KQoL7naDh4Hjufp1U.jpeg",
+      "index": 2
+    },
+    {
+      "title": "John McVie - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/John_McVie#:~:text=John%20Graham%20McVie%20(/m%C9%99,source%20for%20the%20band's%20name.",
+      "snippet": "John Graham McVie (/m\u0259k\u02c8vi\u02d0/; born 26 November 1945) is a British bass guitarist. He is best known as a member of the rock bands J...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/hG5vGbWTuQX1f7yxLRwE4Tkz3S8opPE-9wtgDCGYsxk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/xvByZO9dYuJI8eZdXYEa4VlKolctaxVTaGhCC52fkfU.png",
+      "index": 3
+    },
+    {
+      "title": "Happy 77th Birthday to the legendary STEVIE NICKS! \ud83c\udf89 Born on ...",
+      "link": "https://www.facebook.com/groups/1046384656396872/posts/1410703023298365/#:~:text=Stevie%20Nicks%20is%20an%20American,with%20her%20artistry%20and%20authenticity.",
+      "snippet": "May 28, 2025 \u2014 Stevie Nicks is an American singer-songwriter, renowned for her distinctive voice and ethereal presence. Born on May 26, 1948, she...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/OKg8jcF37PnznQhkW8g4sI3XrRLtdKem28KMaC747lA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/6UqaS7ARBSZP8fYa22FChyjLGV4vwdQ_DMeHfGBEjTg.png",
+      "index": 4
+    },
+    {
+      "title": "Enchanting stage presence and a visionary sense of rock-pop ...",
+      "link": "https://www.facebook.com/rockthatmusic/posts/enchanting-stage-presence-and-a-visionary-sense-of-rock-pop-melody-define-the-20/122260967624277306/#:~:text=every%20continent%20today.-,This%20milestone%20era%20has%20focused%20on%20humanizing%20the%20icon%2C%20providing,heartbeat%20of%20a%20great%20song.",
+      "snippet": "Jan 30, 2026 \u2014 This milestone era has focused on humanizing the icon, providing a visceral look into her creative spirit through high-fidelity ar...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/U_rK1Oxxr2d4gzxAevkm-gj7TwzqprB1Eu-65SYCl08.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/rpabWECzYh-hmPg5D-_365HjZ88ogjfTx0h1nwRq-d4.png",
+      "index": 5
+    },
+    {
+      "title": "Mick Fleetwood is 78 years old today. 6/24/47 Happy Birthday ...",
+      "link": "https://www.facebook.com/WoodstockElders1969/posts/mick-fleetwood-is-78-years-old-today-62447happy-birthday-mick-michael-john-kells/717301360945370/#:~:text=Michael%20John%20Kells%20Fleetwood%20(born,DrummerIcon%20%23MusicHistory%20%23RockAndRollHallOfFame%20%23fblifestyle",
+      "snippet": "Jun 24, 2025 \u2014 He nevertheless enjoyed acting during school, often in drag, and was a competent fencer. At 6'6\", he was an imposing figure, and s...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/HCuiXzhHDX5ApbzBYRt0P8YRcgFgQyrNpS0WCw0TpAg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/G7nkQR1zhkwiXmn9TqciytDpgFIPH1OEmL36QnudYac.png",
+      "index": 6
+    },
+    {
+      "title": "Mick Fleetwood facts: Fleetwood Mac drummer's age, career, wife ...",
+      "link": "https://www.goldradio.com/artists/fleetwood-mac/mick-fleetwood-age-wife-children/#:~:text=How%20old%20is%20Mick%20Fleetwood?&text=Mick%20Fleetwood%20was%20born%20on,places%20like%20Egypt%20and%20Norway.",
+      "snippet": "Jul 15, 2024 \u2014 Beyond music, he's a talented photographer and a passionate advocate for ocean conservation. * How old is Mick Fleetwood? Mick Fle...",
+      "source": "Gold Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/dH1Uuu9l7ohBSFTo8Qk6gdPF_kRK8wk1u77YauO0P7E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/QJCnM59gD6QDBb5S3ayfvUcoXtL6VR0jH8VcIEKb3UQ.png",
+      "index": 7
+    },
+    {
+      "title": "Mick Fleetwood's birthday and career - Facebook",
+      "link": "https://www.facebook.com/groups/741398680498802/posts/1428206278484702/#:~:text=Happy%20Birthday%20Mick%20Fleetwood%20%F0%9F%A5%81,being%20The%20Chain%20(1977).",
+      "snippet": "Jun 24, 2025 \u2014 Happy 78th Birthday to MICK FLEETWOOD! \ud83c\udf89\ud83e\udd41 Born on June 24, 1947, in Redruth, Cornwall, England, Fleetwood is a self-taught drumm...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/Uj7PhNnApv_dgtTGazpc_fR1p6bR-Z63AsqIPQ72h3A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/lvfzDHASnNh72B3Ot3BuG6SfpvvrA6rWUE2f3q7BuUw.png",
+      "index": 8
+    },
+    {
+      "title": "Mick Fleetwood's 78th birthday and Fleetwood Mac history - Facebook",
+      "link": "https://www.facebook.com/groups/805903260298395/posts/1740693080152737/#:~:text=Happy%2078th%20Birthday%20to%20MICK,ClassicRock%20%23DrummingLegend%20%23classicrockvideo%20%23classicrockvideos",
+      "snippet": "Jun 24, 2025 \u2014 ( born 24 June 1947, 77 years old ) He is a British musician, songwriter and actor. He is the drummer, co-founder, and leader of t...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/7M1W6XeK2Glia4obpcMcjOqqB-6DjKAAVkjcdgQ_SuY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/ih0x8hKf5Dr4M2GeU4E3xhvnFuC1RF1sb9AglvkRthA.png",
+      "index": 9
+    },
+    {
+      "title": "Fleetwood Mac hometown, lineup, biography - Last.fm",
+      "link": "https://www.last.fm/music/Fleetwood+Mac/+wiki",
+      "snippet": "Nov 6, 2025 \u2014 Biography * Years Active. 1967 \u2013 present (58 years) * Founded In. London, England, United Kingdom. * Members. Bekka Bramlett (1993...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/0vikrWa9HR9re_PahM4wV6O3_MueBJmftZdIO00HpHw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/jqTnWZeh3oKcXqw3_Yvef8QTDnXSvmbyJ6giilYRgRk.png",
+      "index": 10
+    },
+    {
+      "title": "John McVie facts: Fleetwood Mac member's age, wife ...",
+      "link": "https://www.smoothradio.com/artists/fleetwood-mac/john-mcvie-facts-age-wife-children/#:~:text=How%20old%20is%20John%20McVie,while%20starting%20his%20musical%20career.",
+      "snippet": "Dec 1, 2022 \u2014 How old is John McVie and where is he from? John McVie (right) with Mick Fleetwood. Picture: Getty. John McVie was born on Novembe...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/LLq6TCs8Kt0P0Cpl0DVnoip9R9mhBpJGFCEPykxensQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/3tA7YsEfpejZE0iHqOAFWuw4kMWlPDGOuOu1ol5xGbo.png",
+      "index": 11
+    },
+    {
+      "title": "Fleetwood Mac - Rock Music Wiki",
+      "link": "https://rock.fandom.com/wiki/Fleetwood_Mac#:~:text=Band%20personnel%5Bedit%20source%20%7C%20editbeta%5D%20*%20Mick,Nicks%20%E2%80%93%20vocals%2C%20tambourine%20(1975%E2%80%931991%2C%201993%2C%201997%E2%80%93present)",
+      "snippet": "Band personnel[edit source | editbeta] * Mick Fleetwood \u2013 drums, percussion (1967\u20131995, 1997\u2013present) * John McVie \u2013 bass guitar (",
+      "source": "Fandom",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/Lyk5snLKMnBBSBz30QdSELUc8VVoeMfLYeD-FX4IZjQ.png",
+      "index": 12
+    },
+    {
+      "title": "John McVie - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/John_McVie#:~:text=Table_content:%20header:%20%7C%20John%20McVie%20%7C%20%7C,McVie:%20Instruments%20%7C%20:%20Bass%20guitar%20%7C",
+      "snippet": "Table_content: header: | John McVie | | row: | John McVie: Born | : 26 November 1945 Ealing, London, England | row: | John McVie: ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/lkmf7EeQStSPFpk75z9BYAFRNWWcIdLfhywIh8sS8SI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/A2iXqK7jIyyK3w9Jg5CESihgup53q7dyS1o_isIRkWw.png",
+      "index": 13
+    },
+    {
+      "title": "John McVie: Fleetwood Mac Legend from Ealing to Stardom",
+      "link": "https://samehhabeeb.uk/people/ealing-people/john-mcvie-a-legacy-rooted-in-ealing-and-fleetwood-mac/#:~:text=John%20Graham%20McVie%20was%20born,play%20the%20bass%20guitar%20instead.",
+      "snippet": "Jan 20, 2025 \u2014 John Graham McVie was born in Ealing, west London, to Reg and Dorothy McVie. He attended Walpole Grammar School. He says that he d...",
+      "source": "Sam Habeeb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/UpU9W47opdgh81Fah_EdhCoLQ8cqNMYJM-Lk305S-kI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f988de920be6b96d37/images/9a1MI9NamSgRXbWyezLn828j-gSFRnK0AgtlaAb6IoY.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Happy birthday Stevie Nicks! Artist Biography by Jason Ankeny #FleetwoodMac Famed for her mystical chanteuse image, singer/songwriter Stevie Nicks enjoyed phenomenal success not only as a solo artist but also as a key member of Fleetwood Mac. Possessed of a raspy croon, Nicks had a duo with Lindsey Buckingham in the early '70s, releasing an excellent folk-pop album as Buckingham Nicks before the pair were absorbed into veteran U.K. group Fleetwood Mac. Nicks' and Buckingham's talents helped steer the band to superstardom via the enormous hit albums Fleetwood Mac and Rumours. In the '80s, Nicks ventured out on her own, scoring numerous hit singles and ultimately leaving the band. In the late '90s, however, she reunited with her Fleetwood friends, who began performing and recording with renewed vigor. Stephanie Lynn Nicks was born May 26, 1948, in Phoenix, Arizona; the granddaughter of a frustrated country singer, she began performing at the age of four, and occasionally sang at the tavern owned by her parents. Nicks started writing songs in her midteens, and joined her first group, the Changing Times, while attending high school in California. During her senior year, Nicks met",
+      "link": "https://www.facebook.com/thewatersfamily/posts/happy-birthday-stevie-nicksartist-biography-by-jason-ankenyfleetwoodmacfamed-for/1255028479961401/",
+      "snippet": "Mick Fleetwood cited her ( Christine McVie ) fear of flying and said that she ( Christine McVie ) would never return. She ( Christ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsBb4lHJzn4z_weKlKk0jF9k2wAtHfQt1uqrHQ8bRVmWgasfa0",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Stevie Nicks",
+      "link": "https://fleetwoodmac-uk.com/wp/category/stevie-nicks/page/5/?ak_action=reject_mobile#:~:text=You%20maintain%20an%20active%20and%20successful%20solo,able%20to%20go%20back%20and%20forth%20to.",
+      "snippet": "You maintain an active and successful solo career, as well as membership in Fleetwood Mac. What's the agar of doing both? Solo wor...",
+      "source": "fleetwoodmac-uk.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZToJbGGca9YHMcLnp3caA-MqBCC73IazaAZPHCYjZlvcqUJpU",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://fleetwoodmac-uk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Fleetwood Mac Is Still Hitting New Highs On The Billboard Charts",
+      "link": "https://www.forbes.com/sites/hughmcintyre/2024/03/21/fleetwood-mac-is-still-hitting-new-highs-on-the-billboard-charts/#:~:text=Fleetwood%20Mac%20hasn't%20officially%20broken%20up%2C%20but,produce%20any%20new%20music%20or%20tour%20again.",
+      "snippet": "Fleetwood Mac hasn't officially broken up, but they're not really an active band any longer. The pop-rock outfit has not worked to...",
+      "source": "Forbes",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRR6Z5J1C9xggfJxA8aQvgawZZuP5IFLFMcdLo02DN-HHJHq2An",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Lindsey Buckingham is back in the studio with Mick Fleetwood for the first time since his 2018 firing from Fleetwood Mac. He\u2019s contributing guitar and vocals to Fleetwood\u2019s upcoming solo album.",
+      "link": "https://www.facebook.com/EricAlperPR/posts/lindsey-buckingham-is-back-in-the-studio-with-mick-fleetwood-for-the-first-time-/1229193525542988/",
+      "snippet": "Lindsey Buckingham ( Lindsey Adams Buckingham ) is back in the studio with Mick Fleetwood for the first time since his 2018 firing...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFQ8bj8ccn36vI8GFXsdfp7Ak-HhhytkXd8mM97mIuO2dTl2T3",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "The 30 Greatest Fleetwood Mac Songs",
+      "link": "https://www.pastemagazine.com/music/fleetwood-mac/30-best-fleetwood-mac-songs#:~:text=We'll%20never%20see%20that%20lineup%20again%2C%20because,Fleetwood%20Mac%20)%20are%20still%20active%20members.",
+      "snippet": "We'll never see that lineup again, because Buckingham ( Stevie Nicks and Lindsey Buckingham ) left the band for the last time in 2...",
+      "source": "Paste Magazine",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTc5G10z5oNF22J2Z6V4Vms33DQyc6OtXCkE_Dq8Zus2Y9DVgq_",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pastemagazine.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Fleetwood Mac - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Fleetwood_Mac#:~:text=Fleetwood%20Mac%20were%20a%20British%20and%20American,members%20of%20the%20band%20throughout%20its%20history.",
+      "snippet": "Fleetwood Mac were a British and American rock band formed in London in 1967 by singer and guitarist Peter Green. Green named the ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTn60BfidTQ19OLvg8ioHbFts6JjLMpJlsgsQA5-m2UkYV2zrH_",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "HAPPY BIRTHDAY! Lindsey Buckingham (Fleetwood Mac, Buckingham Nicks, solo) (76) #fleetwoodmac #lindseybuckingham #stevienicks",
+      "link": "https://www.facebook.com/allthingmusicplus/posts/happy-birthday-lindsey-buckingham-fleetwood-mac-buckingham-nicks-solo-76fleetwoo/1224065659748549/#:~:text=Happy%2068th%20birthday%20to%20Fleetwood%20Mac%20singer%2C%20guitarist%2C%20producer%20and%20songwriter%2C%20Lindsey%20Buckingham!%2010/3.",
+      "snippet": "Happy 68th birthday to Fleetwood Mac singer, guitarist, producer and songwriter, Lindsey Buckingham! 10/3.",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSpmVLMp0Rp2LCXm5y9TUk3kAYgHHWVa5VMQwqHknsQX7_k2TEj",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "MULTI-INSTRUMENTALIST definition | Cambridge English Dictionary",
+      "link": "https://dictionary.cambridge.org/us/dictionary/english/multi-instrumentalist#:~:text=a%20person%20who%20plays%20more%20than%20one,singer%2C%20songwriter%2C%20and%20skilled%20multi%2Dinstrumentalist%20is%20impressive.",
+      "snippet": "a person who plays more than one musical instrument: He was a talented multi-instrumentalist who played keyboards, guitar, bass, a...",
+      "source": "Cambridge Dictionary",
+      "thumbnail": "https://dictionary.cambridge.org/us/dictionary/english/multi-instrumentalist",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dictionary.cambridge.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    }
+  ]
+}

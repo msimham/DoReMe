@@ -1,0 +1,480 @@
+{
+  "search_metadata": {
+    "id": "6987c2e8e3e176533a5836f2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/vmxj7yTreNO5FSR9IRM9UQ/6987c2e8e3e176533a5836f2.json",
+    "created_at": "2026-02-07 22:55:36 UTC",
+    "processed_at": "2026-02-07 22:55:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Mariah+Carey%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Mariah+Carey%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/vmxj7yTreNO5FSR9IRM9UQ/6987c2e8e3e176533a5836f2.html",
+    "prettify_html_file": "https://serpapi.com/searches/vmxj7yTreNO5FSR9IRM9UQ/6987c2e8e3e176533a5836f2.prettify",
+    "total_time_taken": 8.46
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Mariah Carey, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "eY6UJnicRZBJrqNWAEWlrIRhlRTq02Pr6w_obDCNbZpHM0EYHpjONH50HicbiUqJlA1kAVlFZTVJDZLcOzy60tH9-RdY_sGZupqExkuNcDiPxGWeKh0Xuq-wGdNvf0ptt4QusJMqk9ODdfKIaEsflmnTIZHR3itp7DKkGwSOvW3VHXtWPNKST0nUgoNDRa3lRUxAacx1IwngWr5J1dTVYy3DIZsrHfm-Kr5CYG9Ju69sT9lCApDwuF_s9lA6SmSmL5AAYK1JAMTIs0XlnlKuh7QQNCas74nhAyqtxGv2AIOzkeJt7QzT6_OMYJeEOiVQLn6fnnCMkwI-0Len2b3Kpkne2C8E9ikgyXfMKB_Tiq07LuaYz5jQ9w304U0v0RtL819oDvukq65p_Ig1ZQ2xI0zr7jMm3ceuhW8kvftCfC_mJHkylv9OlKz4n_2adl1dwr9--CmOHZhOI8Qd1758CDInd8WEchUhrTThUiMe190tNZIbX03r1NnTMUj3BHlkgoCRxPjo5wdRCuTAQPW6TiJ3Z3vQLcYQsNuDDx2Ji4bsFPhzaPFZr22z-I4JivQhJKc2YSd-pNmpYj1k3mTzkBkDvp10tO-6l8fV4RxRAbO6rnsr5MdSX1t0qpf6HftPWvQkXXE_JL2W3jFLkz9Yavdh21mqHKgML_z7E4cPviithcWpXE6Gzp8OolZcBiaQSPEiH_hZZe9rWMUaONf2i6FSpuTIOh3wzn6RF4dJrdngFk2bc2tX61vln9uCYNGefZY4xcB7bLOiTia2-pyLAhnocuC0QKUVSyrQQ-QCPWOTa5ClUdk-drjY8rDPBD_v0_TJtQfCFh4cNILuetfLvfVq9vx4QYZm7wZur-_i0ENnxV3v1aho6zXS_G49nfva0Aok-WQlEiVOIEBdCYWlbntoVXkB9HBp3zHn-x2CouiDhtTQCdxnDCLTm4gxTscczxYjlui4UboXH-kuKCW1dWbA8fMcWURU0BUom8ss3GN6eCHfAbfjCs9UDonTU9_rUcrQvM7N13dMBh9PrpCKWtRBqLCF0GWEGKu9qSmLfW4Wsj5nxLy91lMYLbUgnOWRyQ-K2RteuZjCP_naPlH97TfBQ8qayzK4z0d47PurzAuZdDbq7uwbIvvcrGL3MNpoU-5JGwi3fsgl02qPucMoljfKetStk6ct2oO8kK7WicgTRgZcJqZV3Wu-dmVuJqGl8yEsSD667JUUrarm5n2lcYcnMCrm_JAvEdmZp0QTj6XN9AnVlMmg93joDNl2tINR-RvKZ4x-",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Mariah Carey is an iconic American artist often referred to as the \"Songbird Supreme\". Facebook +1",
+      "reference_indexes": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 56 years old (born March 27, 1969)."
+        },
+        {
+          "snippet": "Current Residence: New York City, New York. She maintains a long-term residence in Manhattan (Tribeca). She recently moved out of a rented estate in New Canaan, Connecticut, in early 2025.",
+          "snippet_links": [
+            {
+              "text": "Manhattan (Tribeca)",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.loveproperty.com/gallerylist/124395/mariah-careys-homes-from-a-long-island-store-to-los-angelesmansions&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQy_kOegQIBBAC&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Mariah is a versatile music professional, holding the record for the most Billboard Hot 100 number-one singles by a solo artist (19), female songwriter (18), and female producer (15). Wikipedia",
+      "reference_indexes": [
+        23
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        16,
+        24,
+        25,
+        23,
+        26
+      ],
+      "table": [
+        [
+          "Occupation / Skill",
+          "Proficiency & Notable Abilities"
+        ],
+        [
+          "Singer / Vocalist",
+          "whistle register"
+        ],
+        [
+          "Songwriter",
+          "Songwriters Hall of Fame"
+        ],
+        [
+          "Record Producer",
+          "Expert: Actively produces her own tracks; she holds the record for the most #1 singles for a female producer."
+        ],
+        [
+          "Arranger",
+          "Advanced: Known for complex vocal arrangements and popularizing the \"pop-meets-hip-hop\" remix format."
+        ],
+        [
+          "Actress",
+          "Professional: Received critical acclaim and a Breakthrough Performance Award for her role in Precious (2009)."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Occupation / Skill"
+          },
+          {
+            "snippet": "Proficiency & Notable Abilities"
+          }
+        ],
+        [
+          {
+            "snippet": "Singer / Vocalist"
+          },
+          {
+            "snippet": "whistle register"
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriter"
+          },
+          {
+            "snippet": "Songwriters Hall of Fame"
+          }
+        ],
+        [
+          {
+            "snippet": "Record Producer"
+          },
+          {
+            "snippet": "Expert: Actively produces her own tracks; she holds the record for the most #1 singles for a female producer."
+          }
+        ],
+        [
+          {
+            "snippet": "Arranger"
+          },
+          {
+            "snippet": "Advanced: Known for complex vocal arrangements and popularizing the \"pop-meets-hip-hop\" remix format."
+          }
+        ],
+        [
+          {
+            "snippet": "Actress"
+          },
+          {
+            "snippet": "Professional: Received critical acclaim and a Breakthrough Performance Award for her role in Precious (2009)."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "occupation_skill": "Singer / Vocalist",
+          "proficiency_notable_abilities": "whistle register"
+        },
+        {
+          "occupation_skill": "Songwriter",
+          "proficiency_notable_abilities": "Songwriters Hall of Fame"
+        },
+        {
+          "occupation_skill": "Record Producer",
+          "proficiency_notable_abilities": "Expert: Actively produces her own tracks; she holds the record for the most #1 singles for a female producer."
+        },
+        {
+          "occupation_skill": "Arranger",
+          "proficiency_notable_abilities": "Advanced: Known for complex vocal arrangements and popularizing the \"pop-meets-hip-hop\" remix format."
+        },
+        {
+          "occupation_skill": "Actress",
+          "proficiency_notable_abilities": "Professional: Received critical acclaim and a Breakthrough Performance Award for her role in Precious (2009)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Musical Abilities"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Vocal Agility: Exceptional ability to perform complex riffs and runs with perfect pitch and clear note separation."
+        },
+        {
+          "snippet": "Genre Versatility: Seamlessly blends R&B, Pop, Hip-Hop, Soul, and Gospel."
+        },
+        {
+          "snippet": "Whistle Register: Capable of articulating words and sustaining notes in the extremely high whistle range (up to F#7)."
+        },
+        {
+          "snippet": "Improvisation: High proficiency in live vocal improvisation and \"breaking the fourth wall\" in recordings. Medium +5"
+        }
+      ],
+      "reference_indexes": [
+        24,
+        17,
+        25,
+        16,
+        27,
+        28
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Mariah Carey - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Mariah_Carey%23:~:text%3DMariah%2520Carey%2520(/m%25C9%2599%25CB%2588,by%2520Rolling%2520Stone%2520in%25202023.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAC&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "For the album, see Mariah Carey (album). * Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/ m\u0259-RY-\u0259; born March 27, 1969) is an American singer-songwriter,",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/92gRR2dEzeVKBCbNRVWjaQC3yTusCLdVQUZW9NX3UEk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/NuCC2VvC2CRzNxgMD959lgkP3FWj7PN_TaUy3-wNFU4.png",
+      "index": 0
+    },
+    {
+      "title": "Mariah Carey - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Mariah_Carey%23:~:text%3DMariah%2520Carey%2520(/m%25C9%2599%25CB%2588,by%2520Rolling%2520Stone%2520in%25202023.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAG&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "For the album, see Mariah Carey (album). * Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/ m\u0259-RY-\u0259; born March 27, 1969) is an American singer-songwriter,",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/4I_EZLztetn2hpDRUNE3ZRsH4hDbUoNchKhyexFyzeM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/PXQr9mViQMbdIhLuOVmseIyBoQEF8Yu5KTY2GpEBGZk.png",
+      "index": 1
+    },
+    {
+      "title": "Describe Mariah Carey as an overall artist in music history?",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/RandBSlowJamsOldandNew/posts/9178769508835143/%23:~:text%3DSpotlight:%2520Mariah%2520Carey%252027th%257CMarch,music%2520through%2520her%2520crossover%2520collaborations.%26text%3DBello%2520Raymond%2520%25E2%2596%25BA%2520Old%2520School%2520Beatz%2520Classics%2520and%2520More!&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAK&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Nov 25, 2024 \u2014 Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/; born March 27, 1969)[a] is an American singer, songwriter, record producer, and actress. [1][2] Referred ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/n2OsIXoyrPL1qVvb2sYsdDfP9pFle7rz7Zcm5a2rQ2A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/D7i_FxYHEY-Kjc0PRYsSswlD_rGFrhYmS_Gp6ik1qks.png",
+      "index": 2
+    },
+    {
+      "title": "Mariah Carey | Mariah Carey Wiki | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://mariahcarey.fandom.com/wiki/Mariah_Carey%23:~:text%3DGeneral%2520information,%25E2%258B%2585%2520record%2520producer%2520%25E2%258B%2585%2520actress&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAO&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "General information. Birth name. Mariah Angela Carey. Born. March 27, 1969 (age 56) Huntington, New York, USA. Spouse. Nick Cannon...",
+      "source": "Mariah Carey Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/gtA9vrqwrRY0QPAR1xT8pDbqGqd2wZru45MTn9OUNfM.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Vocal Range and Profile: Mariah Carey - Critic of Music",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://criticofmusic.com/vocal-profile-mariah-carey%23:~:text%3DShe%2520is%2520able%2520to%2520use,and%2520some%2520parts%2520were%2520removed.)&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAS&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Mar 8, 2013 \u2014 She is able to use voice cracks with control, in situations where she uses it to be emotive. The head voice and whistle register a...",
+      "source": "Critic of Music",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/G6Uf45jp7JubE9T7kdTXt-QPA3-u-veOtOqExijXKf4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/73307IC706CiL7uC8FUpvywYswNYXiLRBT7ot6rEXVI.png",
+      "index": 4
+    },
+    {
+      "title": "HAPPY 56th BIRTHDAY! to Mariah Carey born 27 March 1969 ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/thepurplestream/posts/happy-56th-birthday-to-mariah-carey-born-27-march-1969-mariah-reveals-insights-i/1179482120501173/%23:~:text%3DHAPPY%252056th%2520BIRTHDAY!,care%2520about%2520the%2520big%2520system.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAW&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Mar 26, 2025 \u2014 \"HAPPY 55TH BIRTHDAY TO MARIAH CAREY\" \ud83e\udd73\ud83e\udd29\ud83c\udf82\ud83c\udf81\ud83c\udf88\ud83c\udf7e\ud83e\udd42\ud83c\udf89\ud83c\udf8a Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/; born March 27, 1969)[a] is an American singer, s...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/cGUruXxwGHHZ9emOSxAXkELbHD-PcRcRl0FsCORzSNU.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Mariah Carey\u2019s homes: from a Long Island store to Los Angeles ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.loveproperty.com/gallerylist/124395/mariah-careys-homes-from-a-long-island-store-to-los-angelesmansions%23:~:text%3DMariah%2520Carey's%2520Bel%2520Air%2520mansion%26text%3DNot%2520long%2520after%2520her%2520marriage,as%2520'Fleur%2520de%2520Lys'.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAa&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Jun 30, 2023 \u2014 Where does Mariah Carey live? ... As one of the most successful music artists in the world, Mariah Carey has spent her fair share ...",
+      "source": "lovePROPERTY",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/pR2fObydvMa-cT4KW-JZBpLiri93asz6X7GHYGT9rFc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/phR6AjJ_Q4MC5U-5ZBMJqEOoRQqM2KwrD_eWCB9tNys.png",
+      "index": 6
+    },
+    {
+      "title": "Mariah Carey: The Songwriter With A Music Box | by J | Medium",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://lucascava.medium.com/mariah-carey-the-songwriter-with-a-music-box-7e1d730660ef%23:~:text%3DIt%2520simply%2520can't%2520be,wrong%2520thing%2520with%2520my%2520voice.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAe&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "May 11, 2019 \u2014 It simply can't be denied that apart from being a passionate songwriter, Carey is an incredible vocalist, possessing one of the gr...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/eFYbNsc1z1_lcvRURPJowNBcCEFnsAOz12ItaCMRIa8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/DZLXDXi7WWgnz6lAOEo6aDkTiwuB16WmntCCHbTenDU.png",
+      "index": 7
+    },
+    {
+      "title": "Mariah Carey's Atlanta-Area Home Listed for Sale at $6.5 million",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.today.com/popculture/music/mariah-carey-selling-atlanta-home-rcna47394%23:~:text%3DAccording%2520to%2520The%2520Wall,Estate%2520Christie's%2520International%2520to%2520TODAY.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAi&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Sep 12, 2022 \u2014 According to The Wall Street Journal, Carey purchased the home in November 2021 for $5.65 million. Bradley told the WSJ that Carey...",
+      "source": "TODAY.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/IA7SftafFCCiB6oJy-enbIM3XcwFpx5tTG4wPgXCre0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/ZlyLpGDFem_twLFEZoLUFG_eYNUH_81Io38coFdMdzI.png",
+      "index": 8
+    },
+    {
+      "title": "Mariah Carey | Biography, Albums, Songs, Movies ... - Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Mariah-Carey%23:~:text%3DQuick%2520Facts,York%252C%2520U.S.%2520(age%252056)&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAm&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Feb 6, 2026 \u2014 Quick Facts. Born: March 27, 1969, Huntington, New York, U.S. (age 56)",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/F813EtxYTZ_k4lnQdSZhcEq1saNAk4xMDURhLH4qqKQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/tEczNUr9IFnSumL8ttBZDtB0DSl1xUiVSHDHdIQdfIU.png",
+      "index": 9
+    },
+    {
+      "title": "Inside Mariah Carey's Extraordinary $12.4 Million Connecticut ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.realtor.com/news/celebrity-real-estate/mariah-carey-connecticut-mansion-sale/%23:~:text%3DInside%2520Mariah%2520Carey's%2520Extraordinary%2520$12.4%2520Million%2520Connecticut%2520Hideaway:%2520'A%2520True,%252C%2520%25E2%2580%259CMade%2520for%2520Me.%25E2%2580%259D&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAq&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Jun 29, 2025 \u2014 Inside Mariah Carey's Extraordinary $12.4 Million Connecticut Hideaway: 'A True Masterpiece' * The Connecticut retreat superstar M...",
+      "source": "Realtor.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/D9F51c0iwlgxTGVix3h2bVL7dhbOQaZL9iBEnJdhI4s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/H5P04UQBeJslTgLOpgiRrD8yRQYqYTX1MCoTilKwnlU.png",
+      "index": 10
+    },
+    {
+      "title": "Where singer Mariah Carey lives today",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.immobiliare.it/news/en/real-estate-market/houses-villas-and-apartment-buildings/where-does-mariah-carey-live-471931/%23:~:text%3DBel%252DAir%252C%2520Los%2520Angeles%2520(,attached%252C%2520and%2520other%2520occasional%2520residences.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAu&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Feb 6, 2026 \u2014 Bel-Air, Los Angeles (2009): Carey and Cannon bought the Fleur de Lys mansion, a classic celebrity residence with a swimming pool,",
+      "source": "Immobiliare.it",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/L0SLSOYGloUAi3nzw63nYtLMf1DgAaSF8hSy9VGhuPk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/lvockcMTiwBPjg8xF4UHRgqAN8VR--m86_whuQa-7Rc.png",
+      "index": 11
+    },
+    {
+      "title": "Mariah Carey's Music Career Over Four Decades - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/susancrebello/posts/3830198260597828/%23:~:text%3DMariah%2520Carey%252C%2520born%2520in%25201969,her%2520a%2520true%2520music%2520legend.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBAy&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Jul 15, 2024 \u2014 Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/; born March 27, 1969)[a] is an American singer, songwriter, record producer, and actress. [1][2] Referred ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/XyoUdsTMPPPDlZpGDsMg9K7aNE5cImOhstkwL1sWUUA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/OtXOadhAEMiEUpNFm-WRvW-qXfKa4bSrQiQNL7nFMe0.png",
+      "index": 12
+    },
+    {
+      "title": "Born this day (March 27) in 1969, Mariah Carey is an American ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1195271791129874/posts/1363220837668301/%23:~:text%3DMariah%2520Carey%2520born%2520March%252027,%2523MOTOWNFOREVER.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBA2&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Mar 27, 2024 \u2014 HAPPY 55th BIRTHDAY Mariah Carey (born March 27, 1969) is a singer, songwriter, record producer and actress. Referred to as the \"S...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/O_a21D44hUL2FLyC9EGhhgTdODEWQRYh2BhJBhuMTnw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/9Zvzod769B324-yn3d4wAUVjNvPzbOTCQxqZ29Q4Y3s.png",
+      "index": 13
+    },
+    {
+      "title": "Mariah Carey is widely regarded as one of the most technically ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DTIeZjsgfCI/%23:~:text%3Dsongsthatshouldnotwork-,Mariah%2520Carey%2520is%2520widely%2520regarded%2520as%2520one%2520of%2520the%2520most,mainstream%2520artist%2520of%2520her%2520era.%26text%3DI%2520had%2520this%2520cassette%2520tape!&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBA6&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Jan 5, 2026 \u2014 Mariah Carey is widely regarded as one of the most technically gifted vocalists in modern music history, known for her extraordina...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/4uP6KecxXLqgB1XYz2PbiORmLALduCNx3hZIAttGksk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/Dk-csTvc9Wg_GifjNtRYVhrLC3I8NSAPy1qNHZ6XRC4.png",
+      "index": 14
+    },
+    {
+      "title": "Mariah Carey's vocal profile : r/MariahCarey - Reddit",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.reddit.com/r/MariahCarey/comments/16hp5t6/mariah_careys_vocal_profile/%23:~:text%3DMariah%252Cin%2520fact%252C%2520can%2520achieve,to%2520produce%2520rasp%2520and%2520hoarseness.&ved=2ahUKEwjrjs3uvMiSAxWGsVYBHStBNoYQ1fkOegQIDBA-&opi=89978449&cd&psig=AOvVaw04XqH-21QOTdTLU_hOwiuw&ust=1770591336704000",
+      "snippet": "Sep 13, 2023 \u2014 Mariah Carey's vocal profile * Lower register = 7.5/10: Mariah is capable of carrying good-great projection and sustaining neutral...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c2e8e3e176533a5836f2/images/7a_cLS4VfNxqDRL-XQuoPvI8M83uO5QfJ6mM7til4t0.png",
+      "index": 15
+    },
+    {
+      "title": "Describe Mariah Carey as an overall artist in music history?",
+      "link": "https://www.facebook.com/groups/RandBSlowJamsOldandNew/posts/9178769508835143/#:~:text=Spotlight:%20Mariah%20Carey%2027th%7CMarch,music%20through%20her%20crossover%20collaborations.&text=Bello%20Raymond%20%E2%96%BA%20Old%20School%20Beatz%20Classics%20and%20More!",
+      "snippet": "Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/; born March 27, 1969)[a] is an American singer, songwriter, record producer, and actress. [1][2] Referred ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoe3_6RiaMQlBd6bBJmcUbwzJwGvMgeLpJ6SYsbJigmEIkKw2_",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Mariah Carey | Mariah Carey Wiki | Fandom",
+      "link": "https://mariahcarey.fandom.com/wiki/Mariah_Carey#:~:text=General%20information,%E2%8B%85%20record%20producer%20%E2%8B%85%20actress",
+      "snippet": "General information. Birth name. Mariah Angela Carey. Born. March 27, 1969 (age 56) Huntington, New York, USA. Spouse. Nick Cannon...",
+      "source": "Mariah Carey Wiki",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8BMqJ4MBR3CLu5ihc7HycHNzJFLYohkmnRs1mMDfavG-E-TpX",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://mariahcarey.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Mariah Carey | Biography, Albums, Songs, Movies ... - Britannica",
+      "link": "https://www.britannica.com/biography/Mariah-Carey#:~:text=Quick%20Facts,York%2C%20U.S.%20(age%2056)",
+      "snippet": "Quick Facts. Born: March 27, 1969, Huntington, New York, U.S. (age 56)",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVmb1c7zUd15P31zxSoE9ugE4-iRggtCSk200PZeoG1cBHSl-V",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Mariah Carey's Atlanta-Area Home Listed for Sale at $6.5 million",
+      "link": "https://www.today.com/popculture/music/mariah-carey-selling-atlanta-home-rcna47394#:~:text=According%20to%20The%20Wall,Estate%20Christie's%20International%20to%20TODAY.",
+      "snippet": "According to The Wall Street Journal, Carey purchased the home in November 2021 for $5.65 million. Bradley told the WSJ that Carey...",
+      "source": "TODAY.com",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ97qNRA7ey0Yp9tQKhA_mwCA0Rk4B_LsLFmIdVsGENq3uVWiLG",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.today.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Where singer Mariah Carey lives today",
+      "link": "https://www.immobiliare.it/news/en/real-estate-market/houses-villas-and-apartment-buildings/where-does-mariah-carey-live-471931/#:~:text=Bel%2DAir%2C%20Los%20Angeles%20(,attached%2C%20and%20other%20occasional%20residences.",
+      "snippet": "Bel-Air, Los Angeles (2009): Carey and Cannon bought the Fleur de Lys mansion, a classic celebrity residence with a swimming pool,",
+      "source": "Immobiliare.it",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQt4B8817uPyFDmR9r9ug7iIKi2syZPjE5yxPdgZrS2CAe2E29s",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.immobiliare.it&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Mariah Carey\u2019s homes: from a Long Island store to Los Angeles ...",
+      "link": "https://www.loveproperty.com/gallerylist/124395/mariah-careys-homes-from-a-long-island-store-to-los-angelesmansions#:~:text=Mariah%20Carey's%20Bel%20Air%20mansion&text=Not%20long%20after%20her%20marriage,as%20'Fleur%20de%20Lys'.",
+      "snippet": "Where does Mariah Carey live? ... As one of the most successful music artists in the world, Mariah Carey has spent her fair share ...",
+      "source": "lovePROPERTY",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRI3_wJ41jrdeWJY4rkkC4lb_jAEeG_XxEY1va-DhsTVawV9YeP",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.loveproperty.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Inside Mariah Carey's Extraordinary $12.4 Million Connecticut ...",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/mariah-carey-connecticut-mansion-sale/#:~:text=Inside%20Mariah%20Carey's%20Extraordinary%20$12.4%20Million%20Connecticut%20Hideaway:%20'A%20True,%2C%20%E2%80%9CMade%20for%20Me.%E2%80%9D",
+      "snippet": "Inside Mariah Carey's Extraordinary $12.4 Million Connecticut Hideaway: 'A True Masterpiece' * The Connecticut retreat superstar M...",
+      "source": "Realtor.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMasB0y-8cpZ_5zy-Bx9yNjYmcpa22H6VbBHV1HnGngFpBIvcH",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Mariah Carey - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mariah_Carey#:~:text=Mariah%20Carey%20(/m%C9%99%CB%88,by%20Rolling%20Stone%20in%202023.",
+      "snippet": "For the album, see Mariah Carey (album). * Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/ m\u0259-RY-\u0259; born March 27, 1969) is an American singer-songwriter,",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4j3lDytxVuUWSVWI_cKLv_qCdAViCX7sFrDGAoI2_oPKrj8Ni",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Mariah Carey's vocal profile : r/MariahCarey - Reddit",
+      "link": "https://www.reddit.com/r/MariahCarey/comments/16hp5t6/mariah_careys_vocal_profile/#:~:text=Mariah%2Cin%20fact%2C%20can%20achieve,to%20produce%20rasp%20and%20hoarseness.",
+      "snippet": "Mariah Carey's vocal profile * Lower register \\u003d 7.5/10: Mariah is capable of carrying good-great projection and sustaining neutral...",
+      "source": "Reddit",
+      "thumbnail": "https://www.reddit.com/r/MariahCarey/comments/16hp5t6/mariah_careys_vocal_profile/",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Vocal Range and Profile: Mariah Carey - Critic of Music",
+      "link": "https://criticofmusic.com/vocal-profile-mariah-carey#:~:text=She%20is%20able%20to%20use,and%20some%20parts%20were%20removed.)",
+      "snippet": "She is able to use voice cracks with control, in situations where she uses it to be emotive. The head voice and whistle register a...",
+      "source": "Critic of Music",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9jJmZYv0M1vhPHh3HNMjPkWpGsCrAGhuIO3k0yQjdefyhzvHJ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://criticofmusic.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Mariah Carey's Music Career Over Four Decades - Facebook",
+      "link": "https://www.facebook.com/groups/susancrebello/posts/3830198260597828/#:~:text=Mariah%20Carey%2C%20born%20in%201969,her%20a%20true%20music%20legend.",
+      "snippet": "Mariah Carey (/m\u0259\u02c8ra\u026a\u0259/; born March 27, 1969)[a] is an American singer, songwriter, record producer, and actress. [1][2] Referred ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnV_T7lY-zRZ3rUTVuI54f6b1m1V9Ug0AMRIKZ2OX87w_mACrI",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Mariah Carey: The Songwriter With A Music Box | by J | Medium",
+      "link": "https://lucascava.medium.com/mariah-carey-the-songwriter-with-a-music-box-7e1d730660ef#:~:text=It%20simply%20can't%20be,wrong%20thing%20with%20my%20voice.",
+      "snippet": "It simply can't be denied that apart from being a passionate songwriter, Carey is an incredible vocalist, possessing one of the gr...",
+      "source": "Medium",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKgosL0EsgkZ_bhtOHwb6LkfAj8la17krrJzgfHQIIx8xtbZQP",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lucascava.medium.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Mariah Carey is widely regarded as one of the most technically ...",
+      "link": "https://www.instagram.com/reel/DTIeZjsgfCI/#:~:text=songsthatshouldnotwork-,Mariah%20Carey%20is%20widely%20regarded%20as%20one%20of%20the%20most,mainstream%20artist%20of%20her%20era.&text=I%20had%20this%20cassette%20tape!",
+      "snippet": "Mariah Carey is widely regarded as one of the most technically gifted vocalists in modern music history, known for her extraordina...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQW0pt32tYF8TKd2Pjmx-I7DlqGR400TG5OkPQAVgj_6FdwHmGK",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are Mariah Carey's biggest music career achievements?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+Mariah+Carey%27s+biggest+music+career+achievements%3F&subsequent_request_token=eY6UJnicRZBJrqNWAEWlrIRhlRTq02Pr6w_obDCNbZpHM0EYHpjONH50HicbiUqJlA1kAVlFZTVJDZLcOzy60tH9-RdY_sGZupqExkuNcDiPxGWeKh0Xuq-wGdNvf0ptt4QusJMqk9ODdfKIaEsflmnTIZHR3itp7DKkGwSOvW3VHXtWPNKST0nUgoNDRa3lRUxAacx1IwngWr5J1dTVYy3DIZsrHfm-Kr5CYG9Ju69sT9lCApDwuF_s9lA6SmSmL5AAYK1JAMTIs0XlnlKuh7QQNCas74nhAyqtxGv2AIOzkeJt7QzT6_OMYJeEOiVQLn6fnnCMkwI-0Len2b3Kpkne2C8E9ikgyXfMKB_Tiq07LuaYz5jQ9w304U0v0RtL819oDvukq65p_Ig1ZQ2xI0zr7jMm3ceuhW8kvftCfC_mJHkylv9OlKz4n_2adl1dwr9--CmOHZhOI8Qd1758CDInd8WEchUhrTThUiMe190tNZIbX03r1NnTMUj3BHlkgoCRxPjo5wdRCuTAQPW6TiJ3Z3vQLcYQsNuDDx2Ji4bsFPhzaPFZr22z-I4JivQhJKc2YSd-pNmpYj1k3mTzkBkDvp10tO-6l8fV4RxRAbO6rnsr5MdSX1t0qpf6HftPWvQkXXE_JL2W3jFLkz9Yavdh21mqHKgML_z7E4cPviithcWpXE6Gzp8OolZcBiaQSPEiH_hZZe9rWMUaONf2i6FSpuTIOh3wzn6RF4dJrdngFk2bc2tX61vln9uCYNGefZY4xcB7bLOiTia2-pyLAhnocuC0QKUVSyrQQ-QCPWOTa5ClUdk-drjY8rDPBD_v0_TJtQfCFh4cNILuetfLvfVq9vx4QYZm7wZur-_i0ENnxV3v1aho6zXS_G49nfva0Aok-WQlEiVOIEBdCYWlbntoVXkB9HBp3zHn-x2CouiDhtTQCdxnDCLTm4gxTscczxYjlui4UboXH-kuKCW1dWbA8fMcWURU0BUom8ss3GN6eCHfAbfjCs9UDonTU9_rUcrQvM7N13dMBh9PrpCKWtRBqLCF0GWEGKu9qSmLfW4Wsj5nxLy91lMYLbUgnOWRyQ-K2RteuZjCP_naPlH97TfBQ8qayzK4z0d47PurzAuZdDbq7uwbIvvcrGL3MNpoU-5JGwi3fsgl02qPucMoljfKetStk6ct2oO8kK7WicgTRgZcJqZV3Wu-dmVuJqGl8yEsSD667JUUrarm5n2lcYcnMCrm_JAvEdmZp0QTj6XN9AnVlMmg93joDNl2tINR-RvKZ4x-"
+    },
+    {
+      "question": "What's Mariah Carey's vocal range, and how has it been described?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What%27s+Mariah+Carey%27s+vocal+range%2C+and+how+has+it+been+described%3F&subsequent_request_token=eY6UJnicRZBJrqNWAEWlrIRhlRTq02Pr6w_obDCNbZpHM0EYHpjONH50HicbiUqJlA1kAVlFZTVJDZLcOzy60tH9-RdY_sGZupqExkuNcDiPxGWeKh0Xuq-wGdNvf0ptt4QusJMqk9ODdfKIaEsflmnTIZHR3itp7DKkGwSOvW3VHXtWPNKST0nUgoNDRa3lRUxAacx1IwngWr5J1dTVYy3DIZsrHfm-Kr5CYG9Ju69sT9lCApDwuF_s9lA6SmSmL5AAYK1JAMTIs0XlnlKuh7QQNCas74nhAyqtxGv2AIOzkeJt7QzT6_OMYJeEOiVQLn6fnnCMkwI-0Len2b3Kpkne2C8E9ikgyXfMKB_Tiq07LuaYz5jQ9w304U0v0RtL819oDvukq65p_Ig1ZQ2xI0zr7jMm3ceuhW8kvftCfC_mJHkylv9OlKz4n_2adl1dwr9--CmOHZhOI8Qd1758CDInd8WEchUhrTThUiMe190tNZIbX03r1NnTMUj3BHlkgoCRxPjo5wdRCuTAQPW6TiJ3Z3vQLcYQsNuDDx2Ji4bsFPhzaPFZr22z-I4JivQhJKc2YSd-pNmpYj1k3mTzkBkDvp10tO-6l8fV4RxRAbO6rnsr5MdSX1t0qpf6HftPWvQkXXE_JL2W3jFLkz9Yavdh21mqHKgML_z7E4cPviithcWpXE6Gzp8OolZcBiaQSPEiH_hZZe9rWMUaONf2i6FSpuTIOh3wzn6RF4dJrdngFk2bc2tX61vln9uCYNGefZY4xcB7bLOiTia2-pyLAhnocuC0QKUVSyrQQ-QCPWOTa5ClUdk-drjY8rDPBD_v0_TJtQfCFh4cNILuetfLvfVq9vx4QYZm7wZur-_i0ENnxV3v1aho6zXS_G49nfva0Aok-WQlEiVOIEBdCYWlbntoVXkB9HBp3zHn-x2CouiDhtTQCdxnDCLTm4gxTscczxYjlui4UboXH-kuKCW1dWbA8fMcWURU0BUom8ss3GN6eCHfAbfjCs9UDonTU9_rUcrQvM7N13dMBh9PrpCKWtRBqLCF0GWEGKu9qSmLfW4Wsj5nxLy91lMYLbUgnOWRyQ-K2RteuZjCP_naPlH97TfBQ8qayzK4z0d47PurzAuZdDbq7uwbIvvcrGL3MNpoU-5JGwi3fsgl02qPucMoljfKetStk6ct2oO8kK7WicgTRgZcJqZV3Wu-dmVuJqGl8yEsSD667JUUrarm5n2lcYcnMCrm_JAvEdmZp0QTj6XN9AnVlMmg93joDNl2tINR-RvKZ4x-"
+    },
+    {
+      "question": "What's Mariah's role in popularizing hip-hop remixes?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What%27s+Mariah%27s+role+in+popularizing+hip-hop+remixes%3F&subsequent_request_token=eY6UJnicRZBJrqNWAEWlrIRhlRTq02Pr6w_obDCNbZpHM0EYHpjONH50HicbiUqJlA1kAVlFZTVJDZLcOzy60tH9-RdY_sGZupqExkuNcDiPxGWeKh0Xuq-wGdNvf0ptt4QusJMqk9ODdfKIaEsflmnTIZHR3itp7DKkGwSOvW3VHXtWPNKST0nUgoNDRa3lRUxAacx1IwngWr5J1dTVYy3DIZsrHfm-Kr5CYG9Ju69sT9lCApDwuF_s9lA6SmSmL5AAYK1JAMTIs0XlnlKuh7QQNCas74nhAyqtxGv2AIOzkeJt7QzT6_OMYJeEOiVQLn6fnnCMkwI-0Len2b3Kpkne2C8E9ikgyXfMKB_Tiq07LuaYz5jQ9w304U0v0RtL819oDvukq65p_Ig1ZQ2xI0zr7jMm3ceuhW8kvftCfC_mJHkylv9OlKz4n_2adl1dwr9--CmOHZhOI8Qd1758CDInd8WEchUhrTThUiMe190tNZIbX03r1NnTMUj3BHlkgoCRxPjo5wdRCuTAQPW6TiJ3Z3vQLcYQsNuDDx2Ji4bsFPhzaPFZr22z-I4JivQhJKc2YSd-pNmpYj1k3mTzkBkDvp10tO-6l8fV4RxRAbO6rnsr5MdSX1t0qpf6HftPWvQkXXE_JL2W3jFLkz9Yavdh21mqHKgML_z7E4cPviithcWpXE6Gzp8OolZcBiaQSPEiH_hZZe9rWMUaONf2i6FSpuTIOh3wzn6RF4dJrdngFk2bc2tX61vln9uCYNGefZY4xcB7bLOiTia2-pyLAhnocuC0QKUVSyrQQ-QCPWOTa5ClUdk-drjY8rDPBD_v0_TJtQfCFh4cNILuetfLvfVq9vx4QYZm7wZur-_i0ENnxV3v1aho6zXS_G49nfva0Aok-WQlEiVOIEBdCYWlbntoVXkB9HBp3zHn-x2CouiDhtTQCdxnDCLTm4gxTscczxYjlui4UboXH-kuKCW1dWbA8fMcWURU0BUom8ss3GN6eCHfAbfjCs9UDonTU9_rUcrQvM7N13dMBh9PrpCKWtRBqLCF0GWEGKu9qSmLfW4Wsj5nxLy91lMYLbUgnOWRyQ-K2RteuZjCP_naPlH97TfBQ8qayzK4z0d47PurzAuZdDbq7uwbIvvcrGL3MNpoU-5JGwi3fsgl02qPucMoljfKetStk6ct2oO8kK7WicgTRgZcJqZV3Wu-dmVuJqGl8yEsSD667JUUrarm5n2lcYcnMCrm_JAvEdmZp0QTj6XN9AnVlMmg93joDNl2tINR-RvKZ4x-"
+    }
+  ]
+}

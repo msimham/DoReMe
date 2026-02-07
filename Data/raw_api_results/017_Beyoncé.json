@@ -1,0 +1,591 @@
+{
+  "search_metadata": {
+    "id": "6987c2f0fdfbab7592679358",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rtfm2pSiA-re7mvzzpoKkg/6987c2f0fdfbab7592679358.json",
+    "created_at": "2026-02-07 22:55:44 UTC",
+    "processed_at": "2026-02-07 22:55:44 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Beyonc%C3%A9%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Beyonc%C3%A9%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/rtfm2pSiA-re7mvzzpoKkg/6987c2f0fdfbab7592679358.html",
+    "prettify_html_file": "https://serpapi.com/searches/rtfm2pSiA-re7mvzzpoKkg/6987c2f0fdfbab7592679358.prettify",
+    "total_time_taken": 8.26
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Beyonc\u00e9, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "fgY4yHicTVJJjqtWAJRyEpb_S3E3g8G0Wr1gMmBGMxo2iMk84OFnJoORssxFoq9EygVygJzi5zTpLKKkalelKtWifv6lrP9gc01Jo1kXcl1tbdWe2B2ouPFbCYf8-59Ch5bIC6gCxkYZOpqlACuWoBqQcDCPxebXhJ81_By3cPMo3o-ogC7Edjp7_hRsgPBg3ATdiocuIZwbY4vw0xRtfGQosVmEQWtAqAe-T_li4WSbY-bhdM5x42luR9UnnM4Qj9Ch-CDeHFRQkJdAvo_wSY0CSHiS2XgSHHwJnguxmlK54PMV6b7yuVUOlhhXSTPMf5_HckjSqrxN338y0FZDmL7SLzj2JaxvBVpGzPQwAn_B37FPgdm_Yyuz_4px9zsswzLT6umVpg4vFIN90RTP0H_EYN2WmFzmLfqKCWBAXflKUOQL_g8xN72mQ_1vRCqq_7xfc4TauvzrB4yThA8uPXUpPQaOuyLrtqCLUdHKvJjkpS3Mw0jtn3Rxk3nnsO0TtYqJblLQDReEmHvHksQt83kod7wvaJL3Idit8I6JwYfPwBPox4X1_GVUzvjTypIrSZy21YUL3T0Am3tPH7iHheU4Xmhk2WduXrzuKp_7xP-aXc-xPziREVE1E4WK33ak4drbZ9ljT1iCIFWKvcxKss9Li9ZRabJye4zj_Xytn7JEUeEA6fF0-HzJmdAkoWEO0oDYWgn6RDV04_K0OKdU7Vp_x0xV_KBJ9iNwkC0fkKu7-wqohYfnLBBEL-M06cSm7nASMv8evwGXaTmFOZbdJRk8XpnnaLjLjIAs4dknoqJxtKFSpxStMZM3N0eSnnUxRWU_9huw55zNvClM-jNRLU_12tQr6LZwa5EXtKRSbwOdTS1HWwvH6Ku17IwzS_or1TB9aMNTrtLM2ZCBFnrd0QZwlNuAahAnz0aMp1zVgwdE5jG3OjNkDdYH-fSka1KXI11qg3K-qwFlHimorplHm20_1W1I6ps4GIucADzolTFsz9-6cWq__8b5k7Re-ZwujgOpU-G2C3azfK8UWb3ib5e4te8V5HQNJVKc1OgIGLHPzGj_OCiZiUbiIbm8zA1FMw-MKFntVpNOt4ikAq5MfAHa4ihX9rC7Nk-dEuVDBbbsMertLd1qfeorXRvI69U1GntNmUEchjxni7dJATA90eKlvmzOZRnZ6G_MpW_j",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of 2026, Beyonc\u00e9 Knowles-Carter is 44 years old, having been born on September 4, 1981.",
+      "reference_indexes": [
+        19,
+        20
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities, and Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Beyonc\u00e9 is a \"vocal virtuoso\" and \"triple-threat\" entertainer whose proficiency is considered elite within the industry.",
+      "reference_indexes": [
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        21,
+        23,
+        22,
+        20,
+        19,
+        24,
+        25,
+        26,
+        27
+      ],
+      "table": [
+        [
+          "Category",
+          "Skills & Abilities",
+          "Proficiency"
+        ],
+        [
+          "Vocal Performance",
+          "4-octave range (coloratura mezzo-soprano); mastery of riffs, runs, and vocal technicality.",
+          "Virtuoso"
+        ],
+        [
+          "Live Performance",
+          "High-intensity dancing while singing; creative direction of global tours.",
+          "Elite/Master"
+        ],
+        [
+          "Songwriting",
+          "Composition and arrangement across R&B, Pop, Hip-Hop, and Country.",
+          "Professional"
+        ],
+        [
+          "Production",
+          "Executive production of albums and visual films; owns master recordings via Parkwood Entertainment.",
+          "Powerhouse"
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Category"
+          },
+          {
+            "snippet": "Skills & Abilities"
+          },
+          {
+            "snippet": "Proficiency"
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Performance"
+          },
+          {
+            "snippet": "4-octave range (coloratura mezzo-soprano); mastery of riffs, runs, and vocal technicality."
+          },
+          {
+            "snippet": "Virtuoso"
+          }
+        ],
+        [
+          {
+            "snippet": "Live Performance"
+          },
+          {
+            "snippet": "High-intensity dancing while singing; creative direction of global tours."
+          },
+          {
+            "snippet": "Elite/Master"
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriting"
+          },
+          {
+            "snippet": "Composition and arrangement across R&B, Pop, Hip-Hop, and Country."
+          },
+          {
+            "snippet": "Professional"
+          }
+        ],
+        [
+          {
+            "snippet": "Production"
+          },
+          {
+            "snippet": "Executive production of albums and visual films; owns master recordings via Parkwood Entertainment."
+          },
+          {
+            "snippet": "Powerhouse"
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "category": "Vocal Performance",
+          "skills_abilities": "4-octave range (coloratura mezzo-soprano); mastery of riffs, runs, and vocal technicality.",
+          "proficiency": "Virtuoso"
+        },
+        {
+          "category": "Live Performance",
+          "skills_abilities": "High-intensity dancing while singing; creative direction of global tours.",
+          "proficiency": "Elite/Master"
+        },
+        {
+          "category": "Songwriting",
+          "skills_abilities": "Composition and arrangement across R&B, Pop, Hip-Hop, and Country.",
+          "proficiency": "Professional"
+        },
+        {
+          "category": "Production",
+          "skills_abilities": "Executive production of albums and visual films; owns master recordings via Parkwood Entertainment.",
+          "proficiency": "Powerhouse"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary: Singer-songwriter, Producer, Director, and Record Executive."
+        },
+        {
+          "snippet": "Business: In 2026, she officially achieved billionaire status. Her business portfolio includes her entertainment company Parkwood Entertainment, hair care brand C\u00e9cred, and whiskey label SirDavis."
+        },
+        {
+          "snippet": "Other: Actress and Philanthropist (founder of BeyGOOD)."
+        }
+      ],
+      "reference_indexes": [
+        19,
+        22,
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Beyonc\u00e9 primarily resides in California with her family.",
+      "snippet_links": [
+        {
+          "text": "California",
+          "link": "https://www.google.com/search?q=California&kgmid=/m/01n7q&sa=X&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ3egRegQIChAC"
+        }
+      ],
+      "reference_indexes": [
+        31,
+        32
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary City: Los Angeles, CA."
+        },
+        {
+          "snippet": "Key Properties:",
+          "list": [
+            {
+              "snippet": "Bel Air, Los Angeles: An $88 million mansion used as a primary family home."
+            },
+            {
+              "snippet": "Malibu, CA: A record-breaking $200 million concrete estate purchased in 2023."
+            },
+            {
+              "snippet": "She also maintains a penthouse in New York City, NY (Tribeca) and a vacation home in East Hampton, NY."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        32,
+        31,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Beyonc\u00e9 - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Beyonc%25C3%25A9%23:~:text%3DBeyonc%25C3%25A9%2520Giselle%2520Knowles%252DCarter%2520(/,girl%2520groups%2520of%2520all%2520time.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAC&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Beyonc\u00e9 Giselle Knowles-Carter (/bi\u02c8\u0252nse\u026a/ bee-ON-say; born September 4, 1981) is an American singer, songwriter, actress, and bus...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/QDmFSPy-BU_J8AhFKC1LoIdVpuhVRvn8LAyTN5DpdXk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/Ziu2ykarvCNbmE3MofnwyrDJRF-csMVOmQm9f9635NU.png",
+      "index": 0
+    },
+    {
+      "title": "Beyonc\u00e9 - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Beyonc%25C3%25A9%23:~:text%3DTable_content:%2520header:%2520%257C%2520Beyonc%25C3%25A9%2520%257C%2520%257C%2520row:,Beyonc%25C3%25A9:%2520Years%2520active%2520%257C%2520:%25201990%25E2%2580%2593present%2520%257C&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAG&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Table_content: header: | Beyonc\u00e9 | | row: | Beyonc\u00e9: Born | : Beyonc\u00e9 Giselle Knowles September 4, 1981 Houston, Texas, US | row: ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/zYy0Fe4fSh2hnyVOXp4yAvqXgp-dHOx1pwyvr1CIPYM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/eZAEuZI2Y6iRhHTOIq9HG6t7Kkp14qpieA2aT9_2Zi0.png",
+      "index": 1
+    },
+    {
+      "title": "Beyonc\u00e9 | JH Wiki Collection 2.0 Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://jhwikicollection-20.fandom.com/wiki/Beyonc%25C3%25A9&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAK&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Jun 16, 2006 \u2014 Beyonc\u00e9 * Birth name. Beyonc\u00e9 Giselle Knowles. * Born on. September 4, 1981 (age 44) * Born at. Houston, Texas, U.S. * Other name(",
+      "source": "JH Wiki Collection 2.0 Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/9BUZQaUkrvyCPJ7HceQABaViegKNZcy_-UpCmGlgh9k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/YYkJPAeT5FR5QemHFXMAje7w-K47BydllrmpC2SE-Hw.png",
+      "index": 2
+    },
+    {
+      "title": "What makes Beyonc\u00e9 such a strong vocalist? An analysis ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.reddit.com/r/beyonce_knowles/comments/nxrxus/what_makes_beyonc%25C3%25A9_such_a_strong_vocalist_an/%23:~:text%3DQuick%2520Analysis:%2520Easily%2520one%2520of,is%2520one%2520of%2520a%2520kind.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAO&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Jun 11, 2021 \u2014 Here's the gist of it: Beyonc\u00e9 fully understands how to utilize her instrument, knows how to manipulate her body to support her br...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/v29xO9aqSfBqf1Po0Hsjs8bMMB4AbhjQcNHWjrKo5n4.png",
+      "index": 3
+    },
+    {
+      "title": "Beyonc\u00e9 has officially crossed the billion-dollar mark, joining a ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/p/DTGzkYxgP0O/%23:~:text%3D1,Link%2520in%2520our%2520bio&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAR&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Jan 4, 2026 \u2014 * talentedwomenafrica. talentedwomenafrica. Beyonc\u00e9 Knowles-Carter has officially joined the billionaire ranks, becoming one of th...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/YV4TQH-9bkhIofSnfQp4hXQ04ndxziwkTq_mKldzzS0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/mD0us4M73CrdprqYMuG4RiWtGMKdQXGpclTiIBJ0CLk.png",
+      "index": 4
+    },
+    {
+      "title": "Beyonc\u00e9 has become a billionaire, capitalizing on career ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.wtol.com/article/news/nation-world/beyonce-has-become-a-billionaire/507-d0c8f3a7-59b5-4668-ab41-e0082184d17f%23:~:text%3DBut%2520Beyonc%25C3%25A9%2520followed%2520that%2520success,her%2520wealth%2520comes%2520from%2520music.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAV&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Dec 29, 2025 \u2014 The company oversees her music, films, documentaries and concert productions, often fronting the costs in exchange for a larger sh...",
+      "source": "wtol.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/4JajnDd22Vh326HcCbmJ2qbHcbf_Qb00KIIDl0YGdxA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/IS8R0E2aoRBOYlT1its6sZUgU9bUrf_minzgAK_gXy0.png",
+      "index": 5
+    },
+    {
+      "title": "Beyonce - Houston Historical Tours",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.houstonhistoricaltours.com/BeyonceTour.html%23:~:text%3DAlthough%2520she%2520lives%2520in%2520Los,of%2520all%2520time:%2520Destiny's%2520Child.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAZ&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Although she lives in Los Angeles nowadays, and before that in New York City, Houston was her home for about her first twenty-one ...",
+      "source": "Houston Historical Tours",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/F6Wt3WCd0zdlQEzxJ3uJQR2nQEoO48ySvP8wQmhQq6k.png",
+      "index": 6
+    },
+    {
+      "title": "Beyonce | Biography, Songs, Movies, Grammy Awards, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Beyonce%23:~:text%3DBeyonc%25C3%25A9%2520(born%2520September%25204%252C%25201981,bringing%2520her%2520total%2520to%252035.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAc&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Feb 4, 2026 \u2014 Beyonc\u00e9 (born September 4, 1981, Houston, Texas, U.S.) is an American singer-songwriter and actress who achieved fame in the late ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/bujzZc49im9GF2WD2QPJWO-RmZ26n-FniepcChuYAZQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/OGLIhqh6Zd_2kjwsRFjqtOO1oPqk5a09MZr1S44VJws.png",
+      "index": 7
+    },
+    {
+      "title": "Inside Beyonc\u00e9 And Jay-Z's Luxurious Homes - Ramybrook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://offline.ramybrook.com/social-beat/inside-beyonce-and-jay-zs-luxurious-homes-1764797087%23:~:text%3DLet's%2520start%2520with%2520their%2520main,house%2520offers%252C%2520and%2520then%2520some.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAg&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Dec 4, 2025 \u2014 * The Bel Air Mega-Mansion: Their Primary Residence. Let's start with their main pad, shall we? Located in the swanky hills of Bel...",
+      "source": "Ramy Brook",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/ASy14gIQI-eBWpIr9S5Hfhr9ofp72qN3d_D_Q1RE-64.png",
+      "index": 8
+    },
+    {
+      "title": "Beyonc\u00e9's journey to mastery - Andscape",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://andscape.com/features/beyonce-journey-to-mastery/%23:~:text%3DAt%2520this%2520point%252C%2520no%2520curtain,whenever%2520I%2520hear%2520their%2520music.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAj&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Sep 29, 2023 \u2014 At this point, no curtain is big enough for Beyonc\u00e9. With a screen at least two stories high and running the width of the stage, s...",
+      "source": "Andscape",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/M8LEZ6DXxsdmYHzEc9yjQMwFuC8lEnBE50-1BWpLeLI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/Vt6Z5uWa0ke0EZTxCYwWPMWCYpVWxssCAUauRUmwlIg.png",
+      "index": 9
+    },
+    {
+      "title": "Beyonc\u00e9 Is Now A Billionaire - Forbes",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.forbes.com/sites/mattcraig/2025/12/23/beyonce-is-now-a-billionaire/%23:~:text%3DBut%2520the%252044%252Dyear%252Dold,of%2520the%2520back%252Dend%2520economics.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAn&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Dec 29, 2025 \u2014 But the 44-year-old pop supernova reinvented herself again in 2024, releasing a country album, Cowboy Carter, that would generate ...",
+      "source": "Forbes",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/7L6QMsyA5GAs5jS6diUwImL9guymxUeHQwvIvlRbEkA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/aYxJYYMzB47zZMo5SMYt_TuNztujZxZxy9F-zubfFj8.png",
+      "index": 10
+    },
+    {
+      "title": "How to Sing like Beyonce -Singing Techniques - The Songbird Tree",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://thesongbirdtree.com/blog_resource_posts/how-to-sing-like-beyonce-singing-techniques/%23:~:text%3DBeyonce%2520sings%2520with%2520beautiful%2520light,audience%2520and%2520capturing%2520our%2520hearts.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAr&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "How to Sing like Beyonce -Singing Techniques * Light & shade. Beyonce sings with beautiful light and shade. That means, she altern...",
+      "source": "The Songbird Tree",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/qZRDofkfkCTgY-KunejYLv9SrOJbkrTQWSljKrJR6k4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/AYxXZGIJ2RE7kEpzLcZPl5jZ03zaHaf6_rNo3AldTBQ.png",
+      "index": 11
+    },
+    {
+      "title": "Beyonc\u00e9 enters 2026 with a new title: billionaire. Her Cowboy ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/robbreport/photos/beyonc%25C3%25A9-enters-2026-with-a-new-title-billionaire-her-cowboy-carter-tour-the-year/1316736957154576/%23:~:text%3DPhotos-,Beyonc%25C3%25A9%2520enters%25202026%2520with%2520a%2520new%2520title:%2520billionaire.,Or%2520just%2520this%2520one?&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAv&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Jan 7, 2026 \u2014 Beyonc\u00e9 enters 2026 with a new title: billionaire. Her Cowboy Carter tour, the year's highest-grossing concert run, helped push he...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/mvqHu_I1MXiGAZc4OhAJMGpWSQCJL4-6b1967zaYa3Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/jf-BWLLW0B12y_z1SyID3yAlIiLIKREEMo4b_pmOkRw.png",
+      "index": 12
+    },
+    {
+      "title": "Beyonc\u00e9: Life, Legend and Legacy - Biography - TheGrio",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://thegrio.com/2024/10/14/beyonce/%23:~:text%3DMusical%2520style%2520and%2520influences%26text%3DBeyonc%25C3%25A9's%2520powerful%2520vocal%2520style%2520and,Dolly%2520Parton%2520for%2520%25E2%2580%259CCowboy%2520Carter%25E2%2580%259D&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRAz&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Oct 14, 2024 \u2014 Musical style and influences. ... Beyonc\u00e9's powerful vocal style and music beats have blended R&B, pop and hip-hop. With \u201cCowboy C...",
+      "source": "TheGrio",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/TewrUbxFbSDK7w_Q2_3vsRnb5LNhnkX0I1Kso-eyBjs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/4rsGN_bT93m1Q52QMlIZ4fj9QTWiS04-b5tmWZAYAjk.png",
+      "index": 13
+    },
+    {
+      "title": "Inside Beyonc\u00e9 and Jay-Z\u2019s beautiful houses | loveproperty.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.loveproperty.com/gallerylist/100260/inside-beyonc-and-jayzs-beautiful-houses%23:~:text%3DBeyonc%25C3%25A9%2520and%2520Jay%252DZ's%2520$200m%2520Brutalist%2520mansion%2520in%2520Malibu%252C%2520California%26text%3DIn%2520the%2520same%2520month%2520that,223m)%2520for%2520the%2520architectural%2520gem.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRA3&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Apr 18, 2025 \u2014 Beyonc\u00e9 and Jay-Z's rental home in Holmby Hills, California. ... After struggling to purchase a house of their own, they began ren...",
+      "source": "lovePROPERTY",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/WZSK8_0iafZhQu-PLdWeQp6k2NDrF-4KwtKewirx700.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/FqOX11Kj2CF5GmYJ12P3mBHREXB4L4rZsNKzpfzrAx4.png",
+      "index": 14
+    },
+    {
+      "title": "INSIDE Where Jay Z Is Living After His Allegations | Jay Z ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3DCAdLegoSj28&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRA7&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Dec 14, 2024 \u2014 beyonce and Jay-Z's empire goes far beyond music spanning billion-dollar businesses soldout world tours countless number one album...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/GUMuCG_oCWs5742m6em1O8N75WOOUUIJ4iV-7xndJDw.jpeg",
+      "index": 15
+    },
+    {
+      "title": "Beyonc\u00e9 and Jay-Z's Houses: Mansions in California, the Hamptons, ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.businessinsider.com/beyonce-and-jay-z-houses%23:~:text%3DBeyonc%25C3%25A9%2520and%2520Jay%252DZ%2520purchased%2520a%252034%252C000%252Dsquare%252Dfoot,of%2520Los%2520Angeles%252C%2520in%25202017.%26text%3DAlso%2520in%25202017%252C%2520Beyonc%25C3%25A9%2520and,views%2520of%2520Angeles%2520National%2520Forest.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRBA&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Apr 14, 2024 \u2014 Beyonc\u00e9 and Jay-Z purchased a 34,000-square-foot estate in Bel Air, a posh enclave of Los Angeles, in 2017. ... Also in 2017, Beyo...",
+      "source": "Business Insider",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/a_ZW0vxKobOie3ybrQ5NIw652tRBdhHA_Z5Ma4RWRFU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/try03g7Ia7yVh1ZnfElX8u2wqIwrKvJcIwNcz5acG4I.png",
+      "index": 16
+    },
+    {
+      "title": "Beyonc\u00e9's Real Estate Holdings\u2014From a Tribeca Condo to a ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.realtor.com/news/celebrity-real-estate/beyonce-real-estate-portfolio/%23:~:text%3DMagnificent%2520Malibu%2520mansion,the%2520megawatt%2520couple%2520purchased%2520it.&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRBE&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Apr 3, 2024 \u2014 Magnificent Malibu mansion. Beyonc\u00e9 and husband JAY Z went all out when they dropped $190 million (yes, you read that number right...",
+      "source": "Realtor.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/6prGRrQ0UwgtqegYbhKUzz7O9o2xIKqFnl6m_GbvO-o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/MbB0ww1GrDBfTmjf9NPn-OWPyt2LkmgF9Ffbvt-v3SM.png",
+      "index": 17
+    },
+    {
+      "title": "Where Beyonc\u00e9 Lives When She's Not on Her \u201cCowboy Carter\u201d Tour",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.aol.com/where-beyonc-lives-shes-not-201800210.html&ved=2ahUKEwjn9NLyvMiSAxXxBEQIHSdCH5YQ1fkOegQIDRBI&opi=89978449&cd&psig=AOvVaw0xrB8sk4pVaQE9LhCgZeoM&ust=1770591345187000",
+      "snippet": "Mar 17, 2025 \u2014 Here, find out where the ultimate power couple spends their days. * Malibu, California. Beyonc\u00e9 and Jay-Z's seaside estate is loca...",
+      "source": "AOL.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/lp48aOrTusPZhs-DmmhFcY7NFZZ_VDguy53tSbwfBbY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f0fdfbab7592679358/images/ggtbZRqPdQU-zCuaDiitwCdTIYd2PevMoxdyJTYO4yw.png",
+      "index": 18
+    },
+    {
+      "title": "Beyonc\u00e9 | JH Wiki Collection 2.0 Wiki",
+      "link": "https://jhwikicollection-20.fandom.com/wiki/Beyonc%C3%A9",
+      "snippet": "Beyonc\u00e9 * Birth name. Beyonc\u00e9 Giselle Knowles. * Born on. September 4, 1981 (age 44) * Born at. Houston, Texas, U.S. * Other name(",
+      "source": "JH Wiki Collection 2.0 Wiki",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShp5zdTfBaeoHkH5DS3nISSrU485gKefgohNqskXw00mQWVVp2",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://jhwikicollection-20.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Beyonce | Biography, Songs, Movies, Grammy Awards, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Beyonce#:~:text=Beyonc%C3%A9%20(born%20September%204%2C%201981,bringing%20her%20total%20to%2035.",
+      "snippet": "Beyonc\u00e9 (born September 4, 1981, Houston, Texas, U.S.) is an American singer-songwriter and actress who achieved fame in the late ...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQi_ftrW1KdhU9BNdFoYqUCKxJ6yYYtPIuTf_aFP32H2kMLytTw",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "What makes Beyonc\u00e9 such a strong vocalist? An analysis ...",
+      "link": "https://www.reddit.com/r/beyonce_knowles/comments/nxrxus/what_makes_beyonc%C3%A9_such_a_strong_vocalist_an/#:~:text=Quick%20Analysis:%20Easily%20one%20of,is%20one%20of%20a%20kind.",
+      "snippet": "Here's the gist of it: Beyonc\u00e9 fully understands how to utilize her instrument, knows how to manipulate her body to support her br...",
+      "source": "Reddit",
+      "thumbnail": "https://www.reddit.com/r/beyonce_knowles/comments/nxrxus/what_makes_beyonc%C3%A9_such_a_strong_vocalist_an/",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Beyonc\u00e9 - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Beyonc%C3%A9#:~:text=Beyonc%C3%A9%20Giselle%20Knowles%2DCarter%20(/,girl%20groups%20of%20all%20time.",
+      "snippet": "Beyonc\u00e9 Giselle Knowles-Carter (/bi\u02c8\u0252nse\u026a/ bee-ON-say; born September 4, 1981) is an American singer, songwriter, actress, and bus...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaOi6ggWAkWDMTUC50KwrCQ2kkiWdF23tmRdLKFF2gddKxHUA",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Beyonc\u00e9 has officially crossed the billion-dollar mark, joining a ...",
+      "link": "https://www.instagram.com/p/DTGzkYxgP0O/#:~:text=1,Link%20in%20our%20bio",
+      "snippet": "* talentedwomenafrica. talentedwomenafrica. Beyonc\u00e9 Knowles-Carter has officially joined the billionaire ranks, becoming one of th...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8G5KcD51jY3chNK_IK7ks2DcAR-9onP1-WfNx-z1T9XRSHHHu",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "How to Sing like Beyonce -Singing Techniques - The Songbird Tree",
+      "link": "https://thesongbirdtree.com/blog_resource_posts/how-to-sing-like-beyonce-singing-techniques/#:~:text=Beyonce%20sings%20with%20beautiful%20light,audience%20and%20capturing%20our%20hearts.",
+      "snippet": "How to Sing like Beyonce -Singing Techniques * Light \\u0026 shade. Beyonce sings with beautiful light and shade. That means, she altern...",
+      "source": "The Songbird Tree",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRynHomZr3eoHHucwjw1g8r59OnCxyS6kGGOfidxrL6fBtO8pdL",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thesongbirdtree.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Beyonc\u00e9: Life, Legend and Legacy - Biography - TheGrio",
+      "link": "https://thegrio.com/2024/10/14/beyonce/#:~:text=Musical%20style%20and%20influences&text=Beyonc%C3%A9's%20powerful%20vocal%20style%20and,Dolly%20Parton%20for%20%E2%80%9CCowboy%20Carter%E2%80%9D",
+      "snippet": "Musical style and influences. ... Beyonc\u00e9's powerful vocal style and music beats have blended R\\u0026B, pop and hip-hop. With \u201cCowboy C...",
+      "source": "TheGrio",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQWlT3a-u2CWXVFSkiX-pjDAurbn5kYx3t03Ywv4TLpYy_4Wyj",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thegrio.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Beyonc\u00e9's journey to mastery - Andscape",
+      "link": "https://andscape.com/features/beyonce-journey-to-mastery/#:~:text=At%20this%20point%2C%20no%20curtain,whenever%20I%20hear%20their%20music.",
+      "snippet": "At this point, no curtain is big enough for Beyonc\u00e9. With a screen at least two stories high and running the width of the stage, s...",
+      "source": "Andscape",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGtn2TVigS6diDhzjXNiFQBtvVK0ekYdLNJ4doW19v2uqrPEwC",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://andscape.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Beyonc\u00e9 has become a billionaire, capitalizing on career ...",
+      "link": "https://www.wtol.com/article/news/nation-world/beyonce-has-become-a-billionaire/507-d0c8f3a7-59b5-4668-ab41-e0082184d17f#:~:text=But%20Beyonc%C3%A9%20followed%20that%20success,her%20wealth%20comes%20from%20music.",
+      "snippet": "The company oversees her music, films, documentaries and concert productions, often fronting the costs in exchange for a larger sh...",
+      "source": "wtol.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQgNLLuxuzKvEhvazUns2nY-8KkLU8Syr-3vwwX7p5dGsQdLnXu",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.wtol.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Beyonc\u00e9 enters 2026 with a new title: billionaire. Her Cowboy ...",
+      "link": "https://www.facebook.com/robbreport/photos/beyonc%C3%A9-enters-2026-with-a-new-title-billionaire-her-cowboy-carter-tour-the-year/1316736957154576/#:~:text=Photos-,Beyonc%C3%A9%20enters%202026%20with%20a%20new%20title:%20billionaire.,Or%20just%20this%20one?",
+      "snippet": "Beyonc\u00e9 enters 2026 with a new title: billionaire. Her Cowboy Carter tour, the year's highest-grossing concert run, helped push he...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTskCPj8HTXGmJEBpY9ysTYAC5YRRMfi9j_nr1LkZNesBLcGdO-",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Beyonc\u00e9 Is Now A Billionaire - Forbes",
+      "link": "https://www.forbes.com/sites/mattcraig/2025/12/23/beyonce-is-now-a-billionaire/#:~:text=But%20the%2044%2Dyear%2Dold,of%20the%20back%2Dend%20economics.",
+      "snippet": "But the 44-year-old pop supernova reinvented herself again in 2024, releasing a country album, Cowboy Carter, that would generate ...",
+      "source": "Forbes",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ptJFMpxuF3NHJa0p4ZuMbmzbVXe2tdElLPK_hx_y0YcPrM3L",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Beyonc\u00e9 - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Beyonc%C3%A9#:~:text=Table_content:%20header:%20%7C%20Beyonc%C3%A9%20%7C%20%7C%20row:,Beyonc%C3%A9:%20Years%20active%20%7C%20:%201990%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Beyonc\u00e9 | | row: | Beyonc\u00e9: Born | : Beyonc\u00e9 Giselle Knowles September 4, 1981 Houston, Texas, US | row: ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaOi6ggWAkWDMTUC50KwrCQ2kkiWdF23tmRdLKFF2gddKxHUA",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Inside Beyonc\u00e9 And Jay-Z's Luxurious Homes - Ramybrook",
+      "link": "https://offline.ramybrook.com/social-beat/inside-beyonce-and-jay-zs-luxurious-homes-1764797087#:~:text=Let's%20start%20with%20their%20main,house%20offers%2C%20and%20then%20some.",
+      "snippet": "* The Bel Air Mega-Mansion: Their Primary Residence. Let's start with their main pad, shall we? Located in the swanky hills of Bel...",
+      "source": "Ramy Brook",
+      "thumbnail": "https://offline.ramybrook.com/social-beat/inside-beyonce-and-jay-zs-luxurious-homes-1764797087",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://offline.ramybrook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Beyonce - Houston Historical Tours",
+      "link": "https://www.houstonhistoricaltours.com/BeyonceTour.html#:~:text=Although%20she%20lives%20in%20Los,of%20all%20time:%20Destiny's%20Child.",
+      "snippet": "Although she lives in Los Angeles nowadays, and before that in New York City, Houston was her home for about her first twenty-one ...",
+      "source": "Houston Historical Tours",
+      "thumbnail": "https://www.houstonhistoricaltours.com/BeyonceTour.html",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.houstonhistoricaltours.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Beyonc\u00e9 and Jay-Z's Houses: Mansions in California, the Hamptons, ...",
+      "link": "https://www.businessinsider.com/beyonce-and-jay-z-houses#:~:text=Beyonc%C3%A9%20and%20Jay%2DZ%20purchased%20a%2034%2C000%2Dsquare%2Dfoot,of%20Los%20Angeles%2C%20in%202017.&text=Also%20in%202017%2C%20Beyonc%C3%A9%20and,views%20of%20Angeles%20National%20Forest.",
+      "snippet": "Beyonc\u00e9 and Jay-Z purchased a 34,000-square-foot estate in Bel Air, a posh enclave of Los Angeles, in 2017. ... Also in 2017, Beyo...",
+      "source": "Business Insider",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhV40rusOzN_u3CYVu2S6qW6w3Uw_fRrMFitRuq6XLWa_ZqcR0",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "Inside Beyonc\u00e9 and Jay-Z\u2019s beautiful houses | loveproperty.com",
+      "link": "https://www.loveproperty.com/gallerylist/100260/inside-beyonc-and-jayzs-beautiful-houses#:~:text=Beyonc%C3%A9%20and%20Jay%2DZ's%20$200m%20Brutalist%20mansion%20in%20Malibu%2C%20California&text=In%20the%20same%20month%20that,223m)%20for%20the%20architectural%20gem.",
+      "snippet": "Beyonc\u00e9 and Jay-Z's rental home in Holmby Hills, California. ... After struggling to purchase a house of their own, they began ren...",
+      "source": "lovePROPERTY",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSaf9b3Uge-V_3Qjg8vRa-wQqyKE13YqmLtDMDSlIseIYBd1Btw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.loveproperty.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "INSIDE Where Jay Z Is Living After His Allegations | Jay Z ...",
+      "link": "https://www.youtube.com/watch?v=CAdLegoSj28",
+      "snippet": "beyonce and Jay-Z's empire goes far beyond music spanning billion-dollar businesses soldout world tours countless number one album...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaG5N9FVNqbokE0AEYl98nQJongaNfg2BVDPsTnstgjEOveVYE",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Beyonc\u00e9's Real Estate Holdings\u2014From a Tribeca Condo to a ...",
+      "link": "https://www.realtor.com/news/celebrity-real-estate/beyonce-real-estate-portfolio/#:~:text=Magnificent%20Malibu%20mansion,the%20megawatt%20couple%20purchased%20it.",
+      "snippet": "Magnificent Malibu mansion. Beyonc\u00e9 and husband JAY Z went all out when they dropped $190 million (yes, you read that number right...",
+      "source": "Realtor.com",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkxC9n6lnXfktOjUHutYm9flqTRe7S5EcCJ6zZqu1EX6EHLFXc",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Where Beyonc\u00e9 Lives When She's Not on Her \u201cCowboy Carter\u201d Tour",
+      "link": "https://www.aol.com/where-beyonc-lives-shes-not-201800210.html",
+      "snippet": "Here, find out where the ultimate power couple spends their days. * Malibu, California. Beyonc\u00e9 and Jay-Z's seaside estate is loca...",
+      "source": "AOL.com",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9nfskQalrlez9OpkS_YQJseq3zHcfsVGm1tmFAtd8-uW90AVl",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What music genres is Beyonc\u00e9 known for exploring?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+music+genres+is+Beyonc%C3%A9+known+for+exploring%3F&subsequent_request_token=fgY4yHicTVJJjqtWAJRyEpb_S3E3g8G0Wr1gMmBGMxo2iMk84OFnJoORssxFoq9EygVygJzi5zTpLKKkalelKtWifv6lrP9gc01Jo1kXcl1tbdWe2B2ouPFbCYf8-59Ch5bIC6gCxkYZOpqlACuWoBqQcDCPxebXhJ81_By3cPMo3o-ogC7Edjp7_hRsgPBg3ATdiocuIZwbY4vw0xRtfGQosVmEQWtAqAe-T_li4WSbY-bhdM5x42luR9UnnM4Qj9Ch-CDeHFRQkJdAvo_wSY0CSHiS2XgSHHwJnguxmlK54PMV6b7yuVUOlhhXSTPMf5_HckjSqrxN338y0FZDmL7SLzj2JaxvBVpGzPQwAn_B37FPgdm_Yyuz_4px9zsswzLT6umVpg4vFIN90RTP0H_EYN2WmFzmLfqKCWBAXflKUOQL_g8xN72mQ_1vRCqq_7xfc4TauvzrB4yThA8uPXUpPQaOuyLrtqCLUdHKvJjkpS3Mw0jtn3Rxk3nnsO0TtYqJblLQDReEmHvHksQt83kod7wvaJL3Idit8I6JwYfPwBPox4X1_GVUzvjTypIrSZy21YUL3T0Am3tPH7iHheU4Xmhk2WduXrzuKp_7xP-aXc-xPziREVE1E4WK33ak4drbZ9ljT1iCIFWKvcxKss9Li9ZRabJye4zj_Xytn7JEUeEA6fF0-HzJmdAkoWEO0oDYWgn6RDV04_K0OKdU7Vp_x0xV_KBJ9iNwkC0fkKu7-wqohYfnLBBEL-M06cSm7nASMv8evwGXaTmFOZbdJRk8XpnnaLjLjIAs4dknoqJxtKFSpxStMZM3N0eSnnUxRWU_9huw55zNvClM-jNRLU_12tQr6LZwa5EXtKRSbwOdTS1HWwvH6Ku17IwzS_or1TB9aMNTrtLM2ZCBFnrd0QZwlNuAahAnz0aMp1zVgwdE5jG3OjNkDdYH-fSka1KXI11qg3K-qwFlHimorplHm20_1W1I6ps4GIucADzolTFsz9-6cWq__8b5k7Re-ZwujgOpU-G2C3azfK8UWb3ib5e4te8V5HQNJVKc1OgIGLHPzGj_OCiZiUbiIbm8zA1FMw-MKFntVpNOt4ikAq5MfAHa4ihX9rC7Nk-dEuVDBbbsMertLd1qfeorXRvI69U1GntNmUEchjxni7dJATA90eKlvmzOZRnZ6G_MpW_j"
+    },
+    {
+      "question": "What is Parkwood Entertainment and what does it do?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+is+Parkwood+Entertainment+and+what+does+it+do%3F&subsequent_request_token=fgY4yHicTVJJjqtWAJRyEpb_S3E3g8G0Wr1gMmBGMxo2iMk84OFnJoORssxFoq9EygVygJzi5zTpLKKkalelKtWifv6lrP9gc01Jo1kXcl1tbdWe2B2ouPFbCYf8-59Ch5bIC6gCxkYZOpqlACuWoBqQcDCPxebXhJ81_By3cPMo3o-ogC7Edjp7_hRsgPBg3ATdiocuIZwbY4vw0xRtfGQosVmEQWtAqAe-T_li4WSbY-bhdM5x42luR9UnnM4Qj9Ch-CDeHFRQkJdAvo_wSY0CSHiS2XgSHHwJnguxmlK54PMV6b7yuVUOlhhXSTPMf5_HckjSqrxN338y0FZDmL7SLzj2JaxvBVpGzPQwAn_B37FPgdm_Yyuz_4px9zsswzLT6umVpg4vFIN90RTP0H_EYN2WmFzmLfqKCWBAXflKUOQL_g8xN72mQ_1vRCqq_7xfc4TauvzrB4yThA8uPXUpPQaOuyLrtqCLUdHKvJjkpS3Mw0jtn3Rxk3nnsO0TtYqJblLQDReEmHvHksQt83kod7wvaJL3Idit8I6JwYfPwBPox4X1_GVUzvjTypIrSZy21YUL3T0Am3tPH7iHheU4Xmhk2WduXrzuKp_7xP-aXc-xPziREVE1E4WK33ak4drbZ9ljT1iCIFWKvcxKss9Li9ZRabJye4zj_Xytn7JEUeEA6fF0-HzJmdAkoWEO0oDYWgn6RDV04_K0OKdU7Vp_x0xV_KBJ9iNwkC0fkKu7-wqohYfnLBBEL-M06cSm7nASMv8evwGXaTmFOZbdJRk8XpnnaLjLjIAs4dknoqJxtKFSpxStMZM3N0eSnnUxRWU_9huw55zNvClM-jNRLU_12tQr6LZwa5EXtKRSbwOdTS1HWwvH6Ku17IwzS_or1TB9aMNTrtLM2ZCBFnrd0QZwlNuAahAnz0aMp1zVgwdE5jG3OjNkDdYH-fSka1KXI11qg3K-qwFlHimorplHm20_1W1I6ps4GIucADzolTFsz9-6cWq__8b5k7Re-ZwujgOpU-G2C3azfK8UWb3ib5e4te8V5HQNJVKc1OgIGLHPzGj_OCiZiUbiIbm8zA1FMw-MKFntVpNOt4ikAq5MfAHa4ihX9rC7Nk-dEuVDBbbsMertLd1qfeorXRvI69U1GntNmUEchjxni7dJATA90eKlvmzOZRnZ6G_MpW_j"
+    },
+    {
+      "question": "What businesses are associated with the Beyhive?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+businesses+are+associated+with+the+Beyhive%3F&subsequent_request_token=fgY4yHicTVJJjqtWAJRyEpb_S3E3g8G0Wr1gMmBGMxo2iMk84OFnJoORssxFoq9EygVygJzi5zTpLKKkalelKtWifv6lrP9gc01Jo1kXcl1tbdWe2B2ouPFbCYf8-59Ch5bIC6gCxkYZOpqlACuWoBqQcDCPxebXhJ81_By3cPMo3o-ogC7Edjp7_hRsgPBg3ATdiocuIZwbY4vw0xRtfGQosVmEQWtAqAe-T_li4WSbY-bhdM5x42luR9UnnM4Qj9Ch-CDeHFRQkJdAvo_wSY0CSHiS2XgSHHwJnguxmlK54PMV6b7yuVUOlhhXSTPMf5_HckjSqrxN338y0FZDmL7SLzj2JaxvBVpGzPQwAn_B37FPgdm_Yyuz_4px9zsswzLT6umVpg4vFIN90RTP0H_EYN2WmFzmLfqKCWBAXflKUOQL_g8xN72mQ_1vRCqq_7xfc4TauvzrB4yThA8uPXUpPQaOuyLrtqCLUdHKvJjkpS3Mw0jtn3Rxk3nnsO0TtYqJblLQDReEmHvHksQt83kod7wvaJL3Idit8I6JwYfPwBPox4X1_GVUzvjTypIrSZy21YUL3T0Am3tPH7iHheU4Xmhk2WduXrzuKp_7xP-aXc-xPziREVE1E4WK33ak4drbZ9ljT1iCIFWKvcxKss9Li9ZRabJye4zj_Xytn7JEUeEA6fF0-HzJmdAkoWEO0oDYWgn6RDV04_K0OKdU7Vp_x0xV_KBJ9iNwkC0fkKu7-wqohYfnLBBEL-M06cSm7nASMv8evwGXaTmFOZbdJRk8XpnnaLjLjIAs4dknoqJxtKFSpxStMZM3N0eSnnUxRWU_9huw55zNvClM-jNRLU_12tQr6LZwa5EXtKRSbwOdTS1HWwvH6Ku17IwzS_or1TB9aMNTrtLM2ZCBFnrd0QZwlNuAahAnz0aMp1zVgwdE5jG3OjNkDdYH-fSka1KXI11qg3K-qwFlHimorplHm20_1W1I6ps4GIucADzolTFsz9-6cWq__8b5k7Re-ZwujgOpU-G2C3azfK8UWb3ib5e4te8V5HQNJVKc1OgIGLHPzGj_OCiZiUbiIbm8zA1FMw-MKFntVpNOt4ikAq5MfAHa4ihX9rC7Nk-dEuVDBbbsMertLd1qfeorXRvI69U1GntNmUEchjxni7dJATA90eKlvmzOZRnZ6G_MpW_j"
+    }
+  ]
+}

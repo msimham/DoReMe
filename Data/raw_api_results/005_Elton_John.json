@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "6987c2e717bdbf409c5254ab",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/M_ZHYBRgdsjZJxt5gBrbow/6987c2e717bdbf409c5254ab.json",
+    "created_at": "2026-02-07 22:55:35 UTC",
+    "processed_at": "2026-02-07 22:55:35 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Elton+John%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Elton+John%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/M_ZHYBRgdsjZJxt5gBrbow/6987c2e717bdbf409c5254ab.html",
+    "prettify_html_file": "https://serpapi.com/searches/M_ZHYBRgdsjZJxt5gBrbow/6987c2e717bdbf409c5254ab.prettify",
+    "total_time_taken": 8.29
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Elton John, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "BlYQ_XicPZNbiuNWAEQhKxH5moG4W09LpvHH1dOWLbWst_QjpKurh3X1tNSy_Z-NhCGBLCALyC4mq0kPhFBfVVBwKKhff0P1X1vjdEhj3laFxOXM3hq2EnMB3xCe4Pe_pbZfIxfO0BsaI9CjQO0Zu1G9d2_XGo3HmTSXGj72ndZjoT88bXpnZExsRTTuUqpyoyY2vfYuwcZ33BC7zrOaDNUcQnrH5FocXZrqCDV8j6ldFdIr7fhxk8l4hV3FmJrZI21-5mGeuu0gRYzeKVVEu958jPye8ZqIDakL5ba7C5Rj2aBUUStnI_X10XR9NsMxbV_-XG5oStISdfP3xeifNcbpK_dCEl-MFNbd3N-qN-LYzQgTnwHx7hAhQZEJxSX8VwIMA0YByk71_Mox_AuzJb6cDq5x_oXAdYMIDcGm_0pI1dS36JVihBfyhwgnLdKp_q_yO-z7pkb__PRzkjgILhPaOK5t7YG8lfvyg0HNjTkFy-l25oJAN5_2PEWI0pvcqGdTXlXEG_KKmaMkWx0J7CmdlUd8ALS40EV2RbMybWA6i3prJgKZ93bOkwOwFmlt8-mNAIq0B6neptyy2p2LL9Rjs_h4OKA2v3iBQxo552fS0wdFtJhVvVOmcPUUw_c35v1xfCP-hxY96aS4e0lfxTdC9vfKGkydt_SlAO-kLFrw6ThqQN4Z28Er135UAnQfXuVkKwCfFBpum4q88hflhwfgjTCP8p6jhb3LH3UkaiRt5o11P9kHaNC-u3JnWT9vnjYP0loOe9z4eXHQc9vRxuTA0lc7wQJ7cnex7baYwzXXq5oXWkdTO5QDiyfJ3Skmm2TM8AAcA270Ktt87AhAHfpd4zVIhF3NxJM1BhsydZqrZ9aHJSqlSMGn4mFUxfVyNVhhUwssgiTQoMPaVdgmGnuZUDEOWFbHjvFK2QQ-SbfWvegEWPPtLPbrs6zMD4H1t8s59qcPQZ8-d3k4iyw__I8cjLQ4RtIYPuHVjemN07VOAql3-K29zc33P4A3K_dCGsmjIA9aGZkMVT6O13uZSIEkk3b2eabsuo7WoTC81pgaqZ0tztHBqey3QXPuk9PGS8cH0uniwhwbT7DITSTreqyy_GYdH6weXaQEYjGropKbwrk3nseDczv3bqHT5-Rci6rVuiPY-v77LvKSrV-rN-GdNx-9vsmAPIsmWv8F86Rrng",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Sir Elton John is currently 78 years old (born March 25, 1947). Following the conclusion of his final world tour, he primarily resides at his long-time estate, Woodside, in Old Windsor, Berkshire, England.",
+      "reference_indexes": [
+        15,
+        13,
+        18,
+        11,
+        1
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "His music-related skills and occupations include:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer: Known for his powerful vocals and emotional ballads. While his range is described by some as limited compared to operatic rock singers, his proficiency is considered elite for his ability to craft and perform enduring pop-rock melodies."
+        },
+        {
+          "snippet": "Pianist: A classically trained musician who attended the Royal Academy of Music. His proficiency is widely regarded as masterful, characterized by a unique fusion of classical technique with rock, funk, and blues, often featuring difficult flourishes and complex grooves.",
+          "snippet_links": [
+            {
+              "text": "Royal Academy of Music",
+              "link": "https://www.ram.ac.uk/"
+            }
+          ]
+        },
+        {
+          "snippet": "Composer / Songwriter: One of the most successful in history, particularly through his partnership with lyricist Bernie Taupin. His proficiency in melody writing is considered \"freakish\" and \"prodigious,\" often composing full melodies and harmonies in minutes."
+        },
+        {
+          "snippet": "Producer: He has produced numerous albums throughout his five-decade career."
+        },
+        {
+          "snippet": "Philanthropist: While not a \"musical skill,\" he heavily uses his musical influence to lead the Elton John AIDS Foundation."
+        }
+      ],
+      "reference_indexes": [
+        1,
+        3,
+        9,
+        8,
+        12,
+        10,
+        6,
+        16,
+        17,
+        5,
+        4,
+        14,
+        7
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Elton John achieved EGOT status in 2024, having won an Emmy, Grammy, Oscar, and Tony, which serves as a definitive marker of his high proficiency across various entertainment disciplines.",
+      "reference_indexes": [
+        0,
+        2,
+        19,
+        20
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about his past residences or details regarding his final world tour?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Elton John's Life and Career as a Musician and Philanthropist",
+      "link": "https://www.facebook.com/groups/925687679313167/posts/965806311967970/#:~:text=Sir%20Elton%20Hercules%20John%20(born%20Reginald%20Kenneth%20Dwight%20;%2025%20March,%2370s80s90s%20%23music",
+      "snippet": "Aug 2, 2024 \u2014 Sir Elton Hercules John (born Reginald Kenneth Dwight ; 25 March 1947) is a British singer, songwriter and pianist. His music and ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/hMvjcPktzR-HXO_prvmEaUoEM3OuFERl6g9YW80oCe0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/KJDTEN_GO0Z2pMA39XU1XXJ7z0JShSLyBoM5krjUW8s.png",
+      "index": 0
+    },
+    {
+      "title": "Elton John offers glimpse of pretty pergola at 27-acre Windsor estate",
+      "link": "https://www.hellomagazine.com/homes/812719/elton-john-pretty-pergola-27-acre-windsor-estate/#:~:text=The%20singer%20and%20David%20Furnish%20reside%20at%20a%20palatial%20home%20in%20Berkshire&text=Share%20this:,13%2C%20and%20Elijah%2C%2011.&text=We've%20only%20seen%20the,spot%20on%20the%20album%20chart.",
+      "snippet": "Feb 7, 2025 \u2014 The singer and David Furnish reside at a palatial home in Berkshire. ... Share this: Sir Elton John is often referred to as music ...",
+      "source": "HELLO! Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/yXHX0zzaAOB_l9h5g0--ldEsGHhyQcdmZdGAx-Qzoeo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/_ufnD0Cj9OFGBCpQlRKtMPi3sCpeAGez6PoizoASNwo.png",
+      "index": 1
+    },
+    {
+      "title": "Elton John | Biography, Songs, Rocket Man, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Elton-John#:~:text=Quick%20Facts,(1986)%20(Show%20more)",
+      "snippet": "Dec 30, 2025 \u2014 Quick Facts. In full: Sir Elton Hercules John. Original name: Reginald Kenneth Dwight. Born: March 25, 1947, Pinner, Middlesex, En...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/OGZEhH8OuqVKczknG2GQpCbtFQ7hiB5ub4UxU7atGoY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/4wK2DRX52jOBOPsWngeqpapsIHzYrAr28jk4ZE2V7bs.png",
+      "index": 2
+    },
+    {
+      "title": "Elton John | Biography, Songs, Rocket Man, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Elton-John#:~:text=Elton%20John%20(born%20March%2025,hundreds%20of%20millions%20of%20records.",
+      "snippet": "Dec 30, 2025 \u2014 Elton John (born March 25, 1947, Pinner, Middlesex, England) is a British singer, composer, and pianist who became one of the most...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/g0b7C4d3BRAuo5BB3RTuXXMP69_NYT4ujf8mA9zi3Gw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/LoFORuUzZU5kvNOQCEI3F3q5NQjlxGSHHWHOtHr3w08.png",
+      "index": 3
+    },
+    {
+      "title": "Elton John's Life and Career as a Musician and Philanthropist",
+      "link": "https://www.facebook.com/groups/925687679313167/posts/965806311967970/#:~:text=On%20March%2025%2C%201947%20Reginald,%22The%20Sir%20Elton%20John%22.",
+      "snippet": "Aug 2, 2024 \u2014 On March 25, 1947 Reginald Kenneth Dwight, Elton John was born \ud83c\udf82 Elton John is a British pianist, singer, songwriter and producer...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/-AQhDKI5PmEkfOJ1TooMmVJgOR8wj2k5vEWMzAHopW4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/wjZ2ZcAQs3l7bX1ugqMLjYH0LZQq1dhAdUNurRytkyI.png",
+      "index": 4
+    },
+    {
+      "title": "As a piano player, what do you think of Elton Johns talent level ...",
+      "link": "https://www.quora.com/As-a-piano-player-what-do-you-think-of-Elton-Johns-talent-level-and-skill-as-a-player-Was-he-truly-the-prodigy-they-depicted-in-the-film-Rocketman#:~:text=Studied%20Grade%208%20Piano%20at,describe%20him%20as%20a%20prodigy.",
+      "snippet": "May 29, 2019 \u2014 * Studied Grade 8 Piano at Trinity College Of Music, London. \u00b7 6y. Don't get me wrong, Elton John's a fine pianist but I'm surpris...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/Njbrt2R7cJdJejuxD1LJ4fQrAxLHemK4vNjBaeRTAOo.png",
+      "index": 5
+    },
+    {
+      "title": "Here's why Elton John is a piano genius - Classic FM",
+      "link": "https://www.classicfm.com/lifestyle/culture/elton-john-is-actually-a-piano-genius/#:~:text=As%20many%20aspiring%20pianists%20soon,Tap%20to%20unmute",
+      "snippet": "As many aspiring pianists soon find out, Elton John's piano parts are very difficult to play. Often they run counter to the vocal ...",
+      "source": "Classic FM",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/smZw83DOIly5KZ4s6xxLceAdSUcJM_mucIPDF0kQKPw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/Hdhtr0XBXKaRdZsmikG33fZidoGWFkoiW5D0bOL3MGI.png",
+      "index": 6
+    },
+    {
+      "title": "Where Does Elton John Live? Inside the Performer's ...",
+      "link": "https://www.architecturaldigest.com/story/where-does-elton-john-live-inside-the-performers-maximalist-real-estate-portfolio#:~:text=Toronto%20penthouse,curving%20brass%20staircase%20to%20match.",
+      "snippet": "Nov 7, 2025 \u2014 Woodside. ... Fresh off the success of Goodbye Yellow Brick Road in 1974, John bought his Woodside estate, which he affectionately...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/Das61bZEct-RI25pHroa0eBwB06mUi1ccAs9zQbWqp4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/xxgzVHA7CBBJznLtpLi-13kYcL0IU9Yp7g8CQ0LDbdw.png",
+      "index": 7
+    },
+    {
+      "title": "Was Elton John a talented musician? - Quora",
+      "link": "https://www.quora.com/Was-Elton-John-a-talented-musician",
+      "snippet": "Mar 2, 2019 \u2014 * Elton John is still alive. * He is a good, if not great, pianist. * On a scale of zero to Lang Lang, he is a solid six, with Ric...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/cTkbQ1IJMfyHraY9fH4S4Vng58iUXI4xlTIg5VLoUTQ.png",
+      "index": 8
+    },
+    {
+      "title": "Elton John is pure musical royalty\u2014iconic piano skills, powerful ...",
+      "link": "https://www.facebook.com/groups/377284898092845/posts/901351559019507/#:~:text=Admin-,Elton%20John%20is%20pure%20musical%20royalty%E2%80%94iconic%20piano%20skills%2C%20powerful,PianoIcon%20%23TimelessHits%20%23ClassicVibes%20%23fbstyle",
+      "snippet": "Jan 23, 2026 \u2014 Elton John is pure musical royalty\u2014iconic piano skills, powerful vocals, and songs that feel like memories you can sing. \ud83c\udfb9\u2728 From ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/RrYjP_g3Y2uVh3E-UNDOK4FPRW0LjW7dCpAf1BsqhIs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/RTBI5nwYUz53kJz7Zj4Y3PxdlB0fMlSg__Bfc5j_1BE.png",
+      "index": 9
+    },
+    {
+      "title": "Elton John knew he\u2019d never be a classical pianist: \u2018My hands are too ...",
+      "link": "https://www.classicfm.com/music-news/elton-john-not-classical-pianist-small-hands/#:~:text=A%20classically%20trained%20pianist%2C%20Elton%20studied%20as,unique%20style%20of%20rock%2C%20funk%20and%20blues.",
+      "snippet": "A classically trained pianist, Elton studied as a teenager at London's Royal Academy of Music (RAM), which he credits for shaping ...",
+      "source": "Classic FM",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/tv5VBc35csPnpqiVdL8hh6DIOGKquaIaPqJSjXM3oI4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/9_G5mN7o23CEEy9MaBc1TsMqY95Mgcxm1-7M80WzwtA.png",
+      "index": 10
+    },
+    {
+      "title": "Take a peek inside the home of Elton John",
+      "link": "https://www.signatureluxurytravel.com.au/elton-john/#:~:text=Elton%20John%20sells%20his%20US,dining%2C%20mansions%20and%20art%20galleries.",
+      "snippet": "Sep 28, 2023 \u2014 Take a peek inside the home of Elton John. The British music icon is selling his home in Atlanta for US$4.99 million. Sir Elton Jo...",
+      "source": "Signature Luxury Travel & Style",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/OdufKX9mb_Kpgso2iBo_eBeLPuCDEinKCRbCogWY8Gs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/gZR-b86fxiuwunhdrumesBfuSlsSqQmRRU3nDUTX97c.png",
+      "index": 11
+    },
+    {
+      "title": "Elton John | Music | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/elton-john#:~:text=English%20pop%20pianist%2C%20singer%2C%20and,the%20Royal%20Academy%20of%20Music.",
+      "snippet": "English pop pianist, singer, and songwriter. Born: March 25, 1947. Place of Birth: Pinner, Middlesex, England. John redefined the ...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/-O6077rBqKK6Noi2i86hg3UIVxAMiF0dxzIP8pwQRQ0.png",
+      "index": 12
+    },
+    {
+      "title": "Elton John facts: Singer's age, husband, children, parents, net ...",
+      "link": "https://www.smoothradio.com/artists/elton-john/age-husband-children-parents-net-worth-real-name/#:~:text=How%20old%20is%20Elton%20John,inundated%20by%20support%20from%20fans",
+      "snippet": "Apr 7, 2025 \u2014 How old is Elton John and where is he from? Elton John opens up about 'wasting' his life on years of drug use. Elton John was born...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/s-aY4m1P9mi1GwHnbn7Zax4sRclqac4ztRl1V15oMQo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/RSfE9KX5OHFjM7jEvIjKqI3_e4UU-VxMiqE1aVWeQE8.png",
+      "index": 13
+    },
+    {
+      "title": "Sir Elton John's music career and achievements - Facebook",
+      "link": "https://www.facebook.com/groups/60s70smusicclassics/posts/3280088868795434/#:~:text=ELTON%20JOHN%20CLOCKS%2070%20TODAY,at%20the%20club's%20home%20stadium.",
+      "snippet": "Sep 2, 2025 \u2014 ELTON JOHN CLOCKS 70 TODAY! Sir Elton Hercules John, CBE (born Reginald Kenneth Dwight; 25 March 1947) is an English singer, piani...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/S_0_JnxLwib6nxM-cPuoewz5uWwlHgDIu0H1yBliVyw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/9V17DkGEPh3grI8X9v_cF0go9Z8bPcWu7FG5SnttXHc.png",
+      "index": 14
+    },
+    {
+      "title": "Musical career - Elton John Wiki",
+      "link": "https://elton.fandom.com/wiki/Elton_John",
+      "snippet": "Elton John * Born. Reginald Kenneth Dwight. 25 March 1947 (age 78) Pinner, Middlesex, England. * Other names. Rocket Man. * Occupa...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/-PZlf3j7jBVSQp4KPBQ1xiVp15WbBajMccA1pFg_ba4.png",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/nrEgnXX80raO-pXoZBx7uO-qCE4weZuWAMBC3TQ7Cg0.png",
+      "index": 15
+    },
+    {
+      "title": "Elton John",
+      "link": "https://elton-john.fandom.com/wiki/Elton_John#:~:text=Sir%20Elton%20Hercules%20Elton%20CH,single%2C%20%22Your%20Song%22.",
+      "snippet": "Sir Elton Hercules Elton CH CBE (born Reginald Kenneth Dwight; 25 March 1947) is a British singer, pianist and composer. Acclaimed...",
+      "source": "Elton John Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/CfQpQZpq8C08Q96atwQIw7LxOORyyTl18Sa1ZFpBsCQ.jpeg",
+      "index": 16
+    },
+    {
+      "title": "Elton John: His Influence on Music - International Star Registry",
+      "link": "https://www.starregistry.com/name-a-star/elton-john-blog/#:~:text=Sir%20Elton%20Hercules%20John%2C%20born,of%20his%20stellar%20solo%20career.",
+      "snippet": "Jul 1, 2023 \u2014 Sir Elton Hercules John, born Reginald Kenneth Dwight on March 25, 1947, is a British musical legend known for his exceptional tal...",
+      "source": "International Star Registry",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/p4Ga9_LUa_CdQQZybEgVFUYd4fNWZZyEibbbUroET0k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/MaIQOTPfPT-LVBoyt5Zl81mNSlxeDTnzHl3iihhXDak.jpeg",
+      "index": 17
+    },
+    {
+      "title": "Inside Elton John's Woodside Estate in Old Windsor, England",
+      "link": "https://www.omnihomeideas.com/design/celebrity-homes/inside-elton-johns-woodside-estate-in-old-windsor-england/#:~:text=Elton%20John%20primarily%20resides%20at,serves%20as%20his%20main%20residence.",
+      "snippet": "Apr 1, 2025 \u2014 Inside Elton John's Woodside Estate in Old Windsor, England * \ud83d\udccd Location: Old Windsor, Berkshire, England. * \ud83d\udcb0 Estimated Price: ...",
+      "source": "Omni Home ideas",
+      "thumbnail": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/CJ1r4WpQe6y7T0-KroQoBwN3SvG3G3WA8a4JbIcwKfE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e717bdbf409c5254ab/images/WmDelKSqs22OSOILmb8sQ2xIW7SV3LgiQTRI15EdvBc.png",
+      "index": 18
+    },
+    {
+      "title": "Elton John - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0005056/bio/#:~:text=Quotes%20(70)%20Edit-,Overview,for%20Lulu%20and%20Roger%20Cook.",
+      "snippet": "Overview. Born. March 25, 1947 \u00b7 Pinner, Harrow, Middlesex [now London], England, UK. Birth name. Reginald Kenneth Dwight. Nicknam...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYUlQwJfX98CfriBkSfIMwP_RAGe6qBl7GhEoNV4-l1UB4Wncc",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Elton John - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Elton_John#:~:text=Sir%20Elton%20Hercules%20John%20(born,the%20Royal%20Academy%20of%20Music.",
+      "snippet": "Sir Elton Hercules John (born Reginald Kenneth Dwight; 25 March 1947) is a British singer, songwriter and pianist. His music and s...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8naSewDsv6_g6SNovTsq-Q6AVgVea1JGL_snS-_BtGULnUGdc",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    }
+  ]
+}

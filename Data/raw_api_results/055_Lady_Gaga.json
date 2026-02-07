@@ -1,0 +1,503 @@
+{
+  "search_metadata": {
+    "id": "6987c31331aafee909dd46bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qR4Lv06ITvz4PNrTx6stIw/6987c31331aafee909dd46bd.json",
+    "created_at": "2026-02-07 22:56:19 UTC",
+    "processed_at": "2026-02-07 22:56:19 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Lady+Gaga%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Lady+Gaga%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/qR4Lv06ITvz4PNrTx6stIw/6987c31331aafee909dd46bd.html",
+    "prettify_html_file": "https://serpapi.com/searches/qR4Lv06ITvz4PNrTx6stIw/6987c31331aafee909dd46bd.prettify",
+    "total_time_taken": 8.17
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Lady Gaga, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "IHPcbnicRVBJiuMGAIR8IF_QcQbiblubJRoftEvWZu3LRcjad1nWDnPMR8KQQD6QB-QVndfEOSSpuhRVFBT18y9J8QeDqXwYijmbHlz4wNw2sTzCRPQ9qYfo80-q6RbPtBWtlCHJtaeXRDW3Ny1mtSzOgyUzQzwQB31GgBS75jzrZOnsVYp50ruX7MO2RtBp7fy-63PIxKrDjKlNndyw1naDri3TzdfEJRXvmI8Ji4vKKSatUthUyzpqta_HLXk1K8SJTvbDdGuSyWNWZXDBc1gpZPxGsrOjZNlaYo0PmdZJb-0k31Gc2M1Ly7KguHn-Pj2TIQizpB0_v8ndXtR1-I68HYEvTtHG3fIEFBM4Hd-OH8DLQOEPYEXhrwDR93XiJHexGN8R6PwGocAXkTdl6SegLqoE4JKo6r4CVD50TfJ-gvC34z8EjDANh-LfChNn_2e_Rl1XFclfP_wYBEYSTUNyMEz9diFolO6yaU0tRhwZ2JbRDEz6wBafaUVyry96X7uaXbBg46Jp02mvd4zPvOm2ZpbPhj3J19Ehi1V7ddRiwIdi3sh4MtayVyonpx7P7AMgGOpChNcmRKZKIMn9bHItcoXxU6M-8v2QceAIZ_ox1B30ICyuiAgK1cFFPZ8DSn71_1tMWpTImBfqVpEfAG1fBNDh9NKrtKdXPHntuKn3IAUhpF63esErucBBz5mye8V0xAsfgCLQFwTELldp7R9yo7h80fbzzSpvUNJKjGCU69XbY76YVFB7qk3QGEaujZ1pEhRKayyv4gTrwnTkyozfGhCGLOSU77LAK2maGufsHC2vG-ckgLUHv1GxQdBVWOi73xIhqbXZ7IN6A6oPG1d92NWEcSestPPFhaVglSHyMx467mxHtciNc1iFNxfW-TMVzWVc3Pf-GEH5jnlbBM3PwB1Sc5ex7HG4ozJ3kpm98kFkpTA9i0zDA2_OCBZPeJ87p-M4BNqE4tHWULvFBQG6XBZui00z35vnWH3-Rlgjs6YE5qdap1a1iCJ4eA0D2rzqaKRCKHVTtwYkM2iEb_ChyQg7uY52AG0t5G-QtCFTn8DnvcBa6S6DJbjNjJ8oipP3CLTgppLryn1HRiLXs_6g-vljG64hOyxjOwqeC7VnSuaayr72lisaOZeXA6vhdI9hkNSyUtYPopeD9-xvFx1pww",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Lady Gaga's details are as follows:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 39 years old (Born March 28, 1986)."
+        },
+        {
+          "snippet": "Current Residence: Malibu, California. She has long considered her $22.5 million Tuscan-style mansion, which she calls her \"sanctuary\" or \"gypsy palace,\" as her primary home.",
+          "snippet_links": [
+            {
+              "text": "Malibu, California",
+              "link": "https://www.google.com/search?q=Malibu,+California&kgmid=/m/0r0m6&sa=X&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q3egRegQIBBAD"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lady Gaga is a multi-hyphenate entertainer with the following primary roles:",
+      "reference_indexes": [
+        36,
+        37
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer & Songwriter"
+        },
+        {
+          "snippet": "Actress"
+        },
+        {
+          "snippet": "Record Producer & Composer"
+        },
+        {
+          "snippet": "Philanthropist (Co-founder of the Born This Way Foundation)"
+        },
+        {
+          "snippet": "Businesswoman (Founder of Haus Labs)"
+        }
+      ],
+      "reference_indexes": [
+        18,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Gaga is widely recognized for her high level of technical proficiency across several disciplines:",
+      "reference_indexes": [
+        38
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Vocals (Expert/Professional): She is a Lyric Mezzo-Soprano with a range spanning approximately three octaves (F#2 to C6). She is noted for her \"powerhouse\" vocals, distinctive control, and ability to adapt to diverse genres, including pop, jazz, rock, and opera."
+        },
+        {
+          "snippet": "Piano (Expert/Classically Trained): She began playing by ear at age 4 and received classical training. She frequently performs live while playing the piano."
+        },
+        {
+          "snippet": "Songwriting & Composition (Expert): Gaga writes her own music and has written for other major artists, such as Britney Spears and Jennifer Lopez. She was inducted into the Songwriters Hall of Fame."
+        },
+        {
+          "snippet": "Performance & Showmanship (Expert): Known for complex live choreography and theatrical stage presence, she often performs high-energy dance routines while singing live."
+        },
+        {
+          "snippet": "Guitar (Intermediate/Proficient): She frequently plays guitar during live performances, particularly for her more rock-oriented tracks."
+        },
+        {
+          "snippet": "Perfect Pitch (Innate Ability): She possesses perfect pitch, which aids her musical precision and vocal control."
+        }
+      ],
+      "reference_indexes": [
+        23,
+        25,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Lady Gaga - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/Lady_Gaga%23:~:text%3DAmerican%2520singer%252C%2520songwriter%252C%2520and%2520actress,Signature&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAC&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Lady Gaga. ... Stefani Joanne Angelina Germanotta (born March 28, 1986), better known as her stage name Lady Gaga, is an American ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/cjFMxZtCY5DQgAFmkTDWWoBkqa1ooHddn6wUBgv6HIE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/cli3_6l1Z6Ut3759idOx4p-_fTNxwOTW-T9xVYHDXX8.png",
+      "index": 0
+    },
+    {
+      "title": "Lady Gaga's Career and Artistic Innovation - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/2351040381586441/posts/7491658030857958/%23:~:text%3DLady%2520Gaga%2520is%2520an%2520American%2520singer%252C%2520songwriter%252C%2520and%2520actress%2520known,and%2520advocate%2520for%2520social%2520change.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAG&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Feb 21, 2024 \u2014 She has released a string of successful albums, including The Fame Monster, Born This Way, and Chromatica, each pushing creative a...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/nkmdqz21fDHU9TPXrqVkkylMNxMrcHHd3EBY4-JoHCs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/r4ZeLT-GoKbaZ2WJ5r8xHM5OyMM_VysbSPYofAXgzkA.png",
+      "index": 1
+    },
+    {
+      "title": "Lady Gaga | Biography, Grammys, Songs, Oscar, & Facts - Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Lady-Gaga%23:~:text%3DWho%2520is%2520Lady%2520Gaga?,song%2520%25E2%2580%259CRadio%2520Ga%2520Ga.%25E2%2580%259D&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAK&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Feb 2, 2026 \u2014 Lady Gaga * Who is Lady Gaga? Lady Gaga is an American singer-songwriter, performance artist and actress, known for her flamboyant...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/s5lQCUyMyiTtME9qQmnytK63v0-zFboKh_ocn7EHDrs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/vdbnigMiwD9EMcu42elRwK4e_OZ0nqlEC5g11ltXEm0.png",
+      "index": 2
+    },
+    {
+      "title": "Lady Gaga | Biography, Grammys, Songs, Oscar, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Lady-Gaga%23:~:text%3DLady%2520Gaga%2520(born%2520March%252028,Star%2520Is%2520Born%2520(2018).&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAO&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Feb 2, 2026 \u2014 Lady Gaga (born March 28, 1986, New York City, New York, U.S.) is an American singer-songwriter and performance artist, known for ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/-Mtax8KwQmyiGSH6QPtTlF1YvYMMPJi504v6o0I7YHY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/0CLzcZcdPi4P92wuAX-vW8szgHnpC6Pn3rhxn0HzxgE.png",
+      "index": 3
+    },
+    {
+      "title": "Lady Gaga age, hometown, biography | Last.fm",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.last.fm/music/Lady%2BGaga/%2Bwiki%23:~:text%3DBorn,pursue%2520a%2520career%2520in%2520music.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAS&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Jul 14, 2025 \u2014 Born. 28 March 1986 (age 39) Born In. Upper East Side, Manhattan, New York, New York, United States. Stefani Joanne Angelina Germa...",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/gZKzbPmRfQwio4D0aj11AgR3zMaUwnJ80oHLzgeJwtU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/DZ86zp7QDJrwlCIqortm4rMkNWRXqi5FuD60SmP5mU4.png",
+      "index": 4
+    },
+    {
+      "title": "Lady Gaga",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm3078932/%23:~:text%3DMusic%2520Artist,religion%252C%2520social%2520issues%2520and%2520politics.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAW&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Composer * Lady Gaga: The Dead Dance. Music Video. Composer. * Lady Gaga: Disease. Music Video. composer. 2024. * Lady Gaga & Brun...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/fRkgJ49gGH9TBUHSbfaBUV9NMCLNNE9ifm_BS3Zfr-k.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Lady Gaga possesses perfect pitch, a rare ... - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/MamawSmithsgoodnight/posts/lady-gaga-possesses-perfect-pitch-a-rare-auditory-phenomenon-that-allows-her-to-/1171533805012595/%23:~:text%3DLady%2520Gaga%2520possesses%2520perfect%2520pitch,pop%2520music%2520and%2520performance%2520art.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAa&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Jun 16, 2025 \u2014 This innate ability contributes to her distinctive vocal control and musical precision, enhancing her performances and composition...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/NCaVgI2uRiKbbK8FpR2qYmv9We7aMtroOj8Cn0p9p9s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/cZZP3-0mJyu4G6AFvohOa4z_lkJwac5wOwDUeKOMpHk.png",
+      "index": 6
+    },
+    {
+      "title": "Inside Lady Gaga's Multimillion-Dollar Real Estate Portfolio",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.yahoo.com/entertainment/articles/inside-lady-gaga-multimillion-dollar-180000626.html%23:~:text%3DWhen%2520the%2520curtain%2520finally%2520falls,new%252C%2520only%2520Mother%2520Monster%2520knows.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAe&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Jan 30, 2026 \u2014 As of 2021, the apartment rents for $2,000 a month. * Bel-Air Rental. GTCRFOTO - Alamy. In 2009, as her star began to rise, Gaga u...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/qJgUlQCRQWhTAqjoCy_cogPOfD5yRWBJnPAtAR4v2NA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/E8BKGcwpuC73oWYIxOiHd331h8b3KpB7UEaW6opUQIo.png",
+      "index": 7
+    },
+    {
+      "title": "Lady Gaga's Music Career and Style - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1515778098652653/posts/3744128032484304/%23:~:text%3D3y%2520%25C2%25B7%2520Public-,Stefani%2520Joanne%2520Angelina%2520Germanotta%2520(born%2520March%252028%252C%25201986)%252C,%2522%252C%2520and%2520%2522Alejandro%2522.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAi&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Feb 6, 2024 \u2014 Stefani Joanne Angelina Germanotta (born March 28, 1986), known professionally as Lady Gaga, is an American singer, songwriter, an...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/MWeEoiNMSCYSG6vos03r96GP_w02LTkbDNimc-daluQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/JaxxxzrbysSBfoUDemxq00WHfZJLz7OaE0rjtY7Z9ts.png",
+      "index": 8
+    },
+    {
+      "title": "Lady Gaga - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://sco.wikipedia.org/wiki/Lady_Gaga%23:~:text%3DTable_content:%2520header:%2520%257C%2520Lady%2520Gaga%2520%257C%2520%257C,Pairtner(s)%2520%257C%2520:%2520Taylor%2520Kinney%2520(2011%25E2%2580%25932016)%2520%257C&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAm&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Table_content: header: | Lady Gaga | | row: | Lady Gaga: Thrift | : Sangster sangwriter actress record producer | row: | Lady Gaga...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/lZo0_8iEiYsWzDctTUB2scZfwuUPeddtNaNvFU5rIs0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/3oObmgZt3UErVMzIFHJuBUH6CElwzKbzr5MbEP-etcQ.png",
+      "index": 9
+    },
+    {
+      "title": "Where Does Lady Gaga Live? Inside Her Stylish Homes",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.architecturaldigest.com/story/inside-lady-gaga-real-estate-portfolio%23:~:text%3DThe%2520singer%2520and%2520actor%2520has,her%2520Malibu%2520mansion%2520her%2520%25E2%2580%259Csanctuary.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAq&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Oct 15, 2024 \u2014 Tuscan-style Malibu mansion. ... One year later, in 2014, Gaga made her first major real estate purchase, officially setting down ...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/hCMc_jKZT4e6u9AuhHqG9ylQoTRQPSmu3CYZ9-MJ3tg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/SVWCGInMJJdvNd_6HCupcbVxCwbgM6bFMKWHPhjnJGs.png",
+      "index": 10
+    },
+    {
+      "title": "Where Does Lady Gaga Live? Inside the Mayhem Singer\u2019s ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.admiddleeast.com/story/where-does-lady-gaga-live-inside-the-mayhem-singers-megamillion-real-estate-portfolio%23:~:text%3DTuscan%252Dstyle%2520Malibu%2520mansion%26text%3DIn%25202014%252C%2520Gaga%2520made%2520her,an%2520800%252Dbottle%2520wine%2520cellar.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAu&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Apr 10, 2025 \u2014 Where Does Lady Gaga Live? Inside the Mayhem Singer's Megamillion Real Estate Portfolio. With the release of her new album, Mother...",
+      "source": "AD Middle East",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/CnfMjHMBuzFscig2IMOZgTUqQyzfMM7Yy_5-PL94lbg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/iCNYifUiqifpXZavCqYIkCTwOHyvwqio7vr5lkNTC-U.png",
+      "index": 11
+    },
+    {
+      "title": "Exploring Lady Gaga's Vocal Range in Cover Songs - TikTok",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.tiktok.com/@brittanyraymusic/video/7471300248388832542%23:~:text%3D%25F0%259F%2592%2595%2520Known%2520for%2520her%2520impressive,E%25E2%2599%25AD5%2520and%2520A5.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRAy&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Feb 14, 2025 \u2014 \ud83d\udc95 Known for her impressive vocal range, Gaga showcases an extraordinary ability to adapt her voice across various genres, from el...",
+      "source": "TikTok",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/reY4cWRDQq9i4PbGpSRFUcvOFganHz-gm8duhGkFjj0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/nDYpZvPuEnIpghu-ut1PETcEriKRi9KJwQ8rcESGya4.png",
+      "index": 12
+    },
+    {
+      "title": "Inside Lady Gaga\u2019s Multimillion-Dollar Real Estate Portfolio - AOL.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.aol.com/inside-lady-gaga-multimillion-dollar-180000337.html%23:~:text%3DThe%2520Malibu%2520%25E2%2580%259CGypsy%2520Palace%25E2%2580%259D%26text%3DIn%25202014%252C%2520Gaga%2520made%2520her,This%2520remains%2520her%2520primary%2520residence.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRA2&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "As of 2021, the apartment rents for $2,000 a month. * Bel-Air Rental. GTCRFOTO - Alamy. In 2009, as her star began to rise, Gaga u...",
+      "source": "AOL.com",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/pw1EJhDnU2JHZK03EXRHbyjHAcXhWfgavJRN2xtAfYQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/VM0QRUJMy6OxUpuF4HaWs7jpDzF53LMhuvF1p0R26kU.png",
+      "index": 13
+    },
+    {
+      "title": "Lady Gaga/Early Years | Gagapedia | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://ladygaga.fandom.com/wiki/Lady_Gaga/Early_Years%23:~:text%3D8%2520Reference-,1986%25E2%2580%25932004:%2520Early%2520life,song%2520called%2520%2522Dollar%2520Bills%2522.&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRA6&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "1986\u20132004: Early life. Stefani Germanotta (born Stefani Joanne Angelina Germanotta), who performs under the stage name Lady Gaga, ...",
+      "source": "Gagapedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/VuK4R5q8jrq5vCMIHp9-WK-c3xn8BR0tHJyNh5R6ZPQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/wsoN4IpS6b1GGfnYBk8K33e9jDMamH6_bwdZ1j4dvBM.png",
+      "index": 14
+    },
+    {
+      "title": "Vocal Range and Profile: Lady Gaga - Critic of Music",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://criticofmusic.com/vocal-profile-lady-gaga%23:~:text%3DPositives:,Negatives:&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRA-&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Nov 2, 2012 \u2014 Vocal Range and Profile: Lady Gaga * Range: F#2 - G5 - C6 (E7) * Longest Note: 20 seconds (The Abramovic Method) * Vocal Type: Lyr...",
+      "source": "Critic of Music",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/cITWG5BrcUIIqbk802IXyxYU-jwjy5eSV2dk_6C3SPw.png",
+      "index": 15
+    },
+    {
+      "title": "Lady Gaga vocal range - Gagapedia - Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://ladygaga.fandom.com/wiki/Lady%2520Gaga/Voice%23:~:text%3DLady%2520Gaga%2520is%2520generally%2520classified,even%2520E7%2520in%2520whistle%2520tones).&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRBB&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Lady Gaga vocal range. Gaga singing at the 87th Academy Awards on February 22, 2015. Lady Gaga is generally classified as a Lyric ...",
+      "source": "Gagapedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/wQpqMH7KlDm8dDoUtiMMpar5EHFb2z7cocYUYlvsbs0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/l-aAkgMO3dojtCTFlDrCrxDKHJh7nEwv_tLUzBphttY.png",
+      "index": 16
+    },
+    {
+      "title": "Is Lady Gaga a musical genius? - Quora",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.quora.com/Is-Lady-Gaga-a-musical-genius&ved=2ahUKEwjNvv-CvciSAxVmRmcHHeSSFM4Q1fkOegQIDRBF&opi=89978449&cd&psig=AOvVaw0hNFd9XfdIHtqak-TXtXKe&ust=1770591379472000",
+      "snippet": "Nov 1, 2019 \u2014 * Absolutely! Lady Gaga is an extremely talented Artist. She has a powerful voice with great technique, writes all her own songs, ...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c31331aafee909dd46bd/images/8pGNoeOLs4qjzbL_UzPuGn00rEVL4445n1RO34W7xRw.png",
+      "index": 17
+    },
+    {
+      "title": "Lady Gaga age, hometown, biography | Last.fm",
+      "link": "https://www.last.fm/music/Lady+Gaga/+wiki#:~:text=Born,pursue%20a%20career%20in%20music.",
+      "snippet": "Born. 28 March 1986 (age 39) Born In. Upper East Side, Manhattan, New York, New York, United States. Stefani Joanne Angelina Germa...",
+      "source": "Last.fm",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQL27g6hp4TM26tQziIpsZWxER6HFOsa0bhCL3hmxtWKKgo0yUF",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.last.fm&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Inside Lady Gaga\u2019s Multimillion-Dollar Real Estate Portfolio - AOL.com",
+      "link": "https://www.aol.com/inside-lady-gaga-multimillion-dollar-180000337.html#:~:text=The%20Malibu%20%E2%80%9CGypsy%20Palace%E2%80%9D&text=In%202014%2C%20Gaga%20made%20her,This%20remains%20her%20primary%20residence.",
+      "snippet": "As of 2021, the apartment rents for $2,000 a month. * Bel-Air Rental. GTCRFOTO - Alamy. In 2009, as her star began to rise, Gaga u...",
+      "source": "AOL.com",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOBrHHzdGX863SmdoUZDFBMUxM4X2Svy_wSW5cfTyu8Gc-BNWL",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aol.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Inside Lady Gaga's Multimillion-Dollar Real Estate Portfolio",
+      "link": "https://www.yahoo.com/entertainment/articles/inside-lady-gaga-multimillion-dollar-180000626.html#:~:text=When%20the%20curtain%20finally%20falls,new%2C%20only%20Mother%20Monster%20knows.",
+      "snippet": "As of 2021, the apartment rents for $2,000 a month. * Bel-Air Rental. GTCRFOTO - Alamy. In 2009, as her star began to rise, Gaga u...",
+      "source": "Yahoo",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSed3fRy-XAz7wJIjqJWXQArT28_JdiAUf0KQrCiSeKtjpekDXH",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Where Does Lady Gaga Live? Inside Her Stylish Homes",
+      "link": "https://www.architecturaldigest.com/story/inside-lady-gaga-real-estate-portfolio#:~:text=The%20singer%20and%20actor%20has,her%20Malibu%20mansion%20her%20%E2%80%9Csanctuary.",
+      "snippet": "Tuscan-style Malibu mansion. ... One year later, in 2014, Gaga made her first major real estate purchase, officially setting down ...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0qpgI_x3x6APKLuMxWfIwUxxEQv1STnuWDs0FmppYT26ze2FT",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.architecturaldigest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Where Does Lady Gaga Live? Inside the Mayhem Singer\u2019s ...",
+      "link": "https://www.admiddleeast.com/story/where-does-lady-gaga-live-inside-the-mayhem-singers-megamillion-real-estate-portfolio#:~:text=Tuscan%2Dstyle%20Malibu%20mansion&text=In%202014%2C%20Gaga%20made%20her,an%20800%2Dbottle%20wine%20cellar.",
+      "snippet": "Where Does Lady Gaga Live? Inside the Mayhem Singer's Megamillion Real Estate Portfolio. With the release of her new album, Mother...",
+      "source": "AD Middle East",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfpqeTfn-F2ZEnUKRRZiNAawk2qr0hLOl2i0vBFtMkwpvDQSMF",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.admiddleeast.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Lady Gaga's Career and Artistic Innovation - Facebook",
+      "link": "https://www.facebook.com/groups/2351040381586441/posts/7491658030857958/#:~:text=Lady%20Gaga%20is%20an%20American%20singer%2C%20songwriter%2C%20and%20actress%20known,and%20advocate%20for%20social%20change.",
+      "snippet": "She has released a string of successful albums, including The Fame Monster, Born This Way, and Chromatica, each pushing creative a...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3QJ8NgjCeouyn4Pn2s6n3DcC3hziFbk6nuFJr1Uk4OmEjaBL6",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Lady Gaga | Biography, Grammys, Songs, Oscar, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Lady-Gaga#:~:text=Lady%20Gaga%20(born%20March%2028,Star%20Is%20Born%20(2018).",
+      "snippet": "Lady Gaga (born March 28, 1986, New York City, New York, U.S.) is an American singer-songwriter and performance artist, known for ...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHyjq_cZKpo35Pswe6mME6M7Eq-4eMwFfnRp819Zio3Qc4OQEI",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Lady Gaga - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Lady_Gaga#:~:text=American%20singer%2C%20songwriter%2C%20and%20actress,Signature",
+      "snippet": "Lady Gaga. ... Stefani Joanne Angelina Germanotta (born March 28, 1986), better known as her stage name Lady Gaga, is an American ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMXYy5gW7099rZaBxdrY920dyo9WX6VYbkcFM2_oPFdBrmuuXs",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://simple.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Lady Gaga",
+      "link": "https://www.imdb.com/name/nm3078932/#:~:text=Music%20Artist,religion%2C%20social%20issues%20and%20politics.",
+      "snippet": "Composer * Lady Gaga: The Dead Dance. Music Video. Composer. * Lady Gaga: Disease. Music Video. composer. 2024. * Lady Gaga \\u0026 Brun...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoqE9MuIP9j0iZxSC39HfGmPShO_P7hNUMQNUTGu36omqC7_Tt",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Lady Gaga - Wikipedia",
+      "link": "https://sco.wikipedia.org/wiki/Lady_Gaga#:~:text=Table_content:%20header:%20%7C%20Lady%20Gaga%20%7C%20%7C,Pairtner(s)%20%7C%20:%20Taylor%20Kinney%20(2011%E2%80%932016)%20%7C",
+      "snippet": "Table_content: header: | Lady Gaga | | row: | Lady Gaga: Thrift | : Sangster sangwriter actress record producer | row: | Lady Gaga...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6Nu39-VALvjnRcFJ9hya9QHrOJt8JuE35zgE_p83Hiev2CjE4",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sco.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Lady Gaga's Music Career and Style - Facebook",
+      "link": "https://www.facebook.com/groups/1515778098652653/posts/3744128032484304/#:~:text=3y%20%C2%B7%20Public-,Stefani%20Joanne%20Angelina%20Germanotta%20(born%20March%2028%2C%201986)%2C,%22%2C%20and%20%22Alejandro%22.",
+      "snippet": "Stefani Joanne Angelina Germanotta (born March 28, 1986), known professionally as Lady Gaga, is an American singer, songwriter, an...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQju5s5fKT5WmtM141QxZ1TwnBLMgUXEsNPX90iaMPXLDT6TeOm",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Vocal Range and Profile: Lady Gaga - Critic of Music",
+      "link": "https://criticofmusic.com/vocal-profile-lady-gaga#:~:text=Positives:,Negatives:",
+      "snippet": "Vocal Range and Profile: Lady Gaga * Range: F#2 - G5 - C6 (E7) * Longest Note: 20 seconds (The Abramovic Method) * Vocal Type: Lyr...",
+      "source": "Critic of Music",
+      "thumbnail": "https://criticofmusic.com/vocal-profile-lady-gaga",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://criticofmusic.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Lady Gaga vocal range - Gagapedia - Fandom",
+      "link": "https://ladygaga.fandom.com/wiki/Lady%20Gaga/Voice#:~:text=Lady%20Gaga%20is%20generally%20classified,even%20E7%20in%20whistle%20tones).",
+      "snippet": "Lady Gaga vocal range. Gaga singing at the 87th Academy Awards on February 22, 2015. Lady Gaga is generally classified as a Lyric ...",
+      "source": "Gagapedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzOWdjMqAdZnP9EPyXMlbuR9wz4aUPtV9JMDiKalZBgvv1IzFC",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ladygaga.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Exploring Lady Gaga's Vocal Range in Cover Songs - TikTok",
+      "link": "https://www.tiktok.com/@brittanyraymusic/video/7471300248388832542#:~:text=%F0%9F%92%95%20Known%20for%20her%20impressive,E%E2%99%AD5%20and%20A5.",
+      "snippet": "\ud83d\udc95 Known for her impressive vocal range, Gaga showcases an extraordinary ability to adapt her voice across various genres, from el...",
+      "source": "TikTok",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgHPu1a0v2sQz66D0iUUGYCf4vP95BrbmpQaioo_QyJRwj67kx",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tiktok.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Lady Gaga/Early Years | Gagapedia | Fandom",
+      "link": "https://ladygaga.fandom.com/wiki/Lady_Gaga/Early_Years#:~:text=8%20Reference-,1986%E2%80%932004:%20Early%20life,song%20called%20%22Dollar%20Bills%22.",
+      "snippet": "1986\u20132004: Early life. Stefani Germanotta (born Stefani Joanne Angelina Germanotta), who performs under the stage name Lady Gaga, ...",
+      "source": "Gagapedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPsBbNcfh_PZVuBXQsi--ciRjBWqK22oCCUvFS4WJd5tmMOceb",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ladygaga.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Is Lady Gaga a musical genius? - Quora",
+      "link": "https://www.quora.com/Is-Lady-Gaga-a-musical-genius",
+      "snippet": "* Absolutely! Lady Gaga is an extremely talented Artist. She has a powerful voice with great technique, writes all her own songs, ...",
+      "source": "Quora",
+      "thumbnail": "https://www.quora.com/Is-Lady-Gaga-a-musical-genius",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "Lady Gaga | Biography, Grammys, Songs, Oscar, \\u0026 Facts - Britannica",
+      "link": "https://www.britannica.com/biography/Lady-Gaga#:~:text=Who%20is%20Lady%20Gaga?,song%20%E2%80%9CRadio%20Ga%20Ga.%E2%80%9D",
+      "snippet": "Lady Gaga * Who is Lady Gaga? Lady Gaga is an American singer-songwriter, performance artist and actress, known for her flamboyant...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHyjq_cZKpo35Pswe6mME6M7Eq-4eMwFfnRp819Zio3Qc4OQEI",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Lady Gaga possesses perfect pitch, a rare ... - Facebook",
+      "link": "https://www.facebook.com/MamawSmithsgoodnight/posts/lady-gaga-possesses-perfect-pitch-a-rare-auditory-phenomenon-that-allows-her-to-/1171533805012595/#:~:text=Lady%20Gaga%20possesses%20perfect%20pitch,pop%20music%20and%20performance%20art.",
+      "snippet": "This innate ability contributes to her distinctive vocal control and musical precision, enhancing her performances and composition...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrqh8SCBYM8LBk5Y2v8ba7u1AflfVEhrBOsCgdVxhp8HnUpILO",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Lady Gaga | Arts and Entertainment | Research Starters",
+      "link": "https://www.ebsco.com/research-starters/arts-and-entertainment/lady-gaga#:~:text=Born:%20March%2028%2C%201986,more%20contemporary%20influences%20as%20well.",
+      "snippet": "Born: March 28, 1986. Place of Birth: New York City, New York. One of the first major pop stars of the twenty-first century, singe...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/arts-and-entertainment/lady-gaga",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Lady Gaga's $22.5 Million Malibu Mansion Tour - TikTok",
+      "link": "https://www.tiktok.com/@real.estates/video/7410800969132297514#:~:text=Lady%20Gags's%20mansion%20in%20Malibu%2C%20California%20worth%20$22.5%20million!",
+      "snippet": "Lady Gags's mansion in Malibu, California worth $22.5 million! #ladygaga #singer #music #celebrity #joker2 #fyp #foryou #foryoupag...",
+      "source": "TikTok",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJdjhhdaEDD2HCV6AoMR_EtRGkW1q-1X55hcMj8gaXdu55L8D4",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tiktok.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    },
+    {
+      "title": "Lady Gaga Music Evolution/ Part 2",
+      "link": "https://www.instagram.com/reel/DT5nu1rEwML/#:~:text=Beyond%20her%20(%20Lady%20Gaga%20)%20chart%2Dtopping,emotional%20expression%20across%20pop%2C%20jazz%2C%20and%20ballads.",
+      "snippet": "Beyond her ( Lady Gaga ) chart-topping success, she ( Lady Gaga ) is often regarded as one of the greatest vocalists of her ( Lady...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQKzLmpBBbYcpSOEqV7BIBGcvGMKJmNRHxrdP3ToiGmH_L3cz9B",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 38
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are Lady Gaga's best-selling albums and singles?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+Lady+Gaga%27s+best-selling+albums+and+singles%3F&subsequent_request_token=IHPcbnicRVBJiuMGAIR8IF_QcQbiblubJRoftEvWZu3LRcjad1nWDnPMR8KQQD6QB-QVndfEOSSpuhRVFBT18y9J8QeDqXwYijmbHlz4wNw2sTzCRPQ9qYfo80-q6RbPtBWtlCHJtaeXRDW3Ny1mtSzOgyUzQzwQB31GgBS75jzrZOnsVYp50ruX7MO2RtBp7fy-63PIxKrDjKlNndyw1naDri3TzdfEJRXvmI8Ji4vKKSatUthUyzpqta_HLXk1K8SJTvbDdGuSyWNWZXDBc1gpZPxGsrOjZNlaYo0PmdZJb-0k31Gc2M1Ly7KguHn-Pj2TIQizpB0_v8ndXtR1-I68HYEvTtHG3fIEFBM4Hd-OH8DLQOEPYEXhrwDR93XiJHexGN8R6PwGocAXkTdl6SegLqoE4JKo6r4CVD50TfJ-gvC34z8EjDANh-LfChNn_2e_Rl1XFclfP_wYBEYSTUNyMEz9diFolO6yaU0tRhwZ2JbRDEz6wBafaUVyry96X7uaXbBg46Jp02mvd4zPvOm2ZpbPhj3J19Ehi1V7ddRiwIdi3sh4MtayVyonpx7P7AMgGOpChNcmRKZKIMn9bHItcoXxU6M-8v2QceAIZ_ox1B30ICyuiAgK1cFFPZ8DSn71_1tMWpTImBfqVpEfAG1fBNDh9NKrtKdXPHntuKn3IAUhpF63esErucBBz5mye8V0xAsfgCLQFwTELldp7R9yo7h80fbzzSpvUNJKjGCU69XbY76YVFB7qk3QGEaujZ1pEhRKayyv4gTrwnTkyozfGhCGLOSU77LAK2maGufsHC2vG-ckgLUHv1GxQdBVWOi73xIhqbXZ7IN6A6oPG1d92NWEcSestPPFhaVglSHyMx467mxHtciNc1iFNxfW-TMVzWVc3Pf-GEH5jnlbBM3PwB1Sc5ex7HG4ozJ3kpm98kFkpTA9i0zDA2_OCBZPeJ87p-M4BNqE4tHWULvFBQG6XBZui00z35vnWH3-Rlgjs6YE5qdap1a1iCJ4eA0D2rzqaKRCKHVTtwYkM2iEb_ChyQg7uY52AG0t5G-QtCFTn8DnvcBa6S6DJbjNjJ8oipP3CLTgppLryn1HRiLXs_6g-vljG64hOyxjOwqeC7VnSuaayr72lisaOZeXA6vhdI9hkNSyUtYPopeD9-xvFx1pww"
+    },
+    {
+      "question": "What are some well-known songs associated with Lady Gaga's jazz albums with Tony Bennett?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+some+well-known+songs+associated+with+Lady+Gaga%27s+jazz+albums+with+Tony+Bennett%3F&subsequent_request_token=IHPcbnicRVBJiuMGAIR8IF_QcQbiblubJRoftEvWZu3LRcjad1nWDnPMR8KQQD6QB-QVndfEOSSpuhRVFBT18y9J8QeDqXwYijmbHlz4wNw2sTzCRPQ9qYfo80-q6RbPtBWtlCHJtaeXRDW3Ny1mtSzOgyUzQzwQB31GgBS75jzrZOnsVYp50ruX7MO2RtBp7fy-63PIxKrDjKlNndyw1naDri3TzdfEJRXvmI8Ji4vKKSatUthUyzpqta_HLXk1K8SJTvbDdGuSyWNWZXDBc1gpZPxGsrOjZNlaYo0PmdZJb-0k31Gc2M1Ly7KguHn-Pj2TIQizpB0_v8ndXtR1-I68HYEvTtHG3fIEFBM4Hd-OH8DLQOEPYEXhrwDR93XiJHexGN8R6PwGocAXkTdl6SegLqoE4JKo6r4CVD50TfJ-gvC34z8EjDANh-LfChNn_2e_Rl1XFclfP_wYBEYSTUNyMEz9diFolO6yaU0tRhwZ2JbRDEz6wBafaUVyry96X7uaXbBg46Jp02mvd4zPvOm2ZpbPhj3J19Ehi1V7ddRiwIdi3sh4MtayVyonpx7P7AMgGOpChNcmRKZKIMn9bHItcoXxU6M-8v2QceAIZ_ox1B30ICyuiAgK1cFFPZ8DSn71_1tMWpTImBfqVpEfAG1fBNDh9NKrtKdXPHntuKn3IAUhpF63esErucBBz5mye8V0xAsfgCLQFwTELldp7R9yo7h80fbzzSpvUNJKjGCU69XbY76YVFB7qk3QGEaujZ1pEhRKayyv4gTrwnTkyozfGhCGLOSU77LAK2maGufsHC2vG-ckgLUHv1GxQdBVWOi73xIhqbXZ7IN6A6oPG1d92NWEcSestPPFhaVglSHyMx467mxHtciNc1iFNxfW-TMVzWVc3Pf-GEH5jnlbBM3PwB1Sc5ex7HG4ozJ3kpm98kFkpTA9i0zDA2_OCBZPeJ87p-M4BNqE4tHWULvFBQG6XBZui00z35vnWH3-Rlgjs6YE5qdap1a1iCJ4eA0D2rzqaKRCKHVTtwYkM2iEb_ChyQg7uY52AG0t5G-QtCFTn8DnvcBa6S6DJbjNjJ8oipP3CLTgppLryn1HRiLXs_6g-vljG64hOyxjOwqeC7VnSuaayr72lisaOZeXA6vhdI9hkNSyUtYPopeD9-xvFx1pww"
+    },
+    {
+      "question": "Tell me more about her acting career",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+her+acting+career&subsequent_request_token=IHPcbnicRVBJiuMGAIR8IF_QcQbiblubJRoftEvWZu3LRcjad1nWDnPMR8KQQD6QB-QVndfEOSSpuhRVFBT18y9J8QeDqXwYijmbHlz4wNw2sTzCRPQ9qYfo80-q6RbPtBWtlCHJtaeXRDW3Ny1mtSzOgyUzQzwQB31GgBS75jzrZOnsVYp50ruX7MO2RtBp7fy-63PIxKrDjKlNndyw1naDri3TzdfEJRXvmI8Ji4vKKSatUthUyzpqta_HLXk1K8SJTvbDdGuSyWNWZXDBc1gpZPxGsrOjZNlaYo0PmdZJb-0k31Gc2M1Ly7KguHn-Pj2TIQizpB0_v8ndXtR1-I68HYEvTtHG3fIEFBM4Hd-OH8DLQOEPYEXhrwDR93XiJHexGN8R6PwGocAXkTdl6SegLqoE4JKo6r4CVD50TfJ-gvC34z8EjDANh-LfChNn_2e_Rl1XFclfP_wYBEYSTUNyMEz9diFolO6yaU0tRhwZ2JbRDEz6wBafaUVyry96X7uaXbBg46Jp02mvd4zPvOm2ZpbPhj3J19Ehi1V7ddRiwIdi3sh4MtayVyonpx7P7AMgGOpChNcmRKZKIMn9bHItcoXxU6M-8v2QceAIZ_ox1B30ICyuiAgK1cFFPZ8DSn71_1tMWpTImBfqVpEfAG1fBNDh9NKrtKdXPHntuKn3IAUhpF63esErucBBz5mye8V0xAsfgCLQFwTELldp7R9yo7h80fbzzSpvUNJKjGCU69XbY76YVFB7qk3QGEaujZ1pEhRKayyv4gTrwnTkyozfGhCGLOSU77LAK2maGufsHC2vG-ckgLUHv1GxQdBVWOi73xIhqbXZ7IN6A6oPG1d92NWEcSestPPFhaVglSHyMx467mxHtciNc1iFNxfW-TMVzWVc3Pf-GEH5jnlbBM3PwB1Sc5ex7HG4ozJ3kpm98kFkpTA9i0zDA2_OCBZPeJ87p-M4BNqE4tHWULvFBQG6XBZui00z35vnWH3-Rlgjs6YE5qdap1a1iCJ4eA0D2rzqaKRCKHVTtwYkM2iEb_ChyQg7uY52AG0t5G-QtCFTn8DnvcBa6S6DJbjNjJ8oipP3CLTgppLryn1HRiLXs_6g-vljG64hOyxjOwqeC7VnSuaayr72lisaOZeXA6vhdI9hkNSyUtYPopeD9-xvFx1pww"
+    }
+  ]
+}

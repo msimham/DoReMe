@@ -1,0 +1,281 @@
+{
+  "search_metadata": {
+    "id": "6987c2fabe918a5b82708970",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zcb_wlyYpoADA2OyVqY23g/6987c2fabe918a5b82708970.json",
+    "created_at": "2026-02-07 22:55:54 UTC",
+    "processed_at": "2026-02-07 22:55:54 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Bruce+Springsteen%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Bruce+Springsteen%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/zcb_wlyYpoADA2OyVqY23g/6987c2fabe918a5b82708970.html",
+    "prettify_html_file": "https://serpapi.com/searches/zcb_wlyYpoADA2OyVqY23g/6987c2fabe918a5b82708970.prettify",
+    "total_time_taken": 8.22
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Bruce Springsteen, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "wtD6T3icTZBJjqtmAISlnITs3pPibgYDtlq9YPjBjGbGsEHwM9mMZm72uUj0lEi5QA6QU7ycJv2kLKJaVUn1qVS__pbd_zqclEuc2jZHctQyoMak-xFuot-yeoDf_-aabg0cF_dszAgavc-abkr2cssc-W7jHRk05eR4VpvgpZSi8m67pOI-5D7AJ81ChauHCXgIMMyreyFwwty7pJzlTqvP63jwKHNYCYPtw2NK6HbyqMiQqO-2iIlZVeue348auq1asxEe1hMQK1tQwukKJinwLcdFNczcQxw-WDMF5O22y5bGdqreWISG9l6KFkSKgj_nMRuiuMja6fusdfu9ruNX8gVFvmgxvLdTN5ZviNROWY18BsjVRm4IhkYYGdFfEabv68zPEuU-vZIE_UJQyBfl4mjqL0h9rzJEzGDVfUW4cuia7BU7Yi_oDyF2nMfD_b_K77Drqnv2z08_M4B7Z2K5iclxU1aaXlkoMYNO62LosVDlF95IjpI2EfT-1AE6qk-ma25lkSwLK0jHNySK7AzOQ3ZgXU4BzjunMeAN4b33ioguM3NNygmuKM8acLdtwUe3frvXK9ks5Qk6H25p0yvDfK4Q66Yq0Qdtrj88w_yPbDuW8c7wFN8V85GYFLbdG7H0bul-shym6T3q4c8Pi8x1BkdbuBXRtd35ZeDsXH2CFfitw3OQKQAOZXU3XdMY4PTMhRvWjp2vVfSUtpGoC9sbokv8O4mf3mHKEke_VBsw6lUjsGd-XguDk_FSVolgtq_eTnr509GqQSh2SgzoW4PeAu5DVqByVBRyxgTTvmneUXzSID4EgqXBgB6Wi3Ymh0iRjrwEJAf0z8O5c8TwjA8DFqvCEJk5DI_-DPboChoqWQ_VMyJ7s88FVaY_OQV13g02bIEcN9C_FIehSvpuW-oxJYhaEuRy1dY98oyMS3Tm-NA1MFFXjhKMfDwJRVSu2ypY5GNuHD-NZfLxiNrZ1F0bJR4JJh9yi14MnLvUHdsFnlh8a8ap-v4H405gy5mT3N6HHZziW68Ji_s0ar2b2YvLDeHBLT0GC86HRTSakTVGngvPrvH8mE2J37QxsaZp7rIs4Yf-BsDnby0pDtQQcMC1tlJodJ61qiVzTx-Ur08jHjarGGtJkChqaYaiIMxqa_AS7-hqfbDKvRgPREkGMOtPwOWpeDZC9F8_Lm0k",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Born on September 23, 1949, Bruce Springsteen is 76 years old. Known as \"The Boss,\" he is a multi-talented artist with a career spanning over six decades.",
+      "reference_indexes": [
+        18,
+        1,
+        11,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music Related Skills, Occupations & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Springsteen is primarily recognized as a singer-songwriter and musician, though he has also served as a bandleader and producer.",
+      "reference_indexes": [
+        0,
+        10,
+        3
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Songwriting (Master): His core strength lies in storytelling, blending rock, folk, and Americana to chronicle the American experience. He is inducted into the Songwriters Hall of Fame."
+        },
+        {
+          "snippet": "Live Performance (Master): Renowned for high-energy, \"marathon\" live shows, often exceeding three hours."
+        },
+        {
+          "snippet": "Vocals (Professional/Soulful): A \"rough baritone\" used for powerful rock anthems and quiet acoustic ballads. While not a technical virtuoso, his voice is praised for its emotional delivery and endurance."
+        },
+        {
+          "snippet": "Guitar (Highly Proficient): Plays both electric and acoustic guitar. His style ranges from dense power chords to intricate rock-and-roll solos, though he often prioritizes serving the song over technical flashiness."
+        },
+        {
+          "snippet": "Harmonica (Proficient): Known for a \"raw, emotional\" style that is a hallmark of his folk-rock tracks like \"The River\" and \"Thunder Road\"."
+        },
+        {
+          "snippet": "Piano/Keyboards (Functional): Uses piano for composition and selective performances; however, he primarily relies on E Street Band members for complex keyboard parts."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        0,
+        3,
+        7,
+        9,
+        16,
+        5,
+        8,
+        17,
+        4,
+        15,
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Bruce Springsteen currently resides in:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "City: Colts Neck"
+        },
+        {
+          "snippet": "State: New Jersey"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "He lives on Stone Hill Farm, a 368-acre (sometimes cited as 400-acre) horse ranch that has served as his primary residence for decades.",
+      "reference_indexes": [
+        14,
+        13
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on his 2023-2025 World Tour or the upcoming biopic starring Jeremy Allen White?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Bruce Springsteen | Songs, Discography, Nebraska, Born in ...",
+      "link": "https://www.britannica.com/biography/Bruce-Springsteen#:~:text=Bruce%20Springsteen%20(born%20September%2023,%E2%80%9CMy%20City%20of%20Ruins.%E2%80%9D",
+      "snippet": "Feb 3, 2026 \u2014 Bruce Springsteen * Who is Bruce Springsteen? Bruce Springsteen is an American singer, songwriter, and bandleader who became the a...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/JOraapCbY12deXgH0KGvWW3RtiwpcE9dcuTLwwxJ6aU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/K8heupJTG7_Byidy7Yvn0dp52LyYyJm-AJbWud2Ni3w.png",
+      "index": 0
+    },
+    {
+      "title": "Bruce Springsteen | Songs, Discography, Nebraska, Born in ...",
+      "link": "https://www.britannica.com/biography/Bruce-Springsteen#:~:text=Quick%20Facts,(1984)%20(Show%20more)",
+      "snippet": "Feb 3, 2026 \u2014 Quick Facts. In full: Bruce Frederick Joseph Springsteen. Also known as: \u201cthe Boss\u201d Born: September 23, 1949, Long Branch, New Jer...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/nfET0di-Ohc3YQbh5plAAHoNe6YWV-9vOvGz2-2FZIg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/EvN2fCDlXewo7HULUjVqOpjMPHKMD5P6_XXG4ni0JQY.png",
+      "index": 1
+    },
+    {
+      "title": "Bruce Springsteen - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+      "snippet": "Table_content: header: | Bruce Springsteen | | row: | Bruce Springsteen: Springsteen in 2025 | : | row: | Bruce Springsteen: Born ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/C6-9a6t83H_mlctMe8O8yc41D3hxer4476vVb_L9T40.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/by6r72qz9mEJ1IhmVAwCLj9nyRDfkDi5WNWVaZ5hbyM.png",
+      "index": 2
+    },
+    {
+      "title": "Bruce Springsteen - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Bruce_Springsteen",
+      "snippet": "Bruce Springsteen. ... Bruce Frederick Joseph Springsteen (born September 23, 1949) is an American rock musician from New Jersey. ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/lwRbiGzQu7bcju7RreNdi63ZWUT-LD9APWVmATiY4gA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/fhSgwGCOsTAxPtEsmJUOMi3O3pjAmXpOiyiZuU1kOzo.png",
+      "index": 3
+    },
+    {
+      "title": "Whats everybodies opinion on Bruces guitar playing ability?",
+      "link": "https://the-circuit.greasylake.org/index.php?/topic/59-whats-everybodies-opinion-on-bruces-guitar-playing-ability/#:~:text=Bruce%20is%20clearly%20an%20excellent,lack%20of%20breadth%20and%20research.",
+      "snippet": "Sep 1, 2001 \u2014 Guest Guests. ... Bruce is clearly an excellent guitar player, both in the technical sense and in a creative sense. He may be no E...",
+      "source": "Greasy Lake Community",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/mtqdeMgSjDvq_BT8nGFDM7u-8p_F32uIshCY-lc0pNY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/LshRBXFTjGSCFcEt-9H5Iazci5Dkg5KsNP1CsnYG1ic.png",
+      "index": 4
+    },
+    {
+      "title": "Best examples of Bruce's singing ability? : r/BruceSpringsteen - Reddit",
+      "link": "https://www.reddit.com/r/BruceSpringsteen/comments/gqvzz9/best_examples_of_bruces_singing_ability/#:~:text=I've%20seen%20a%20few,says%20he%20can't%20sing?",
+      "snippet": "May 26, 2020 \u2014 I've seen a few instances of people saying he's not a great singer. Obviously I disagree, I think although he's not a technically ...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/-whez3R_OrJeEgsm-VIPnXuGylI2U8ES2v3X1DwYB1o.png",
+      "index": 5
+    },
+    {
+      "title": "Bruce Springsteen's family life at 75 \u2014 inside his 400-acre ...",
+      "link": "https://www.hellomagazine.com/homes/720004/bruce-springsteen-family-life-inside-400-acre-horse-farm/#:~:text=Why%20the%20immersive%20show%20is,has%20suffered%20an%20awful%20incident",
+      "snippet": "Sep 23, 2024 \u2014 The \"Born to Run\" singer and his E Street bandmate raised their kids in New Jersey as well. ... Share this: Bruce Springsteen rema...",
+      "source": "HELLO! Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/Ola-yI0SDlOzwId1mdvyG8v59LKcdhdXo7QuOyesx5A.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Profiles in Excellence: Bruce Springsteen",
+      "link": "https://calltoexcellence.com/2018/05/24/profiles-in-excellence-bruce-springsteen/#:~:text=Springsteen%20sets%20high%20standards%20for,of%20sales%20numbers%20or%20awards.",
+      "snippet": "May 24, 2018 \u2014 Springsteen illustrates how the real talents super-achievers have are hard work and unwavering focus. * He Identified His Unique G...",
+      "source": "calltoexcellence.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/KxVRBf3uv3MTSM4SU1Jok1ymDloc1xEahJBujON_2uY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/wjoQUMqNhrm1fL9Zu1X4ro8kfGvu6JyvFKM5ul9GT4I.png",
+      "index": 7
+    },
+    {
+      "title": "3 Things Ambitious Extremers Can Learn From Bruce Springsteen",
+      "link": "https://medium.com/@ExtremeSRO/3-things-ambitious-extremers-can-learn-from-bruce-springsteen-72be90ba4e8f#:~:text=Get%20Sarah%20Robb%20O'Hagan's%20stories%20in%20your%20inbox&text=Springsteen%20didn't%20come%20from,what%20really%20makes%20you%20shine.",
+      "snippet": "Feb 6, 2018 \u2014 Get Sarah Robb O'Hagan's stories in your inbox. ... Springsteen didn't come from a family of musical virtuosos, and, by his own ad...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/OxY8WEhcYiiBKwH9QgrMLaAJyqPfvUPnpv7ZX1exFU4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/aETH6C-4nSLZNi8z6q6ZA5H3APrD5Aa9NhSk3B9Ei14.png",
+      "index": 8
+    },
+    {
+      "title": "Bruce Springsteen's music represents the working class - Facebook",
+      "link": "https://www.facebook.com/groups/441823551647008/posts/801166162379410/#:~:text=Bruce%20Springsteen%2C%20born%20September%2023,live%20performances%2C%20and%20cultural%20impact.",
+      "snippet": "Sep 3, 2025 \u2014 With iconic albums like Born to Run and Born in the U.S.A., Springsteen became the anthem-maker for blue-collar workers, dreamers,",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/vSGitKfGbfYXSoSBP2g2BtqfV3nhBuLOCUmM1xIWq_8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/700ijEsTMsP5onPDn8anYNPm_NMmFVb-CBumsa9P0t4.png",
+      "index": 9
+    },
+    {
+      "title": "Bruce Springsteen - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Bruce_Springsteen",
+      "snippet": "Background Information * Birth name. Bruce Frederick Joseph William Springsteen. * Also known as. The Boss, Doctor. * Origin. Long...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/H9DdJVmZ9hlwc6D2lKOCyJzwBSg28ZBMEnDQ2sH4N5o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/OQiHBodq4f8aMPzyfBYXDHbDYdwliyfZH9bZEuQkDJQ.png",
+      "index": 10
+    },
+    {
+      "title": "Bruce Springsteen | Music | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/bruce-springsteen#:~:text=American%20rock%20singer%2C%20guitarist%2C%20and,earlier%20had%20discovered%20Bob%20Dylan.",
+      "snippet": "He gained prominence in the 1970s with the release of his third album, *Born to Run*, which catapulted him to rock stardom and est...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/rzCcaqYCpfJUG6Jecu848FXAB_OHRdK6XW2dbzcS_yk.png",
+      "index": 11
+    },
+    {
+      "title": "5 things we pianists can learn from Bruce Springsteen",
+      "link": "https://keyboardimprov.com/5-things-we-pianists-can-learn-from-bruce-springsteen/#:~:text=1.,can%20keep%20going%20too%2C%20right?",
+      "snippet": "Sep 28, 2018 \u2014 1. Play with a steady group of musicians. The E Street Band has been together, more or less intact, since the early 1970s. Somethi...",
+      "source": "Keyboard Improv",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/NFUiOTgyb14oO1-OklB4t2b1c2cBJ20zEr78BmJv1tk.png",
+      "index": 12
+    },
+    {
+      "title": "Bruce Springsteen Road Trip I Trips 'n' Tunes",
+      "link": "https://tripsntunes.com/bruce-springsteen-road-trip/#:~:text=Bruce%20&%20Patti's%20Home%20%E2%80%93%20145%20Muhlenbrink,Road%2C%20Colts%20Neck%2C%20New%20Jersey",
+      "snippet": "Jun 7, 2023 \u2014 Bruce Springsteen \u2013 Growing Up in Freehold * St. ... * St. ... * Pre-teen Home \u2013 39 \u00bd Institute Street, Freehold, New Jersey. ... ...",
+      "source": "tripsntunes.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/v7pnSLzb4aRon-4eSTc5F7PAiOoU46AedriNjvYr-v4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/f13ebsgticr25SCT4EHDLCM--y-ZcjryMwKC9-1EUbY.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Springsteen Residence, Colts Neck, NJ - Brucebase Wiki",
+      "link": "http://brucebase.wikidot.com/venue:springsteen-residence-colts-neck-nj#:~:text=Gig%20Pages,Springsteen%20Residence%2C%20Colts%20Neck%2C%20NJ",
+      "snippet": "A 368-acre Colts Neck farm Bruce bought in May 1994, currently in use as his primary residence. Not to be confused with the house ...",
+      "source": "Brucebase Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/5bbM6yWwpAsnOhEfxrzoJnHr519giXL0TX0SxifsI1g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/8RIQXuHmkt1_JR6XrCIrLPzaV6FXio7FM0I9iWrWK-4.png",
+      "index": 14
+    },
+    {
+      "title": "Bruce Springsteen Harmonica Tabs - Free Harp Tabs by the Boss",
+      "link": "https://www.learntheharmonica.com/post/bruce-springsteen-harmonica-tabs#:~:text=Bruce%20Springsteen's%20harmonica%20playing%20is,big%20part%20in%20his%20show.",
+      "snippet": "Oct 27, 2025 \u2014 Bruce Springsteen's harmonica playing is raw, emotional, and unmistakably human - the perfect reflection of his songwriting. Thoug...",
+      "source": "LearnTheHarmonica",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/JfrOHrassoktxRH1J4MwwylxehdBoQ-09U9IHD4gcwI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/6aEIP3SdMBB2cwxABTxNlZ2uDqiPtn609k_GnHGNVPo.png",
+      "index": 15
+    },
+    {
+      "title": "Who is Bruce Springsteen? Musical history and more - 1440",
+      "link": "https://join1440.com/t/bruce-springsteen#:~:text=Overview,unique%2C%20story%2Dcentered%20songwriting.",
+      "snippet": "Overview. Bruce Springsteen is an American singer and songwriter from New Jersey who is renowned for his lyrical storytelling, ecl...",
+      "source": "1440",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/AA2Sykmt_rKmXKBnbhifQ8qyUkpRq3p29zYBfMOO35I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/b0LkHJo7Ld3Lxg9m1dENIZfEXxGMgtPd9IiFmGXC8C4.png",
+      "index": 16
+    },
+    {
+      "title": "Bruce Springsteen - New World Encyclopedia",
+      "link": "https://www.newworldencyclopedia.org/entry/Bruce_Springsteen#:~:text=Table_content:%20header:%20%7C%20Bruce%20Springsteen%20%7C%20%7C,%7C%20:%20Vocals%20Guitar%20Harmonica%20Piano%20%7C",
+      "snippet": "Table_content: header: | Bruce Springsteen | | row: | Bruce Springsteen: Born | : September 23 1949 (age 75) Long Branch, New Jers...",
+      "source": "New World Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/H3zUzh4Ze_N3De41i2ofQeKFdXT9QVB4C9r1iJXT5qw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/HL3St7lfNsGBGcCDI3uzDDoCYRaGKXWjjFhEZVi5SzY.png",
+      "index": 17
+    },
+    {
+      "title": "Bruce Springsteen facts: Singer's age, family, children, net ...",
+      "link": "https://www.smoothradio.com/news/music/bruce-springsteen-facts-age-wife-children/#:~:text=How%20old%20is%20Bruce%20Springsteen,poor%20mental%20health%20and%20alcoholism.",
+      "snippet": "Oct 14, 2025 \u2014 How old is Bruce Springsteen and where was he born? Bruce Springsteen (second to left) in his teenage band The Castiles. Picture: ...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/sVvxXpUvqhOFquWGI8Rkb2OHv67OK2ubXIeimSnF4_M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2fabe918a5b82708970/images/CGzFfgc70hGPFpo7xRSEPq1Co8cQcUK7j4MjY8phU8Q.png",
+      "index": 18
+    }
+  ]
+}

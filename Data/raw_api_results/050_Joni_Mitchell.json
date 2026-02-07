@@ -1,0 +1,463 @@
+{
+  "search_metadata": {
+    "id": "6987c30ca973c4cf97012309",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/W0BSVz_Xbmox424kqeN_OQ/6987c30ca973c4cf97012309.json",
+    "created_at": "2026-02-07 22:56:12 UTC",
+    "processed_at": "2026-02-07 22:56:12 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Joni+Mitchell%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Joni+Mitchell%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/W0BSVz_Xbmox424kqeN_OQ/6987c30ca973c4cf97012309.html",
+    "prettify_html_file": "https://serpapi.com/searches/W0BSVz_Xbmox424kqeN_OQ/6987c30ca973c4cf97012309.prettify",
+    "total_time_taken": 8.2
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Joni Mitchell, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "ndjKg3icRY5JrqNWAEWlrIRhlRT_T2eMZXkApm8NPB6GiUXzDJj2Y2waKcNsJColUjaQBWQVP6tJZRDVvbNzdaT762-o_EswbSXOLlD6WF8PZJ63O-MxOeo3VA_p59-npptCkHVRUw8QQt65iCSE6poG4mwE44dVFWe_0eCF8qeY3EMk44tXjUJai7QLe9NbVTqoeRP4UhVR1eyvcImrinZl654CXgurbk3kwvYUd4ybsYsCyQkDK07EKEQXaYHiOPuBhfsEdN2258UiE4G_V8PADWEVzaiN1sgnHAtkZkplrud2RthIFBAgHgu1D1fnz-cDDdc4R-34-YvZrWVdx-_bNxz7EpRt1k0PzAIYgb_hB-w7YOgDNjP0V4zr-xoFKNHL8X1L7d4oBvuiK8A0fsbqskKYjNKq-4qdiqFr0DtBUW_4f8W8-BYP5f-KmOU_tt_TrqtK9M9P2PXqofQ5oI0H3PORExihyx-GPSvJ7QVcCblsPpoUteWbJon31nNUi5363MJrH9CGk05-R5xBZK57EplCfGJ3rmYotBeEDchVYlgc-ExNvqs5eHkWkEkC7YBx4unIxVoTbx9EQbNbRYElZZigKQ2yOIlWdd_uYwe5d3KwySIwpXz1b0DwRHerytPhx2feP-kiOJ4skz9gAjyGi2UOi5Wrl_z6UBx8sZPrjSR6jW_qadu8CjYFi194wyxynCKEqCUXin91UR5y33PALFU4bkn2aMlqPPc8R9ePadz1aJMN0dxVlk7YL25jejxt-d5OlrQpPjcqy1mbsJxfVLrJBEOkkNKex4vzERLkdZJE_8xS7jwzzFApvAqj_szKs64Poiam580QP7MPmbpPQ2MbSUjoxQI0ZL0uc72Lh43Zmoky4jWXhCAtS5uf6RyRdWVH-UVz793adhtf26gboEWDHcllcrHdfoDyLTnReikH7f5-H8Jzt7neJGnBhavWV_TLbRfmFuiKRzDsy15e-LrjcKALnsopCuhvigQM6bkC7lvzGKvPPzh_FOebsApc7FCnjOhiEOumJtWXcFL3J3Wkcmn1Z3zF2_7EZvHYIe1MDNTOybSl27FN4qTXfmJIifd2RU-gPmCZ0OAg0pfnfU78IQF06KKHpBYsOduFazXMq-vKkHZE1V8UQorMlrNCP3dU7TaOmZJw1KJYpAQpOapPdXPWcedf2GRt0A",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Joni Mitchell is currently 82 years old (born November 7, 1943).",
+      "reference_indexes": [
+        20,
+        21
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "She is recognized as a master-level musician and multi-disciplinary artist. Her primary roles and proficiencies include:",
+      "reference_indexes": [
+        22,
+        23,
+        36
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer-Songwriter (Master): Regarded as one of the most influential songwriters in history. She is noted for her starkly personal lyrics and complex, unconventional compositions."
+        },
+        {
+          "snippet": "Guitarist (Master/Innovative): Ranked as one of the greatest guitarists of all time. She is famous for using over 50 alternate tunings to overcome hand limitations from childhood polio."
+        },
+        {
+          "snippet": "Pianist (Professional): She began studying classical piano at age seven and uses the instrument for many of her harmonically complex jazz-influenced tracks."
+        },
+        {
+          "snippet": "Vocalist (Highly Proficient): Known for a wide-ranging voice that transitioned from a light mezzo-soprano in the 1960s to a deeper, soulful contralto in later years."
+        },
+        {
+          "snippet": "Multi-Instrumentalist (Proficient): She plays the Appalachian dulcimer, ukulele, auto-harp, and bass."
+        },
+        {
+          "snippet": "Painter/Visual Artist (Professional): Mitchell considers herself a \"painter derailed by circumstance\" and has painted the majority of her own album covers."
+        },
+        {
+          "snippet": "Producer: She has produced or co-produced almost all of her albums since her 1968 debut."
+        }
+      ],
+      "reference_indexes": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Mitchell divides her time between two primary locations:",
+      "reference_indexes": [
+        37
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Los Angeles, California: She owns a long-time estate in Bel Air and a historic home in Laurel Canyon.",
+          "snippet_links": [
+            {
+              "text": "Bel Air",
+              "link": "https://www.google.com/search?q=Bel+Air&kgmid=/m/026z1h&sa=X&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q3egRegQIChAC"
+            },
+            {
+              "text": "Laurel Canyon",
+              "link": "https://www.google.com/search?q=Laurel+Canyon&kgmid=/m/06d9jk&sa=X&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q3egRegQIChAE"
+            }
+          ]
+        },
+        {
+          "snippet": "Sechelt, British Columbia, Canada: She maintains an 80-acre property on the Sunshine Coast, which she famously describes as her \"heartbeat\"."
+        }
+      ],
+      "reference_indexes": [
+        31,
+        34,
+        35
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to explore the specific guitar tunings Mitchell invented or see a list of her Grammy-winning albums?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Joni_Mitchell%23:~:text%3DRoberta%2520Joan%2520Mitchell%2520CC%2520(n%25C3%25A9e,Hall%2520of%2520Fame%2520in%25201997.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAC&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Joni Mitchell * Roberta Joan Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian and American singer-songwriter, multi...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/UAjffPhDE5cWZS4hr3FI0kYvOQ8-hyMvq4WVEEeJuGk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/J_D_8XDuHEqpGkRtOR-1nwXdx-EEchbvGklIOOVrjsQ.png",
+      "index": 0
+    },
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Joni_Mitchell%23:~:text%3DRoberta%2520Joan%2520Mitchell%2520CC%2520(n%25C3%25A9e,Hall%2520of%2520Fame%2520in%25201997.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAG&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Roberta Joan Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian and American singer-songwriter, multi-instrumentalist...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/OufjtkluMVqrJ18up2HfFbVF7IcpQbl0UOu_vmxnLNQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/lxU1mAPgP9_vZX3JqByQe_cw80wxSUm5Vymj5l7IZvs.png",
+      "index": 1
+    },
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Joni_Mitchell&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAK&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Joni Mitchell * Roberta Joan Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian and American singer-songwriter, multi...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/KLXmET7rkUNcGIxlm55bL9QAc0qzNywSMGRreCgHv7s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/hfuEhAdO4go61lt204piFrka61r11ZdttXmG1kW6l5k.png",
+      "index": 2
+    },
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Joni_Mitchell&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAO&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Table_title: Joni Mitchell Table_content: header: | Joni Mitchell CC | | row: | Joni Mitchell CC: Mitchell in 2021 | : | row: | Jo...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/QigMty-2j7xLqJbl2Jz-XN6-Q738mizTEEAuQvrcZCE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/qCfdFTvjer8xwZP_9Kt_N0Lme0didgV1vk19yICRcso.png",
+      "index": 3
+    },
+    {
+      "title": "Joni Mitchell's Los Angeles Sanctuary Legendary singer ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/HouseOfCeleb/posts/-joni-mitchells-los-angeles-sanctuary-legendary-singer-songwriter-joni-mitchell-/1568039973977028/%23:~:text%3D%25F0%259F%258E%25B6%25F0%259F%258F%25A1%2520Joni%2520Mitchell's%2520Los,House%2520Of%2520Celebs&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAS&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Jan 31, 2025 \u2014 \ud83c\udfb6\ud83c\udfe1 Joni Mitchell's Los Angeles Sanctuary \u2728\ud83c\udf3f Legendary singer-songwriter Joni Mitchell owns this breathtaking $54 million estate...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/O0JAaGGG6EwWewf8-N0VhCy6koPP-GhVHMcI12orAiw.jpeg",
+      "index": 4
+    },
+    {
+      "title": "Joni Mitchell not only has the voice of an angel but she is also a talented ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/322437771570375/posts/2203702606777206/%23:~:text%3DShe's%2520not%2520just%2520gifted%2520in,Multi%252DInstrumentalist%252C%2520Joni%2520Mitchell.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAW&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Oct 9, 2025 \u2014 She's not just gifted in what she writes and sings. She plays a variety of different things. Guitar, piano, sythesizers, bass, aut...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/QtlfDi5WZCiI6_3zlOHrBpWlVo2zZSFQJAiJHnNRu8Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/rL4IAsp_rK-9vPeIIuwV1qtHGYCWxicJQwPJjx3KGwU.png",
+      "index": 5
+    },
+    {
+      "title": "Joni Mitchell | The Canadian Encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://thecanadianencyclopedia.ca/en/article/joni-mitchell%23:~:text%3DArchives%2520Canada%25203598197)-,Joni%2520Mitchell%252C%2520singer%252C%2520songwriter%252C%2520guitarist%252C%2520painter%2520(b,She%2520made%2520a%2520full%2520recovery.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAa&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Jul 7, 2015 \u2014 Joni Mitchell, singer, songwriter, guitarist, painter (b at Fort Macleod, Alta 7 Nov 1943). Born Roberta Joan Anderson, Joni Mitch...",
+      "source": "The Canadian Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/BzpAMR614ccTOAGUpQUCgUqVAUUayT4gtykRkvrGnew.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/aqsi4ivW8BvIvLiiRHODjPCVc0Zfz_9WLQ0zGtYi_bo.png",
+      "index": 6
+    },
+    {
+      "title": "Joni Mitchell | The Canadian Encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://thecanadianencyclopedia.ca/en/article/joni-mitchell%23:~:text%3DArchives%2520Canada%25203598197)-,Joni%2520Mitchell%252C%2520singer%252C%2520songwriter%252C%2520guitarist%252C%2520painter%2520(b,debut%2520album%2520to%2520this%2520teacher.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAe&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Jul 7, 2015 \u2014 Joni Mitchell. ... Joni Mitchell, singer, songwriter, guitarist, painter (b at Fort Macleod, Alta 7 Nov 1943). Born Roberta Joan A...",
+      "source": "The Canadian Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/tajrpLGYovl_0tCQxVpZJXNJmU3vNUXcHszIetXEMc4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/9l7vrWGUARzzkPURk78-GBlepbhjtpYN15NZqcRVMTs.png",
+      "index": 7
+    },
+    {
+      "title": "Joni Mitchell, birth date 7 November 1943, with biography",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.astro.com/astro-databank/Mitchell,_Joni%23:~:text%3DJoni%2520Mitchell%252C%2520birth%2520date%25207%2520November%25201943%252C%2520with%2520biography&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAi&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Mar 20, 2024 \u2014 Table_title: Mitchell, Joni Table_content: header: | Name | Mitchell, Joni Gender: F | row: | Name: Birthname | Mitchell, Joni Gen...",
+      "source": "Astro.com",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/12D1Wpx0gBAj1_41t-XR0QkqgU6w5TCirL2rOaFGij8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/V40DQvS6FetINF6shdjSbGBqwXQzeFSTNe8aIUXRVsk.png",
+      "index": 8
+    },
+    {
+      "title": "Joni Mitchell Fast Facts | CNN",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.cnn.com/us/joni-mitchell-fast-facts%23:~:text%3DPersonal,Art%2520in%2520Calgary%252C%25201963%252D1964&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAm&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Oct 28, 2025 \u2014 Personal * Birth date: November 7, 1943. * Birth place: Fort Macleod, Alberta, Canada. * Birth name: Roberta Joan Anderson. * Fath...",
+      "source": "CNN",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/jMYAVobW3vlmGU10SBwVBruhvi_gl16AgEUA69GaNbQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/T3KyuruAXDNc1th3SO1dqs_S_eSqkYU9LAhOq8LgJLw.png",
+      "index": 9
+    },
+    {
+      "title": "Happy Birthday to Joni Mitchell!! Roberta Joan \"Joni\" Mitchell ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/TheWorldOfJazz/posts/happy-birthday-to-joni-mitchellroberta-joan-joni-mitchell-cc-n%25C3%25A9e-anderson-born-n/1303501225151105/%23:~:text%3DHappy%2520Birthday%2520to%2520Joni%2520Mitchell,Hall%2520of%2520Fame%2520in%25201997.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAq&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Nov 7, 2025 \u2014 Happy Birthday to Joni Mitchell!! \ud83c\udf39\ud83c\udf82 Roberta Joan \"Joni\" Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian singer-",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/THi7m_0NduZUsGnbg5WIqQhnBbNez8kPHYWBxbuNNS8.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Joni Mitchell, 82, just won her latest Grammy at the 2026 ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/p/DUO4PIjESba/%23:~:text%3DJoni%2520Mitchell%252C%252082%252C%2520just%2520won,justjared&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAu&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Feb 1, 2026 \u2014 Joni Mitchell, 82, just won her latest Grammy at the 2026 Grammys. She had an amusing mix-up onstage and didn't realize she was th...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/ACSI3Z1CooKDcfuLuTeQ4JUOdyLXhXXkwpECkm-1tZI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/LQ63MECs3RzPxCPG7ziH2p3tJk5YMFOjWa5BeXV2hyA.png",
+      "index": 11
+    },
+    {
+      "title": "Happy 82nd Birthday to the legendary JONI MITCHELL! \ud83c\udf89\ud83c\udf82 Born on ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/America1980s/posts/happy-82nd-birthday-to-the-legendary-joni-mitchell-born-on-november-7-1943-shes-/1411854030940184/%23:~:text%3Dlegendary%2520JONI%2520MITCHELL!-,%25F0%259F%258E%2589%25F0%259F%258E%2582%2520Born%2520on%2520November%25207%252C%25201943%252C%2520she's%2520a%2520Canadian,%25F0%259F%258E%25B6%25F0%259F%2592%2595%26text%3DHappy%2520birthday!&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRAy&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Nov 7, 2025 \u2014 Happy 82nd Birthday to the legendary JONI MITCHELL! \ud83c\udf89\ud83c\udf82 Born on November 7, 1943, she's a Canadian- American singer-songwriter, m...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/jKLlXOR149WoRGbl8xvrqDIBsMwe8Z0Di-_P0p97f1Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/hWRWeNHRaJ_w7zWBYdk2DwYkXOTO546WwEZovkmoCWE.png",
+      "index": 12
+    },
+    {
+      "title": "Current Biography, October 1976 - Joni Mitchell",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://jonimitchell.com/library/print.cfm?id%3D62%23:~:text%3DA%2520lot%2520of%2520beautiful%2520times,they%2520leave%2520the%2520nest%2520early.%2522&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRA2&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "A lot of beautiful times came from it, too, through that mutual understanding. A lot of pain, too, because, inevitably, different ...",
+      "source": "Joni Mitchell - Official Website",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/3_kgm7BmPXMdoKHydriZGGCDpxCwtQelVQgdD2mm82s.jpeg",
+      "index": 13
+    },
+    {
+      "title": "How did I not know this information before today? #bchistory ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DTWONh9Ekf1/%23:~:text%3DKnow%2520the%2520Canadian%2520icon%2520Joni,Now%2520you%2520know.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRA5&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Jan 10, 2026 \u2014 How did I not know this information before today? #bchistory #jonimitchell #canada #explorebc. ... Know the Canadian icon Joni Mit...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/IzccdcxWI6jYyIit_T1Gf0d3DmuFnojCuAkxatxakNI.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Fan meets iconic Canadian singer Joni Mitchell in B.C. store",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.vancouverisawesome.com/local-news/fan-meets-iconic-canadian-singer-joni-mitchell-bc-2025-11595461%23:~:text%3DCanadian%2520music%2520icon%2520Joni%2520Mitchell%2520lives%2520on%2520%2522Both%2520Sides%2520Now,Los%2520Angeles%2520and%2520British%2520Columbia.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRA9&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Dec 8, 2025 \u2014 Canadian music icon Joni Mitchell lives on \"Both Sides Now\" \u2014 figuratively and literally. Mitchell, known for her hauntingly beaut...",
+      "source": "Vancouver Is Awesome",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/LF0uPIQQUFHnjYF0HTQS--8dacmNIAqyOWHM7bH5C3M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/-rPiuLG_gF-eSsBwSns997Q2jlhNVpWeTM1vVrMILXU.png",
+      "index": 15
+    },
+    {
+      "title": "Joni Mitchell - Music Hub | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://music.fandom.com/wiki/Joni_Mitchell&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRBB&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Joni Mitchell * Birth name. Roberta Joan Anderson. * Also known as. Roberta Joan Mitchell. Joni Anderson. * Born. November 7, 1943...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/Gyf0qCHBvmcDmZgXyGoTiCCTlLQCvNaVOh00Sq2zt7c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/Y4f3A1Zh3CwpNoeNy9SBunRGVkQgpHLYYAKcF0B5XL8.png",
+      "index": 16
+    },
+    {
+      "title": "Joni Mitchell's life and music legacy - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1074577797208947/posts/1399916864675037/%23:~:text%3DRoberta%2520Joan%2520Anderson%2520was%2520born%2520on%2520November%25207%252C%25201943%252C%2520in,between%2520folk%2520and%2520fine%2520art.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRBF&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Jul 2, 2025 \u2014 Roberta Joan Anderson was born on November 7, 1943, in the quiet town of Fort Macleod, Alberta. Raised under the wide-open skies o...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/DR6F6DcqJM9XZzD8sidScXHvxBAxbwaGn2lDnDpDxA0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/AaG3tgcbZFIUMzd55YlXhuH_XaygRoIbB5s3KgIa-So.png",
+      "index": 17
+    },
+    {
+      "title": "Musicheads Essential Artist: Joni Mitchell - The Current",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.thecurrent.org/feature/2020/03/02/musicheads-essentials-joni-mitchell%23:~:text%3DShe%2520collaborated%2520with%2520greats%2520like,culture%2520can't%2520be%2520overstated.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRBJ&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Mar 3, 2020 \u2014 She collaborated with greats like Jaco Pastorius, Herbie Hancock, and Charles Mingus. As a guitarist, Mitchell is highly regarded ...",
+      "source": "The Current",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/R6Kx1ZzIfb3vjpVdNbWgOQoiG1qOKuGhAWIK8GvQF94.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/NSOo446iDMquPQUO6XPVxfwhpV27fAp3jVKvZKnhuCo.png",
+      "index": 18
+    },
+    {
+      "title": "Joni Mitchell - Weiner Elementary Original",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=http://www.weinerelementary.org/joni-mitchell.html%23:~:text%3DSince%2520she%2520could%2520no%2520longer,still%2520life%2520set%2520to%2520sound.&ved=2ahUKEwi5udD_vMiSAxWofGwGHcpaPd0Q1fkOegQIDRBN&opi=89978449&cd&psig=AOvVaw2m0izqRk0nQto1xFuCRrFs&ust=1770591372410000",
+      "snippet": "Since she could no longer play sports, she started thinking of having a career as an artist or musician. This is where the words s...",
+      "source": "www.weinerelementary.org",
+      "thumbnail": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/45p446UiFY87tgFGfumL1hYe0RV2ameCJbBP3v3pczs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30ca973c4cf97012309/images/4gtclq5WsGsvhOhsWfw1S8CDFvM7zWxNlle3ANM318Y.png",
+      "index": 19
+    },
+    {
+      "title": "Joni Mitchell, 82, just won her latest Grammy at the 2026 ...",
+      "link": "https://www.instagram.com/p/DUO4PIjESba/#:~:text=Joni%20Mitchell%2C%2082%2C%20just%20won,justjared",
+      "snippet": "Joni Mitchell, 82, just won her latest Grammy at the 2026 Grammys. She had an amusing mix-up onstage and didn't realize she was th...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREQJMKzKTCbWG215ncXTemODMYTNGjL5cKZzdZmSztegT8spGJ",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Joni Mitchell Fast Facts | CNN",
+      "link": "https://www.cnn.com/us/joni-mitchell-fast-facts#:~:text=Personal,Art%20in%20Calgary%2C%201963%2D1964",
+      "snippet": "Personal * Birth date: November 7, 1943. * Birth place: Fort Macleod, Alberta, Canada. * Birth name: Roberta Joan Anderson. * Fath...",
+      "source": "CNN",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTziBD_ijWRNtGMd3wynkHU9WTDLHNt2yvYh_3SPtm-MGbMMJgL",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Joni_Mitchell#:~:text=Roberta%20Joan%20Mitchell%20CC%20(n%C3%A9e,Hall%20of%20Fame%20in%201997.",
+      "snippet": "Roberta Joan Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian and American singer-songwriter, multi-instrumentalist...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHq8qtOCIB5bTBs-3nZn-u2aiHFyOlXsNYKmoYUc3mFoFDV7vM",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Joni Mitchell not only has the voice of an angel but she is also a talented ...",
+      "link": "https://www.facebook.com/groups/322437771570375/posts/2203702606777206/#:~:text=She's%20not%20just%20gifted%20in,Multi%2DInstrumentalist%2C%20Joni%20Mitchell.",
+      "snippet": "She's not just gifted in what she writes and sings. She plays a variety of different things. Guitar, piano, sythesizers, bass, aut...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDJnQxI0-U3IHcUPhG6zvsFtMp53BGF25ZP8hvRo2fxYXa7zXM",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Joni Mitchell - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Joni_Mitchell",
+      "snippet": "Joni Mitchell * Roberta Joan Mitchell CC (n\u00e9e Anderson; born November 7, 1943) is a Canadian and American singer-songwriter, multi...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHq8qtOCIB5bTBs-3nZn-u2aiHFyOlXsNYKmoYUc3mFoFDV7vM",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Happy 82nd Birthday to the legendary JONI MITCHELL! \ud83c\udf89\ud83c\udf82 Born on ...",
+      "link": "https://www.facebook.com/America1980s/posts/happy-82nd-birthday-to-the-legendary-joni-mitchell-born-on-november-7-1943-shes-/1411854030940184/#:~:text=legendary%20JONI%20MITCHELL!-,%F0%9F%8E%89%F0%9F%8E%82%20Born%20on%20November%207%2C%201943%2C%20she's%20a%20Canadian,%F0%9F%8E%B6%F0%9F%92%95&text=Happy%20birthday!",
+      "snippet": "Happy 82nd Birthday to the legendary JONI MITCHELL! \ud83c\udf89\ud83c\udf82 Born on November 7, 1943, she's a Canadian- American singer-songwriter, m...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_TkERMbx2r-PTMt9FYnjvIfSmJld5gtTcW1tz4BvLetLpsAsE",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Musicheads Essential Artist: Joni Mitchell - The Current",
+      "link": "https://www.thecurrent.org/feature/2020/03/02/musicheads-essentials-joni-mitchell#:~:text=She%20collaborated%20with%20greats%20like,culture%20can't%20be%20overstated.",
+      "snippet": "She collaborated with greats like Jaco Pastorius, Herbie Hancock, and Charles Mingus. As a guitarist, Mitchell is highly regarded ...",
+      "source": "The Current",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8iCH-1jzKvUh2hXXGQRObpz3rorHiLC0GzluzCcW6E3pqDTUK",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thecurrent.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Joni Mitchell - Weiner Elementary Original",
+      "link": "http://www.weinerelementary.org/joni-mitchell.html#:~:text=Since%20she%20could%20no%20longer,still%20life%20set%20to%20sound.",
+      "snippet": "Since she could no longer play sports, she started thinking of having a career as an artist or musician. This is where the words s...",
+      "source": "www.weinerelementary.org",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTgxI4YE1RPd9f4zm-elICl8H651OvXfVZIuJvyYgAovvHO5DrX",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=http://www.weinerelementary.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Joni Mitchell | The Canadian Encyclopedia",
+      "link": "https://thecanadianencyclopedia.ca/en/article/joni-mitchell#:~:text=Archives%20Canada%203598197)-,Joni%20Mitchell%2C%20singer%2C%20songwriter%2C%20guitarist%2C%20painter%20(b,She%20made%20a%20full%20recovery.",
+      "snippet": "Joni Mitchell, singer, songwriter, guitarist, painter (b at Fort Macleod, Alta 7 Nov 1943). Born Roberta Joan Anderson, Joni Mitch...",
+      "source": "The Canadian Encyclopedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPCzevcH2ngGSP3r7bYEmeAT3eccYJa8Lx853yubJMyzyG7608",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thecanadianencyclopedia.ca&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Joni Mitchell | The Canadian Encyclopedia",
+      "link": "https://thecanadianencyclopedia.ca/en/article/joni-mitchell#:~:text=Archives%20Canada%203598197)-,Joni%20Mitchell%2C%20singer%2C%20songwriter%2C%20guitarist%2C%20painter%20(b,debut%20album%20to%20this%20teacher.",
+      "snippet": "Joni Mitchell. ... Joni Mitchell, singer, songwriter, guitarist, painter (b at Fort Macleod, Alta 7 Nov 1943). Born Roberta Joan A...",
+      "source": "The Canadian Encyclopedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPCzevcH2ngGSP3r7bYEmeAT3eccYJa8Lx853yubJMyzyG7608",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thecanadianencyclopedia.ca&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Joni Mitchell - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Joni_Mitchell",
+      "snippet": "Joni Mitchell * Birth name. Roberta Joan Anderson. * Also known as. Roberta Joan Mitchell. Joni Anderson. * Born. November 7, 1943...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVN4cSM_RgnJx_rzIOs2aG45-tZh2vhelO9gIp5BvLipE0-uY5",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://music.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Joni Mitchell's Los Angeles Sanctuary Legendary singer ...",
+      "link": "https://www.facebook.com/HouseOfCeleb/posts/-joni-mitchells-los-angeles-sanctuary-legendary-singer-songwriter-joni-mitchell-/1568039973977028/#:~:text=%F0%9F%8E%B6%F0%9F%8F%A1%20Joni%20Mitchell's%20Los,House%20Of%20Celebs",
+      "snippet": "\ud83c\udfb6\ud83c\udfe1 Joni Mitchell's Los Angeles Sanctuary \u2728\ud83c\udf3f Legendary singer-songwriter Joni Mitchell owns this breathtaking $54 million estate...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT47xH3JilJMZpMiN9hIcFEHiy2d5h0W793-F5_ccl4q-f6zEPV",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Joni Mitchell's life and music legacy - Facebook",
+      "link": "https://www.facebook.com/groups/1074577797208947/posts/1399916864675037/#:~:text=Roberta%20Joan%20Anderson%20was%20born%20on%20November%207%2C%201943%2C%20in,between%20folk%20and%20fine%20art.",
+      "snippet": "Roberta Joan Anderson was born on November 7, 1943, in the quiet town of Fort Macleod, Alberta. Raised under the wide-open skies o...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVqqvnYIIsXvcwq5cjyt25koOLwkq4yIqlIxfogt673wSatQYw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Joni Mitchell, birth date 7 November 1943, with biography",
+      "link": "https://www.astro.com/astro-databank/Mitchell,_Joni#:~:text=Joni%20Mitchell%2C%20birth%20date%207%20November%201943%2C%20with%20biography",
+      "snippet": "Table_title: Mitchell, Joni Table_content: header: | Name | Mitchell, Joni Gender: F | row: | Name: Birthname | Mitchell, Joni Gen...",
+      "source": "Astro.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQInOKmKEhQJn5sUwyN8WT8qCRwDlyWiQHUSFIhbvw0FY_HQ2zd",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.astro.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "How did I not know this information before today? #bchistory ...",
+      "link": "https://www.instagram.com/reel/DTWONh9Ekf1/#:~:text=Know%20the%20Canadian%20icon%20Joni,Now%20you%20know.",
+      "snippet": "How did I not know this information before today? #bchistory #jonimitchell #canada #explorebc. ... Know the Canadian icon Joni Mit...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3MVM-CsaaY3HVAEG5IgG2O-y1eQAWaRz64KialteGVW-HNOWN",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Current Biography, October 1976 - Joni Mitchell",
+      "link": "https://jonimitchell.com/library/print.cfm?id=62#:~:text=A%20lot%20of%20beautiful%20times,they%20leave%20the%20nest%20early.%22",
+      "snippet": "A lot of beautiful times came from it, too, through that mutual understanding. A lot of pain, too, because, inevitably, different ...",
+      "source": "Joni Mitchell - Official Website",
+      "thumbnail": "https://jonimitchell.com/library/print.cfm?id=62",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://jonimitchell.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "DVD Review: Joni Mitchell's The Fiddle and the Drum : PopDose, February 24, 2009",
+      "link": "https://jonimitchell.com/library/print.cfm?id=1994#:~:text=I'm%20old%2C%20so%20I've%20been%20playing%20and,have%2C%20in%20my%20opinion%2C%20reached%20the%20mountaintop.",
+      "snippet": "I'm old, so I've been playing and listening to it for many years. In that context, I think I know a few things about Joni Mitchell...",
+      "source": "Joni Mitchell - Official Website",
+      "thumbnail": "https://jonimitchell.com/library/print.cfm?id=1994",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://jonimitchell.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Joni Mitchell to attend Luminato Festival in Toronto in June: Toronto Star, May 28, 2013",
+      "link": "https://jonimitchell.com/library/view.cfm?id=2585#:~:text=On%20June%2017%2C%20musicians%20Murray%20McLauchlan%20and,Columbia's%20Sunshine%20Coast%20and%20been%20somewhat%20reclusive.",
+      "snippet": "On June 17, musicians Murray McLauchlan and Sylvia Tyson will talk about the vibrant Yorkville music scene of that era. In recent ...",
+      "source": "Joni Mitchell - Official Website",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAiPiJtEx23KQMrqlpujhpH28rFqC7-ep2irTXiQKJcaTtCk3",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://jonimitchell.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "search_metadata": {
+    "id": "6987c2e8cbcccf52cca47b61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fEvLdzb0THFsBKB1HM_mVA/6987c2e8cbcccf52cca47b61.json",
+    "created_at": "2026-02-07 22:55:36 UTC",
+    "processed_at": "2026-02-07 22:55:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Led+Zeppelin%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Led+Zeppelin%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/fEvLdzb0THFsBKB1HM_mVA/6987c2e8cbcccf52cca47b61.html",
+    "prettify_html_file": "https://serpapi.com/searches/fEvLdzb0THFsBKB1HM_mVA/6987c2e8cbcccf52cca47b61.prettify",
+    "total_time_taken": 8.44
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Led Zeppelin, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "9l_vonicPZNJquNWAEUhK1FmVRD_r94ynz9Qb1mNJT31E6PmyWotWZasZl4bCUUC2UAWkFVUVhMHQrizCxcOB-63X2H5J62rxzjm0-MeHp4DatZn32lZ9ztshvTHX3zbzaHjHWOP09ybN-l11iVNEYJ25FwcGw0fy0F9UHShyTPXHeHR84y2Jz3Rqw1MiiKJq_wSe4StFJyPXm4R0ezcIg563gxLrInqwgHBqYmcpg_wRQFiESc1xYW4AbJNJ43W04A4dlnFiXHjcWKR4o47KqEvCSF6JV47PK04K0YPgSdjnGd3ml8VQBelEjQsYYviH9MDDpf4Cm_jD6h3W9k08Tv1hiJfAgz7QLTyNi3IwtAXmvyKsH3fQB8majm-U8T-jaCRL-rR0bVfkKasISLDtO6-InwxdC18x0jiDf03CIjzeCj_m_yWdl1dwr9_-vlyATCdBrgDjm1-sgItdNcHRQ3dTS5IJdboWzKmE9laiVgbjHiPSiGMGdQXJrlTTVMe_cca2FCwKrm-3tILMMVgV7OobAB97DucgPMpE186JMfjlK0F_QfCivwnG5_amBoji6ZEwVeic3fc9gRNaHe2lRUHx_mV2HEjtykyYz4nbNSi_mBcr02TfiD_Q3Mur4rOJ39OpQ9E8D5D9LDMg8v38cygAmemGwCST9jrcm5mqn0WTOqsbgH2M8u-KOSmrQu02lv6LL4K9gMxFOGTwpnPM6k5ypZpcRBYO2c1UIEPTuWprOwkn4DjkeG5trQH1-_d_jYFg-8_sKWqdNQ2e-FJNC8Vt5AcQx7t6yzaiYoENHU096Jz4WXiqYe2fNUGjk7uXKHP8ME0XJf02SmI28rwpy1XiwC_6Itx70g2mSAhzUvAdPYjP97pbUUjWC7jom-ReXGGB3PMU088G05W9ZRb8UmrEv2wyvZJgRg-qtYeg4413jqPyo4Ja-PQ5QaGYoAlnsPnAiR0N3bneWAt4o6d6lOU5KG_OStTyPP39jHWP35n3VFccpYyZuwOX6eZBFJ2eUst2RI_RJlMCIUeHdomZ9DD6rNRpiYoU_VcJKXNiK-V4TURG2io3U4tHwBjk8G6y1lRqlATLYMRpZ-2ITmW2YQ0d013N4bVD6dFO8PZRac9BJbQy73C73MhinwlXzkjfxy6QFErNjy5UpycyKTu_gE4wWcw",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Here is the current profile for the surviving members of Led Zeppelin as of early 2026:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Robert Plant",
+      "reference_indexes": [
+        21
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 77 (Born August 20, 1948)."
+        },
+        {
+          "snippet": "Occupations: Singer, songwriter, and Musician.",
+          "snippet_links": [
+            {
+              "text": "Musician",
+              "link": "https://en.wikipedia.org/wiki/Robert_Plant"
+            }
+          ]
+        },
+        {
+          "snippet": "Skills & Proficiency:",
+          "list": [
+            {
+              "snippet": "Vocals: Master-level; widely regarded as one of the Greatest Rock Vocalists for his wide range and powerful style.",
+              "snippet_links": [
+                {
+                  "text": "Greatest Rock Vocalists",
+                  "link": "https://www.facebook.com/AmericanSongwriterNews/posts/even-as-he-approaches-his-eighth-decade-robert-plant-remains-the-quintessential-/1333465272155451/"
+                }
+              ]
+            },
+            {
+              "snippet": "Harmonica: Highly proficient."
+            },
+            {
+              "snippet": "Lyricist: Primary lyricist for Led Zeppelin."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: West Midlands, England (near his hometown of West Bromwich).",
+          "snippet_links": [
+            {
+              "text": "West Midlands, England",
+              "link": "https://www.wsj.com/real-estate/robert-plant-led-zeppelin-a072f7a3"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        1,
+        13,
+        4,
+        15,
+        0,
+        18,
+        7
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Jimmy Page"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 82 (Born January 9, 1944)."
+        },
+        {
+          "snippet": "Occupations: Musician, record producer, and Songwriter.",
+          "snippet_links": [
+            {
+              "text": "Songwriter",
+              "link": "https://en.wikipedia.org/wiki/Jimmy_Page"
+            }
+          ]
+        },
+        {
+          "snippet": "Skills & Proficiency:",
+          "list": [
+            {
+              "snippet": "Guitar: Master-level; consistently ranked among the Top Guitarists of All Time.",
+              "snippet_links": [
+                {
+                  "text": "Top Guitarists of All Time",
+                  "link": "https://www.facebook.com/consequence/posts/jimmy-page-ranks-as-the-sixth-greatest-guitarist-of-all-time-httpsconslvbestguit/1127066309461139/"
+                }
+              ]
+            },
+            {
+              "snippet": "Multi-Instrumentalist: Proficient in mandolin, dulcimer, theremin, and Various String Instruments.",
+              "snippet_links": [
+                {
+                  "text": "Various String Instruments",
+                  "link": "https://music.fandom.com/wiki/Jimmy_Page"
+                }
+              ]
+            },
+            {
+              "snippet": "Production: Expert; pioneered many Rock Production Techniques.",
+              "snippet_links": [
+                {
+                  "text": "Rock Production Techniques",
+                  "link": "https://www.facebook.com/100094816473951/posts/jimmy-pages-story-is-one-of-relentless-creativity-and-evolution-a-journey-that-t/692669400570270/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: London, England (specifically Tower House in Kensington).",
+          "snippet_links": [
+            {
+              "text": "London, England",
+              "link": "https://www.remindmagazine.com/article/21705/led-zeppelin-where-now-jimmy-page-robert-plant-john-paul-jones/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        6,
+        20,
+        12,
+        11,
+        16,
+        2
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "John Paul Jones"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 80 (Born January 3, 1946)."
+        },
+        {
+          "snippet": "Occupations: Musician, record producer, Arranger, and composer.",
+          "snippet_links": [
+            {
+              "text": "Arranger",
+              "link": "https://en.wikipedia.org/wiki/John_Paul_Jones_(musician)"
+            }
+          ]
+        },
+        {
+          "snippet": "Skills & Proficiency:",
+          "list": [
+            {
+              "snippet": "Bass Guitar & Keyboards: Master-level; noted for his Complex Musical Intelligence and arrangements.",
+              "snippet_links": [
+                {
+                  "text": "Complex Musical Intelligence",
+                  "link": "https://www.facebook.com/groups/1750910458868015/posts/1859042148054845/"
+                }
+              ]
+            },
+            {
+              "snippet": "Multi-Instrumentalist: Expert proficiency in mandolin, cello, and Over a Dozen Other Instruments.",
+              "snippet_links": [
+                {
+                  "text": "Over a Dozen Other Instruments",
+                  "link": "https://ledzeppelin.fandom.com/wiki/John_Paul_Jones"
+                }
+              ]
+            },
+            {
+              "snippet": "Arranging: Master-level; responsible for Led Zeppelin's Orchestral and Folk Textures.",
+              "snippet_links": [
+                {
+                  "text": "Led Zeppelin's Orchestral and Folk Textures",
+                  "link": "https://www.facebook.com/60sandBeyond/posts/john-paul-jones-is-80-years-old-todayjohn-paul-jones-is-the-bassist-keyboardist-/1487797436681051/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: London, England."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        19,
+        10,
+        5,
+        8,
+        14,
+        9
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Note: Drummer John Bonham passed away in 1980 at the age of 32.",
+      "reference_indexes": [
+        3,
+        17
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about their upcoming tours or recent archival releases?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Led Zeppelin - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Led_Zeppelin#:~:text=Band%20members%20*%20Robert%20Plant%20%E2%80%93%20vocals%2C,bass%2C%20keyboards%20(1968%E2%80%931980%2C%201985%2C%201988%2C%201995%2C%202007)",
+      "snippet": "Band members * Robert Plant \u2013 vocals, harmonica (1968\u20131980, 1985, 1988, 1995, 2007) * Jimmy Page \u2013 guitars (1968\u20131980, 1985, 1988,",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/v8NJLUDhYxNBs1P6TNzg6pN59unitdgqw95jju3z3RU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/3WD1emC2GI-X8C68eTzJS7NPuiXCYQOFRZHXO5HAkPA.png",
+      "index": 0
+    },
+    {
+      "title": "Robert Plant - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Robert_Plant#:~:text=Table_title:%20Robert%20Plant%20Table_content:%20header:%20%7C%20Robert,CBE:%20Years%20active%20%7C%20:%201965%E2%80%93present%20%7C",
+      "snippet": "Table_title: Robert Plant Table_content: header: | Robert Plant CBE | | row: | Robert Plant CBE: Plant performing live at the Rege...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/k1zbET9U3dUlGzvzbjMxNTo4qLtSBZ3eme3bQUl_v3c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/xMCZn4vCR7N6VEP247v_FfIgaYFlQw7nvD_ZyDxsZhw.png",
+      "index": 1
+    },
+    {
+      "title": "Who Is Still Alive From Led Zeppelin & What Are They Doing ...",
+      "link": "https://www.remindmagazine.com/article/21705/led-zeppelin-where-now-jimmy-page-robert-plant-john-paul-jones/#:~:text=He%20produced%20and%20starred%20in,by%20David%20Rogers/Getty%20Images",
+      "snippet": "Feb 7, 2024 \u2014 He produced and starred in the 2009 documentary It Might Get Loud, which followed Page, The Edge and Jack White, examining each of...",
+      "source": "Remind Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/WpD6Cdo7-bYPNGLI_wFlteEmXPyIZ4FYrZVxv-LT_YM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/WzoZSU2NhvfPikiZWt9yuR4i_xL5fcqG5XrvT50r9nA.png",
+      "index": 2
+    },
+    {
+      "title": "Led Zeppelin - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Led_Zeppelin#:~:text=Led%20Zeppelin%20were%20an%20English,gave%20them%20considerable%20artistic%20freedom.",
+      "snippet": "Led Zeppelin were an English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist Jimmy Page, b...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/HujLtlphC3ksEMG4Rsx2giHEsD9gaMD-lV7yzIRxvIo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/qm4315v1ckvW-im3Y9tbWBplzR8XyLCOAAXWwSKxL-s.png",
+      "index": 3
+    },
+    {
+      "title": "Robert Plant - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Robert_Plant#:~:text=Robert%20Anthony%20Plant%20(born%2020,robertplant.com",
+      "snippet": "Robert Anthony Plant (born 20 August 1948) is an English singer and songwriter. He was the lead singer and lyricist of the rock ba...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/lMqLmszGdr97i7VOy_v1XR2-IN7GCVj6ndPQi08KFjQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/9Ea8N5vPX7lyeWlafhILWdlDuSIg8kRJcDYxThiBVg8.png",
+      "index": 4
+    },
+    {
+      "title": "John Paul Jones (musician) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/John_Paul_Jones_(musician)#:~:text=Table_title:%20John%20Paul%20Jones%20(musician)%20Table_content:%20header:,:%20Bass%20guitar%20keyboards%20mandolin%20guitar%20%7C",
+      "snippet": "Table_title: John Paul Jones (musician) Table_content: header: | John Paul Jones | | row: | John Paul Jones: Born | : John Richard...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/hEPvfZP3j9bchtHXosbp6YGaEUaikGL4v3tg-io7HHQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/-FWYMJEHwqwrMinXj-_9vYF3FHZrxF36Zuy5wgaAlek.png",
+      "index": 5
+    },
+    {
+      "title": "Jimmy Page - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Jimmy_Page",
+      "snippet": "Table_title: Jimmy Page Table_content: header: | Jimmy Page OBE | | row: | Jimmy Page OBE: Born | : James Patrick Page 9 January 1...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/9asPPKljFKe-ncawt7HXL0IaevXn2DHUAxEqC7dxJQg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/zBzjG4mzsiyUCzh20qAIQ4yNcfnv-y1KR4xxuQqfbLY.png",
+      "index": 6
+    },
+    {
+      "title": "Robert Plant Passed on a White-Collar Career to Sing for Led ...",
+      "link": "https://www.wsj.com/real-estate/robert-plant-led-zeppelin-a072f7a3#:~:text=The%20'Saving%20Grace'%20singer%20on,for%20me%20in%20the%20store.",
+      "snippet": "Sep 16, 2025 \u2014 The 'Saving Grace' singer on his grandfather's brass band, his love of Bo Diddley and his lucky break. Listen. Robert Plant near h...",
+      "source": "The Wall Street Journal",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/GAarzy85ozh_UpBBND21pyhkBP9xgUScwLL9pERm1vY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/jmheTMkeQeN4wcAdVMhH-bieaDW616_jzgW4EtmjNs4.png",
+      "index": 7
+    },
+    {
+      "title": "John Paul Jones is a legendary musician and composer - Facebook",
+      "link": "https://www.facebook.com/groups/1750806055356835/posts/2297659044004864/#:~:text=Happy%2079th%20Birthday!,Hall%20of%20Fame%20in%201995.",
+      "snippet": "Nov 11, 2025 \u2014 Happy 79th Birthday! \ud83c\udf89\ud83c\udf88 John Baldwin Born: January 3, 1946, Sidcup, Kent, England!! John Paul Jones is a musician, songwriter, a...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/LX6Hw8ld9KXACu9KP8O1Z99tx2RsAcgMlSvRmkbKy8Q.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/9Z4nGGEOUaAH73N8MnzwONitYv2RYVmEQh9pTWvbuWM.png",
+      "index": 8
+    },
+    {
+      "title": "John Paul Jones | Led Zeppelin Wiki | Fandom",
+      "link": "https://ledzeppelin.fandom.com/wiki/John_Paul_Jones#:~:text=Table_content:%20header:%20%7C%20John%20Paul%20Jones%20%7C,Surfers%2C%20Them%20Crooked%20Vultures%2C%20Seasick%20Steve%20%7C",
+      "snippet": "Table_content: header: | John Paul Jones | | row: | John Paul Jones: Birth | : Januar 3 1946; Sidcup, Kent, England | row: | John ...",
+      "source": "Led Zeppelin Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/xZrNhQqNVAGQMQc2XpWbv3e6diIX7zVWjV__BqAnBa8.jpeg",
+      "index": 9
+    },
+    {
+      "title": "60's & Beyond's post - Facebook",
+      "link": "https://www.facebook.com/60sandBeyond/posts/john-paul-jones-is-80-years-old-todayjohn-paul-jones-is-the-bassist-keyboardist-/1487797436681051/#:~:text=3%F3%B0%9E%8B%F3%B1%9F%A0-,John%20Paul%20Jones%20is%2080%20years%20old%20today.,%2C%20folk%2C%20and%20experimental%20music.",
+      "snippet": "Jan 3, 2026 \u2014 John Paul Jones is 80 years old today. John Paul Jones is the bassist, keyboardist, and multi\u2011instrumentalist for Led Zeppelin, co...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/XacQ_CmR0SR8dQBi8tmJOBYxo8UJSOdCUmAHZ4GbYnE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/h2Z95QTMgV2gL9fPMFBTspnuiTuqshqMz_1hhHyxZiA.png",
+      "index": 10
+    },
+    {
+      "title": "Jimmy Page ranks as the sixth greatest guitarist of all time \u2192 https ...",
+      "link": "https://www.facebook.com/consequence/posts/jimmy-page-ranks-as-the-sixth-greatest-guitarist-of-all-time-httpsconslvbestguit/1127066309461139/#:~:text=6y%20%C2%B7%20Public-,James%20Patrick%20Page%2C%20known%20as%20Jimmy%20(London%2C%209%20January,Eric%20Clapton%20and%20Jimi%20Hendrix.",
+      "snippet": "May 16, 2025 \u2014 James Patrick Page, known as Jimmy (London, 9 January 1944, is a British guitarist and composer. Jimmy was placed in 3rd place in ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/c0xZg00aONJza2ToTG67ESbfS2lNcEdLoSyryUFoSss.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/lTJ6cG-j3M53g-VHOUkVqBHRR1sUkdunZbM74xNnvw4.png",
+      "index": 11
+    },
+    {
+      "title": "Jimmy Page",
+      "link": "https://music.fandom.com/wiki/Jimmy_Page#:~:text=Background%20Information,1957%20%2D%20present",
+      "snippet": "Background Information. Birth name. James Patrick Page. Born. January 9, 1944 (age 82) Origin. Heston, London Borough of Hounslow,",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/Fs4tcyYowDUliwpK_mMzxsiUZTonMIgpebfWbY9a9bE.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Even as he approaches his eighth decade, Robert Plant remains the ...",
+      "link": "https://www.facebook.com/AmericanSongwriterNews/posts/even-as-he-approaches-his-eighth-decade-robert-plant-remains-the-quintessential-/1333465272155451/#:~:text=%E2%80%9CI%20Still%20Feel%20the%20Fire,the%20way%20to%20Los%20Angeles.",
+      "snippet": "Feb 4, 2026 \u2014 \u201cI Still Feel the Fire of Rock in My Soul\u2026\u201d Today, Robert Plant\u2014the legendary voice of Led Zeppelin\u2014turns 77, and fans everywhere ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/eY5Vmhdmw6OSouuNZDjDAb11Ep6nt9P3Vp3K0dAGUfw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/Js1ORnLOfqcH40KHQJlicaw9Yp_GSm8CVR6ftbpW1-o.png",
+      "index": 13
+    },
+    {
+      "title": "John Paul Jones (musician) - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/John_Paul_Jones_(musician)#:~:text=John%20Paul%20Jones%20(born%20John,for%20rock%20band%20Led%20Zeppelin.",
+      "snippet": "John Paul Jones (born John Baldwin on 3 January 1946), in Sidcup, Kent) is an English musician and record producer, and was known ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/5OF1oGT8s7oekQrspPqciofSJDDfVHOk8VYV6ueiCQ8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/AHktBoxtQK9kqQOUPbFbOK-3RHn6J4zvQHTtZM6thIg.png",
+      "index": 14
+    },
+    {
+      "title": "Robert Plant age, hometown, biography | Last.fm",
+      "link": "https://www.last.fm/music/Robert+Plant/+wiki#:~:text=Born,%2C%20dance%20pop%2C%20and%20more.",
+      "snippet": "Sep 27, 2021 \u2014 Born. 20 August 1948 (age 77) Born In. West Bromwich, Sandwell, West Midlands, England, United Kingdom. Robert Anthony Plant CBE (",
+      "source": "Last.fm",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/d4cudWS82zNt36uTQzsBNrrtWlQ866ygu2r-oJYEkqo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/1Y5kakjam8byXD4RZGKOPlrm10-34AOtvV7hP4z6ryA.png",
+      "index": 15
+    },
+    {
+      "title": "Jimmy Page\u2019s story is one of relentless creativity and evolution, a ...",
+      "link": "https://www.facebook.com/100094816473951/posts/jimmy-pages-story-is-one-of-relentless-creativity-and-evolution-a-journey-that-t/692669400570270/#:~:text=Jimmy%20Page%20(born%20January%209,his%20stage%20presence%20remains%20legendary.",
+      "snippet": "Nov 17, 2025 \u2014 Jimmy Page (born January 9, 1944) is widely regarded as one of the most influential guitarists in rock history. As the founder and...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/QKw82m7Fb9YJS5tQXGbCE3-Vg0iskclzfApQQ9adktI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/cWM0GtqvvI7Iq8KKtHWjfQ_OjctBNcIocqFP-trCpNI.png",
+      "index": 16
+    },
+    {
+      "title": "Led Zeppelin | British Rock Band, Hard Rock ... - Britannica",
+      "link": "https://www.britannica.com/topic/Led-Zeppelin",
+      "snippet": "Jan 19, 2026 \u2014 Led Zeppelin * Who were the original members of Led Zeppelin? The original members of Led Zeppelin were Jimmy Page on guitar, Robe...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/2Fvxw9OL3vSLvUxyBX091A7FbtHWWJajepzr3br6dKI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/3UvUXIRkICbJVkUQXTf3WlmNCVBBvuc7Ln4qHcx4xaQ.png",
+      "index": 17
+    },
+    {
+      "title": "Robert Plant's birthday and biography - Facebook",
+      "link": "https://www.facebook.com/groups/DoYouRememberThe60sFanClub/posts/3106099586449320/#:~:text=Robert%20Plant%20is%20an%20English,%2Dplants%2Dpowerful%2Dvoic/",
+      "snippet": "Aug 21, 2025 \u2014 Robert Plant is an English rock musician best known as the lead singer and lyricist for the legendary rock band Led Zeppelin. Born...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/0iLx6Zg_oQ7WpYP0LSDZYFfGovQhkRZsKqsAFEO_QtE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/ElNg2DzwFXtLZtykvGklt9RNcw0AIXmCr7WCvLTSe24.png",
+      "index": 18
+    },
+    {
+      "title": "Led Zeppelin members birthdays",
+      "link": "https://www.facebook.com/groups/1750910458868015/posts/1859042148054845/#:~:text=John%20Paul%20Jones%20(Led%20Zeppelin,drama%2C%20just%20pure%20musical%20intelligence.",
+      "snippet": "Jan 2, 2026 \u2014 John Paul Jones (Led Zeppelin) is celebrating his 78th birthday. \ud83e\udd42 John Baldwin (born 3 January 1946), better known by his stage ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/yYQLc_FdT2KU-0n_XaPB7tBZM2Gy88AhI0ouFFyBODg.jpeg",
+      "index": 19
+    },
+    {
+      "title": "Melody and Tune - Facebook",
+      "link": "https://www.facebook.com/100064200934684/posts/fblifestylejimmy-page-turns-82-years-old-todayjimmy-page-the-guitarist-and-found/1286070906876262/#:~:text=Melody%20and%20Tune-,%23fblifestyle%20Jimmy%20Page%20turns%2082%20years%20old%20today%20Jimmy%20Page,melodic%20solos%20into%20his%20music.&text=Happy%20Birthday!",
+      "snippet": "Jan 9, 2026 \u2014 #fblifestyle Jimmy Page turns 82 years old today Jimmy Page, the guitarist and founder of the rock band Led Zeppelin. Page is wide...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/riIqjVavHCJ2mHdKfwoLgV-6taGUXrZ4UbAQBGloLyc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8cbcccf52cca47b61/images/kc6YNU6TK83ws1_cY48ygTX6K_T__O0QV8r5r2D-fnQ.png",
+      "index": 20
+    },
+    {
+      "title": "Led Zeppelin (music group) | Music | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/led-zeppelin-music-group#:~:text=Led%20Zeppelin%20was%20a%20British,a%20staple%20of%20rock%20music.",
+      "snippet": "Led Zeppelin was a British rock band formed in 1968, known for their influential blend of hard rock, blues, and acoustic folk musi...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/music/led-zeppelin-music-group",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    }
+  ]
+}

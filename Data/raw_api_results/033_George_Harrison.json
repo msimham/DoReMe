@@ -1,0 +1,488 @@
+{
+  "search_metadata": {
+    "id": "6987c30180c963d7ce1f61a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5Z_yNOrWyMBDP-eho-64Ew/6987c30180c963d7ce1f61a4.json",
+    "created_at": "2026-02-07 22:56:01 UTC",
+    "processed_at": "2026-02-07 22:56:01 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=George+Harrison%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=George+Harrison%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/5Z_yNOrWyMBDP-eho-64Ew/6987c30180c963d7ce1f61a4.html",
+    "prettify_html_file": "https://serpapi.com/searches/5Z_yNOrWyMBDP-eho-64Ew/6987c30180c963d7ce1f61a4.prettify",
+    "total_time_taken": 8.44
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "George Harrison, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "KbE9XHicTVJJjqsGFJRyErL7XwrdYAzYannBjDGYGQwbxAxmngfpL3OR6CuRcoEcIKfonCbOIkreU9Xilapq837-Jc7_IAaZ9108JqbHtVCuSoeLt4VwvsdlH37-SVXN4hgOGhbaIbSi1awEzqdN1OCEyoJg0yq1691yRaNIDwGcyTJ7RgJbWy3D1eMXfG50JJgcJUjTVdPZJDPijKqApTJyYkuFLdsqXBN1VDtcJNiSIw7N4yd7dB_3SYNaxLedNYQyP6pWx4HJmskiMoTOV8dqENdkYZspe5Mp1dCIJB2JSFtrxOghoUY1WpFFzg_Y_H0a4t7z07geP79JzZ6Xpf-OvkHAFzuvo2YZgLsBwNAb9AG8DtjxA1ix41eAaNsytuPglo_vKIK_IRjw5cYbkvgTUOZFDHBxWDRfASrrmyp-h5FX4j8L6H7i9_m_FiZK_9N-DZumyOO_fviRYKgL4QuVj05Bd08cW56UgChXsxbTO96BndveIuF612V2iCBvZltSSVaFPBw7XlGZD8Dz9Dic-hgkTerGGJcXUR8AbV2Gc73ijJ6odXgaeBXa5MBLDlBbknG5oNWcnUJjMzNdPKoEQVJPjjOx2nBXLGeI1_wvWTc05ULQGN2kQ6DldyzyQHRPG_OZC6fTLKM70zLNUptOZowcWip-FbXnI5cK_CEjXOS-0J1Y4yImu-BjgxJiHgsIl_PjLhYn_chyhHiCrGe7fwD3K31BD6eL2Q98c4sbyGeOtWrzPAoy1NTQN63a6_z8rOsxwOcDnssJdR4OW5xxWTU39sFfq5XNAkkI-80WLcNTdtwbvDD2IBmdHhp3JdRMaSrFnuCCL26OhAxdkb5ewQKHbR2dUTk82IF0SoHFGLIwR5ogNSSSywxiFY0LQGGl9qfRbW3aNBue7B2yFlVIMCKVbl1ULr19lms3hfRc4IkKQ82HdF4WA_WXWS2u28Kd-6gel8mewWR0hXaHQNSCVrqv_TWNyROud9sADzbiuIVlLd-rYSw-fyPMkVkTGhx5cOkN22LZspVizoOYJlJvTahGt2Kwco83O6pezYA-PiwLVVzFSPcHZEjhNZMluJFFixMDjDNONC2h5l3YWl29-tFi730iHBTveR64EA2nGBrnERWjqbjl-5qMLdj4jXYsKbx3pPDUc3Lvzu7MZpH36qTpDcROjmT-DVnccQU",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "George Harrison, best known as the \"quiet Beatle,\" passed away on November 29, 2001, at the age of 58. Because he has been deceased for over two decades, he does not have a current residence.",
+      "reference_indexes": [
+        24,
+        28,
+        20,
+        21
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Musical Skills & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Harrison was a master of his craft, widely regarded as one of the greatest guitarists of all time (ranked #11 by Rolling Stone).",
+      "snippet_links": [
+        {
+          "text": "Rolling Stone",
+          "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/allthingmusicplus/posts/george-harrison-the-beatles-solo-was-born-on-this-date-in-1943-he-dies-on-novemb/1045548910933559/&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQIBBAB&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+        }
+      ],
+      "reference_indexes": [
+        22,
+        23
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Lead Guitar: Master-level; known for a melodic, \"less is more\" style and perfection in tone."
+        },
+        {
+          "snippet": "Slide Guitar: World-class; developed a unique, fluid signature sound that defined his solo career."
+        },
+        {
+          "snippet": "Sitar: Highly proficient; he introduced Indian classical music to Western rock and studied deeply under master Ravi Shankar.",
+          "snippet_links": [
+            {
+              "text": "Ravi Shankar",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/George-Harrison-British-musician&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQIBhAD&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+            }
+          ]
+        },
+        {
+          "snippet": "Songwriting: Exceptional; although initially overshadowed by Lennon and McCartney, he eventually wrote masterpieces like \"Something\" and \"Here Comes the Sun\"."
+        },
+        {
+          "snippet": "Multi-instrumentalism: Harrison was credited with playing over 26 different instruments, including the ukulele, mandolin, keyboards, and bass."
+        }
+      ],
+      "reference_indexes": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Musician & Singer-Songwriter: Founding member of The Beatles and later a successful solo artist and member of the Traveling Wilburys.",
+          "snippet_links": [
+            {
+              "text": "Traveling Wilburys",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/George_Harrison&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQICBAB&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+            }
+          ]
+        },
+        {
+          "snippet": "Music Producer: Founded Dark Horse Records in 1974 and produced numerous artists for the Apple label.",
+          "snippet_links": [
+            {
+              "text": "Dark Horse Records",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://globalmusicrights.com/artist/1423437&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQICBAD&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+            }
+          ]
+        },
+        {
+          "snippet": "Film Producer: Co-founded HandMade Films in 1978, producing classics such as Monty Python's Life of Brian and Time Bandits.",
+          "snippet_links": [
+            {
+              "text": "HandMade Films",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.udiscovermusic.com/artist/george-harrison/&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQICBAF&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+            }
+          ]
+        },
+        {
+          "snippet": "Humanitarian: Organized the 1971 Concert for Bangladesh, which established the modern template for star-studded benefit concerts.",
+          "snippet_links": [
+            {
+              "text": "Concert for Bangladesh",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/361717340550274/posts/8820480288007228/&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQy_kOegQICBAH&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        20,
+        23,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Last Known Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Before his death, Harrison's primary home was Friar Park, a Victorian neo-Gothic mansion in Henley-on-Thames, Oxfordshire, England. He passed away in Los Angeles, California.",
+      "reference_indexes": [
+        22,
+        24,
+        30,
+        35
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "George Harrison - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/George_Harrison&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAC&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Harrison in 1974 | : | r...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/CFiCCjtvtZwOhpO9WXJ_hW8bf7Or9DfvEP71IB9AmoI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/5k1yBSSTbt6fleqL4EqSHjCgVVBSxier52ct-oTa_lc.png",
+      "index": 0
+    },
+    {
+      "title": "George Harrison - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/George_Harrison%23:~:text%3DAfter%2520the%2520Beatles%2520disbanded%252C%2520Harrison,his%2520solo%2520career%2520in%25202004.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAG&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Harrison in 1974 | : | r...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/V9QE6LyCtFqGFc9NUB7z-LaMEGf1qEpzQQslKVSFKI8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/Ytn4YTEqiJEkID9aGwXIW7g4zNwgJnw_2wNgdOZ0hBg.png",
+      "index": 1
+    },
+    {
+      "title": "George Harrison - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/George_Harrison%23:~:text%3DTable_title:%2520George%2520Harrison%2520Table_content:%2520header:%2520%257C%2520George,MBE:%2520Years%2520active%2520%257C%2520:%25201958%25E2%2580%25932001%2520%257C&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAK&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Born | : 25 February 194...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/CE8QFgS2r2tukQkqeeUs49jT5rk3P7n6BSnQI3DbsK0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/9Hu6Hz-YtFOh6XLBdKnvH6VjMhw4g99EGNaUy3bRo1I.png",
+      "index": 2
+    },
+    {
+      "title": "George Harrison (The Beatles, solo) was born on this date in ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/allthingmusicplus/posts/george-harrison-the-beatles-solo-was-born-on-this-date-in-1943-he-dies-on-novemb/1045548910933559/%23:~:text%3DGeorge%2520Harrison%2520(The%2520Beatles%252C%2520solo,that%2520would%2520change%2520the%2520world.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAO&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Feb 25, 2025 \u2014 In 1978, he married Olivia Arias, with whom he had his only child, Dhani, a union grounded in love and mutual support that lasted ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/w8BAqz-tl9TgVFJ5GnHNk7oKlyOXtJ1lOduoTd86kJE.jpeg",
+      "index": 3
+    },
+    {
+      "title": "George Harrison's Contributions to Music and Film - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/tcmfansite/posts/1915709652203972/%23:~:text%3DHappy%2520Birthday%25201943%2520George%2520Harrison,Grammy%2520Awards%2520in%2520February%25202015.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAS&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Feb 25, 2024 \u2014 While his music accomplishments were legendary, Harrison also had a solid film background, both acting as himself in a series of B...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/M-jNCFDmHPR9D7zdaVrC0D-wXK1Ud8QYkWrOTP0lG6Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/EkalgMLu_q2oNEbif7QZOH7czwZoxxnFHkQwT5Q4WQM.png",
+      "index": 4
+    },
+    {
+      "title": "George Harrison | Life, Death, & The Beatles | Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/George-Harrison-British-musician%23:~:text%3DGeorge%2520Harrison%2520(born%2520February%252025,as%2520a%2520songwriter%2520and%2520performer.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAW&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Dec 30, 2025 \u2014 Harrison began playing guitar in secondary school. He later met Paul McCartney, who invited Harrison to join the Quarrymen, the ro...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/YJpO9O3sWyLqPXK51TCulZFLsVdaIzZY0I1w2BSNISk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/JhfN6d7qXP4Kad11-A7SKLQxTC_JWAQjDiXS5hUm7E0.png",
+      "index": 5
+    },
+    {
+      "title": "The Genius of George Harrison As Told By Abbey Road's ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.abbeyroad.com/news/the-genius-of-george-harrison-as-told-by-abbey-roads-cameron-colbeck-2737%23:~:text%3DFirst%2520and%2520foremost%252C%2520George%2520Harrison,the%2520music%2520happened%2520to%2520be.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAa&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Dec 24, 2025 \u2014 62-acre Friar Park mansion near Henley-on-Thames. First and foremost, George Harrison was a guitarist. He was a rock and roll, rhy...",
+      "source": "www.abbeyroad.com",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/ZTaSwl7gZN5wU531JSWM3jIinXj__zyjCBC8gYMAPuw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/y72qEvae4_k3PgPtZDzGoCR90RRXSu3EQqWDCmgBT4M.png",
+      "index": 6
+    },
+    {
+      "title": "George Harrison's life was filled with milestones that shaped not only ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/361717340550274/posts/8820480288007228/%23:~:text%3DGeorge%2520Harrison%252C%2520the%2520%2522quiet%2520Beatle,and%2520influenced%2520countless%2520artists%2520worldwide.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAe&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Dec 29, 2024 \u2014 George Harrison, the \"quiet Beatle,\" brought a deeply spiritual and innovative dimension to The Beatles' music. Born in Liverpool ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/ajT751Pe40pOEOkbk1YNUyCvjd88jIy0S8_TBQQ1iiQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/QLZ0CfApo8nYnqm53gRYvWG9rhR-H1Pq7YkzxZ7aWqs.png",
+      "index": 7
+    },
+    {
+      "title": "George Harrison - Earth-347 Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://earth347.fandom.com/wiki/George_Harrison&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAi&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "George Harrison * Born. 25 February 1943. Liverpool, England. * Died. 29 November 2003 (aged 60) Los Angeles, California, US. * Ca...",
+      "source": "Earth-347 Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/ztAVi_OHi63xHiJOsNQG9LAPfjKzKvkkAZlko1GqIVY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/Sc6McEGpo0BrGwBI71njeoXY9CNGfXas5EEUM6MeTpI.png",
+      "index": 8
+    },
+    {
+      "title": "George Harrison | Life, Death, & The Beatles | Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/George-Harrison-British-musician%23:~:text%3DGeorge%2520Harrison%2520(born%2520February%252025,as%2520a%2520songwriter%2520and%2520performer.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAm&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Dec 30, 2025 \u2014 George Harrison (born February 25, 1943, Liverpool, England\u2014died November 29, 2001, Los Angeles, California, U.S.) was a British m...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/KqKU7PEnMVbB7hCtT6koaBHlEijdIx_UiexUSE8fVAg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/jyl0kgUY7WbpO0u3g6-IhsU3ArhxOYTbXRfA0sFFvlY.png",
+      "index": 9
+    },
+    {
+      "title": "George Harrison, lead guitarist for the Beatles, dies | HISTORY",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.history.com/this-day-in-history/november-29/george-harrison-beatles-guitarist-dies%23:~:text%3Dthe%2520Beatles%252C%2520dies-,HISTORY.com%2520Editors,foremost%2520musicians%2520of%2520his%2520generation.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAq&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Jul 25, 2019 \u2014 HISTORY.com Editors. Published: July 25, 2019 Last Updated: May 27, 2025. On November 29, 2001, English musician and songwriter Ge...",
+      "source": "History.com",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/eveHT7knKt9XGVbjmCpD_GW9AwvpJ7k19r27_ak5HS4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/R_MMCFbWH3tpja4IK4tnywZ3GFvp6AWNiSIJrthi-Dk.png",
+      "index": 10
+    },
+    {
+      "title": "GEORGE HARRISON - Global Music Rights",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://globalmusicrights.com/artist/1423437%23:~:text%3DGeorge%2520founded%2520his%2520Dark%2520Horse,band%2520of%2520L.A.%2520studio%2520wizards.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAu&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "George founded his Dark Horse Record label in 1974. Ravi Shankar's \u201cI Am Missing You\u201d and Splinter's \u201cCostafine Town\u201d were the lab...",
+      "source": "Global Music Rights",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/csdk2-0YkB-Pr0VQAn8vpMOhU1j7S8SCSRe_jsXvMGY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/fC-NYh461MkvwRSPSH7OA2WP3hJnDpD8uqHpFX0-Qmc.png",
+      "index": 11
+    },
+    {
+      "title": "George Harrison's life and career",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/197624643745929/posts/3343019525873076/%23:~:text%3DHarrison%2520was%2520a%2520music%2520and%2520film%2520producer,1974%2520and%2520co%252Dfounded%2520handmade%2520films%2520in%25201978.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBAy&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Harrison was a music and film producer as well as a musician; he founded dark horse records in 1974 and co-founded handmade films ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/qapU4tSPFPnMLRuBjOX66i8Qr_CndVM-VoFH--h3lX8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/SyGOC5TsJTX7iPnNh2p_JoQ-gMQDcxB9EOsDxu_rp7U.png",
+      "index": 12
+    },
+    {
+      "title": "George Harrison - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/George_Harrison&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBA2&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Harrison at the White Ho...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/MJf4YH4u-JgNq9Ig-YEZGOOWHAhBPIWzWPsxv59jGbk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/hNnpbvSbwl8b5aW__0F9Wbr4SE-gzn_eGE7OPK4Qyv0.png",
+      "index": 13
+    },
+    {
+      "title": "George Harrison - The Quiet Masterful Songwriter",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.udiscovermusic.com/artist/george-harrison/%23:~:text%3DHe's%2520been%2520called%2520%25E2%2580%259CThe%2520Quiet,excellent%2520records%2520by%2520other%2520artists.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBA6&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Mar 8, 2020 \u2014 George Harrison. George always preferred to be described as a musician, and yet there were many more strings to his bow: producer ...",
+      "source": "uDiscoverMusic",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/TPFVWIaofI2MZYVC5R61wj0t6qz9_O5H88Dt-moKxVs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/5xqDpOX0-ow3MUrIcvt_Av1lLlpdLqeSZSZMtTyZKOI.png",
+      "index": 14
+    },
+    {
+      "title": "How the \"young kid\" George Harrison helped shape some of Paul ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/361717340550274/posts/5646932015362087/%23:~:text%3DHe%2520is%2520really%2520just%2520my,he%2520never%2520put%2520it%2520down.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBA-&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Jan 10, 2023 \u2014 He is really just my baby brother.\" The world had lost the Quiet Beatle. But his legacy was anything but quiet. George Harrison pr...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/O0yXvuJljcjPWC-ergzmqVTrmEl-2NYd3ijdi2H0EQo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/VM3N4GF8mYcRiWpOxxkxVnnnMdH3x8Xyi6QwKP-FmV4.png",
+      "index": 15
+    },
+    {
+      "title": "GEORGE HARRISON: The Chromatic One",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://americansongwriter.com/george-harrisons-chord-probing-spiritualism/%23:~:text%3DOnce%2520The%2520Beatles%2520had%2520completed,stylings%2520that%2520emerged%2520in%25201970.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBBC&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Feb 7, 2013 \u2014 Once The Beatles had completed their rise to the top, Harrison received occasional coaching from Lennon as a pop writer (\u201cI Need Y...",
+      "source": "American Songwriter",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/O1Azifjk4k-UKGm7xv73_diODOY5-zmz9r0RPwi4idk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/GoA0BF9O0wcmCmzxtXS3I2rh6Hx3TcaI-0ZDNNFfmV8.png",
+      "index": 16
+    },
+    {
+      "title": "George Harrison - Trivia - IMDb",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm0365600/trivia/%23:~:text%3DHe%2520played%252026%2520instruments:%2520guitar,%252C%2520marimba%2520and%2520Jal%252DTarang.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBBG&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "He played 26 instruments: guitar, sitar, four-string guitar, bass guitar, arp bass, violin, tamboura, dobro, swordmandel, tabla, o...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/CX535UYG2UUCgfmUnRRS0kpm0Nn8xXYAlJJw_WHeGbI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/ufk4JsocQBHXDzyqorsZMwKjw0OW6msiapQVjllBGR4.jpeg",
+      "index": 17
+    },
+    {
+      "title": "George Harrison",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm0365600/%23:~:text%3DIn%2520May%25202001%252C%2520Harrison's%2520cancer,November%252029%252C%25202001(58)&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBBK&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "George Harrison(1943-2001) * Music Artist. * Actor. * Producer. ... Still, the ensuing years were not completely stress-free. In 1...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/_emkeGFg0Y_t1S7fOm26D3eoBTFlkS9e4vyuNFU85EU.jpeg",
+      "index": 18
+    },
+    {
+      "title": "How did George Harrison's guitar skills change from ... - Quora",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.quora.com/How-did-George-Harrison-s-guitar-skills-change-from-when-the-Beatles-began-to-when-they-broke-up-and-then-later-in-his-solo-albums%23:~:text%3DThomas%2520Edward%2520Friedrich,tone%252C%2520and%2520eclectic%2520musical%2520interests.&ved=2ahUKEwjk_OT6vMiSAxUlLUQIHfRIBhMQ1fkOegQIDBBO&opi=89978449&cd&psig=AOvVaw2VA-gIlEBA5gH0kJvGeh-2&ust=1770591362260000",
+      "snippet": "Aug 13, 2020 \u2014 * Thomas Edward Friedrich. Studied at King's College London (KCL) Author has. \u00b7 Updated 1y. As a guitar player myself, I see Georg...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c30180c963d7ce1f61a4/images/XPrJlwdsobTAno9zWIWOqitI7L-BivwTxB4GlWaPYCg.png",
+      "index": 19
+    },
+    {
+      "title": "George Harrison - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/George_Harrison#:~:text=Table_title:%20George%20Harrison%20Table_content:%20header:%20%7C%20George,MBE:%20Years%20active%20%7C%20:%201958%E2%80%932001%20%7C",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Born | : 25 February 194...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmEX7XR3QJrpLMUKYCSTtMbXBYrRRhMcZVjyJKJ1XsWvwrWxDS",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "George Harrison, lead guitarist for the Beatles, dies | HISTORY",
+      "link": "https://www.history.com/this-day-in-history/november-29/george-harrison-beatles-guitarist-dies#:~:text=the%20Beatles%2C%20dies-,HISTORY.com%20Editors,foremost%20musicians%20of%20his%20generation.",
+      "snippet": "HISTORY.com Editors. Published: July 25, 2019 Last Updated: May 27, 2025. On November 29, 2001, English musician and songwriter Ge...",
+      "source": "History.com",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJFf12KNk9NhShXl8hozkoW_aSH_P84Jw_dGrvpd60wnF1DkoT",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.history.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "George Harrison (The Beatles, solo) was born on this date in ...",
+      "link": "https://www.facebook.com/allthingmusicplus/posts/george-harrison-the-beatles-solo-was-born-on-this-date-in-1943-he-dies-on-novemb/1045548910933559/#:~:text=George%20Harrison%20(The%20Beatles%2C%20solo,that%20would%20change%20the%20world.",
+      "snippet": "In 1978, he married Olivia Arias, with whom he had his only child, Dhani, a union grounded in love and mutual support that lasted ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGnxlgg5JRBvG2wLuFQSYvh9fSZ87v2rNkvEiWiFZHvEUWm28Z",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "George Harrison's Contributions to Music and Film - Facebook",
+      "link": "https://www.facebook.com/groups/tcmfansite/posts/1915709652203972/#:~:text=Happy%20Birthday%201943%20George%20Harrison,Grammy%20Awards%20in%20February%202015.",
+      "snippet": "While his music accomplishments were legendary, Harrison also had a solid film background, both acting as himself in a series of B...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFIYFk8oaVf0h297P_UXh9jCz89j7ZZe9qcKFZ07p7UrKeklKZ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "The Genius of George Harrison As Told By Abbey Road's ...",
+      "link": "https://www.abbeyroad.com/news/the-genius-of-george-harrison-as-told-by-abbey-roads-cameron-colbeck-2737#:~:text=First%20and%20foremost%2C%20George%20Harrison,the%20music%20happened%20to%20be.",
+      "snippet": "62-acre Friar Park mansion near Henley-on-Thames. First and foremost, George Harrison was a guitarist. He was a rock and roll, rhy...",
+      "source": "www.abbeyroad.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6PhMTctBSe6_gHct7V-Ketx-sQtNy34bM6le9_lFAMpNVw3TM",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.abbeyroad.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "How did George Harrison's guitar skills change from ... - Quora",
+      "link": "https://www.quora.com/How-did-George-Harrison-s-guitar-skills-change-from-when-the-Beatles-began-to-when-they-broke-up-and-then-later-in-his-solo-albums#:~:text=Thomas%20Edward%20Friedrich,tone%2C%20and%20eclectic%20musical%20interests.",
+      "snippet": "* Thomas Edward Friedrich. Studied at King's College London (KCL) Author has. \u00b7 Updated 1y. As a guitar player myself, I see Georg...",
+      "source": "Quora",
+      "thumbnail": "https://www.quora.com/How-did-George-Harrison-s-guitar-skills-change-from-when-the-Beatles-began-to-when-they-broke-up-and-then-later-in-his-solo-albums",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "George Harrison - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/George_Harrison",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Harrison in 1974 | : | r...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmEX7XR3QJrpLMUKYCSTtMbXBYrRRhMcZVjyJKJ1XsWvwrWxDS",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "GEORGE HARRISON: The Chromatic One",
+      "link": "https://americansongwriter.com/george-harrisons-chord-probing-spiritualism/#:~:text=Once%20The%20Beatles%20had%20completed,stylings%20that%20emerged%20in%201970.",
+      "snippet": "Once The Beatles had completed their rise to the top, Harrison received occasional coaching from Lennon as a pop writer (\u201cI Need Y...",
+      "source": "American Songwriter",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MnADaYPmHFD0-E89DbilE8Dan03zAj0dnyPdR6shp_d76Z5r",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://americansongwriter.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "George Harrison | Life, Death, \\u0026 The Beatles | Britannica",
+      "link": "https://www.britannica.com/biography/George-Harrison-British-musician#:~:text=George%20Harrison%20(born%20February%2025,as%20a%20songwriter%20and%20performer.",
+      "snippet": "Harrison began playing guitar in secondary school. He later met Paul McCartney, who invited Harrison to join the Quarrymen, the ro...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV-WMdCy8rCDjTBveiDZwP46cPr3q105IoyMXNdI94aq5S2OAh",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "George Harrison - Trivia - IMDb",
+      "link": "https://www.imdb.com/name/nm0365600/trivia/#:~:text=He%20played%2026%20instruments:%20guitar,%2C%20marimba%20and%20Jal%2DTarang.",
+      "snippet": "He played 26 instruments: guitar, sitar, four-string guitar, bass guitar, arp bass, violin, tamboura, dobro, swordmandel, tabla, o...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrIqFtUnBB2zgwd2-bfcnBo9JU3ZcqmoBMhECZaWTae1YpoeMH",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "George Harrison - Earth-347 Wiki",
+      "link": "https://earth347.fandom.com/wiki/George_Harrison",
+      "snippet": "George Harrison * Born. 25 February 1943. Liverpool, England. * Died. 29 November 2003 (aged 60) Los Angeles, California, US. * Ca...",
+      "source": "Earth-347 Wiki",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbCVlC-BCHx_oW8ppb2GzgG53TJh6Od3un0425BzZcnf6mQnC",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://earth347.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "GEORGE HARRISON - Global Music Rights",
+      "link": "https://globalmusicrights.com/artist/1423437#:~:text=George%20founded%20his%20Dark%20Horse,band%20of%20L.A.%20studio%20wizards.",
+      "snippet": "George founded his Dark Horse Record label in 1974. Ravi Shankar's \u201cI Am Missing You\u201d and Splinter's \u201cCostafine Town\u201d were the lab...",
+      "source": "Global Music Rights",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQlZ60JTjt32uEgySpXEBUYPsv7aleRZHk5V4LOxN-9F8jDM0E8",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://globalmusicrights.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "George Harrison's life and career",
+      "link": "https://www.facebook.com/groups/197624643745929/posts/3343019525873076/#:~:text=Harrison%20was%20a%20music%20and%20film%20producer,1974%20and%20co%2Dfounded%20handmade%20films%20in%201978.",
+      "snippet": "Harrison was a music and film producer as well as a musician; he founded dark horse records in 1974 and co-founded handmade films ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzL66z1CRPrijHYE0rqADWhA4lwsYK3iKNypEw6RVU3CWb_w4K",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "George Harrison - The Quiet Masterful Songwriter",
+      "link": "https://www.udiscovermusic.com/artist/george-harrison/#:~:text=He's%20been%20called%20%E2%80%9CThe%20Quiet,excellent%20records%20by%20other%20artists.",
+      "snippet": "George Harrison. George always preferred to be described as a musician, and yet there were many more strings to his bow: producer ...",
+      "source": "uDiscoverMusic",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvxgY6o_uaJuxYRZg8TqGiItSOtd71wx6CXfthtFfMhEkvDKD",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.udiscovermusic.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "George Harrison - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/George_Harrison",
+      "snippet": "Table_title: George Harrison Table_content: header: | George Harrison MBE | | row: | George Harrison MBE: Harrison at the White Ho...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmEX7XR3QJrpLMUKYCSTtMbXBYrRRhMcZVjyJKJ1XsWvwrWxDS",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://simple.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "George Harrison",
+      "link": "https://www.imdb.com/name/nm0365600/#:~:text=In%20May%202001%2C%20Harrison's%20cancer,November%2029%2C%202001(58)",
+      "snippet": "George Harrison(1943-2001) * Music Artist. * Actor. * Producer. ... Still, the ensuing years were not completely stress-free. In 1...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6GHHTsgBkqTBWtsovdvJitMJ_mkrxL8rNeFzKaxxTMVt8UOY9",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What guitar solos by George Harrison are best known?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+guitar+solos+by+George+Harrison+are+best+known%3F&subsequent_request_token=KbE9XHicTVJJjqsGFJRyErL7XwrdYAzYannBjDGYGQwbxAxmngfpL3OR6CuRcoEcIKfonCbOIkreU9Xilapq837-Jc7_IAaZ9108JqbHtVCuSoeLt4VwvsdlH37-SVXN4hgOGhbaIbSi1awEzqdN1OCEyoJg0yq1691yRaNIDwGcyTJ7RgJbWy3D1eMXfG50JJgcJUjTVdPZJDPijKqApTJyYkuFLdsqXBN1VDtcJNiSIw7N4yd7dB_3SYNaxLedNYQyP6pWx4HJmskiMoTOV8dqENdkYZspe5Mp1dCIJB2JSFtrxOghoUY1WpFFzg_Y_H0a4t7z07geP79JzZ6Xpf-OvkHAFzuvo2YZgLsBwNAb9AG8DtjxA1ix41eAaNsytuPglo_vKIK_IRjw5cYbkvgTUOZFDHBxWDRfASrrmyp-h5FX4j8L6H7i9_m_FiZK_9N-DZumyOO_fviRYKgL4QuVj05Bd08cW56UgChXsxbTO96BndveIuF612V2iCBvZltSSVaFPBw7XlGZD8Dz9Dic-hgkTerGGJcXUR8AbV2Gc73ijJ6odXgaeBXa5MBLDlBbknG5oNWcnUJjMzNdPKoEQVJPjjOx2nBXLGeI1_wvWTc05ULQGN2kQ6DldyzyQHRPG_OZC6fTLKM70zLNUptOZowcWip-FbXnI5cK_CEjXOS-0J1Y4yImu-BjgxJiHgsIl_PjLhYn_chyhHiCrGe7fwD3K31BD6eL2Q98c4sbyGeOtWrzPAoy1NTQN63a6_z8rOsxwOcDnssJdR4OW5xxWTU39sFfq5XNAkkI-80WLcNTdtwbvDD2IBmdHhp3JdRMaSrFnuCCL26OhAxdkb5ewQKHbR2dUTk82IF0SoHFGLIwR5ogNSSSywxiFY0LQGGl9qfRbW3aNBue7B2yFlVIMCKVbl1ULr19lms3hfRc4IkKQ82HdF4WA_WXWS2u28Kd-6gel8mewWR0hXaHQNSCVrqv_TWNyROud9sADzbiuIVlLd-rYSw-fyPMkVkTGhx5cOkN22LZspVizoOYJlJvTahGt2Kwco83O6pezYA-PiwLVVzFSPcHZEjhNZMluJFFixMDjDNONC2h5l3YWl29-tFi730iHBTveR64EA2nGBrnERWjqbjl-5qMLdj4jXYsKbx3pPDUc3Lvzu7MZpH36qTpDcROjmT-DVnccQU"
+    },
+    {
+      "question": "What were George Harrison's most successful films with HandMade Films?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+were+George+Harrison%27s+most+successful+films+with+HandMade+Films%3F&subsequent_request_token=KbE9XHicTVJJjqsGFJRyErL7XwrdYAzYannBjDGYGQwbxAxmngfpL3OR6CuRcoEcIKfonCbOIkreU9Xilapq837-Jc7_IAaZ9108JqbHtVCuSoeLt4VwvsdlH37-SVXN4hgOGhbaIbSi1awEzqdN1OCEyoJg0yq1691yRaNIDwGcyTJ7RgJbWy3D1eMXfG50JJgcJUjTVdPZJDPijKqApTJyYkuFLdsqXBN1VDtcJNiSIw7N4yd7dB_3SYNaxLedNYQyP6pWx4HJmskiMoTOV8dqENdkYZspe5Mp1dCIJB2JSFtrxOghoUY1WpFFzg_Y_H0a4t7z07geP79JzZ6Xpf-OvkHAFzuvo2YZgLsBwNAb9AG8DtjxA1ix41eAaNsytuPglo_vKIK_IRjw5cYbkvgTUOZFDHBxWDRfASrrmyp-h5FX4j8L6H7i9_m_FiZK_9N-DZumyOO_fviRYKgL4QuVj05Bd08cW56UgChXsxbTO96BndveIuF612V2iCBvZltSSVaFPBw7XlGZD8Dz9Dic-hgkTerGGJcXUR8AbV2Gc73ijJ6odXgaeBXa5MBLDlBbknG5oNWcnUJjMzNdPKoEQVJPjjOx2nBXLGeI1_wvWTc05ULQGN2kQ6DldyzyQHRPG_OZC6fTLKM70zLNUptOZowcWip-FbXnI5cK_CEjXOS-0J1Y4yImu-BjgxJiHgsIl_PjLhYn_chyhHiCrGe7fwD3K31BD6eL2Q98c4sbyGeOtWrzPAoy1NTQN63a6_z8rOsxwOcDnssJdR4OW5xxWTU39sFfq5XNAkkI-80WLcNTdtwbvDD2IBmdHhp3JdRMaSrFnuCCL26OhAxdkb5ewQKHbR2dUTk82IF0SoHFGLIwR5ogNSSSywxiFY0LQGGl9qfRbW3aNBue7B2yFlVIMCKVbl1ULr19lms3hfRc4IkKQ82HdF4WA_WXWS2u28Kd-6gel8mewWR0hXaHQNSCVrqv_TWNyROud9sADzbiuIVlLd-rYSw-fyPMkVkTGhx5cOkN22LZspVizoOYJlJvTahGt2Kwco83O6pezYA-PiwLVVzFSPcHZEjhNZMluJFFixMDjDNONC2h5l3YWl29-tFi730iHBTveR64EA2nGBrnERWjqbjl-5qMLdj4jXYsKbx3pPDUc3Lvzu7MZpH36qTpDcROjmT-DVnccQU"
+    },
+    {
+      "question": "What were some of George Harrison's signature guitar techniques?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+were+some+of+George+Harrison%27s+signature+guitar+techniques%3F&subsequent_request_token=KbE9XHicTVJJjqsGFJRyErL7XwrdYAzYannBjDGYGQwbxAxmngfpL3OR6CuRcoEcIKfonCbOIkreU9Xilapq837-Jc7_IAaZ9108JqbHtVCuSoeLt4VwvsdlH37-SVXN4hgOGhbaIbSi1awEzqdN1OCEyoJg0yq1691yRaNIDwGcyTJ7RgJbWy3D1eMXfG50JJgcJUjTVdPZJDPijKqApTJyYkuFLdsqXBN1VDtcJNiSIw7N4yd7dB_3SYNaxLedNYQyP6pWx4HJmskiMoTOV8dqENdkYZspe5Mp1dCIJB2JSFtrxOghoUY1WpFFzg_Y_H0a4t7z07geP79JzZ6Xpf-OvkHAFzuvo2YZgLsBwNAb9AG8DtjxA1ix41eAaNsytuPglo_vKIK_IRjw5cYbkvgTUOZFDHBxWDRfASrrmyp-h5FX4j8L6H7i9_m_FiZK_9N-DZumyOO_fviRYKgL4QuVj05Bd08cW56UgChXsxbTO96BndveIuF612V2iCBvZltSSVaFPBw7XlGZD8Dz9Dic-hgkTerGGJcXUR8AbV2Gc73ijJ6odXgaeBXa5MBLDlBbknG5oNWcnUJjMzNdPKoEQVJPjjOx2nBXLGeI1_wvWTc05ULQGN2kQ6DldyzyQHRPG_OZC6fTLKM70zLNUptOZowcWip-FbXnI5cK_CEjXOS-0J1Y4yImu-BjgxJiHgsIl_PjLhYn_chyhHiCrGe7fwD3K31BD6eL2Q98c4sbyGeOtWrzPAoy1NTQN63a6_z8rOsxwOcDnssJdR4OW5xxWTU39sFfq5XNAkkI-80WLcNTdtwbvDD2IBmdHhp3JdRMaSrFnuCCL26OhAxdkb5ewQKHbR2dUTk82IF0SoHFGLIwR5ogNSSSywxiFY0LQGGl9qfRbW3aNBue7B2yFlVIMCKVbl1ULr19lms3hfRc4IkKQ82HdF4WA_WXWS2u28Kd-6gel8mewWR0hXaHQNSCVrqv_TWNyROud9sADzbiuIVlLd-rYSw-fyPMkVkTGhx5cOkN22LZspVizoOYJlJvTahGt2Kwco83O6pezYA-PiwLVVzFSPcHZEjhNZMluJFFixMDjDNONC2h5l3YWl29-tFi730iHBTveR64EA2nGBrnERWjqbjl-5qMLdj4jXYsKbx3pPDUc3Lvzu7MZpH36qTpDcROjmT-DVnccQU"
+    }
+  ]
+}

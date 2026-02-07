@@ -1,0 +1,333 @@
+{
+  "search_metadata": {
+    "id": "6987c30a80c963401dbc0905",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-4sAlWUG3MNQOj6PDaPQaA/6987c30a80c963401dbc0905.json",
+    "created_at": "2026-02-07 22:56:10 UTC",
+    "processed_at": "2026-02-07 22:56:10 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Dolly+Parton%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Dolly+Parton%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/-4sAlWUG3MNQOj6PDaPQaA/6987c30a80c963401dbc0905.html",
+    "prettify_html_file": "https://serpapi.com/searches/-4sAlWUG3MNQOj6PDaPQaA/6987c30a80c963401dbc0905.prettify",
+    "total_time_taken": 8.08
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Dolly Parton, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "DnMva3icTY9JrqtWAESlrITh_1L8Hr1BTx5cA-4wfe-JRXPNxTQXGzCNlGE2En0lUjaQBWQVL6vJzyBKqmZ1VCXVz7_A4g-pMw5xpFZH9QE5HZv3zLRo4H2D1TP9_FOq8Ri53hIFFKcxO99ZquUc9H5Ii5ouo1mr9dBzbQSrdkzJHXaaU2sxOnIVrk69aa9TfpPVk32pbZTU3QzdI203mEkp_ZXuKd3b941eZttAQWVI6z30s9KnMB0rlzbxNAo6VO0qlK15ApMFyFZQJqekeIz86pwo1TkNPMqtRSuubctzT1vfxufsHvVZMHVQQbd4yX8fOvi8xjls-s-fNLwUVRW_c28k8SUomgyPHaG7BEW-kR_E94BnP4iJZ78SoG0rGMBELfp3jlm_MTzxRT242vlHoipKSOxhWuKvhISeuIbvFEO9kf-YcOJb_Cz-rShZ_h_7NcW4LOBfPxBAkTYgPtUx18WX5G626eQUMcpac7mppHd3mMhx9Q7Y-SVVVv66c1xDLy9LmDLhik4_iOvVgenwhKutJ6mKu5G23gch-5t09F0TFnMCBbI7WORsJNcbTXIVGqqRq19ISN3ZQ04yCgBspft-7_GNe5no3ALf9b9hx7XNDZB5GeeDkas1GJjKLJvh0A-rWXnsbthtgTMPjpHHioD4SR0uxxV_dh4AZk7WJoZPrjBDuyUdWAdzu4rlFgz2kJj1ke0BsPhCEtNGDz4I_ShvOFrYaFs_oxSVVuuAjO403eVsdsjTLYpF6b6aIsZL8MOg9NJpm-24njT1sp3sWafISjZ9s923q63fL2MfnB-ho8fWDKdYON_nvlgftMXX5SLepRbJOlgVnKY0xyt7pDQjyvg1WxqszkkVNdhoEdwO913Lox0XTUq-KhtUDMzTm9a-JFvOgLzbGMvifGuaHWCWGhdXURoAj2ty8ijdYlUlbIIXEGVarL3GjJ1a6znICuIjVdrTkdwbgxsKWRGRE7APz_HKS2T9ugVrq5vFxwl8q7u-_PwNeL0y3SR-YJsoxV4cKkGDFisrxBfQ6exizWQIa9tOb1KBxRapuQlAE7HaVc6uOeulZiagCccGcv0hOb66XqQkqy64KfRNcWwRr4WtwBhRsKyb70fIylTB3c8lV3EkulcahlvJVlckATzlz-A-Zwowu9PO2jF-3MsYS1dq7-V_A7rbb0E",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, here is the profile for the legendary Dolly Parton:"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 80 years old (Born January 19, 1946)."
+        },
+        {
+          "snippet": "Occupations: Singer, songwriter, multi-instrumentalist, actress, author, businesswoman, and philanthropist."
+        },
+        {
+          "snippet": "Current Residence: Brentwood, Tennessee (a suburb of Nashville).",
+          "snippet_links": [
+            {
+              "text": "Brentwood, Tennessee",
+              "link": "https://www.google.com/search?q=Brentwood,+Tennessee&kgmid=/m/0_xcq&sa=X&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ3egRegQIAxAE"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Parton is recognized as a world-class musician with a career spanning over six decades.",
+      "reference_indexes": [
+        19
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Songwriting (Master): One of the most celebrated songwriters in history, she has written over 3,000 songs, including iconic hits like \"I Will Always Love You\" and \"Jolene\"."
+        },
+        {
+          "snippet": "Vocals (Professional): Known for a distinctive mezzo-soprano voice with a range spanning several octaves and exceptional pitch control."
+        },
+        {
+          "snippet": "Instrumentation (Multi-Instrumentalist): She is proficient in at least 20 instruments.",
+          "list": [
+            {
+              "snippet": "Guitar & Banjo: Her primary instruments since childhood; she is noted for a highly skilled rhythm guitar style."
+            },
+            {
+              "snippet": "Others: She also plays the autoharp, dulcimer, piano, fiddle, drums, saxophone, and harmonica."
+            }
+          ]
+        },
+        {
+          "snippet": "Music Production (Professional): She has served as a record producer for numerous projects throughout her career."
+        }
+      ],
+      "reference_indexes": [
+        19,
+        16,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of her Grammy-winning albums or more details on her upcoming 2026 projects, such as her Broadway musical?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Drawing on the Inspiring Career-Life Story of Dolly Parton to ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC7322500/%23:~:text%3DA%2520global%2520icon%2520and%2520role,county%2520to%2520achieve%2520educational%2520success.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAC&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "A global icon and role model, Dolly Parton is the most celebrated singer-songwriter in the history of country music. A gifted sing...",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/TJkMMKCt7L7s66kJfKGC7DvGW_O1bRDOiJ6apE-W1MI.png",
+      "index": 0
+    },
+    {
+      "title": "Dolly Parton's insights on confidence - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/fluteforum/posts/4209728955946280/%23:~:text%3DBorn%2520on%2520January%252019%252C%25201946%252C%2520in%2520Sevierville%252C%2520Tennessee%252C,who%2520transcends%2520genres%2520and%2520generations.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAF&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Jan 20, 2026 \u2014 Born on January 19, 1946, in Sevierville, Tennessee, Parton rose from humble beginnings in the Appalachian Mountains to become one...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/kTo2GeiT-YckDdsk1ZNP0gJiefU2SjDcLCnBwNg_NOE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/Uj7KVplFpKQ1lG17ZFu7v9kRbU2ZsPbteWCWMTVK44E.png",
+      "index": 1
+    },
+    {
+      "title": "Dolly Parton celebrates 80th birthday. Will she ever retire?",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.tennessean.com/story/entertainment/music/2026/01/19/dolly-parton-80th-birthday-retirement-plans/88198063007/%23:~:text%3DCountry%2520music%2520icon%2520Dolly%2520Parton,musical%2520artists%2520of%2520all%2520time.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAJ&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Jan 19, 2026 \u2014 Dolly Parton celebrates 80th birthday. Will she ever retire? Dolly Parton turns 80. Will she retire? What to know about her plans ...",
+      "source": "The Tennessean",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/j1vFoY2s2j2a60zTE8jE1gzMmipgqwzHiGipjnBA_cE.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Dolly Parton - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Dolly_Parton&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAN&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Table_content: header: | Dolly Parton | | row: | Dolly Parton: Born | : Dolly Rebecca Parton January 19, 1946 Pittman Center, Tenn...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/s75cWQfexljw8WMvzThDaVuZPreum2D_ZXaDg1MGDoI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/JLt32POovSOYPLyCYqQVFw_t8J_5KG5jerJM48I8q4Y.png",
+      "index": 3
+    },
+    {
+      "title": "InspireMore - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/inspiremoreofficial/posts/dollyparton-is-one-of-the-biggest-legends-in-the-genre-and-beyond-her-career-spa/1304306865063585/%23:~:text%3DWho%2520is%2520the%2520Best%2520Female,to%252Dearth%2520demeanor%2520and%2520approachability.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAR&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Jan 5, 2026 \u2014 Who is the Best Female Country Singer of All Time Based on Their Lyrics and Singing and Why? Dolly Parton Because of her Talent an...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/YIKeFhdNTXuYUZAbsjYu7DU6AWgbDYL5iBEdZqm-P_g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/gdpDfq93T18pnU4D0ffVigw4_GDSyNJ0fuplxaIB080.png",
+      "index": 4
+    },
+    {
+      "title": "Dolly Parton, 1946- | Library of Congress",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.loc.gov/item/ihas.200152702/%23:~:text%3DBorn%2520on%2520January%252019%252C%25201946,most%2520successful%2520country%2520music%2520stars.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAV&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Born on January 19, 1946, in Locust Ridge, Tennessee, Dolly Rebecca Parton has traveled far beyond her roots. As one of twelve chi...",
+      "source": "The Library of Congress (.gov)",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/a11YX8NbzefvcPuU2cNgDYB7WnyXPjrQlGy4kjvBMnc.png",
+      "index": 5
+    },
+    {
+      "title": "Criminally Underrated Guitar Playing *** Dolly Parton was a much better ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/61566970147791/videos/criminally-underrated-guitar-playing-dolly-parton-was-a-much-better-guitarist-th/1233201525420090/%23:~:text%3Dit%2520gets%2520overlooked.-,Dolly%2520is%2520a%2520high%252Dlevel%2520rhythm%2520guitarist.,locks%2520perfectly%2520with%2520her%2520singing.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAY&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Jan 10, 2026 \u2014 Criminally Underrated Guitar Playing \ud83d\udea8\ud83c\udfb8 *** Dolly Parton was a much better guitarist than most people give her credit for, but h...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/bVZrkrECYuecUKrtv1FPnt2xXVQpgYPjtat7BztXyME.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/OnKhzxegKQecmDHPx3MlBLW-qJQFNakhzt5sbUxt_E4.png",
+      "index": 6
+    },
+    {
+      "title": "Where Does Dolly Parton Live? A Look at the Country Music ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.architecturaldigest.com/story/where-does-dolly-parton-live-the-country-music-legends-properties%23:~:text%3DBrentwood%2520estate,and%2520glamorous%2520as%2520she%2520is.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAc&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Nov 14, 2024 \u2014 Where Does Dolly Parton Live? A Look at the Country Music Legend's Properties. ... Home is where the heart is, and if anyone knows...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/zMIWlSrSh25JfXnkHaFYxqAlEiNQnkZ6uflzoAToU6Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/rZKtUbU7oTDRnFFiCrB5Rs4GnqOO_MmsfMhRx9sqq6g.png",
+      "index": 7
+    },
+    {
+      "title": "Dolly Parton | Biography | Research Starters - EBSCO",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ebsco.com/research-starters/biography/dolly-parton%23:~:text%3DAt%2520the%2520age%2520of%2520nine,her%2520name%2520in%2520country%2520music.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAg&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "At the age of nine, Parton took up playing the guitar and banjo on the local radio and, later, on television in nearby Knoxville. ...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/LvL6cI2J3MQhtzniSdB6uoZbZffR5K1nDQVOqhQq2Co.png",
+      "index": 8
+    },
+    {
+      "title": "A Little Bit About Dolly Parton: 9 Facts You Might Not Know",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://smokymountains.com/dollywood/blog/dolly-parton-facts-might-not-know%23:~:text%3DThose%2520range%2520from%2520acoustic%2520and,I%2520play%2520some%2520of%2520everything.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAj&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Jan 30, 2023 \u2014 Dolly Parton is Proficient in Multiple Instruments. ... Dolly Parton credits the rich musical culture of her family with her worki...",
+      "source": "SmokyMountains.com",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/KyBK-WCwJHtnPXK8ofl464fmeIOwKWwJpeD-NFulZ7g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/apVx_yEILFzklEC1Ix6r2XRcQ_PGBG9gmYGvVKOUaoM.png",
+      "index": 9
+    },
+    {
+      "title": "Dolly Parton\u2019s Tennessee Home Is as Glamorous as Her Outfits",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.apartmenttherapy.com/dolly-parton-house-37300944%23:~:text%3DDolly%2520Parton%2520live?-,Where%2520does%2520Dolly%2520Parton%2520live?,with%2520a%2520little%2520room%2520inspo.&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAn&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Apr 15, 2025 \u2014 Dolly Parton's Tennessee Home Is as Glamorous as Her Outfits. ... I'm a big fan of maximalism, vegan food, music, and the beach. A...",
+      "source": "Apartment Therapy",
+      "thumbnail": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/vBF5aqt3OjvCXmXIk3d5RucLPHZgLxY-hCsqdUPXOvI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/JkVdlMD2v56MCVwYBnmZXyWGStcdmMw7LrU49wbY0do.png",
+      "index": 10
+    },
+    {
+      "title": "Dolly Parton Voice Analysis - City of Jackson MS",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://ww2.jacksonms.gov/Resources/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAr&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "- Vocal Range: Parton is known for her impressive vocal range, spanning several octaves. She can effortlessly transition from lowe...",
+      "source": "City of Jackson Mississippi (.gov)",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/2bnZwfv7jy1IG5JrZmhVMFdPThmKxZaf4rItS5wQKRc.png",
+      "index": 11
+    },
+    {
+      "title": "Dolly Parton Voice Analysis - City of Jackson MS",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://ww2.jacksonms.gov/browse/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf&ved=2ahUKEwi8gev-vMiSAxUEGFkFHSUOBUIQ1fkOegQIChAu&opi=89978449&cd&psig=AOvVaw2Tn0ScPmodZfeHzJdnvsSG&ust=1770591370748000",
+      "snippet": "Pitch and Range Dolly Parton\u00e2\u20ac\u2122s vocal range is generally classified as mezzo-soprano, spanning approximately two octaves. She exh...",
+      "source": "City of Jackson Mississippi (.gov)",
+      "source_icon": "https://serpapi.com/searches/6987c30a80c963401dbc0905/images/ub4kA9OYfd5aSP5GlGFO152xdijYs-SuGNYACjgTtg8.png",
+      "index": 12
+    },
+    {
+      "title": "Dolly Parton, 1946- | Library of Congress",
+      "link": "https://www.loc.gov/item/ihas.200152702/#:~:text=Born%20on%20January%2019%2C%201946,most%20successful%20country%20music%20stars.",
+      "snippet": "Born on January 19, 1946, in Locust Ridge, Tennessee, Dolly Rebecca Parton has traveled far beyond her roots. As one of twelve chi...",
+      "source": "The Library of Congress (.gov)",
+      "thumbnail": "https://www.loc.gov/item/ihas.200152702/",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.loc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 13
+    },
+    {
+      "title": "Dolly Parton celebrates 80th birthday. Will she ever retire?",
+      "link": "https://www.tennessean.com/story/entertainment/music/2026/01/19/dolly-parton-80th-birthday-retirement-plans/88198063007/#:~:text=Country%20music%20icon%20Dolly%20Parton,musical%20artists%20of%20all%20time.",
+      "snippet": "Dolly Parton celebrates 80th birthday. Will she ever retire? Dolly Parton turns 80. Will she retire? What to know about her plans ...",
+      "source": "The Tennessean",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuL1XpAe9M2OYYAy34XtLAH0BWiYCiABqUGc-fIpbZOUDipNsE",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tennessean.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 14
+    },
+    {
+      "title": "Dolly Parton - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+      "snippet": "Table_content: header: | Dolly Parton | | row: | Dolly Parton: Born | : Dolly Rebecca Parton January 19, 1946 Pittman Center, Tenn...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyvlvuXfO6qadfCn1_udC41OCYv0A7Rp0cI8lkPi8j50RhbnXb",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Drawing on the Inspiring Career-Life Story of Dolly Parton to ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7322500/#:~:text=A%20global%20icon%20and%20role,county%20to%20achieve%20educational%20success.",
+      "snippet": "A global icon and role model, Dolly Parton is the most celebrated singer-songwriter in the history of country music. A gifted sing...",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "thumbnail": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7322500/",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pmc.ncbi.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Dolly Parton\u2019s Tennessee Home Is as Glamorous as Her Outfits",
+      "link": "https://www.apartmenttherapy.com/dolly-parton-house-37300944#:~:text=Dolly%20Parton%20live?-,Where%20does%20Dolly%20Parton%20live?,with%20a%20little%20room%20inspo.",
+      "snippet": "Dolly Parton's Tennessee Home Is as Glamorous as Her Outfits. ... I'm a big fan of maximalism, vegan food, music, and the beach. A...",
+      "source": "Apartment Therapy",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTL8o_jWbdG1qBMlTfZEIylnryBiUIqdzH7GxhJzIpJwIYO8UrA",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.apartmenttherapy.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Where Does Dolly Parton Live? A Look at the Country Music ...",
+      "link": "https://www.architecturaldigest.com/story/where-does-dolly-parton-live-the-country-music-legends-properties#:~:text=Brentwood%20estate,and%20glamorous%20as%20she%20is.",
+      "snippet": "Where Does Dolly Parton Live? A Look at the Country Music Legend's Properties. ... Home is where the heart is, and if anyone knows...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHO1vRxV1MxRKIMy3OLFmuKwiuZvv6bSve3CGv62yxFxkOsKuq",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.architecturaldigest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Dolly Parton's insights on confidence - Facebook",
+      "link": "https://www.facebook.com/groups/fluteforum/posts/4209728955946280/#:~:text=Born%20on%20January%2019%2C%201946%2C%20in%20Sevierville%2C%20Tennessee%2C,who%20transcends%20genres%20and%20generations.",
+      "snippet": "Born on January 19, 1946, in Sevierville, Tennessee, Parton rose from humble beginnings in the Appalachian Mountains to become one...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuk4bmY13U8iNLMBV_UzeS2BlgtY-KGTCAk9vOS9b3XrJtshiU",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "InspireMore - Facebook",
+      "link": "https://www.facebook.com/inspiremoreofficial/posts/dollyparton-is-one-of-the-biggest-legends-in-the-genre-and-beyond-her-career-spa/1304306865063585/#:~:text=Who%20is%20the%20Best%20Female,to%2Dearth%20demeanor%20and%20approachability.",
+      "snippet": "Who is the Best Female Country Singer of All Time Based on Their Lyrics and Singing and Why? Dolly Parton Because of her Talent an...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9rodTS_ToJKAxIOx2uAohoygkEzwY7puj5A4ubHLuKl1_07ze",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Dolly Parton Voice Analysis - City of Jackson MS",
+      "link": "https://ww2.jacksonms.gov/Resources/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf",
+      "snippet": "- Vocal Range: Parton is known for her impressive vocal range, spanning several octaves. She can effortlessly transition from lowe...",
+      "source": "City of Jackson Mississippi (.gov)",
+      "thumbnail": "https://ww2.jacksonms.gov/Resources/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ww2.jacksonms.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Dolly Parton Voice Analysis - City of Jackson MS",
+      "link": "https://ww2.jacksonms.gov/browse/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf",
+      "snippet": "Pitch and Range Dolly Parton\u00e2\u20ac\u2122s vocal range is generally classified as mezzo-soprano, spanning approximately two octaves. She exh...",
+      "source": "City of Jackson Mississippi (.gov)",
+      "thumbnail": "https://ww2.jacksonms.gov/browse/gIivN2/3OK058/DollyPartonVoiceAnalysis.pdf",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ww2.jacksonms.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "A Little Bit About Dolly Parton: 9 Facts You Might Not Know",
+      "link": "https://smokymountains.com/dollywood/blog/dolly-parton-facts-might-not-know#:~:text=Those%20range%20from%20acoustic%20and,I%20play%20some%20of%20everything.",
+      "snippet": "Dolly Parton is Proficient in Multiple Instruments. ... Dolly Parton credits the rich musical culture of her family with her worki...",
+      "source": "SmokyMountains.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBzAavVmMM-qWgVBXw5BDGOhE2oQqfPyg53Ai0kniSw0PdIkhz",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://smokymountains.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Dolly Parton | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/dolly-parton#:~:text=At%20the%20age%20of%20nine,her%20name%20in%20country%20music.",
+      "snippet": "At the age of nine, Parton took up playing the guitar and banjo on the local radio and, later, on television in nearby Knoxville. ...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/biography/dolly-parton",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Criminally Underrated Guitar Playing *** Dolly Parton was a much better ...",
+      "link": "https://www.facebook.com/61566970147791/videos/criminally-underrated-guitar-playing-dolly-parton-was-a-much-better-guitarist-th/1233201525420090/#:~:text=it%20gets%20overlooked.-,Dolly%20is%20a%20high%2Dlevel%20rhythm%20guitarist.,locks%20perfectly%20with%20her%20singing.",
+      "snippet": "Criminally Underrated Guitar Playing \ud83d\udea8\ud83c\udfb8 *** Dolly Parton was a much better guitarist than most people give her credit for, but h...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmegs4rKxcYkvrzqgQs-rV0PzPT9Y2s6Jo03USGh54Pyowl6h0",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    }
+  ]
+}

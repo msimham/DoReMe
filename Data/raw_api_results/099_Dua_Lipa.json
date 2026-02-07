@@ -1,0 +1,387 @@
+{
+  "search_metadata": {
+    "id": "6987c336f30d139d305766aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Cqaq9-JqNcxaLKr8nCuxDw/6987c336f30d139d305766aa.json",
+    "created_at": "2026-02-07 22:56:54 UTC",
+    "processed_at": "2026-02-07 22:56:54 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Dua+Lipa%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Dua+Lipa%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/Cqaq9-JqNcxaLKr8nCuxDw/6987c336f30d139d305766aa.html",
+    "prettify_html_file": "https://serpapi.com/searches/Cqaq9-JqNcxaLKr8nCuxDw/6987c336f30d139d305766aa.prettify",
+    "total_time_taken": 7.91
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Dua Lipa, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "-ZawZXicRZJJjqtmAISl3CA3YPmelO5mMGBkecE8zz9gs0EMPwYDxm0wv7H0lrlI9JRIuUAOkFN0TpPOIknVrkolfYv6-RfY_uFMrpbnbGcamtJ5utdkZoX86Dvsb-XHn-IwoiM4oiCZvSDBCQs0HVTpJ4jiIR4CEBJXGV6q0QEGWSafyeGI_CT2qq7JQypAuRQvBZWSxyF65lo5J_JEw07H48iIbLy6x1Eg5V0MIpVQIBCsNLafdpR6tto9QsVec9ym7HO_cTUBgZ67yE3lljinHxOZyvHZDOX0Fsm9nyuclWpVEAej5UezkEac4ag9SiX-9_sEb1l-gpf545s9Ptu-z9_oVxz7krSf5GjCHIAR-Cu-wz4DZrPDHszmK8Zfrz1MYGG28xtNsa8Ug30xNWBbP2F920FMhWU3fsXE5jYO8I3YkK_4P8bCvM5v7b8TuTr93_1ajmPXwr9--DHLQljeb_AlBIG35yVGGk_zYEZmpkOqewjn0FmvXsCmV5U0oLMtaqFly6zrY-_on2WzYEtrw5wfCjFEKs-GoKzZczwLKK7PHcsCuVBVd44p1lvqfPFPwmGH8bK453NjyOmZva-ZDVM_W5-Zk7NqUtWuJbQoI9jY9mebMy6cNYp-elsOlZ7mks7vsP-YhUg0ZbAX7VHYYVK877ZTS7tHUTzp75Pm46tbZDVJ0YIIe8T1DZMdjHJ4OZEI5z-1wxxd2tPkdt-w7RHWKaOVhvGOGIcDV9Yw6KuRgY7UkBJuaLXXuOyAeo4U75urmK33OU2aBpAeUY9RJLReVkX2-9qyQ-mU21D8PICL3ieJnzz8ZViTXiraU04fOiRmvramjV_i7YrTCJ1fQEjVrLHcx3T0smf9sFaIA6-npgvYDojf8splc1-59-xe8tNCUhaHQzmb_Ke38D1fdOYLzyXUWD7kuqdCDq0Sx1EFjftxZXa2cok2Yoq31SHy4mlR1BKPGT3g5949qxc9bqIxBtmwJTaBK38fprn7-I2PZvlRS1eWPzsxIgLf6IquInV9aYNLa4AIl8VwvitpVorTTW0XF3AoRwpc_ePFRg2Nd5LhFtri5XHLwNYXRHBhbsDenEvKXuJ6EGfzyvA-IHKnosrpccCfua7YhECbkcuCYtWvA03xodLzSDC2muuWBm0t3rLwTJllasK_WPbfUJJnAA",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 7, 2026, Dua Lipa is 30 years old.",
+      "reference_indexes": [
+        16
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities, and Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Lipa is primarily recognized as a world-leading pop artist with a \"deep, sultry\" and \"husky\" vocal profile. Her proficiency in these roles is marked by multiple Grammy Awards and Brit Awards.",
+      "reference_indexes": [
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer (Primary Occupation): Known for a mezzo-soprano range and a \"smoky\" vocal tone that sets her apart from typical high-pitched pop vocals. She is widely praised for her ability to perform without autotune."
+        },
+        {
+          "snippet": "Songwriter: Heavily involved in writing her own hits, including \"Don\u2019t Start Now\" and \"Levitating\". Her style focuses on empowering lyrics and a blend of 70s disco, 80s pop, and 90s club music."
+        },
+        {
+          "snippet": "Musician (Cello): She played the cello during her early schooling at Sylvia Young Theatre School, though she is rarely seen playing it professionally now."
+        },
+        {
+          "snippet": "Performer/Dancer: Over her career, she has evolved from a \"static\" performer to a highly proficient dancer and stage presence, as seen during her Future Nostalgia and Radical Optimism eras."
+        },
+        {
+          "snippet": "Entrepreneur/Label Representative: She manages her own business interests through Service95 and has taken greater control over her music rights and representation."
+        },
+        {
+          "snippet": "Model: Previously signed with Next Model Management, she continues to work as a high-fashion model for brands like Versace."
+        }
+      ],
+      "reference_indexes": [
+        18,
+        20,
+        17,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence Location"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Dua Lipa primarily resides in London, England.",
+      "snippet_links": [
+        {
+          "text": "London",
+          "link": "https://www.google.com/search?q=London&kgmid=/m/04jpl&sa=X&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q3egRegQICBAC"
+        }
+      ],
+      "reference_indexes": [
+        25,
+        26
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "City: London.",
+          "snippet_links": [
+            {
+              "text": "London",
+              "link": "https://www.google.com/search?q=London&kgmid=/m/04jpl&sa=X&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q3egRegQICRAC"
+            }
+          ]
+        },
+        {
+          "snippet": "State/Region: Greater London, United Kingdom."
+        },
+        {
+          "snippet": "Details: She owns a multi-million pound mansion in West London which has been undergoing major renovations. She also maintains a home in Studio City, Los Angeles, California, for her work in the United States.",
+          "snippet_links": [
+            {
+              "text": "Studio City, Los Angeles, California",
+              "link": "https://www.google.com/search?q=Studio+City,+Los+Angeles,+California&kgmid=/m/0281rp&sa=X&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q3egRegQICRAG"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        24,
+        26,
+        25,
+        27,
+        28
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about her current tour dates or her business ventures like Service95?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Dua Lipa | Biography, Albums, Songs, Barbie, Levitating, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Dua-Lipa%23:~:text%3DQuick%2520Facts,(2021)%2520(Show%2520more)&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAC&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jan 27, 2026 \u2014 Quick Facts. Born: August 22, 1995, London, England (age 30) Awards And Honors: Grammy Award (2021) Grammy Award (2019) Grammy Awa...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/OVuqcA-ss-m-uRx6BsnmRBh1tRcC8n7j1GRO5tsHyq0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/yUcuf-cWRXRYGLZO4KK9DnXtaFil8xKy2DQSeoECuu4.png",
+      "index": 0
+    },
+    {
+      "title": "Dua Lipa | Biography, Albums, Songs, Barbie, Levitating, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Dua-Lipa%23:~:text%3DShow%2520more,%252C%2520dance%252C%2520and%2520R%26B%2520music.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAG&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jan 27, 2026 \u2014 Show more. Dua Lipa (born August 22, 1995, London, England) is a British-Albanian singer, model, and entrepreneur. The Grammy Awar...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/6WQt1uMuMW-xBwQ3ZV2QpgQ48XySDdp8y8fZuSd3_es.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/WEtBxkzIF-Wy3udTfFCdE_iIXj2JsQImDQ4oOSQcZSY.png",
+      "index": 1
+    },
+    {
+      "title": "Dua Lipa | Biography, Albums, Songs, Barbie, Levitating, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Dua-Lipa%23:~:text%3DShow%2520more,pursuing%2520a%2520career%2520in%2520music.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAK&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jan 27, 2026 \u2014 Show more. Dua Lipa (born August 22, 1995, London, England) is a British-Albanian singer, model, and entrepreneur. The Grammy Awar...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/XkHH5MwL8pXydMQCS2c2mEPT3KhVStTsLXat5KTwaEU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/ybxcYS3tzK7TLo6dfkPKkF3Z1VaH4xUcEhJnrM9qUY0.png",
+      "index": 2
+    },
+    {
+      "title": "Dua Lipa kicks off New Year 2026 with a walk with her fianc\u00e9 ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://telegrafi.com/en/Dua-Lipa-starts-the-new-year-2026-with-a-walk-with-her-fianc%25C3%25A9-through-the-streets-of-London-while-wearing-a-red-and-black-coat/%23:~:text%3DSubscribe%2520to%2520Telegraph-,Dua%2520Lipa%2520kicks%2520off%2520New%2520Year%25202026%2520with%2520a%2520walk,away%2520from%2520excessive%2520public%2520attention.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAO&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jan 1, 2026 \u2014 Dua Lipa kicks off New Year 2026 with a walk with her fianc\u00e9 through the streets of London, while wearing a red and black coat. Wo...",
+      "source": "Telegrafi",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/oLr3y8ATydfTKagEfmbeI2whYw3ctERQy1vlFOURKMs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/pj92Rja1pXOmwQqW25Jub2-bH7D4L2dWnEuEqADnwoY.png",
+      "index": 3
+    },
+    {
+      "title": "Dua Lipa's mega home renovations will cost almost as much ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.mirror.co.uk/3am/celebrity-news/dua-lipas-mega-home-renovations-35428601%23:~:text%3DOne%2520thing%2520that%2520does%2520seem,could%2520take%2520years%2520to%2520finish.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAS&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jun 20, 2025 \u2014 One thing that does seem certain, though, is that London will remain Dua Lipa's home for a long time to come. We can reveal that m...",
+      "source": "The Mirror",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/2PZOsOei5IaoV9OffQOs4MpfQWXb_7pZMalCejRvZ0U.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/qOuGnR2iS2hjAnCWX-GUT82YZSDYzi9DFvsCCz69bGg.png",
+      "index": 4
+    },
+    {
+      "title": "There's something raw and magnetic about early Dua Lipa performances ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DR7mhDkDG13/%23:~:text%3DDua%2520Lipa%2520is%2520a%2520British,sultry%2520voice%2520and%2520confident%2520persona.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAW&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dec 6, 2025 \u2014 Follow (us) @artistswithoutautotune to see how more artists sound without autotune \ud83c\udf99\ufe0f She doesn't even need autotune. Dua Lipa is...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/AhaRMUezctQvGfdY9dk3Pc9ELQqm8-hgPXjjcJoct4c.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/KK-oPfYBSpweBaDkvT2TM1NuFecc61Aurox7yc90v7g.png",
+      "index": 5
+    },
+    {
+      "title": "Dua Lipa - PopIndustry Wiki",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://popindustry.fandom.com/wiki/Dua_Lipa&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAa&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dua Lipa * Born. August 22, 1995. London, England. * Occupation. Singer \u2022 songwriter \u2022 model \u2022 label representative. * Years activ...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/yMFkA1p1pWrIxkyv4pvRrmCLvLv5Da0W9fLVx7wNqxc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/ZAFzTUXrTO6jAG9tH7sHqUYYpRsSve9JidUHjDaI7mI.png",
+      "index": 6
+    },
+    {
+      "title": "There's something raw and magnetic about early Dua Lipa performances ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DR7mhDkDG13/%23:~:text%3DDua%2520Lipa%2520is%2520a%2520British,sultry%2520voice%2520and%2520confident%2520persona.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAe&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dec 6, 2025 \u2014 Dua Lipa is a British-Albanian singer, songwriter, and model born on August 22, 1995, in London, England. She rose to fame in the ...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/Jx_Z1RtLr3B7jyknaQwc8rY8joP56XlmL_-DvLTDsxo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/FwEUm_cRUWFqxDn8rjonD7DFTIIZI2iWeW71faHZ4VA.png",
+      "index": 7
+    },
+    {
+      "title": "MakeOutfit on Instagram: \"Dua Lipa's LA Dream Home The ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DMskvtpuT0j/?hl%3Den%23:~:text%3DIt's%2520not%2520some%2520random%2520%25E2%2580%259Ccelebrity,you%2520return%2520to%2520every%2520night.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAi&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jul 29, 2025 \u2014 It's not some random \u201ccelebrity house\u201d either. We're talking a cozy-but-flexy 1,590 sq ft retreat with rustic charm, modern update...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/WRg6uIFSkZRw2SGDTYZu-3Hg9FD3q9gM-g528T1Eg-8.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Inside Dua Lipa's Stunning Homes From her chic $2.5 million ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.instagram.com/reel/DEF1KBvBUX4/?hl%3Den%23:~:text%3D%25E2%259C%25A8%2520%25F0%259D%2590%2588%25F0%259D%2590%25A7%25F0%259D%2590%25AC%25F0%259D%2590%25A2%25F0%259D%2590%259D%25F0%259D%2590%259E%2520%25F0%259D%2590%2583%25F0%259D%2590%25AE%25F0%259D%2590%259A%2520%25F0%259D%2590%258B%25F0%259D%2590%25A2%25F0%259D%2590%25A9%25F0%259D%2590%259A'%25F0%259D%2590%25AC,who%2520blinked%25E2%2580%25A6%2520but%2520still%2520SLAYED.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAm&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dec 27, 2024 \u2014 \u2728 \ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc1d\ud835\udc1e \ud835\udc03\ud835\udc2e\ud835\udc1a \ud835\udc0b\ud835\udc22\ud835\udc29\ud835\udc1a'\ud835\udc2c \ud835\udc12\ud835\udc2d\ud835\udc2e\ud835\udc27\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc07\ud835\udc28\ud835\udc26\ud835\udc1e\ud835\udc2c \ud83c\udfe1 From her chic $2.5 \ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc12\ud835\udc2d\ud835\udc2e\ud835\udc1d\ud835\udc22\ud835\udc28 \ud835\udc02\ud835\udc22\ud835\udc2d\ud835\udc32 \ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc2c...",
+      "source": "Instagram",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/2k2yEmq5qPNB-kr62DxH7FaUIv-YprGDOzDtJ5dlzvs.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Dua Lipa's music style is influenced by a diverse range of artists and ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1327258830987101/posts/2373901982989442/%23:~:text%3DDua%2520Lipa%2520is%2520a%2520modern,WomenInMusic%2520%2523ElectronicPop%2520%2523RockInfluence%2520%2523PopStar&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAq&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Mar 18, 2025 \u2014 Dua Lipa's music style is influenced by a diverse range of artists and genres. Growing up, she was exposed to various musical styl...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/-x9prs__cTPGPtPEg4-fEtHw4fAPBMeuFuLSfrn1MXo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/5bYK1spQHIrCeOUuUl7rFSfPXKxCQc_G9QriA_dmdyo.png",
+      "index": 10
+    },
+    {
+      "title": "Dua Lipa's Pop Music Career - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/363090139908613/posts/552048284346130/%23:~:text%3D**Dua%2520Lipa**%2520is,pop%2520stars%2520of%2520her%2520generation.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAu&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Nov 24, 2024 \u2014 **Dua Lipa** is a British singer, songwriter, and model, born on August 22, 1995, in London, England. She rose to fame in the mid-",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/rCZOgqMX-AuEEpzga7BCYvfKKWvfH5Qb8wXVmsKsS3w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/hCJoPlMIOEmYIHvyqdfjxJSt6RdsnU-V3byqKsKF1Q0.png",
+      "index": 11
+    },
+    {
+      "title": "DUA LIPA CAN DO EVERYTHING \u2014 And Here's Proof",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.youtube.com/watch?v%3D7dIe4kJDeho&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBAy&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jan 31, 2026 \u2014 it's built by consistency. and growth over time. and that's the difference between being famous. and becoming iconic. and in many ...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/8SrndG0Ao8z_FwSz9VqXTGi0fvXTap2iitSmsGpPWPM.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Dua Lipa - Trivia - IMDb",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm7645984/trivia/%23:~:text%3DPlayed%2520the%2520cello%2520while%2520she,of%2520myocardial%2520infarction%2520in%25201999.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBA3&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dua Lipa * She worked as a waitress while living in London by herself at age 15. * Her family moved from London to Kosovo when she...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/trOUGTe-dSkHL5S5mIDob3Z5bd5Wpd5U3y9kVl4ucHM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/Z7eUPfT5OAz94IEX7L6wgJpZ-nnSLKqqktEa_4neTOk.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Dua Lipa's renovation plans at \u00a36.75m London home finally to go ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.dailymail.co.uk/tvshowbiz/article-12264743/Dua-Lipas-grand-renovation-plans-6-75m-London-home-finally-set-ahead-two-years.html%23:~:text%3DDua%2520Lipa's%2520grand%2520renovation%2520plans,two%2520years%2520%257C%2520Daily%2520Mail%2520Online&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBA7&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Jul 4, 2023 \u2014 Dua Lipa's grand renovation plans at \u00a36.75m London home finally set to go ahead after two years | Daily Mail Online.",
+      "source": "Daily Mail",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/IKZ41S2RcBrN5IXjBpb6YUHZ3u3pkaN45gNSNo_ZCtk.png",
+      "index": 14
+    },
+    {
+      "title": "is dua lipa a good vocalist? : r/popheads - Reddit",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.reddit.com/r/popheads/comments/redm8o/is_dua_lipa_a_good_vocalist/%23:~:text%3DShe's%2520not%2520an%2520amazing%2520singer,has%2520a%2520uniquely%2520good%2520voice.&ved=2ahUKEwie-uWTvciSAxVtLUQIHdRjB28Q1fkOegQIDBA-&opi=89978449&cd&psig=AOvVaw179tMAm7b5kSyYXSRl_BT6&ust=1770591414705000",
+      "snippet": "Dec 12, 2021 \u2014 She's not an amazing singer but I like her music way more than that of more talented vocalists. If anything, I'd say her voice is ...",
+      "source": "Reddit",
+      "thumbnail": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/6mL2oqlIjBURLMMfFVe51EQxIswHm7w4RE8x9D62dt8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336f30d139d305766aa/images/3xscF1P1T146Eo_AXs0DfahED3VWY-s2xmewAk2Vf0o.png",
+      "index": 15
+    },
+    {
+      "title": "Dua Lipa | Biography, Albums, Songs, Barbie, Levitating, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Dua-Lipa#:~:text=Quick%20Facts,(2021)%20(Show%20more)",
+      "snippet": "Quick Facts. Born: August 22, 1995, London, England (age 30) Awards And Honors: Grammy Award (2021) Grammy Award (2019) Grammy Awa...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIK1MvBszWrwskT17edIqRmXXHDHb7Nb0fwF5YQJD-JgzGYL-Z",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "There's something raw and magnetic about early Dua Lipa performances ...",
+      "link": "https://www.instagram.com/reel/DR7mhDkDG13/#:~:text=Dua%20Lipa%20is%20a%20British,sultry%20voice%20and%20confident%20persona.",
+      "snippet": "Dua Lipa is a British-Albanian singer, songwriter, and model born on August 22, 1995, in London, England. She rose to fame in the ...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRL7L7WKipF7o03ewVdQxQhTfiPhvLXpO7KDvjcn0r99ItlgMk9",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Dua Lipa | Biography, Albums, Songs, Barbie, Levitating, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Dua-Lipa#:~:text=Show%20more,pursuing%20a%20career%20in%20music.",
+      "snippet": "Show more. Dua Lipa (born August 22, 1995, London, England) is a British-Albanian singer, model, and entrepreneur. The Grammy Awar...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIK1MvBszWrwskT17edIqRmXXHDHb7Nb0fwF5YQJD-JgzGYL-Z",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Dua Lipa's Pop Music Career - Facebook",
+      "link": "https://www.facebook.com/groups/363090139908613/posts/552048284346130/#:~:text=**Dua%20Lipa**%20is,pop%20stars%20of%20her%20generation.",
+      "snippet": "**Dua Lipa** is a British singer, songwriter, and model, born on August 22, 1995, in London, England. She rose to fame in the mid-",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdzD1xclgGgSbyLi73w2XzVb8Ex1-X4WxHYq41nSVxuEDfI6D",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "is dua lipa a good vocalist? : r/popheads - Reddit",
+      "link": "https://www.reddit.com/r/popheads/comments/redm8o/is_dua_lipa_a_good_vocalist/#:~:text=She's%20not%20an%20amazing%20singer,has%20a%20uniquely%20good%20voice.",
+      "snippet": "She's not an amazing singer but I like her music way more than that of more talented vocalists. If anything, I'd say her voice is ...",
+      "source": "Reddit",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqL1yvbZbbq3VbK76Dj8_MWz6Gg3Y-wi1AJM8Nlfrga0hRDQ1L",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Dua Lipa's music style is influenced by a diverse range of artists and ...",
+      "link": "https://www.facebook.com/groups/1327258830987101/posts/2373901982989442/#:~:text=Dua%20Lipa%20is%20a%20modern,WomenInMusic%20%23ElectronicPop%20%23RockInfluence%20%23PopStar",
+      "snippet": "Dua Lipa's music style is influenced by a diverse range of artists and genres. Growing up, she was exposed to various musical styl...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRk_3HUAjxn62sPjW04yuSVtxK9GLYXm6BMjXkD4kydbxy74KCY",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Dua Lipa - Trivia - IMDb",
+      "link": "https://www.imdb.com/name/nm7645984/trivia/#:~:text=Played%20the%20cello%20while%20she,of%20myocardial%20infarction%20in%201999.",
+      "snippet": "Dua Lipa * She worked as a waitress while living in London by herself at age 15. * Her family moved from London to Kosovo when she...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQw7uLmYUTUloK9aTfm42g34IcrRD21HDipR25VEsUyDwWnY5EN",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "DUA LIPA CAN DO EVERYTHING \u2014 And Here's Proof",
+      "link": "https://www.youtube.com/watch?v=7dIe4kJDeho",
+      "snippet": "it's built by consistency. and growth over time. and that's the difference between being famous. and becoming iconic. and in many ...",
+      "source": "YouTube",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXequHI8AzfqpX5vzGlgi331MNIyBQkq1sITxXnA4rVPcpo0Mp",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Dua Lipa - PopIndustry Wiki",
+      "link": "https://popindustry.fandom.com/wiki/Dua_Lipa",
+      "snippet": "Dua Lipa * Born. August 22, 1995. London, England. * Occupation. Singer \u2022 songwriter \u2022 model \u2022 label representative. * Years activ...",
+      "source": "Fandom",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLMDeTAIe-MYNz5AASycS2tcoMD6GhdRC1l73KgJHhqTcx3jOS",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://popindustry.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Dua Lipa's mega home renovations will cost almost as much ...",
+      "link": "https://www.mirror.co.uk/3am/celebrity-news/dua-lipas-mega-home-renovations-35428601#:~:text=One%20thing%20that%20does%20seem,could%20take%20years%20to%20finish.",
+      "snippet": "One thing that does seem certain, though, is that London will remain Dua Lipa's home for a long time to come. We can reveal that m...",
+      "source": "The Mirror",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNa109-XpgCYooabuV-EOx5IEru1zvVD-Dt50m_hclGVquMf1r",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mirror.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Dua Lipa kicks off New Year 2026 with a walk with her fianc\u00e9 ...",
+      "link": "https://telegrafi.com/en/Dua-Lipa-starts-the-new-year-2026-with-a-walk-with-her-fianc%C3%A9-through-the-streets-of-London-while-wearing-a-red-and-black-coat/#:~:text=Subscribe%20to%20Telegraph-,Dua%20Lipa%20kicks%20off%20New%20Year%202026%20with%20a%20walk,away%20from%20excessive%20public%20attention.",
+      "snippet": "Dua Lipa kicks off New Year 2026 with a walk with her fianc\u00e9 through the streets of London, while wearing a red and black coat. Wo...",
+      "source": "Telegrafi",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSgJhBmxz_AfEVh7WuAIzJHv6viEDZXisXR_VwMPOCDPDbsJdTu",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telegrafi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Dua Lipa's renovation plans at \u00a36.75m London home finally to go ...",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-12264743/Dua-Lipas-grand-renovation-plans-6-75m-London-home-finally-set-ahead-two-years.html#:~:text=Dua%20Lipa's%20grand%20renovation%20plans,two%20years%20%7C%20Daily%20Mail%20Online",
+      "snippet": "Dua Lipa's grand renovation plans at \u00a36.75m London home finally set to go ahead after two years | Daily Mail Online.",
+      "source": "Daily Mail",
+      "thumbnail": "https://www.dailymail.co.uk/tvshowbiz/article-12264743/Dua-Lipas-grand-renovation-plans-6-75m-London-home-finally-set-ahead-two-years.html",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymail.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Inside Dua Lipa's Stunning Homes From her chic $2.5 million ...",
+      "link": "https://www.instagram.com/reel/DEF1KBvBUX4/?hl=en#:~:text=%E2%9C%A8%20%F0%9D%90%88%F0%9D%90%A7%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9D%F0%9D%90%9E%20%F0%9D%90%83%F0%9D%90%AE%F0%9D%90%9A%20%F0%9D%90%8B%F0%9D%90%A2%F0%9D%90%A9%F0%9D%90%9A'%F0%9D%90%AC,who%20blinked%E2%80%A6%20but%20still%20SLAYED.",
+      "snippet": "\u2728 \ud835\udc08\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc1d\ud835\udc1e \ud835\udc03\ud835\udc2e\ud835\udc1a \ud835\udc0b\ud835\udc22\ud835\udc29\ud835\udc1a'\ud835\udc2c \ud835\udc12\ud835\udc2d\ud835\udc2e\ud835\udc27\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc07\ud835\udc28\ud835\udc26\ud835\udc1e\ud835\udc2c \ud83c\udfe1 From her chic $2.5 \ud835\udc26\ud835\udc22\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc28\ud835\udc27 \ud835\udc12\ud835\udc2d\ud835\udc2e\ud835\udc1d\ud835\udc22\ud835\udc28 \ud835\udc02\ud835\udc22\ud835\udc2d\ud835\udc32 \ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc2c...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRku0qBVzWeFPMXiWtexVP0jXZjp2_-KhgjlYE6qETDHr_ZY5dB",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    }
+  ]
+}

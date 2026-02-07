@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "6987c336e171b92161a43528",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/NqjwK98NfVirTDlEiTH2dg/6987c336e171b92161a43528.json",
+    "created_at": "2026-02-07 22:56:54 UTC",
+    "processed_at": "2026-02-07 22:56:54 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=SZA%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=SZA%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/NqjwK98NfVirTDlEiTH2dg/6987c336e171b92161a43528.html",
+    "prettify_html_file": "https://serpapi.com/searches/NqjwK98NfVirTDlEiTH2dg/6987c336e171b92161a43528.prettify",
+    "total_time_taken": 8.42
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "SZA, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "aJRfuXicRZNJjqtWAEWlrITh_1JcRW9bJQ8wPaax6WGC4AGmefQYsOfZSPSVSNlAFpBVVFaTihQp986OdKUzub_8mpV_6gdDigNa5-IRrjp57Y28bm63HxkcwedfbNOtgZ0-Y2hOsbMtocS8dLsQw9dtNQl-veEzq6FwdCW9TAShjivoaZi2uo0um87WphKUAr8Xbm0oABuKAVqTgQ1JV9S9pCpEnT-qOpc-wzZUQ9RZtboodR6jA6jjjusGBn_YAN8vIaZtrtMTfJEaBn-UA7fG7dosQLMRdmXeAH9sYhwzHbNTPd-1dOmsa3h_8STwx2PKxii-Z-38-dC6Vwlh_E69ocg3LQZlO3dT8YHI7ZxB5AsghoX4CIZGGBXtvyNM38PMy5JLOb9TxP6NoJFvF8nW1J8RWNYZImag7r4jbDF2TfaOkdgb-m8RK87jsfxv8hvourrM_v4JiSIrA48x21m2eT0xHM1192kYd3QJg6CatJS-BbvVc8WLqpGEMFxK388nCwNNeRBr34HXud-wl1PHjHIdj2qApq15Hk2b27qUOANmcBiFUqhpMbcjhTIfCMOzJyZWmpiaZ9TnSBAAKSFGHz4MfPGH0BxYh-AVCRxvjMgm1HVoS8FQ84O5g-Wl_vhf-eywF94-sRovfCCce1pfYsJKAM9UmZqkG_o0kijHsbB8WnClmqU4APvpFJa6dgzDcVxQZY2wdKLOaMxXPhBd5k4UfjiFNP_YLJh4d9mVrqW10onPVEbwWEtOYcu1Sa05QyldudQrUUcKLwDXp42Dy06yVFPosZ54MRqYY8YTqTY2jTkngZTMlVc518eA0XmGkS6zZmO5AFv1WQOXGIOI-7aGkZtRyl2dMbIlo6KxcsbJo6uGrcso5J48usoSkjHRrPXT2xesi90TclWBpZa5AFV1u2vnfQPurBHeS5rmLrqynoPzivcZOai0XhOpeHQV0VAIjxeHOWQz_ErpsH72UrjmyyurfNqbJ_G45yuTOfxoprn-_J1xZn7LmdSOlM1-EjoOLqoqMl1xJy0IWtcO8oBIfPFAKaLKC3y4VILmriVwtJ3v849k0qoLrh48fJ-ijlr2m6fTt3NlxaKoDvvx67V9azQ7nIbrMtiWPeU31igAMQtPslc8BTtY_lYWRWQ9dtVDDkNd9q9J9VDMe-I2R8WSR0LW_gEVpWzk",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "SZA is 36 years old (born November 8, 1989). While she was raised in Maplewood, New Jersey, she reportedly resides in Los Angeles, California, a common base for her frequent collaborations and industry presence.",
+      "snippet_links": [
+        {
+          "text": "Los Angeles, California",
+          "link": "https://www.google.com/search?q=Los+Angeles,+California&kgmid=/m/030qb3t&sa=X&ved=2ahUKEwjaooiUvciSAxVe4skDHeUEBsoQ3egRegQIAhAC"
+        }
+      ],
+      "reference_indexes": [
+        4,
+        5,
+        10
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "SZA is a multi-talented artist recognized for her unique approach to contemporary R&B and soul.",
+      "reference_indexes": [
+        2,
+        9
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        2,
+        4,
+        0,
+        6,
+        7,
+        11,
+        3
+      ],
+      "table": [
+        [
+          "Occupation / Skill",
+          "Proficiency & Description"
+        ],
+        [
+          "Singer",
+          "Rolling Stone's 200 Greatest Singers of All Time"
+        ],
+        [
+          "Songwriter",
+          "Songwriters Hall of Fame"
+        ],
+        [
+          "Dancer / Choreographer",
+          "Intermediate to Advanced. She has a background in gymnastics and cheerleading and has evolved into a performer who integrates dance and choreography into her live shows and music videos."
+        ],
+        [
+          "Actress",
+          "Emerging. She made her film debut co-starring in the 2025 comedy One of Them Days."
+        ],
+        [
+          "Instruments",
+          "Non-Instrumentalist. SZA has stated she does not play traditional instruments like guitar or piano, focusing instead on melody and lyric creation directly into a microphone."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Occupation / Skill"
+          },
+          {
+            "snippet": "Proficiency & Description"
+          }
+        ],
+        [
+          {
+            "snippet": "Singer"
+          },
+          {
+            "snippet": "Rolling Stone's 200 Greatest Singers of All Time"
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriter"
+          },
+          {
+            "snippet": "Songwriters Hall of Fame"
+          }
+        ],
+        [
+          {
+            "snippet": "Dancer / Choreographer"
+          },
+          {
+            "snippet": "Intermediate to Advanced. She has a background in gymnastics and cheerleading and has evolved into a performer who integrates dance and choreography into her live shows and music videos."
+          }
+        ],
+        [
+          {
+            "snippet": "Actress"
+          },
+          {
+            "snippet": "Emerging. She made her film debut co-starring in the 2025 comedy One of Them Days."
+          }
+        ],
+        [
+          {
+            "snippet": "Instruments"
+          },
+          {
+            "snippet": "Non-Instrumentalist. SZA has stated she does not play traditional instruments like guitar or piano, focusing instead on melody and lyric creation directly into a microphone."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "occupation_skill": "Singer",
+          "proficiency_description": "Rolling Stone's 200 Greatest Singers of All Time"
+        },
+        {
+          "occupation_skill": "Songwriter",
+          "proficiency_description": "Songwriters Hall of Fame"
+        },
+        {
+          "occupation_skill": "Dancer / Choreographer",
+          "proficiency_description": "Intermediate to Advanced. She has a background in gymnastics and cheerleading and has evolved into a performer who integrates dance and choreography into her live shows and music videos."
+        },
+        {
+          "occupation_skill": "Actress",
+          "proficiency_description": "Emerging. She made her film debut co-starring in the 2025 comedy One of Them Days."
+        },
+        {
+          "occupation_skill": "Instruments",
+          "proficiency_description": "Non-Instrumentalist. SZA has stated she does not play traditional instruments like guitar or piano, focusing instead on melody and lyric creation directly into a microphone."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see her current tour dates or a list of her Grammy-winning songs?"
+    }
+  ],
+  "references": [
+    {
+      "title": "SZA - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/SZA#:~:text=Sol%C3%A1na%20Imani%20Rowe%20was%20born,the%20film%20Nell%20(1994).",
+      "snippet": "For other uses, see SZA (disambiguation). * Sol\u00e1na Imani Rowe (born November 8, 1989), known professionally as SZA (/\u02c8s\u026az\u0259/ SIZ-\u0259)",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/TN-TD9DS-ecacs7JQavjJ9pQJAFMpIDuTerJgYhEVwc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/fWfpdV9_AvR_IOwdehOJcP_R6zYZb0PTUvjvLNz7o3g.png",
+      "index": 0
+    },
+    {
+      "title": "SZA - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/SZA#:~:text=For%20other%20uses%2C%20see%20SZA,over%20the%20next%20four%20years.",
+      "snippet": "For other uses, see SZA (disambiguation). * Sol\u00e1na Imani Rowe (born November 8, 1989), known professionally as SZA (/\u02c8s\u026az\u0259/ SIZ-\u0259)",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/TW4lSd28ihAegYTa0NbAzHA_8FJW073rJBVuvvEhTo0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/9G8QXPX13Pssbk7tCGRA1PRSL3AqYt2DzCM5Lc4A8oE.png",
+      "index": 1
+    },
+    {
+      "title": "SZA Vocal Training and Songwriting Technique Explained",
+      "link": "https://www.thesingerscompany.com/the-singers-company-music-blog/sza-vocal-training-and-songwriting-technique-explained#:~:text=One%20of%20the%20most%20distinctive,than%20a%20traditional%20vocal%20arrangement.",
+      "snippet": "Jul 3, 2025 \u2014 SZA Vocal Training and Songwriting Technique Explained * 1. The Power of Imperfection in SZA's Vocal Technique. One of the most di...",
+      "source": "The Singer's Company",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/Ss2lZ4wyRS4UZQ_uy7YJ-dXbFn6PxDC9xZs-fsE7YtY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/WNd68btDmOX6EmhYJsfNw0Hr0_q7SGzhqXqCVP5NyOA.png",
+      "index": 2
+    },
+    {
+      "title": "SZA, Hitmaker of the Year, Unpacks 'SOS,' Grammy Noms and Song ...",
+      "link": "https://variety.com/2023/music/features/sza-hitmaker-of-the-year-sos-grammy-song-leakers-1235810535/#:~:text=To%20a%20degree%20rare%20even,the%20one%20on%20her%20phone.",
+      "snippet": "Nov 29, 2023 \u2014 To a degree rare even for a musician, SZA's art is inseparable from the rest of her. Variety's Hitmaker of the Year doesn't play a...",
+      "source": "Variety",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/e1pwSILTMAYUHIlCxW9rFM_V8ARNAhc5cwQzDy2e_2I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/xDB8ii54Bg5tG88iJrKfGwNwjGgNVTeetgtDf8qcuMk.png",
+      "index": 3
+    },
+    {
+      "title": "SZA Wiki | Fandom",
+      "link": "https://sza.fandom.com/wiki/SZA#:~:text=Background%20Information,EP%20and%20first%20commercial%20release.",
+      "snippet": "Background Information * Birth name. Sol\u00e1na Imani Rowe. * Born. November 8, 1989 (age 36) St. Louis, Missouri, US. * Genres. R&B \u2022...",
+      "source": "SZA Wiki | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/byjwdt9_B9lHYO-3u9KMN9Vc7rpCtwVaNVirfas-_20.jpeg",
+      "index": 4
+    },
+    {
+      "title": "Sza singer birthday and biography - Facebook",
+      "link": "https://www.facebook.com/groups/321174751660862/posts/2285992238512427/#:~:text=Happy%20Birthday%20%F0%9F%8E%88%20SZA%20(R&B,%2D%20in%20Beverly%20Hills%2C%20CA.&text=Raymond%20Johnson%20Jr.",
+      "snippet": "Nov 8, 2025 \u2014 Happy Birthday \ud83c\udf88 SZA (R&B Singer) BIRTHDAY November 8, 1989 BIRTH SIGN Scorpio BIRTHPLACE St. Louis, MO AGE 36 years old SZA Sing...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/BFlbQdnVxMfGDd5K02f_8mMjRhiqdRlY5jRoqXU8bt0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/U8kfn_n4_Fc6RETB3WLf4cKe3ABtbhkL8i2O7OoCqMw.png",
+      "index": 5
+    },
+    {
+      "title": "SZA - Sony Music UK",
+      "link": "https://www.sonymusic.co.uk/artist/sza/#:~:text=A%20distinct%20force%20in%20contemporary,with%20subtle%20twists%20and%20turns.",
+      "snippet": "A distinct force in contemporary R&B, SZA has set herself apart with a vulnerable and casually poetic song-writing style and a voi...",
+      "source": "Sony Music UK",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/R0uTeXHk2j9VWjL8uM3M238HoF5wxpmuc_0vGCVqohE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/i9Z0IC8KQiFhFOGYzVo3jWi_4QnHS9ylGX4ANlIHqXc.png",
+      "index": 6
+    },
+    {
+      "title": "SZA receives David Starlight Award for original songwriting",
+      "link": "https://www.revolt.tv/article/sza-receives-david-starlight-award-for-original-songwriting#:~:text=SZA%20feels%20validated%20after%20earning,Thank%20you%20for%20seeing%20me.%E2%80%9D",
+      "snippet": "Jun 15, 2024 \u2014 SZA feels validated after earning songwriters award for her pen. Jeff Kravitz / Contributor via Getty Images. SZA receives David S...",
+      "source": "www.revolt.tv",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/kRV52jY3FMxPA56eY1Zqo5PBCjGVW6PZ3bP1zBBlB6M.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/EYJOLb1Wyk1wCv7Q4lc8IQzpQ2ZyW4wjSWtnV1BTQzg.png",
+      "index": 7
+    },
+    {
+      "title": "The Soulful Soundscape of SZA: A Deep Dive Into Her Music",
+      "link": "https://www.oreateai.com/blog/the-soulful-soundscape-of-sza-a-deep-dive-into-her-music/0b19b9285d432eb7c87c08eb76f506e5#:~:text=2026%2D01%2D15T12:30,themes%20present%20in%20her%20songs.",
+      "snippet": "Jan 15, 2026 \u2014 It's not just an album; it's a journey through vulnerability and empowerment. Songs like \"Love Galore\" featuring Travis Scott mix ...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/p1PATE05XGRQOsEza-WFhmzt89GVJ6e9LJLuopV99XU.png",
+      "index": 8
+    },
+    {
+      "title": "Did SZA take singing lessons?",
+      "link": "https://singingcarrots.com/did-they-take-singing-lessons/SZA#:~:text=Mastering%20Vocal%20Artistry:%20The%20Journey,strong%20musical%20ear%20is%20crucial.",
+      "snippet": "Mastering Vocal Artistry: The Journey of SZA. SZA, born Sol\u00e1na Imani Rowe, is a remarkable example of vocal versatility and emotiv...",
+      "source": "Singing Carrots",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/zyFSg4BoyD3akMMHGuGO4ARjNAXws-92zRQMCmraFwQ.png",
+      "index": 9
+    },
+    {
+      "title": "SZA (singer) - Ultimate Pop Culture Wiki",
+      "link": "https://ultimatepopculture.fandom.com/wiki/SZA_(singer)",
+      "snippet": "Sep 4, 2020 \u2014 Table_title: SZA (singer) Table_content: header: | SZA | | row: | SZA: File:SZA August 2017.jpg Rowe performing in August 2017 | :",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/7ZKN1UuJFWgkfgwHZARbDGrgPE_2O_nf6FK7J0ZkxsY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/ogWWTgfh9U56-5t6QMEKPBy2vFvZqFC5IV5qcF5mnG0.png",
+      "index": 10
+    },
+    {
+      "title": "SZA - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/SZA",
+      "snippet": "SZA * Singer. * songwriter. * dancer. * choreographer.",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c336e171b92161a43528/images/mahapI4HGILqJPKfJ9qPCEYvZJk8Vbgid9PSUvDuERg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c336e171b92161a43528/images/eWLzuQQFLeRW0rgAmFkaeKBuR544qFzOuyD50l1J6dQ.png",
+      "index": 11
+    }
+  ]
+}

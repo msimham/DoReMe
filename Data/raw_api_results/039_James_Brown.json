@@ -1,0 +1,347 @@
+{
+  "search_metadata": {
+    "id": "6987c302fd9b901d632e2f40",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3fhbaMCKZ5GAGf2QPiLSaQ/6987c302fd9b901d632e2f40.json",
+    "created_at": "2026-02-07 22:56:02 UTC",
+    "processed_at": "2026-02-07 22:56:02 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=James+Brown%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=James+Brown%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/3fhbaMCKZ5GAGf2QPiLSaQ/6987c302fd9b901d632e2f40.html",
+    "prettify_html_file": "https://serpapi.com/searches/3fhbaMCKZ5GAGf2QPiLSaQ/6987c302fd9b901d632e2f40.prettify",
+    "total_time_taken": 8.05
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "James Brown, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "ggHMb3icTU5JrqNWAJRygJyBZbcU_89ojL68YDTYHzM_ho0F-Bkwj8GAmfZ9kaiVSLlADpBTdE4TR8oiVVKpVFKV6tuvsPiT3xlqHD9O_Pi4Tklp0rRk7Sz8O0Rd-uMvsWqm0AWdS-SuQ6DRusu4XitnHbe3SdnSKTrrEdkOOhAqeGhrhwDq1bfJSLpqgDoqAUkEXqkoiR-NSTlPHtCo-ED00YqQfTgit7JLy1O0CJxJz8HXSD13L796NY-7Fb4C35pSXFsSSkHAYwQ5vwqGzGmhr8wOrpCpb1NhNVhnyZY9N7d1ofm8vv5Y3kBGiNu6gf7Hs4fdJc5gPfx46s1aIBS_M2849kWP06Iemj7_wLR6gAh7BZjhYAFG4BeCubBfMb5tEfRhciqGd4Zi36gt9uWkuvrnLxgqSogdYFo2XzEx75oKvhM09Yb_S8yJb3FX_Ff5LW2asoB___QzL4t7Pj5WMdMTyLOWCBVj1AkWC8InX-qWfgC7gWW9w70FQKasBae0E0HLx3XHTNYHdrk4MH12cCN44kl296IxyR-YBPYaYS2jPdsZ0mtcEsx0dRzFJwRZqNA0o6aunLIbVU-ZQv6F_y05rm3ueWkrNdnIUvLUay0dvHRX3xNKQzFKbVrppJison5Dl71RRefnLHomUpKDfb6Zok3WNy6TqBTATT2BTDb0gVRmmkrbgKVB5q6BO31gZ03aM-RuL5pNTWVKIrbynJ_EMzhAHVVpaQH0sLpWs8srHCaLuIE42BkkON6f8-iZi6JCgtFkKYt0Kki5krmrhsKYrGM_s8UKNivfJd58uuKs_ToRGxN0JXTfblRbP4j6VreUZdTUw3q6lPl5FIT1TiMTQpGvF8g6pdgkrBQ4nsNZUljMISUg-cH5Ml7Hau67SdUn7cBfm4baKNy2YN3EFnTQLNyiK0mfPheHUM1afpwqTojVx27kb0t26hAnFSjghqPJheVDI7qcU69npyS20fS96ofyx--8N8jzTXJCPOtW3DyUam3epsosc-OuMBQzA-MYiSU1XgygpIzWpM5ghcIyB32JNuQW-AQXLWkEetpHpGCqnFn5uXeYL4_sAo_FKFYzRWzmWHB1BGpy0X3OLi68E2U5e3IZZ-KODR1-itOohZnp-m3XwH5LxHRu-YYjhfEji6D-D-3NZow",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "James Brown (1933\u20132006), known as the \"Godfather of Soul,\" passed away in 2006.",
+      "reference_indexes": [
+        2,
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Profile Summary"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: He was 73 years old at the time of his death on December 25, 2006."
+        },
+        {
+          "snippet": "Current Status/Location: He is deceased. His final residence was a riverside estate in Beech Island, South Carolina. He is buried in a crypt at his daughter's home in the same location."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        4,
+        21,
+        16,
+        5
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Brown was a prolific entertainer whose career spanned over 50 years.",
+      "reference_indexes": [
+        0
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer: Lead vocalist for the Famous Flames and later a solo artist."
+        },
+        {
+          "snippet": "Songwriter/Arranger: Wrote and arranged the vast majority of his hits, often without formal training."
+        },
+        {
+          "snippet": "Dancer: Famous for high-energy routines, including his signature splits, spins, and the \"Mashed Potato\"."
+        },
+        {
+          "snippet": "Bandleader: Led legendary groups like the J.B.'s, managing up to 50 employees in the James Brown Revue."
+        },
+        {
+          "snippet": "Record Producer: Controlled his own sound and production style, pioneering the development of funk."
+        }
+      ],
+      "reference_indexes": [
+        4,
+        5,
+        2,
+        0,
+        13,
+        7,
+        11,
+        8,
+        18
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Skills & Abilities"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Brown was a self-taught multi-instrumentalist with high proficiency in several areas.",
+      "reference_indexes": [
+        14,
+        6
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Vocals: (Expert) Known for his rhythmic delivery and \"screaming\" technique; a study found his vocal range (E2 to F6) surpassed many contemporaries."
+        },
+        {
+          "snippet": "Keyboards/Piano: (Advanced) Frequently played the piano and Hammond B3 organ in live shows and on recordings."
+        },
+        {
+          "snippet": "Drums: (Proficient) Learned drums as a child and often used his percussion knowledge to direct his drummers\u2019 complex syncopated beats."
+        },
+        {
+          "snippet": "Harmonica: (Proficient) One of the first instruments he learned to play."
+        },
+        {
+          "snippet": "Guitar: (Skilled) Competent enough to contribute to his own arrangements and songwriting."
+        },
+        {
+          "snippet": "Showmanship: (Elite) Earned the title \"The Hardest-Working Man in Show Business\" for his relentless touring and explosive stage presence."
+        }
+      ],
+      "reference_indexes": [
+        6,
+        8,
+        7,
+        4,
+        19,
+        15,
+        10,
+        3,
+        1,
+        9
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "James Brown - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/James_Brown",
+      "snippet": "For other people named James Brown, see James Brown (disambiguation). * James Joseph Brown (May 3, 1933 \u2013 December 25, 2006) was a...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/iMph-EUSqX2fHNekrfGH5RJVc3FoGk0qzUdLnUCo0SQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/_0FAneKpI6zj8oUzIyrkRO1D5XVsAdcmW5fsjF7mhh4.png",
+      "index": 0
+    },
+    {
+      "title": "James Brown - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/James_Brown#:~:text=Brown%20began%20singing%20in%20talent,Jordan%20and%20his%20Tympany%20Five.",
+      "snippet": "Brown began singing in talent shows as a young child, first appearing at Augusta's Lenox Theater in 1944, winning the show after s...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/jOICQQ-hl6lAClVRX0ynvM2pnH96z0X35WE55MYsEx0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/2335vmLkASsDTIQiPBi6kXkE2WUbGY6RMRgT-ZT1VXA.png",
+      "index": 1
+    },
+    {
+      "title": "James Brown - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/James_Brown#:~:text=Table_content:%20header:%20%7C%20James%20Brown%20%7C%20%7C,Brown:%20Years%20active%20%7C%20:%201953%E2%80%932006%20%7C",
+      "snippet": "Table_content: header: | James Brown | | row: | James Brown: Born | : James Joseph BrownMay 3, 1933 Barnwell, South Carolina, U.S.",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/-B-YhLGxKpH0kB3fJNqdyy7_JUR5HHfU_PfKZ8ErD68.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/ILX0n0B5_Ft1pZLUa1AT-OzGdxnN4ijYMIj4bdKtB8M.png",
+      "index": 2
+    },
+    {
+      "title": "James Brown | Biography, Songs, Movies, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/James-Brown-American-singer#:~:text=James%20Brown%20(born%20May%203,or%20boxing%20than%20in%20music.",
+      "snippet": "Dec 21, 2025 \u2014 Neighbours taught him how to play drums, piano, and guitar, and he learned about gospel music in churches and at tent revivals, wh...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/8OGRwDqzthhkIr6I8HB_O1Qmgp8XxVL8N9eM9JsVo10.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/FbOfNgOiwUBj79muKE9Z0vW4DBCa-cXZ70a5szX8qWw.png",
+      "index": 3
+    },
+    {
+      "title": "James Brown | Biography, Songs, Movies, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/James-Brown-American-singer#:~:text=James%20Brown%20(born%20May%203,Working%20Man%20in%20Show%20Business.%E2%80%9D",
+      "snippet": "Dec 21, 2025 \u2014 James Brown (born May 3, 1933, Barnwell, South Carolina, U.S.\u2014died December 25, 2006, Atlanta, Georgia) was an American singer, so...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/fvO0AMGuBo7MhQhen0kMSDNFh9tY6ZpjTEyjnzpGSaU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/PRg9OKZ6XltcC3W83pJdXVEKfUsSTtncdpVTnqZ1F-k.png",
+      "index": 4
+    },
+    {
+      "title": "James Brown was a man of many talents! He taught himself how to ...",
+      "link": "https://www.facebook.com/JamesBrown/posts/james-brown-was-a-man-of-many-talents-he-taught-himself-how-to-play-the-piano-gu/498983128264910/#:~:text=15w%20%C2%B7%20Public-,James%20Brown%20was%20a%20multi%2Dinstrumentalist%20who%20could%20play%20at,Hammond%20B3%20organ%2C%20and%20guitar.",
+      "snippet": "Mar 16, 2022 \u2014 James Brown was a multi-instrumentalist who could play at least five instruments: harmonica, piano/organ, drums, guitar, and vocal...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/0TwoU5hIUnYkSaIRJbnknvrYV3ofxBtyatuoFMLUhX4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/XBsEw7DCDPUAl2gTKZ2QF8sWk-dtjahim8dXQHVqqGI.png",
+      "index": 5
+    },
+    {
+      "title": "James Brown was a man of many talents! He taught himself how to ...",
+      "link": "https://www.facebook.com/JamesBrown/posts/james-brown-was-a-man-of-many-talents-he-taught-himself-how-to-play-the-piano-gu/498983128264910/#:~:text=James%20Brown%20was%20a%20multi,v=u4ePdvrp9go&si=IeyO72uWlynMFLM%20w",
+      "snippet": "Mar 16, 2022 \u2014 James Brown was a multi-instrumentalist who could play at least five instruments: harmonica, piano/organ, drums, guitar, and vocal...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/vSSTOMAQ3kKSqg-5VmYOFPg-eOy7lUOiY9qfJyG6znA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/8xWaK_PfKgTwAnkWmiLIgIQV2SU1YQPJz2au-LgacNg.png",
+      "index": 6
+    },
+    {
+      "title": "#DidYouKnow James Brown never had any formal music ...",
+      "link": "https://www.facebook.com/JamesBrown/videos/didyouknow-james-brown-never-had-any-formal-music-education-still-the-godfather-/967654245273949/",
+      "snippet": "Jan 14, 2025 \u2014 and when did you. start playing or and singing yourself well you said playing I'd feel kind of bad to say that I I'm really a musi...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/djrM6bl6lRENehhaXRuOLm0DyR_E4F_mkjmin9fYQu0.jpeg",
+      "index": 7
+    },
+    {
+      "title": "The Musical Innovations of James Brown: The Godfather of Funk",
+      "link": "https://www.chaoticrhythm.com/artists/the-musical-innovations-of-james-brown%3A-the-godfather-of-funk#:~:text=Every%20component%20of%20his%20music,uncompromising%20dedication%20to%20artistic%20purity.",
+      "snippet": "Nov 21, 2024 \u2014 Anupam Pandey * James Brown's status as one of the most important characters in popular music history has been solidified by his u...",
+      "source": "Chaotic Rhythm",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/jmZRoUGh6p0NJe_KsAwd4s4wqkO66T8lVUyvLpPDQsg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/gEQ07XzuzzLzBPfNVqYhOX5RuBsEYA_MD-LdnD8UTjc.png",
+      "index": 8
+    },
+    {
+      "title": "James Brown was a man of many talents! He taught himself ...",
+      "link": "https://www.facebook.com/JamesBrown/posts/james-brown-was-a-man-of-many-talents-he-taught-himself-how-to-play-the-piano-gu/498981614931728/#:~:text=James%20Brown%20was%20a%20man,James%20Brown%20%F3%B1%A2%8F",
+      "snippet": "Mar 16, 2022 \u2014 James Brown was a multi-instrumentalist who could play at least five instruments: harmonica, piano/organ, drums, guitar, and vocal...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/MvGl2rL0XWO2e9abCySLu41bcV-JR_YFi2-Nju4lObA.jpeg",
+      "index": 9
+    },
+    {
+      "title": "#DidYouKnow James Brown never had any formal music education! ...",
+      "link": "https://www.facebook.com/JamesBrown/posts/didyouknow-james-brown-never-had-any-formal-music-education-still-the-godfather-/1134077311422152/#:~:text=and%206%20others-,James%20Brown%20was%20a%20multi%2Dinstrumentalist%20who%20could%20play%20at,Hammond%20B3%20organ%2C%20and%20guitar.",
+      "snippet": "Jan 14, 2025 \u2014 James Brown was a multi-instrumentalist who could play at least five instruments: harmonica, piano/organ, drums, guitar, and vocal...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/GZmf_3V2Dyuioz8OuV02uEtZW4EI86U9YxRbo16dhco.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/o4cbN1H712CTYDlPyLDaY05M34CB98-1Z-q_wflGuLU.png",
+      "index": 10
+    },
+    {
+      "title": "James Brown | Songwriters Hall of Fame",
+      "link": "https://www.songhall.org/profiles/james-brown#:~:text=Bio,of%20many%20races%20and%20cultures.",
+      "snippet": "Bio. Worldwide, he has been the number one force in the music industry, the biggest cat indeed, the Godfather of Soul, the one and...",
+      "source": "Songwriters Hall of Fame",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/X-z5KcdaE26TjTKPKipjt_voQ7osdVvLGQo4U5EBRV8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/RKzmCHAVXUmANQ59xGKlVvJp38FaAILe7s4PPhx4_pw.png",
+      "index": 11
+    },
+    {
+      "title": "Legendary Soul Singer James Brown Dies at Age 73",
+      "link": "https://www.pbs.org/newshour/show/legendary-soul-singer-james-brown-dies-at-age-73#:~:text=Dec%2025%2C%202006%205:50,after%20a%20bout%20with%20pneumonia.",
+      "snippet": "Dec 25, 2006 \u2014 Dec 25, 2006 5:50 PM EST. https://www.pbs.org/newshour/show/legendary-soul-singer-james-brown-dies-at-age-73. James Brown, the ryt...",
+      "source": "PBS",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/P4UGt7hU5ZVRgUane2Q2UlM7t-L3IbohngtXCfRiDY8.jpeg",
+      "index": 12
+    },
+    {
+      "title": "James Brown | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/james-brown#:~:text=Brown's%20prolific%20career%20spans%20several,drum%20breaks%20and%20break%20beats.",
+      "snippet": "Go to EBSCOhost and sign in to access more content about this topic. * James Brown. Singer and entertainer. Born: May 3, 1933. Bir...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/vZ1iqQN3UyWsdR4hOaW7MxqqIQpckm2htM9P-cCraxs.png",
+      "index": 13
+    },
+    {
+      "title": "James Brown | Augusta Museum of History",
+      "link": "https://www.augustamuseum.org/JamesBrown#:~:text=Brown%20was%20a%20self%2Dtaught,hip%20hop%20and%20rap%20artists.",
+      "snippet": "Brown was a self-taught musician. In 1953, he began his professional musical career with Bobby Byrd? s group the Gospel Starlighte...",
+      "source": "Augusta Museum of History",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/0qEPSZIlobsZrDNqe8E1GmTV1ONanb_kVVaQv9U8pmk.png",
+      "index": 14
+    },
+    {
+      "title": "The only 1960s singer who had greatest vocal range, according to ...",
+      "link": "https://www.themirror.com/entertainment/music/james-brown-vocal-range-music-1222606#:~:text=Research%20found%20the%20late%20singer's,the%20era%20like%20Elvis%20Presley&text=James%20Brown%20was%20the%20singer,Elvis%20Presley%20and%20Mick%20Jagger.",
+      "snippet": "Jun 22, 2025 \u2014 Research found the late singer's voice could move from E2 to F6 octaves with ease and his vocal abilities surpassed other great si...",
+      "source": "The Mirror US",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/6BUoiedW6ssrkYWp27-pCCkoydngaXt61aW_Bx0Ti2s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/yKrzadg9-NAW80B1KD-uwwNnHkeqmnB5hdVbrToN_i0.png",
+      "index": 15
+    },
+    {
+      "title": "James Brown, the 'Godfather of Soul', Dies at 73",
+      "link": "https://www.nytimes.com/2006/12/25/arts/music/25cnd-brown.html#:~:text=James%20Brown%2C%20the%20singer%2C%20songwriter,S.C.%2C%20near%20the%20Georgia%20border.",
+      "snippet": "Dec 25, 2006 \u2014 James Brown, the singer, songwriter, bandleader and dancer, who indelibly transformed 20th-century music, died early today at Emor...",
+      "source": "The New York Times",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/O2v7cvix0d9HWxLlikS9d3kZE44MaVMkb2uIEPL7K7g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/F9VfHGQG-MLQVvAlTqaxK75gS6p4pAPzIsMc3vJKv8o.png",
+      "index": 16
+    },
+    {
+      "title": "James Brown - South Carolina Tourism",
+      "link": "https://discoversouthcarolina.com/articles/james-brown",
+      "snippet": "James Brown * Born: May 3, 1933. * Died: Dec. 25, 2006. * Background/significance: James Brown, \"the Godfather of Soul,\" was a mus...",
+      "source": "South Carolina Tourism",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/6mcvfJ62_Bn2-ADaMGIZlfa6pFNVRIJiC500K5FBUx0.png",
+      "index": 17
+    },
+    {
+      "title": "James Brown - New World Encyclopedia",
+      "link": "https://www.newworldencyclopedia.org/entry/James_Brown#:~:text=James%20Joseph%20Brown%2C%20Jr.,Hamburg%2C%20Germany%2C%20February%201973.&text=bandleader%2C%20record%20producer-,James%20Joseph%20Brown%2C%20Jr.,African%2DAmericans%20and%20the%20poor.",
+      "snippet": "James Brown. ... Table_content: header: | James Joseph Brown, Jr. | | row: | James Joseph Brown, Jr.: James Brown performing live ...",
+      "source": "New World Encyclopedia",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/FmDMKohpGSXIvtgguoeKhKh8-_HeTJl9aTt2wm8YLxI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/S9WG9mAR4fRDAoctuLJiuUZKQXh9pqCFZeNKrBanNrw.png",
+      "index": 18
+    },
+    {
+      "title": "James Brown | Biography, Songs, Movies, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/James-Brown-American-singer#:~:text=What%20awards%20and%20honors%20did,Working%20Man%20in%20Show%20Business.%E2%80%9D",
+      "snippet": "Dec 21, 2025 \u2014 James Brown * What was James Brown famous for? James Brown, known for his ability to \u201cscream\u201d on key and to blend multiple vocal s...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/tZAhKFtoAp016e1HkDgInd3_FwHagRgrgUrtdxJB2G8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/D5mYJk0eKVvxtLHZXO80zzGOiBis-iv4uftXitGlbXc.png",
+      "index": 19
+    },
+    {
+      "title": "Remembering James Brown \"The Godfather Of Soul\", who ...",
+      "link": "https://www.facebook.com/honoringlegends/posts/remembering-james-brown-the-godfather-of-soul-who-passed-away-18-years-ago-on-de/991928526312658/#:~:text=Remembering%20James%20Brown%20%22The%20Godfather,development%20of%20several%20music%20genres.",
+      "snippet": "Dec 25, 2024 \u2014 Remembering James Brown \"The Godfather Of Soul\", who passed away 18 years ago on December 25, 2006. James Brown was an American si...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/1RkcM_w59nYrVv2pe2LeHhS5b_asSkJa9Y4ixodfevY.jpeg",
+      "index": 20
+    },
+    {
+      "title": "James Brown's Death, 19 Years Later: Inside the Soul Artist's ...",
+      "link": "https://people.com/james-brown-death-legacy-everything-to-know-11854903#:~:text=NEED%20TO%20KNOW,part%20CNN%20investigation%20in%202019.",
+      "snippet": "Dec 25, 2025 \u2014 NEED TO KNOW * James Brown was a renowned soul artist who toured into his 70s. * He was admitted to an Atlanta hospital two days b...",
+      "source": "People.com",
+      "thumbnail": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/lSmIYA2_VYaKO2b16Xr4VS-ho2PmQF4RJjFmR9tK7UE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c302fd9b901d632e2f40/images/VEItCYr6VNiMd-wro136Ik1ENdkwCTyNpWWpc-st_QE.png",
+      "index": 21
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What were James Brown's main musical contributions?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+were+James+Brown%27s+main+musical+contributions%3F&subsequent_request_token=ggHMb3icTU5JrqNWAJRygJyBZbcU_89ojL68YDTYHzM_ho0F-Bkwj8GAmfZ9kaiVSLlADpBTdE4TR8oiVVKpVFKV6tuvsPiT3xlqHD9O_Pi4Tklp0rRk7Sz8O0Rd-uMvsWqm0AWdS-SuQ6DRusu4XitnHbe3SdnSKTrrEdkOOhAqeGhrhwDq1bfJSLpqgDoqAUkEXqkoiR-NSTlPHtCo-ED00YqQfTgit7JLy1O0CJxJz8HXSD13L796NY-7Fb4C35pSXFsSSkHAYwQ5vwqGzGmhr8wOrpCpb1NhNVhnyZY9N7d1ofm8vv5Y3kBGiNu6gf7Hs4fdJc5gPfx46s1aIBS_M2849kWP06Iemj7_wLR6gAh7BZjhYAFG4BeCubBfMb5tEfRhciqGd4Zi36gt9uWkuvrnLxgqSogdYFo2XzEx75oKvhM09Yb_S8yJb3FX_Ff5LW2asoB___QzL4t7Pj5WMdMTyLOWCBVj1AkWC8InX-qWfgC7gWW9w70FQKasBae0E0HLx3XHTNYHdrk4MH12cCN44kl296IxyR-YBPYaYS2jPdsZ0mtcEsx0dRzFJwRZqNA0o6aunLIbVU-ZQv6F_y05rm3ueWkrNdnIUvLUay0dvHRX3xNKQzFKbVrppJison5Dl71RRefnLHomUpKDfb6Zok3WNy6TqBTATT2BTDb0gVRmmkrbgKVB5q6BO31gZ03aM-RuL5pNTWVKIrbynJ_EMzhAHVVpaQH0sLpWs8srHCaLuIE42BkkON6f8-iZi6JCgtFkKYt0Kki5krmrhsKYrGM_s8UKNivfJd58uuKs_ToRGxN0JXTfblRbP4j6VreUZdTUw3q6lPl5FIT1TiMTQpGvF8g6pdgkrBQ4nsNZUljMISUg-cH5Ml7Hau67SdUn7cBfm4baKNy2YN3EFnTQLNyiK0mfPheHUM1afpwqTojVx27kb0t26hAnFSjghqPJheVDI7qcU69npyS20fS96ofyx--8N8jzTXJCPOtW3DyUam3epsosc-OuMBQzA-MYiSU1XgygpIzWpM5ghcIyB32JNuQW-AQXLWkEetpHpGCqnFn5uXeYL4_sAo_FKFYzRWzmWHB1BGpy0X3OLi68E2U5e3IZZ-KODR1-itOohZnp-m3XwH5LxHRu-YYjhfEji6D-D-3NZow"
+    },
+    {
+      "question": "Tell me more about his songwriting process",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+his+songwriting+process&subsequent_request_token=ggHMb3icTU5JrqNWAJRygJyBZbcU_89ojL68YDTYHzM_ho0F-Bkwj8GAmfZ9kaiVSLlADpBTdE4TR8oiVVKpVFKV6tuvsPiT3xlqHD9O_Pi4Tklp0rRk7Sz8O0Rd-uMvsWqm0AWdS-SuQ6DRusu4XitnHbe3SdnSKTrrEdkOOhAqeGhrhwDq1bfJSLpqgDoqAUkEXqkoiR-NSTlPHtCo-ED00YqQfTgit7JLy1O0CJxJz8HXSD13L796NY-7Fb4C35pSXFsSSkHAYwQ5vwqGzGmhr8wOrpCpb1NhNVhnyZY9N7d1ofm8vv5Y3kBGiNu6gf7Hs4fdJc5gPfx46s1aIBS_M2849kWP06Iemj7_wLR6gAh7BZjhYAFG4BeCubBfMb5tEfRhciqGd4Zi36gt9uWkuvrnLxgqSogdYFo2XzEx75oKvhM09Yb_S8yJb3FX_Ff5LW2asoB___QzL4t7Pj5WMdMTyLOWCBVj1AkWC8InX-qWfgC7gWW9w70FQKasBae0E0HLx3XHTNYHdrk4MH12cCN44kl296IxyR-YBPYaYS2jPdsZ0mtcEsx0dRzFJwRZqNA0o6aunLIbVU-ZQv6F_y05rm3ueWkrNdnIUvLUay0dvHRX3xNKQzFKbVrppJison5Dl71RRefnLHomUpKDfb6Zok3WNy6TqBTATT2BTDb0gVRmmkrbgKVB5q6BO31gZ03aM-RuL5pNTWVKIrbynJ_EMzhAHVVpaQH0sLpWs8srHCaLuIE42BkkON6f8-iZi6JCgtFkKYt0Kki5krmrhsKYrGM_s8UKNivfJd58uuKs_ToRGxN0JXTfblRbP4j6VreUZdTUw3q6lPl5FIT1TiMTQpGvF8g6pdgkrBQ4nsNZUljMISUg-cH5Ml7Hau67SdUn7cBfm4baKNy2YN3EFnTQLNyiK0mfPheHUM1afpwqTojVx27kb0t26hAnFSjghqPJheVDI7qcU69npyS20fS96ofyx--8N8jzTXJCPOtW3DyUam3epsosc-OuMBQzA-MYiSU1XgygpIzWpM5ghcIyB32JNuQW-AQXLWkEetpHpGCqnFn5uXeYL4_sAo_FKFYzRWzmWHB1BGpy0X3OLi68E2U5e3IZZ-KODR1-itOohZnp-m3XwH5LxHRu-YYjhfEji6D-D-3NZow"
+    },
+    {
+      "question": "How did his singing style influence funk and soul music?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=How+did+his+singing+style+influence+funk+and+soul+music%3F&subsequent_request_token=ggHMb3icTU5JrqNWAJRygJyBZbcU_89ojL68YDTYHzM_ho0F-Bkwj8GAmfZ9kaiVSLlADpBTdE4TR8oiVVKpVFKV6tuvsPiT3xlqHD9O_Pi4Tklp0rRk7Sz8O0Rd-uMvsWqm0AWdS-SuQ6DRusu4XitnHbe3SdnSKTrrEdkOOhAqeGhrhwDq1bfJSLpqgDoqAUkEXqkoiR-NSTlPHtCo-ED00YqQfTgit7JLy1O0CJxJz8HXSD13L796NY-7Fb4C35pSXFsSSkHAYwQ5vwqGzGmhr8wOrpCpb1NhNVhnyZY9N7d1ofm8vv5Y3kBGiNu6gf7Hs4fdJc5gPfx46s1aIBS_M2849kWP06Iemj7_wLR6gAh7BZjhYAFG4BeCubBfMb5tEfRhciqGd4Zi36gt9uWkuvrnLxgqSogdYFo2XzEx75oKvhM09Yb_S8yJb3FX_Ff5LW2asoB___QzL4t7Pj5WMdMTyLOWCBVj1AkWC8InX-qWfgC7gWW9w70FQKasBae0E0HLx3XHTNYHdrk4MH12cCN44kl296IxyR-YBPYaYS2jPdsZ0mtcEsx0dRzFJwRZqNA0o6aunLIbVU-ZQv6F_y05rm3ueWkrNdnIUvLUay0dvHRX3xNKQzFKbVrppJison5Dl71RRefnLHomUpKDfb6Zok3WNy6TqBTATT2BTDb0gVRmmkrbgKVB5q6BO31gZ03aM-RuL5pNTWVKIrbynJ_EMzhAHVVpaQH0sLpWs8srHCaLuIE42BkkON6f8-iZi6JCgtFkKYt0Kki5krmrhsKYrGM_s8UKNivfJd58uuKs_ToRGxN0JXTfblRbP4j6VreUZdTUw3q6lPl5FIT1TiMTQpGvF8g6pdgkrBQ4nsNZUljMISUg-cH5Ml7Hau67SdUn7cBfm4baKNy2YN3EFnTQLNyiK0mfPheHUM1afpwqTojVx27kb0t26hAnFSjghqPJheVDI7qcU69npyS20fS96ofyx--8N8jzTXJCPOtW3DyUam3epsosc-OuMBQzA-MYiSU1XgygpIzWpM5ghcIyB32JNuQW-AQXLWkEetpHpGCqnFn5uXeYL4_sAo_FKFYzRWzmWHB1BGpy0X3OLi68E2U5e3IZZ-KODR1-itOohZnp-m3XwH5LxHRu-YYjhfEji6D-D-3NZow"
+    }
+  ]
+}

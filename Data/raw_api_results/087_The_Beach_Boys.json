@@ -1,0 +1,386 @@
+{
+  "search_metadata": {
+    "id": "6987c32dd3fb859536ed72a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/AuUFx73LbfDPJlvupxcRkw/6987c32dd3fb859536ed72a4.json",
+    "created_at": "2026-02-07 22:56:45 UTC",
+    "processed_at": "2026-02-07 22:56:45 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=The+Beach+Boys%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=The+Beach+Boys%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/AuUFx73LbfDPJlvupxcRkw/6987c32dd3fb859536ed72a4.html",
+    "prettify_html_file": "https://serpapi.com/searches/AuUFx73LbfDPJlvupxcRkw/6987c32dd3fb859536ed72a4.prettify",
+    "total_time_taken": 8.26
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "The Beach Boys, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "d8qi83icPZNLrqNWEIalrIRhtxTfewCDja7ugKfBgDFwAOMJOsDhacDY2DzmvZGolUjZQBaQVXRWE7cUpf5Z6f9Ln6pU337D5V9GYqkInTr9SbHNUB9rhEmWv3_Hl1vy42-x6cYQ-odzwygxGFw_GBbz5DPQc0xPURyfdFAQkDOsFNa-cPDlC-0mJz31QMKWn09AWwJYILv2tdg_GIhy-pj0yBisgespwIXFlO4uR3Q66B5IR4fuxhRcOxg4BgruM6QKiEXyaNJCeJbJVi5SMwScFgZK-OKhzOo8pLvBRpRyMeFZSKbOCALOfM0OwsC3vMX-83HHtwjluB1-dGa3lJcLemfeAPElKNu0G-_EARIkeAMfxKvBrj-IiV1_Jfjr9YIDHOvl8M7QmzeaJb7oKjSNX4lLWWNih5O6-0qIxa1r8DtJc2_gpwgXZehW_hf5Pem6usT__NJHkYuTxw2vXOgcP3mJlbr8oSf5_XDbPjNYbtuNt-elVdQje32ODXizFilleCw9fDM7MuNajCnYZ2LNzeZKF7WqRpuwXptXa0vdrS6yDErqk4W8-U0mq_YHwcviJ4_2DWKGZyj3V6jxRSAjGemOdUjgccWMuD2ZfJrl1tmqnsImBc_tDovrGTzGD-J_YsETdRl-ipomfBAHTfpkqO2no1HbY5Cspc1M9xOVJ7x1IosleO7zjLWym3ukkIGaOJqfq2XGW5Ad5EwdjwWTjsUUlWxXcSHcTv7sBi6p6km_mc_5cLhLet66G05XDWHu6GrmDNtAdJFva33eN-eBT0SjNlM4GaBUwm0jmFeyqxCLl2dQW7pi-5kWC2sL6OAEbr1Yw-lKS0L7uD45-RozpGVZ60sg70vozbqT2sd9uyhFmzp7Ibozg8vtSSnErekw2WzFYPVQS04BnVvrEsLjynBXrKNfzhvQfBDuz3Xwsqz32gAR1qoC6ZHljPvrQaxEV6Y4mea4BUVyyGuXUIyu-7xKnTIayewkqAG55uqcFqfdriBlrURW5oi80NyLqqJxvlkz46gx8-uYkv8pLxZ9GP3nWTXzu2qDF1yUUYDZle5lJC-RWm-GBLiZOwL-Vd-b-1D_-IP3BnnKRMVJGKc_b9lkWsh2uvZ0j1zY-pZf0nB8YCnDEhvECo8mxbiVoLo35DlN8VCzsbBQIFFhn9q7lTgWbaPKcpZZ6SIUm-KOy3BqZOTJ3ev5VIzb0T5h74i2630lxmZyu47cVIBt4JG7PIP1yU7taNVi3uxSOxMDM-9hZP4LQwmEBQ",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Here is the breakdown of the surviving and recently deceased core members of The Beach Boys as of early 2026."
+    },
+    {
+      "type": "heading",
+      "snippet": "Living Members"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Mike Love",
+          "list": [
+            {
+              "snippet": "Age: 84 (born March 15, 1941)."
+            },
+            {
+              "snippet": "Skills & Occupations: Lead vocalist, lyricist, and frontman."
+            },
+            {
+              "snippet": "Proficiency: Expert singer (nasal tenor/bass-baritone) and prolific songwriter/co-author of over a dozen Top 10 hits."
+            },
+            {
+              "snippet": "Current Residence: Primarily resides on the North Shore of Lake Tahoe, Nevada/California."
+            }
+          ]
+        },
+        {
+          "snippet": "Al Jardine",
+          "list": [
+            {
+              "snippet": "Age: 83 (born September 3, 1942)."
+            },
+            {
+              "snippet": "Skills & Occupations: Rhythm guitarist, vocalist (mid-range harmonies), and songwriter."
+            },
+            {
+              "snippet": "Proficiency: Highly proficient in folk-influenced rhythm guitar and complex vocal arrangements; occasionally sang lead on hits like \"Help Me, Rhonda\"."
+            },
+            {
+              "snippet": "Current Residence: Longtime resident of Big Sur, California."
+            }
+          ]
+        },
+        {
+          "snippet": "Bruce Johnston",
+          "list": [
+            {
+              "snippet": "Age: ~83 (born June 27, 1942)."
+            },
+            {
+              "snippet": "Skills & Occupations: Keyboards, bass, vocals, and Grammy-winning songwriter."
+            },
+            {
+              "snippet": "Proficiency: Expert arranger and keyboardist; joined in 1965 to replace Brian Wilson on tour and famously wrote \"I Write the Songs\"."
+            },
+            {
+              "snippet": "Current Residence: Primarily resides in Santa Barbara, California."
+            }
+          ]
+        },
+        {
+          "snippet": "David Marks",
+          "list": [
+            {
+              "snippet": "Age: 77 (born August 22, 1948)."
+            },
+            {
+              "snippet": "Skills & Occupations: Lead and rhythm guitarist, vocalist."
+            },
+            {
+              "snippet": "Proficiency: Professional-level guitarist who played on the band's first four albums."
+            },
+            {
+              "snippet": "Current Residence: Maintains a low profile in the Los Angeles, California area."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        18,
+        8,
+        6,
+        13,
+        11,
+        7,
+        12,
+        10,
+        3,
+        20,
+        19,
+        0,
+        17,
+        2,
+        16,
+        14
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Recently Deceased"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Brian Wilson",
+          "list": [
+            {
+              "snippet": "Status: Passed away at age 82 on June 11, 2025, in Beverly Hills, California."
+            },
+            {
+              "snippet": "Legacy: Widely considered a musical genius; he was the band's primary composer, producer, and bassist."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        9,
+        4,
+        5,
+        21
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Original Members (Deceased)"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Dennis Wilson: Died December 1983 (Age 39); Drummer/Vocalist."
+        },
+        {
+          "snippet": "Carl Wilson: Died February 1998 (Age 51); Lead Guitarist/Vocalist."
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        22,
+        23
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about the current touring lineup led by Mike Love or the solo projects of Al Jardine?"
+    }
+  ],
+  "references": [
+    {
+      "title": "The Beach Boys - Encyclopedia.com",
+      "link": "https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/beach-boys#:~:text=Dennis%20(drowned%20in-,For%20the%20Record%E2%80%A6,first%20major%20European%20tour%2C%201964.",
+      "snippet": "Jun 8, 2018 \u2014 For the Record\u2026 Originally formed in Hawthorne, Calif., in 1961 as the Pendletones; name changed to the Beach Boys, 1961; original...",
+      "source": "Encyclopedia.com",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/nYS_5XYCIe6fLVnyc8FZa2szOwuGya3gWBuFzWTEHGw.png",
+      "index": 0
+    },
+    {
+      "title": "The Beach Boys | Members, Songs, Albums, & Facts",
+      "link": "https://www.britannica.com/topic/the-Beach-Boys#:~:text=Brian%20Wilson%20(born%20June%2020,%2C%201942%2C%20Lima%2C%20Ohio)",
+      "snippet": "Feb 3, 2026 \u2014 Brian Wilson (born June 20, 1942, Inglewood, California, U.S.\u2014died June 11, 2025, Beverly Hills) Dennis Wilson (born December 4, 1...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/lmDEW47lGVKHOELUPP5rly1B5OFXFGXdcjUjf3E9JeE.jpeg",
+      "index": 1
+    },
+    {
+      "title": "The Beach Boys | Members, Songs, Albums, & Facts",
+      "link": "https://www.britannica.com/topic/the-Beach-Boys#:~:text=%2C%20Peoria%2C%20Illinois)-,Formation%20of%20the%20Beach%20Boys%20and%20first%20releases,Four%20Freshmen%20and%20Four%20Preps.",
+      "snippet": "Feb 3, 2026 \u2014 Formation of the Beach Boys and first releases. Growing up in suburban Los Angeles (Hawthorne), the Wilson brothers were encourage...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/cCKjn4dyXcEe4lL5yBVRBJ96g-t_uT7FCUuiHOuUZJ0.jpeg",
+      "index": 2
+    },
+    {
+      "title": "How Old Are the Beach Boys - Oreate AI Blog",
+      "link": "https://www.oreateai.com/blog/how-old-are-the-beach-boys/f912c0cd10dd4a0bc884abbe250ed3c3#:~:text=As%20of%202023%2C%20Brian%20Wilson,currently%20around%2081%20as%20well.",
+      "snippet": "Jan 7, 2026 \u2014 As of 2023, Brian Wilson is 81 years old; Mike Love follows closely at 82. Al Jardine is also enjoying his golden years at age 81.",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/oDt70FF8Qeq0kfRL8-tBwSRyjzv0jE0sH2cdHc1Z6uo.png",
+      "index": 3
+    },
+    {
+      "title": "Brian Wilson - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Brian_Wilson#:~:text=Brian%20Douglas%20Wilson%20(June%2020,versatile%20head%20voice%20and%20falsetto.",
+      "snippet": "Table_content: header: | Brian Wilson | | row: | Brian Wilson: Wilson in 1990 | : | row: | Brian Wilson: Born | : Brian Douglas Wi...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/ksaYjdX9f1FIQQR_l6k8XWrkzxYCsiGXrob_QJIiOxU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/Ie959b-Rs3rnje80_ymJHBubhhp8cl031exFbh1O0_k.png",
+      "index": 4
+    },
+    {
+      "title": "Brian Wilson, the troubled genius behind The Beach Boys ...",
+      "link": "https://www.wrti.org/wrti-picks-from-npr-music/2025-06-11/brian-wilson-the-troubled-genius-behind-the-beach-boys-has-died-at-age-82#:~:text=Brian%20Wilson%2C%20the%20troubled%20genius,statement%20on%20his%20website%20Wednesday.",
+      "snippet": "Jun 11, 2025 \u2014 Brian Wilson, the troubled genius behind The Beach Boys, has died at age 82 | WRTI. WRTI Picks from NPR Music. Brian Wilson, the t...",
+      "source": "WRTI",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/bqlYwaZSvEV1sB5uSUAEeRKfjgXzpOHFPe5M52hiVlw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/Jf5Tk3WEQ6dYm5nc6jLVSV3iMPmlJcixLSc0_IFv7eo.png",
+      "index": 5
+    },
+    {
+      "title": "Mike Love - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Mike_Love#:~:text=Michael%20Edward%20Love%20(born%20March,their%20frontman%20for%20live%20performances.",
+      "snippet": "Michael Edward Love (born March 15, 1941) is an American singer and songwriter who is one of the vocalists of the Beach Boys, of w...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/69nT4p3o4vYRaUPavMAiA2EpTXQ9YzRFieCtlrjC324.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/PquUtEXvmqlRu-RgHNcyamLjuholU_WqzX7fDydx_ps.png",
+      "index": 6
+    },
+    {
+      "title": "Bio \u2014 AL JARDINE OFFICIAL SITE",
+      "link": "https://www.aljardine.com/bio#:~:text=Alan%20(aka%20%E2%80%9CAl%E2%80%9D),voice%20of%20the%20West%20Coast.",
+      "snippet": "Alan (aka \u201cAl\u201d) Jardine, guitarist, vocalist and songwriter, is best known for being one of the founding members of the California...",
+      "source": "AL JARDINE OFFICIAL SITE",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/Lw9ElBChK23ZzZIM_mRdRaWyXEN8iwoZgpRIEiutwr4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/wGq3Pz4vY0MpdUduW4mN5LWRHpSY0ksb-4EtQW6edow.jpeg",
+      "index": 7
+    },
+    {
+      "title": "Al Jardine reanimates Beach Boys' musical legacy: 'It's new all ...",
+      "link": "https://www.sandiegouniontribune.com/2025/11/18/al-jardine-reanimates-beach-boys-musical-legacy-its-new-all-over-again/#:~:text=Last%20two%20standing,of%20in%20his%20own%20world.%E2%80%9D",
+      "snippet": "Nov 18, 2025 \u2014 Last two standing. Wilson's death leaves only two surviving members of the original Beach Boys' lineup: Jardine, 83, and Mike Love...",
+      "source": "San Diego Union-Tribune",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/PIwOB6qWKCzWHInc85yQQ-4s1y7WpBVUGlTNhhbrldY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/4trlJLj7PdQkgFj6Ly0V7VBefZj6kbgoK4ihPWuGOBY.png",
+      "index": 8
+    },
+    {
+      "title": "Brian Wilson | Songs, Children, Death, The Beach Boys, Solo ...",
+      "link": "https://www.britannica.com/biography/Brian-Wilson-American-musician#:~:text=Brian%20Wilson%20grew%20up%20in,Beach%20Boys'%20album%20Pet%20Sounds?",
+      "snippet": "Feb 3, 2026 \u2014 Brian Wilson grew up in a music-filled home, learned to harmonize with his brothers (Dennis and Carl, also members of the Beach Bo...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/aU7KlSV-VCTUVFmOqvo66LwpbpeU-Bh_MIyvh06FeJI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/9dPjJD_8Muhynnx68TQNt_z-ZTwGWMtVZHp_2fhSUi4.png",
+      "index": 9
+    },
+    {
+      "title": "Al Jardine's Long Journey to the Beach Boys and Perfect Harmony",
+      "link": "https://www.facebook.com/ultimateclassicrock/posts/al-jardines-long-journey-to-the-beach-boys-and-perfect-harmonythough-his-time-wi/1184665310193666/#:~:text=Can%20quiet%20dedication%20outlast%20flash,sound%20that%20changed%20pop%20music.",
+      "snippet": "Oct 22, 2025 \u2014 Can quiet dedication outlast flash? Al Jardine, co-founder and rhythm guitarist of The Beach Boys, is perhaps the most understated...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/tLSnd5d4Yjd81ulPiBcekOUSwlBMFl54encbjLSCj74.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/xYqWCusnHKQmkgO2br_cEQWC7iO9jWMi-BIy5ZTqPgY.png",
+      "index": 10
+    },
+    {
+      "title": "HAPPY BIRTHDAY! Al Jardine (The Beach Boys, solo) ( ... - Facebook",
+      "link": "https://www.facebook.com/allthingmusicplus/posts/happy-birthday-al-jardine-the-beach-boys-solo-83al-jardine-was-born-on-september/1198006049021177/#:~:text=Alan%20Charles%20Jardine%20(born%20September,TheBeachBoys%20%2360s%20%2370s%20%23happybirthday",
+      "snippet": "Sep 3, 2025 \u2014 Alan Charles Jardine (born September 3, 1942) is an American musician who co-founded the Beach Boys. He is best known as the band'",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/5bfTvmRlatqNFkcr9o7W3Ke_uXihm7cIzvg0dOfZbhY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/UJHsAjysMaU6EzR35nSxe4AvZ7XhwDAVfyBJ0JsCf9o.png",
+      "index": 11
+    },
+    {
+      "title": "California Postcards: Beach Boy Al Jardine\u2019s Finest Hour",
+      "link": "https://www.udiscovermusic.com/stories/beach-boy-al-jardine-finest-hour/#:~:text=We%20turn%20the%20spotlight%20on,tracks%20featuring%20his%20finest%20work.&text=The%20man%20who%20is%2C%20to,crucial%20part%20of%20their%20story.&text=Born%20on%20September%203%2C%201942,other%20members%20of%20the%20group.",
+      "snippet": "Sep 3, 2025 \u2014 We turn the spotlight on the unsung Beach Boy with a specially-compiled playlist of 20 tracks featuring his finest work. ... The m...",
+      "source": "uDiscoverMusic",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/T9CXD2RPgjX8tFxQawwT5BmbhCSMO9LeCHKGVS_AbXk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/qyIHAjinEutWFXQ1mrMgHZ3TiffnWkLjKepgxkC5T0A.png",
+      "index": 12
+    },
+    {
+      "title": "About Mike Love",
+      "link": "https://mikelove.com/about/#:~:text=Throughout%20his%20career%2C%20Mike%20has,year%20all%20over%20the%20world.",
+      "snippet": "Throughout his career, Mike has co-authored more than a dozen Top 10 Singles, cementing The Beach Boys legacy, alongside The Beatl...",
+      "source": "MikeLove.com",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/w-iP6Tst8bfXd_KLbRs5eoQSpYiYmT40QnN0fJUXfQw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/uPjSBU5xtm44sUcQJELXyW0XQfxWtUoK67rEybl2ed8.png",
+      "index": 13
+    },
+    {
+      "title": "The Beach Boys - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/The_Beach_Boys",
+      "snippet": "The Beach Boys * The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The group's original lineup co...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/QZuvtKV0-gCUApqtQJ1PP6cV7iM_RvvuJU9N9P6syWE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/7GwNMuj3veQad7ddhOWwgSRkHaAWkDQniCIWmnpcdms.png",
+      "index": 14
+    },
+    {
+      "title": "Born March 15th 1941 is Michael Edward \"Mike\" Love he ... - Facebook",
+      "link": "https://www.facebook.com/groups/2019684684944005/posts/3141096919469437/#:~:text=HAPPY%2084th%20BIRTHDAY%20Michael%20Edward,Lifetime%20Achievement%20Award%20in%202001.&text=Joe%20Buckley%20%E2%96%BA%20The%20Metal,C's...%20...",
+      "snippet": "Mar 15, 2022 \u2014 HAPPY 84th BIRTHDAY Michael Edward Love (born March 15, 1941) is a singer and songwriter who co- founded the Beach Boys with his c...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/FWGZXDA-jGVrYx5_VMjwk9rXf4N23riu-UMlhnxQkqQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/8x4SD3GOICfA6R8-C-PkpmNVzxzKa-4PRq3Dihp9ENM.png",
+      "index": 15
+    },
+    {
+      "title": "Such a sad day. The heart and soul of the Beach Boys died. All three ...",
+      "link": "https://www.facebook.com/DJCruizinChris/posts/such-a-sad-day-the-heart-and-soul-of-the-beach-boys-died-all-three-brothers-of-t/720763600535158/#:~:text=Beach%20Boys%20died.-,All%20three%20brothers%20of%20the%20band%20have%20now%20died:%20Dennis,really%20became%20successful)%20David%20Marks.",
+      "snippet": "Jun 11, 2025 \u2014 All three brothers of the band have now died: Dennis, Carl, and now Brian Wilson. The only original members left are Cousin Mike L...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/GQvtcI2HOaJih1H9sVUdP1qo1FM9Aq9ugQG3JrKsdQc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/I-ADKSGZ1NFd7kR9JYvF5Aq16YBdxrKTM9IFaoDhbN4.png",
+      "index": 16
+    },
+    {
+      "title": "The Beach Boys Band Members: Where Are They Now?",
+      "link": "https://parade.com/celebrities/beach-boys-members-where-are-they-now#:~:text=Marks%20made%20a%20rare%20public,low%20profile%20in%20recent%20years.",
+      "snippet": "Jun 11, 2025 \u2014 Marks made a rare public appearance in 2019 with Jardine to raise money for homelessness at California Saga 2. In 2024, he attende...",
+      "source": "Parade",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/D4k_3iMzKNtTUgppp6Z9VileUPd0_1UB3TuRLIGIsoI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/3MotYxJItrF5B_Y_Iyu3tiWzRYmMHkrJ2NHmIJY0k2Y.png",
+      "index": 17
+    },
+    {
+      "title": "Mike Love - Singer, Songwriter - TV Insider",
+      "link": "https://www.tvinsider.com/people/mike-love/",
+      "snippet": "Mike Love * Birth Name: Michael Edward Love. * Birth Date: March 15, 1941. * Age: 84 years old. * Birth Place: Baldwin Hills, Cali...",
+      "source": "TV Insider",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/vyUd1G4HrbHqrkzMGDQ_udk4FR78pNNdLIGn5yFxY6Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/NQKSNks4V7ekA5EnmGtOh-77o0fMLKs-iv9wU0cng8E.png",
+      "index": 18
+    },
+    {
+      "title": "The Beach Boys live performances - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/The_Beach_Boys_live_performances#:~:text=Table_title:%20Current%20Table_content:%20header:%20%7C%20Name%20%7C,vocals%20rhythm%20guitar%20(2019%2Dpresent)%20bass%20(2015%2D2017)%20%7C",
+      "snippet": "Table_title: Current Table_content: header: | Name | Years active | Instruments | row: | Name: Bruce Johnston | Years active: 1965...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/GNcTH7FtGHIuoG5P3RxDlrxs79otbxv-CtA-63G6vzc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/lOdYce218ph4dPtknzi4fYxBfsimmImzQzMjhdbyYSc.png",
+      "index": 19
+    },
+    {
+      "title": "Members - The Beach Boys",
+      "link": "https://beachboys.fandom.com/wiki/Members",
+      "snippet": "* Brian Wilson - lead and backing vocals, bass, keyboards. * Carl Wilson - lead and backing vocals, lead guitar, keyboards, bass, ...",
+      "source": "The Beach Boys | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/JN2kFb_fT84P_BU0Q6SryZg8MQzEjrvLl461yKBCmb8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c32dd3fb859536ed72a4/images/rZs4dZ20gALTB4R8zducZKL-wwTBfe4Mgd3BwBx9zEk.png",
+      "index": 20
+    },
+    {
+      "title": "Legendary Beach Boys co-founder Brian Wilson, whose music defined a generation and captured the California spirit, passed away at age 82 on June 11th. A musical genius behind classics like Good Vibrations and God Only Knows, Wilson\u2019s influence transcended genres and generations. Today in Huntington Beach, fans, surfers, and loved ones gathered for an emotional paddle out ceremony, honoring his life, legacy, and deep connection to the ocean. We were there to capture the powerful tribute\u2014waves of gratitude for a man who gave the world so much beauty through sound. Rest in peace, Brian. Your music lives on. \ud83c\udf0a\ud83c\udfb6 #BrianWilson #JanAndDean #DeanTorrence #goodvibrations #HuntingtonBeach #SurfCityUSA #surfmagazine #BeachBoys #petsounds #VisitHuntingtonBeach #professionalphotographer #bleucottonphotography",
+      "link": "https://www.instagram.com/reel/DLLnY-4yKVO/#:~:text=A%20musical%20genius%20behind%20classics%20like%20Good,legacy%2C%20and%20deep%20connection%20to%20the%20ocean.",
+      "snippet": "A musical genius behind classics like Good Vibrations and God Only Knows, Wilson ( Brian Wilson ) 's influence transcended genres ...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeHUGr1b1xBHmwgcdqEZgksV4dQqhpBCXm_ziqYWN-HhPyEQAQ",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "45 years ago today, The Beach Boys released \u201cGood Timin\u2019\u201d, the second single from their 1979 album L.A. (Light Albums). It\u2019s one of the few songs credited to both Brian and Carl. The song reached the top 40 on the singles chart and No. 12 on the Billboard Adult Contemporary chart. Brian played piano, harpsichord and organ on the track. Side B was Dennis\u2019 \u201cLove Surrounds Me,\u201d featuring backing vocals by Fleetwood Mac\u2019s Christine McVie.",
+      "link": "https://www.facebook.com/officialbrianwilson/posts/45-years-ago-today-the-beach-boys-released-good-timin-the-second-single-from-the/980525960102078/",
+      "snippet": "Geez, 40 yrs ago.. :( KSGV//Carlisle's Oldies Network Remembering DEC 28....\\u003e 1983 \u2013 Dennis Wilson, American drummer, songwriter, ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFWfCtOdFoVrfiMp0pEjomjzZyYFXYLfVW8u7gw_b1hWakr7D",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Nintendo's 1995 classic, EarthBound, contains several songs that sample famous pieces of pop music. 3 of my favorite samples are Haruomi Hosono's Xevious, The Beach Boys' Deirdre, and The Beatles' All You Need Is Love.",
+      "link": "https://www.instagram.com/p/Czrp04aLw9C/",
+      "snippet": "Thinking of Dennis Wilson ( DENNIS CARL WILSON ) this December. Born on this day in 1944, he would die at the age of 39 at the end...",
+      "source": "Instagram",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqGlC_nNLJAyhGRHkciusfYtGawmRSOjPgoauQ6lJnUYjs3Gb",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    }
+  ]
+}

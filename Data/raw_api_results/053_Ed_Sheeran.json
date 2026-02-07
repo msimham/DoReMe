@@ -1,0 +1,305 @@
+{
+  "search_metadata": {
+    "id": "6987c3123186603550a3731b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/VE8GL0oXHtY90h0b-xhI1Q/6987c3123186603550a3731b.json",
+    "created_at": "2026-02-07 22:56:18 UTC",
+    "processed_at": "2026-02-07 22:56:18 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Ed+Sheeran%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Ed+Sheeran%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/VE8GL0oXHtY90h0b-xhI1Q/6987c3123186603550a3731b.html",
+    "prettify_html_file": "https://serpapi.com/searches/VE8GL0oXHtY90h0b-xhI1Q/6987c3123186603550a3731b.prettify",
+    "total_time_taken": 8.43
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Ed Sheeran, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "_hUzaXicPY5LjqNWAEWl7CMSw24prgJjMKjkAeZrY8DAe_wmiM_jYx5gA7bB82wkaiVSNpAFZBWV1aRGfYZXOlfn9z9Q_Y_MWVoSLqWYxuPqFJ67AoGVbf9AeMg-_xXb_hkCLwFNfjDp6hrC4xSsZxng65Kq9uzDuQVahX2cayfoWYY_DRHpMACaZEaZQ15TT0eK2PBS-Y7maIlfbUw5uvku1aEW41TxLpFnnjJ_MpDvKL4aea5izI6qXJzWc018Pfv42KdBvo4UhZarXLFk_hB6mIlIsw5oYwIKttM2wp5IOdDpTy5wZqCaSepFSi6Vf99HNMRJibrp8270rxrj5J15I4lvRpLV3dSP1Qdx6CaEia-BsFwiICgypph4-50QrleMfJTq9fTOkswb9UYxxDddA8bpNwLXDSJUlDX9d8JDw1j33TvFfT27SZEM9U_hz6zvmxr998uvceyi7D6g1VfjeSdIrNSXD14_nebFWt_DcIFIyqx44fV6NrbsxM5NZE1CWz2wnDWbRCSh6hYpKzDOTZ439b0fyONCH3LESsB4GTU9G7AQpcxNsBRV9gchyOJOSI5twjxUQRhVN6WUsz6dOZyuQ8WmxBHqcaTaXKomHh0LZAsWzedAdHO18flB_CzeQ1GXwU7c9x-E5O0MjuFH5m7GHYxHzSYXK42LNXnVqgU_mfZRcRlYYOUOT04Q9uJFVSHbgWhOSlv44oMwD9KOWXO7enVh0GVpVV2wWX0fdhI85mxRKnozGQdNglFP08_irCdsKdT4OlL9pqDlOw6eEnasujjkZpeQJw57GZyK4d4soFqZ0eZQrHjQUbe-WsAGWc3Ipku_AGPzMJRi3aIeQVFoW1uvS_nZ5_chcY3ZDS_6RgiEYC4zB-P4oUtGE6SFO96GPvVeg5bHvIjCa32YuEciO0NlPyH5uFUP6dGQzquSAp-m-BMN6ZUsD4IT7Eu_b9qpNeRNVezZmzBfsWPXw4pS8m28B051g6tFKoUf7Tg1n38JcJLnYs8deSY9UqvXzTjBy95tQuVyjJl7Rc_CCGAKON6g0orPj1vMnxxtP8-FFSi3kfQfF1ZQonWQd9v8im6re_7ipNXdyp5bhwprkM_A6wLtHOd64XOneIKUUJmbi-QUiAwsfqsvfJs8vCuCpDPkZfcUh2jK-jjAJT_NFmQYqfkfPj1vOg",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Ed Sheeran is 34 years old. He is a highly proficient multi-instrumentalist and songwriter who primarily resides in a sprawling estate in Suffolk, England, while maintaining a significant presence in New York City.",
+      "reference_indexes": [
+        2,
+        5,
+        1,
+        0,
+        15
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Sheeran\u2019s career spans several key roles within the music industry, characterized by high levels of technical and creative proficiency:",
+      "reference_indexes": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer-Songwriter: Regarded as a master songwriter, he has written for himself and major artists like One Direction and Taylor Swift. His proficiency is evidenced by multiple Ivor Novello Awards for Songwriter of the Year."
+        },
+        {
+          "snippet": "Musician (Multi-Instrumentalist):",
+          "list": [
+            {
+              "snippet": "Guitar: Expert proficiency; known for a \"virtuoso\" style that blends percussive slapping, \"chugging,\" and intricate fingerstyle techniques."
+            },
+            {
+              "snippet": "Vocals: High proficiency; recognized for a versatile range that spans soulful pop, folk, and rhythmic hip-hop delivery."
+            },
+            {
+              "snippet": "Live Looping: Elite proficiency; he is famous for using a custom-built looper pedal to layer vocals, percussion, and guitar live, effectively acting as a \"one-man band\"."
+            }
+          ]
+        },
+        {
+          "snippet": "Record Producer: He frequently produces or co-produces his own albums and has his own record label, Gingerbread Man Records."
+        },
+        {
+          "snippet": "Actor: Occasional roles, notably appearing in Game of Thrones, Yesterday, and The Bastard Executioner."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        11,
+        3,
+        7,
+        6,
+        10,
+        9,
+        14,
+        13
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Sheeran maintains a global real estate portfolio but divides most of his time between two major locations:",
+      "reference_indexes": [
+        4,
+        0,
+        18
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary Residence: A 16-acre compound known as \"Sheeranville\" located just outside Framlingham, Suffolk, England.",
+          "snippet_links": [
+            {
+              "text": "Framlingham, Suffolk, England",
+              "link": "https://www.google.com/search?q=Framlingham,+Suffolk,+England&kgmid=/m/0yg9r&sa=X&ved=2ahUKEwjz1PmCvciSAxXf5skDHSQpAoIQ3egRegQICRAD"
+            }
+          ]
+        },
+        {
+          "snippet": "U.S. Residence: He recently purchased a $12 million condo in the Brooklyn Heights neighborhood of Brooklyn, New York (located at the Pierhouse development), which serves as his permanent U.S. base.",
+          "snippet_links": [
+            {
+              "text": "Brooklyn Heights",
+              "link": "https://www.google.com/search?q=Brooklyn+Heights&kgmid=/m/03hnhj&sa=X&ved=2ahUKEwjz1PmCvciSAxXf5skDHSQpAoIQ3egRegQICRAG"
+            },
+            {
+              "text": "Brooklyn, New York",
+              "link": "https://www.google.com/viewer/place?mid=/m/0cr3d&sa=X&ved=2ahUKEwjz1PmCvciSAxXf5skDHSQpAoIQqdYPegQICRAI"
+            },
+            {
+              "text": "Pierhouse development",
+              "link": "https://nypost.com/2025/05/23/real-estate/ed-sheeran-now-owns-a-unit-in-the-building-where-he-rented/"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        0,
+        1,
+        8,
+        4
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like more details on his upcoming 2026 tour schedule or his recent real estate acquisitions?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Where Does Ed Sheeran Live? Let's Unpack His International ...",
+      "link": "https://www.yahoo.com/entertainment/articles/where-does-ed-sheeran-live-120000202.html#:~:text=This%20remains%20the%20couple's%20primary,told%20Rolling%20Stone%20that%20September.",
+      "snippet": "Jul 29, 2025 \u2014 Where Does Ed Sheeran Live? Let's Unpack His International Real Estate Portfolio. ... He grew up in a small town in Suffolk, Engla...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/KLEH1A_-zsgcdmwQWU3GIQbcw7IgIim6FjhgzziWWTE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/ZCgON-jh6v-oiU-cHNsu2BtHpAMJ-D6XdDg41lQHcxA.png",
+      "index": 0
+    },
+    {
+      "title": "Ed Sheeran now owns a unit in the building where he rented",
+      "link": "https://nypost.com/2025/05/23/real-estate/ed-sheeran-now-owns-a-unit-in-the-building-where-he-rented/#:~:text=Ed%20Sheeran%20now%20owns%20a%20$12M%20home%20in%20a,Gabriella%20Bass",
+      "snippet": "May 23, 2025 \u2014 Ed Sheeran now owns a $12M home in a waterfront Brooklyn building \u2014 after renting there for 2 years. ... Ed Sheeran chose the try-",
+      "source": "NY Post",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/JHcMPEmTbdUFPPaGr6-qAX1_9W8G1ymWj042Dpj8iXQ.jpeg",
+      "index": 1
+    },
+    {
+      "title": "Ed Sheeran - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Ed_Sheeran",
+      "snippet": "Ed Sheeran * Birth name. Edward Christopher Sheeran. * Born. February 17. 1991 (age 33) * Origin. Halifax, West Yorkshire, England...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/Y_eKQBwyb6Dr6fqsPzjIX7A7-MsCF9iQtdvJUG1oY70.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/6FTwHWKZgDVenyG-sUtzioFDvwGKodbpiCAlkj0kOwU.png",
+      "index": 2
+    },
+    {
+      "title": "Ed Sheeran\u2019s Advice for Young Performers - YouTube",
+      "link": "https://www.youtube.com/watch?v=GkbIFJKqLNA#:~:text=He%20received%20the%20Ivor%20Novello,Top%2010%20Rules%20for%20Success.&text=1.,wrote%20songs%20for%20One%20Direction.",
+      "snippet": "Oct 19, 2015 \u2014 He received the Ivor Novello Award for Songwriter of the Year in 2015. He's Ed Sheeran and here are his Top 10 Rules for Success. ...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/ecuQq_9EIn3yheCDxesYiOJ4IPSzoLiRrAV99wXQ5iw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/w2ok19nqB3ZuyHMvKyiQ-HEHuS3AIVzrhnoFIbdI9wA.png",
+      "index": 3
+    },
+    {
+      "title": "Where Does Ed Sheeran Live? Let's Unpack His International ...",
+      "link": "https://www.architecturaldigest.com/story/where-does-ed-sheeran-live#:~:text=Ed%20Sheeran%20Live?-,Let's%20Unpack%20His%20International%20Real%20Estate%20Portfolio,town%20where%20he%20was%20raised.",
+      "snippet": "Jul 29, 2025 \u2014 Where Does Ed Sheeran Live? Let's Unpack His International Real Estate Portfolio. ... He grew up in a small town in Suffolk, Engla...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/HsIyIR1YflrJWKl-keyhVFik-EXFABzLQ4zNMnfmAW4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/TzflbF9WRbIhc_GrH5uWOOxHRD5wyHcjAvvQiZ6QsUU.png",
+      "index": 4
+    },
+    {
+      "title": "Birthdays for Ed Sheeran, born February 17, 1991 - ExtraBit Software",
+      "link": "https://www.extrabit.com/morebirthdays?y=1991&m=2&d=17&n=Ed%20Sheeran",
+      "snippet": "Birthdays coming up * February 2026. Wed, Feb 18 20 days from now. 35 Earth years. * March 2026. Thu, Mar 12 43 days from now. 57 ...",
+      "source": "ExtraBit Software",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/bA1xAWylozuyrXRW5HsP2aXVhG4sXUzutNh8RSvmp2M.png",
+      "index": 5
+    },
+    {
+      "title": "Ed Sheeran",
+      "link": "https://www.guitarclub.io/courses/ed-sheeran#:~:text=Learn%204%20distinct%20styles%20from,them%20in%20your%20own%20playing.",
+      "snippet": "Learn 4 distinct styles from Ed Sheeran's playing: the slap, the chug, the flowing fingerstyle technique & the art of embellishing...",
+      "source": "Guitar Club",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/g5Oi8NQcYkuxByNSYdm9qhl6HHO7Q_zGbh6lE7cntWo.jpeg",
+      "index": 6
+    },
+    {
+      "title": "'Incredibly ambitious' Ed Sheeran enters new era with global hits",
+      "link": "https://www.musicweek.com/talent/read/team-player-incredibly-ambitious-ed-sheeran-enters-new-era-with-global-hits/092446#:~:text=%E2%80%9CIt's%20unbelievably%20rare%2C%E2%80%9D%20said,more%20songs%20than%20everybody%20else.%E2%80%9D",
+      "snippet": "Sep 2, 2025 \u2014 \u201cIt's unbelievably rare,\u201d said Howard of Sheeran's hitmaking prowess. \u201cHe says it stems from a ridiculous work ethic when it comes...",
+      "source": "Music Week",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/8KZhgFGzBDRlqs20Tx1rVQ4QNAe1k9ChcUNhda1dXoA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/e5k6wxha45OVC6GBMqC7ZhkzbkJYTic9huXQqVm6tOo.png",
+      "index": 7
+    },
+    {
+      "title": "Where Does Ed Sheeran Live? Let\u2019s Unpack His International Real ...",
+      "link": "https://www.msn.com/en-us/lifestyle/home-and-garden/where-does-ed-sheeran-live-let-s-unpack-his-international-real-estate-portfolio/ar-AA1Jvsmg?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1#:~:text=the%20Brooklyn%20Bridge.-,The%20musician%20had%20relocated%20to%20the%20Big%20Apple%20for%20a,Watch%20Now:%20Architectural%20Digest%20Video.&text=Join%20AD%20for%20print%20and%20digital%20access%20now.,-SmartAsset",
+      "snippet": "Jul 29, 2025 \u2014 Where Does Ed Sheeran Live? Let's Unpack His International Real Estate Portfolio. ... He grew up in a small town in Suffolk, Engla...",
+      "source": "MSN",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/FmVaUUElmKZ2JhQ391tAb5Qfk3eqKYQRVO1tyTfZBgw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/i-IdHbvCnZOAX_6-rZpwSvMKcmkruwtyTAbRxzNFRpw.png",
+      "index": 8
+    },
+    {
+      "title": "How To Sing Like Ed Sheeran - 30DaySinger.com",
+      "link": "https://www.30daysinger.com/tutorial/how-to-sing-like-ed-sheeran#:~:text=Description:,cracking%20in%20particularly%20impassioned%20moments.",
+      "snippet": "Description: Ed Sheeran has a romantic and vulnerable pop singing style that many singers want to imitate. His voice can sound sen...",
+      "source": "30 Day Singer",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/SZfrfx3kSg4UG1UMzUmlZGWQeEovOus1of4cPdiXiXY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/Vw8bt21AiYbMEtZVQS4G9pK1CzopqlLBddb2u4qTfxQ.png",
+      "index": 9
+    },
+    {
+      "title": "Ed Sheeran | Biography, Songs, Albums, Shape of You, Wife ...",
+      "link": "https://www.britannica.com/biography/Ed-Sheeran#:~:text=in%20his%20career?-,Show%20more,guitar%20when%20he%20was%20older.",
+      "snippet": "Jan 20, 2026 \u2014 Show more. Ed Sheeran (born February 17, 1991, Halifax, West Yorkshire, England) is a British singer-songwriter known for his genr...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/CjEq3xvtLoBF2SHEDyo5a7VRj8XLrrvrSsUentzbchM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/H9E3p-qOC5iKv4hi912mbohz8mymFVbpmw9YiNnAgBw.png",
+      "index": 10
+    },
+    {
+      "title": "Ed Sheeran | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/ed-sheeran#:~:text=Ed%20Sheeran-,Singer%2Dsongwriter,the%20United%20Kingdom%20and%20Europe.",
+      "snippet": "Singer-songwriter. Born: February 17, 1991. Place of Birth: Halifax, England. Contribution: Ed Sheeran is a British singer-songwri...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/j9vvmKd7SyT2m21P-6YmOiejsyuxTrBJklqTH8YLE3g.png",
+      "index": 11
+    },
+    {
+      "title": "Ed Sheeran | Music Icons Wikia - Fandom",
+      "link": "https://musicicons.fandom.com/wiki/Ed_Sheeran#:~:text=Edward%20Christopher%20%22Ed%22%20Sheeran%20(,scene%20to%20American%20Oscar%20winners.",
+      "snippet": "Edward Christopher \"Ed\" Sheeran (born February 17, 1991) is an English singer-songwriter, musician, and occasional actor. Often re...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/KBfavOVWfePXeIoPkfegmleKp3zt_igKA57y19UQTDQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/5Rw2q8v1T9cpgTLp8CcJObJFbOxhsqklEP-i_u0yz3Y.png",
+      "index": 12
+    },
+    {
+      "title": "Ed Sheeran Facts for Kids",
+      "link": "https://kids.kiddle.co/Ed_Sheeran#:~:text=Table_title:%20Ed%20Sheeran%20facts%20for%20kids%20Table_content:,Ed%20Sheeran%20MBE:%20Signature%20%7C%20:%20%7C",
+      "snippet": "Nov 1, 2025 \u2014 Table_title: Ed Sheeran facts for kids Table_content: header: | Quick facts for kids Ed Sheeran MBE | | row: | Quick facts for kid...",
+      "source": "Kids encyclopedia facts",
+      "thumbnail": "https://serpapi.com/searches/6987c3123186603550a3731b/images/SG2j6a5eYfSKcGtlksAClM0x79uqqEClhxqXiGPazy8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/xHpmJwrU0JPs7OMgivvMtOPETmtyRHNgjLJ07kl3JLk.png",
+      "index": 13
+    },
+    {
+      "title": "What does it take to play the guitar with Ed Sheeran's skill level?",
+      "link": "https://www.quora.com/What-does-it-take-to-play-the-guitar-with-Ed-Sheerans-skill-level#!n=12",
+      "snippet": "Jun 23, 2017 \u2014 You are never too late to learn anything. As i understand, you want to use the guitar as vessel to create a song. If so you will f...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3123186603550a3731b/images/N9GWwu19SDvlC7b5g_mNvprMj-ojEjQarc4GuzvmOH4.png",
+      "index": 14
+    },
+    {
+      "title": "Ed Sheeran - Ultimate Pop Culture Wiki",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Ed_Sheeran#:~:text=Table_title:%20Ed%20Sheeran%20Table_content:%20header:%20%7C%20Ed,MBE:%20Years%20active%20%7C%20:%202004%E2%80%93present%20%7C",
+      "snippet": "Table_title: Ed Sheeran Table_content: header: | Ed Sheeran MBE | | row: | Ed Sheeran MBE: Born | : Edward Christopher Sheeran (19...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcThfEtTWg2-b7upHUCNjgLMDHyjDCpU6vXHol3Gkos6m6JtEZs7",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ultimatepopculture.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Ed Sheeran | Biography | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/biography/ed-sheeran#:~:text=Ed%20Sheeran-,Singer%2Dsongwriter,members%20of%20his%20fan%20club.",
+      "snippet": "Singer-songwriter. Born: February 17, 1991. Place of Birth: Halifax, England. Contribution: Ed Sheeran is a British singer-songwri...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/biography/ed-sheeran",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Ed Sheeran \u2013 Biography, Songs, Albums, Discography \\u0026 Facts",
+      "link": "https://top40weekly.com/ed-sheeran-biography/#:~:text=Frequently%20Asked%20Questions-,Early%20Life%20and%20Background,Elton%20John%20and%20Atlantic%20Records.",
+      "snippet": "Early Life and Background Edward Christopher Sheeran was born on February 17, 1991, in Halifax, West Yorkshire, England, and raise...",
+      "source": "Top40weekly",
+      "thumbnail": "https://top40weekly.com/ed-sheeran-biography/",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://top40weekly.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Ed Sheeran 'snaps up two houses in a cosy seaside village'",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15278663/Ed-Sheeran-boosts-property-empire-two-houses-seaside-village.html#:~:text=Ed%20recently%20snapped%20up%20a,to%20transition%20into%20country%20music.",
+      "snippet": "Ed recently snapped up a sprawling \u00a39million home in New York, yet he spends the majority of his time in Suffolk with wife Cherry ...",
+      "source": "Daily Mail",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWH2IB4ZY8Aw7FOakAH5ha8QQm2CeG8rW0yfeGUtygNCi6C8mt",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymail.co.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    }
+  ]
+}

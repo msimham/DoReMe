@@ -1,0 +1,238 @@
+{
+  "search_metadata": {
+    "id": "6987c2e8634a63716de94a3a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/sriLflnDRLDLk242CB_DKw/6987c2e8634a63716de94a3a.json",
+    "created_at": "2026-02-07 22:55:36 UTC",
+    "processed_at": "2026-02-07 22:55:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Madonna%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Madonna%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/sriLflnDRLDLk242CB_DKw/6987c2e8634a63716de94a3a.html",
+    "prettify_html_file": "https://serpapi.com/searches/sriLflnDRLDLk242CB_DKw/6987c2e8634a63716de94a3a.prettify",
+    "total_time_taken": 8.67
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Madonna, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "AYTgQnicTZBJrqNmAISlnIRltxReM9lgPb0FM2Y08AOGDWKejZnMsI1ykaiVSLlADpBTdE6TbimL1LeqT6pN_fpbVv111hQpCu5P_iZi64zcCB8fFpP6mrVj8u1vtutXHwTaHQ24-yHvLhcYOno9TFdWIux5Sp3tBHChcnBt1zydc-6M6rsu4WCpaTeBG7cX3QfOEdXOrmOzZbbp7CAlb3Xl6kntAbBLZ4uoY6MXPANpHTTBy6513ebRyZOa3cKenAUsIpaEwK-FB18mGHDmq-8-_YR3TeuQ8ZRjTF1ojuTuWgbTq1pr7pkoo7Gg-w6P_LlM2RhGRfaYv_Vaf1RtG305vSHQJ696pP06QTqAUOQNeYe-izPxDm1n4jNEP59t5mWxUs1fTjj5hp-hT4oENPVnqK2aDBKzpOk_Q2w59l32BcXRN-QHkB3l0Vj9N_k96fumyv756ReaZz_oSO6i0wSLSzIr7j30SvRh3saHF1tFnBreqANPsBOlnh1CFjuC0gFQAYU_incoDO0sWcYMZhxW4cEHq5jS_6wNrNsHzZ25vnhxuXWX7OYpVYYzhd-LG-hCvmye2LX2Mj8vAYO32Gn26JQ04AmvFn_knYN7hjw5DAtJ9Zw4bfp4BkPTLs7WqaRt5UA_q14svEP6lfs4YdSHGJnr9IoiwdaZ42Vmr6poFNNA58hNzWSQXoXbs0KkO3iv6Wvk52ZwscDj1KbeHtcI9qSDpQqHLaxgnnn0e9gy1Cxrt5yjyZIjQnkfzus5ydR7NvkTXuMvo4GvQS8Su1A1Sb1uPsXZtg8XSVobYeJKMmNdZN2fABX4R6GVCmYRG6ZjZTa_3Fy1slnNtOBQh46NhzH1MDOU1PtGkNNa2DhuwJuq8f6T6a7l0cY3pkrPGTnI1BIyt5vS5SxtUk5Qa8-2ZESRgGn3HbJ_3EHzvDJcZ2ud1pjZsD1uMXobykgtKNvRZnSp0IWkY_ReeN7rWjat7ZLHuWNz89KJ_MDSYn4p68TZNpFXVJ3vdQfeVzcVuxgtYmxK13eIcz8KzNzwmybTBIFMkonsRhzmGH4KGKVdT92rpBKwO6WtbjxNS5yfPbAdZ149Wpj093ztprn59gftzPyWsxcXLnvTGRTOGnKdRYZRDnu-Sjj2SMP-1craTO4BR3c3UeBJVRj2OzxKNLhc-yQAa-xWnYJG3IwHsHE5wfApLUdaULxEGRCyBuKo3hTdTbeqkJ2gMzKPatv6HGONu5mXLQDyNfG6pifrZocrXrXq9cEry6oaige0Rkb-BX3djPs",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 2026, Madonna is 67 years old.",
+      "reference_indexes": [
+        2,
+        5
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Abilities & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Madonna is widely recognized for her versatility and \"continual reinvention\" across multiple artistic domains.",
+      "reference_indexes": [
+        0,
+        3
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Occupations: She serves as a singer, songwriter, record producer, dancer, actress, director, author, and businesswoman."
+        },
+        {
+          "snippet": "Vocal Performance: Known primarily as a pop vocalist, she has successfully performed across genres including electronica, dance, R&B, and rock."
+        },
+        {
+          "snippet": "Dance & Choreography: A highly trained dancer, she studied ballet and modern dance (under Martha Graham) and is noted for her high proficiency in professional-level choreography."
+        },
+        {
+          "snippet": "Instruments: She is proficient in playing the guitar and drums."
+        },
+        {
+          "snippet": "Songwriting & Production: Credited as a songwriter on most of her hits, she is also highly involved in the technical production of her albums."
+        },
+        {
+          "snippet": "Business: She founded the entertainment company Maverick (including Maverick Records) and has secured some of the largest \"360 deals\" in music history with Live Nation."
+        }
+      ],
+      "reference_indexes": [
+        2,
+        0,
+        3,
+        1,
+        8,
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Madonna primarily resides in New York City, New York.",
+      "snippet_links": [
+        {
+          "text": "New York City, New York",
+          "link": "https://www.google.com/search?q=New+York+City,+New+York&kgmid=/m/02_286&sa=X&ved=2ahUKEwiQyMDuvMiSAxXTmbAFHeflNyUQ3egRegQIBxAC"
+        }
+      ],
+      "reference_indexes": [
+        4,
+        9
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Primary Location: She owns a $40 million triple-wide Georgian townhouse on the Upper East Side of Manhattan."
+        },
+        {
+          "snippet": "Additional Properties: She maintains a diverse real estate portfolio including a horse farm in Bridgehampton (The Hamptons), NY, a mansion in Wellington, FL, and a home in Los Angeles, CA."
+        }
+      ],
+      "reference_indexes": [
+        4,
+        10,
+        7,
+        6
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Madonna - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Madonna#:~:text=Madonna%20Louise%20Ciccone%20(/t%CA%83%C9%AA,Signature",
+      "snippet": "Table_content: header: | Madonna | | row: | Madonna: Madonna in 2023 | : | row: | Madonna: Born | : Madonna Louise Ciccone August ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/kyi2CQHCYy6LZjkwpc2p_JfbEyA35qcEGHP497ZMer0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/ws3eJMUv5MVhPKUZzcPad8Cr75i5TQoZntwTj8j_e2o.png",
+      "index": 0
+    },
+    {
+      "title": "Madonna - Ultimate Pop Culture Wiki - Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Madonna",
+      "snippet": "Madonna * Singer. * songwriter. * actress. * dancer. * record producer. * director. * author. * businesswoman. ... As a businesswo...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/NGnFaXjAMHm1m3Oya2g0JO4K-gVUXqXvwIJraZI4E0s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/Ph9418C7dNiW_0d5LAff2445B0VMcZX2_ZjDBgjAEgk.png",
+      "index": 1
+    },
+    {
+      "title": "Madonna | Ultimate Pop Culture Wiki | Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Madonna#:~:text=Table_content:%20header:%20%7C%20Madonna%20%7C%20%7C%20row:,videos%20concerts%20films%20books%20fashion%20brands%20%7C",
+      "snippet": "Table_content: header: | Madonna | | row: | Madonna: Born | : Madonna Louise Ciccone (1958-08-16) August 16, 1958 (age 67) Bay Cit...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/CVqNs6tb8O51moWqJqOMmxJoC-qG_047_4QA3HjkbJE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/lputtLm6_blXqQIEB4uUZxbLde0VYj4nEqoq5MdBkeI.png",
+      "index": 2
+    },
+    {
+      "title": "Madonna's Legacy in the Music Industry - Facebook",
+      "link": "https://www.facebook.com/groups/613095332367558/posts/2656125008064570/#:~:text=Madonna%20Louise%20Ciccone%5Ba%5D%20(/,to%20her%20named%20Madonna%20studies.",
+      "snippet": "Mar 22, 2025 \u2014 Madonna Louise Ciccone, born on August 16, 1958, in Bay City, Michigan, is a pop music icon, actress, and businesswoman often refe...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/fgWuKmd_GoSoqKtgihL8ihK4WzqKTGcLgxUjr0J1OfE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/T97Y9cvMFDLOimXuqY4cNfufVjoulfp3Lq-gTIzS3tI.png",
+      "index": 3
+    },
+    {
+      "title": "Inside Madonna's moody $40 million NYC home - Page Six",
+      "link": "https://pagesix.com/2025/05/08/lifestyle/inside-madonnas-40-million-nyc-home/#:~:text=Inside%20Madonna's%20moody%20$40%20million,Madonna/Instagram",
+      "snippet": "May 8, 2025 \u2014 Inside Madonna's moody $40 million NYC home: 'It's giving coven' ... Madonna's $40 million New York City home features a moody int...",
+      "source": "Page Six",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/xEmmddhjHakKLNnVnbasb6Koz5ov6O6kK87CbyzIzRs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/kjgDImXl0z_QBVvZnL4TeFfSCPIy0Cbt6TUW9hRrRQU.png",
+      "index": 4
+    },
+    {
+      "title": "How pop icon Madonna, 67, would REALLY look if she never had any rumored plastic surgery",
+      "link": "https://www.dailymail.co.uk/lifestyle/beauty/article-15461075/madonna-look-never-rumored-plastic-surgery-cosmetic-age.html#:~:text=254%20comments,Smith%20at%20the%20Grammy%20Awards.",
+      "snippet": "Feb 6, 2026 \u2014 254 comments. 12. 01:50 EST 06 Feb 2026 , updated 10:59 EST 06 Feb 2026 By JANE HERZ, US SENIOR LIFESTYLE REPORTER. Madonna has al...",
+      "source": "Daily Mail",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/j24MbJsqP0VOxLmZxXqXOcry7fMnj_GuNokCAWlRZgA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/Sm2WJow1fBVnIxne9QogSm2TUwcPnDZjx2xVWEycCHM.png",
+      "index": 5
+    },
+    {
+      "title": "Madonna's new home - MASTERS EXPO",
+      "link": "https://mastersexpo.com/en/madonnas-nieuwe-stulpje/#:~:text=Her%20pied%2D%C3%A0%2Dterre(,Moorish%20mansion%2018%20years%20ago.",
+      "snippet": "Apr 19, 2021 \u2014 Her pied-\u00e0-terre(s) The villa in the City of Angels is of course not her only one. In the Upper East Side in New York she owns a t...",
+      "source": "masters expo",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/7BClhB6Ny9rjky3038dXbR2XyENdsVZXd2TOZQj_RZ8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/C6yITd6uHxkoaHfDy9mqp7siM-URhVxNssBtvemsWCE.png",
+      "index": 6
+    },
+    {
+      "title": "Madonna's Wellington Estate - Facebook",
+      "link": "https://www.facebook.com/HouseOfCeleb/videos/madonnas-wellington-estate/677052045127464/#:~:text=Madonna's%20Wellington%20Estate-,%F0%9F%8E%A4%E2%9C%A8%20Madonna's%20Wellington%20Estate%20%E2%9C%A8%F0%9F%8F%87%20Another%20lavish%20residence,CelebLifestyle%20%2D%20in%20Wellington%2C%20FL.",
+      "snippet": "Oct 29, 2025 \u2014 \ud83c\udfa4\u2728 Madonna's Wellington Estate \u2728\ud83c\udfc7 Another lavish residence in Madonna's real estate collection is her $5 million mansion in Well...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/lf_Oi9FO1Oh1Txs3L25Sg0ARuWcciGrGuwsgnaIgvOY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/B2J6c3xww82Q-RRQ2gLlvIk6HRNsrkTYfHJ0sQes-wA.png",
+      "index": 7
+    },
+    {
+      "title": "Madonna | Detroit Historical Society",
+      "link": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/madonna#:~:text=The%20famous%20pop%20singer%20Madonna,a%20career%20as%20a%20dancer.",
+      "snippet": "The famous pop singer Madonna was born Madonna Louise Ciccone on August 16, 1958 in Bay City, Michigan. She was raised in Pontiac ...",
+      "source": "Detroit Historical Society",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/mvD73C8YFToJWHp3BWVupbQaUX5n2eu9p1Fj_q1qvd0.png",
+      "index": 8
+    },
+    {
+      "title": "Madonna gives fans a sneak peek into her $40 million ...",
+      "link": "https://www.hindustantimes.com/entertainment/music/madonna-shares-glimpses-of-40-million-new-york-apartment-in-new-post-see-pics-here-101750514664364.html#:~:text=Madonna%20has%20lately%20been%20sharing,Haring%20and%20Jean%2DMichel%20Basquiat.",
+      "snippet": "Jun 21, 2025 \u2014 Madonna gives fans a sneak peek into her $40 million apartment and luxe wardrobe * Madonna's wardrobe features Saint Sass, Aupen, ...",
+      "source": "Hindustan Times",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/iSNrf2TPXr7Kt7HMNUEtv5u5ylhD10wQKTez-Aaz7x0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/FrbDEwHoUg83Uod-6zJKjZEFIZ4gUYWz320e-9X749E.png",
+      "index": 9
+    },
+    {
+      "title": "Inside Madonna's Global Real Estate Portfolio",
+      "link": "https://www.architecturaldigest.com/story/inside-madonnas-global-real-estate-portfolio#:~:text=Madonna%20increased%20her%20holdings%20in,legend%20still%20owns%20this%20home.",
+      "snippet": "Jan 24, 2022 \u2014 Madonna increased her holdings in New York City the following spring with the purchase of a $40 million Georgian\u2013style mega-mansio...",
+      "source": "Architectural Digest",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/MGsHAN2tPqz7gjar9wxfoSZt0si8ZgKcnmrsGIUgM5w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/yffOclRYZ-Tc00INMQvJM5y8WM7igf_S9H3pTxpKW28.png",
+      "index": 10
+    },
+    {
+      "title": "Madonna Louise Ciccone** ( born August 16, 1958) is an American ...",
+      "link": "https://www.facebook.com/groups/538149293191891/posts/1846695149003959/#:~:text=Happy%2066th%20birthday%20to%20%23MadonnaLouiseCiccone,1983%20eponymous%20debut%20studio%20album.",
+      "snippet": "Aug 15, 2022 \u2014 Happy 66th birthday to #MadonnaLouiseCiccone (born August 16, 1958) American singer, songwriter, and actress. Regarded as the \"#Qu...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/ljNbzok6iIUEOGflBsmFg1gCd9CFm8Sl4GhP63OpSWY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/7qO6tCo6fGYL1j2fdTjVGxMqOskAFrVtW7s7sNh5qjc.png",
+      "index": 11
+    },
+    {
+      "title": "What was Madonna's skill set that today's pop singers don't ...",
+      "link": "https://www.quora.com/What-was-Madonna-s-skill-set-that-today-s-pop-singers-don-t-have#:~:text=Lives%20in%20Portugal%20(1990%E2%80%93present,t%20really%20dance%20at%20all.",
+      "snippet": "Nov 1, 2019 \u2014 Lives in Portugal (1990\u2013present) Author has 881 answers and. \u00b7 6y. There quite a lot skills Madonna had that most pop starts today...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2e8634a63716de94a3a/images/fnlIoZbgGyyb-dukPCSuuZm8j2yDzwBR8LqV8o-N_WY.png",
+      "index": 12
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are Madonna's best-known songs and albums?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+are+Madonna%27s+best-known+songs+and+albums%3F&subsequent_request_token=AYTgQnicTZBJrqNmAISlnIRltxReM9lgPb0FM2Y08AOGDWKejZnMsI1ykaiVSLlADpBTdE6TbimL1LeqT6pN_fpbVv111hQpCu5P_iZi64zcCB8fFpP6mrVj8u1vtutXHwTaHQ24-yHvLhcYOno9TFdWIux5Sp3tBHChcnBt1zydc-6M6rsu4WCpaTeBG7cX3QfOEdXOrmOzZbbp7CAlb3Xl6kntAbBLZ4uoY6MXPANpHTTBy6513ebRyZOa3cKenAUsIpaEwK-FB18mGHDmq-8-_YR3TeuQ8ZRjTF1ojuTuWgbTq1pr7pkoo7Gg-w6P_LlM2RhGRfaYv_Vaf1RtG305vSHQJ696pP06QTqAUOQNeYe-izPxDm1n4jNEP59t5mWxUs1fTjj5hp-hT4oENPVnqK2aDBKzpOk_Q2w59l32BcXRN-QHkB3l0Vj9N_k96fumyv756ReaZz_oSO6i0wSLSzIr7j30SvRh3saHF1tFnBreqANPsBOlnh1CFjuC0gFQAYU_incoDO0sWcYMZhxW4cEHq5jS_6wNrNsHzZ25vnhxuXWX7OYpVYYzhd-LG-hCvmye2LX2Mj8vAYO32Gn26JQ04AmvFn_knYN7hjw5DAtJ9Zw4bfp4BkPTLs7WqaRt5UA_q14svEP6lfs4YdSHGJnr9IoiwdaZ42Vmr6poFNNA58hNzWSQXoXbs0KkO3iv6Wvk52ZwscDj1KbeHtcI9qSDpQqHLaxgnnn0e9gy1Cxrt5yjyZIjQnkfzus5ydR7NvkTXuMvo4GvQS8Su1A1Sb1uPsXZtg8XSVobYeJKMmNdZN2fABX4R6GVCmYRG6ZjZTa_3Fy1slnNtOBQh46NhzH1MDOU1PtGkNNa2DhuwJuq8f6T6a7l0cY3pkrPGTnI1BIyt5vS5SxtUk5Qa8-2ZESRgGn3HbJ_3EHzvDJcZ2ud1pjZsD1uMXobykgtKNvRZnSp0IWkY_ReeN7rWjat7ZLHuWNz89KJ_MDSYn4p68TZNpFXVJ3vdQfeVzcVuxgtYmxK13eIcz8KzNzwmybTBIFMkonsRhzmGH4KGKVdT92rpBKwO6WtbjxNS5yfPbAdZ149Wpj093ztprn59gftzPyWsxcXLnvTGRTOGnKdRYZRDnu-Sjj2SMP-1craTO4BR3c3UeBJVRj2OzxKNLhc-yQAa-xWnYJG3IwHsHE5wfApLUdaULxEGRCyBuKo3hTdTbeqkJ2gMzKPatv6HGONu5mXLQDyNfG6pifrZocrXrXq9cEry6oaige0Rkb-BX3djPs"
+    },
+    {
+      "question": "Give examples of Madonna's boundary-pushing visual or lyrical themes",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Give+examples+of+Madonna%27s+boundary-pushing+visual+or+lyrical+themes&subsequent_request_token=AYTgQnicTZBJrqNmAISlnIRltxReM9lgPb0FM2Y08AOGDWKejZnMsI1ykaiVSLlADpBTdE6TbimL1LeqT6pN_fpbVv111hQpCu5P_iZi64zcCB8fFpP6mrVj8u1vtutXHwTaHQ24-yHvLhcYOno9TFdWIux5Sp3tBHChcnBt1zydc-6M6rsu4WCpaTeBG7cX3QfOEdXOrmOzZbbp7CAlb3Xl6kntAbBLZ4uoY6MXPANpHTTBy6513ebRyZOa3cKenAUsIpaEwK-FB18mGHDmq-8-_YR3TeuQ8ZRjTF1ojuTuWgbTq1pr7pkoo7Gg-w6P_LlM2RhGRfaYv_Vaf1RtG305vSHQJ696pP06QTqAUOQNeYe-izPxDm1n4jNEP59t5mWxUs1fTjj5hp-hT4oENPVnqK2aDBKzpOk_Q2w59l32BcXRN-QHkB3l0Vj9N_k96fumyv756ReaZz_oSO6i0wSLSzIr7j30SvRh3saHF1tFnBreqANPsBOlnh1CFjuC0gFQAYU_incoDO0sWcYMZhxW4cEHq5jS_6wNrNsHzZ25vnhxuXWX7OYpVYYzhd-LG-hCvmye2LX2Mj8vAYO32Gn26JQ04AmvFn_knYN7hjw5DAtJ9Zw4bfp4BkPTLs7WqaRt5UA_q14svEP6lfs4YdSHGJnr9IoiwdaZ42Vmr6poFNNA58hNzWSQXoXbs0KkO3iv6Wvk52ZwscDj1KbeHtcI9qSDpQqHLaxgnnn0e9gy1Cxrt5yjyZIjQnkfzus5ydR7NvkTXuMvo4GvQS8Su1A1Sb1uPsXZtg8XSVobYeJKMmNdZN2fABX4R6GVCmYRG6ZjZTa_3Fy1slnNtOBQh46NhzH1MDOU1PtGkNNa2DhuwJuq8f6T6a7l0cY3pkrPGTnI1BIyt5vS5SxtUk5Qa8-2ZESRgGn3HbJ_3EHzvDJcZ2ud1pjZsD1uMXobykgtKNvRZnSp0IWkY_ReeN7rWjat7ZLHuWNz89KJ_MDSYn4p68TZNpFXVJ3vdQfeVzcVuxgtYmxK13eIcz8KzNzwmybTBIFMkonsRhzmGH4KGKVdT92rpBKwO6WtbjxNS5yfPbAdZ149Wpj093ztprn59gftzPyWsxcXLnvTGRTOGnKdRYZRDnu-Sjj2SMP-1craTO4BR3c3UeBJVRj2OzxKNLhc-yQAa-xWnYJG3IwHsHE5wfApLUdaULxEGRCyBuKo3hTdTbeqkJ2gMzKPatv6HGONu5mXLQDyNfG6pifrZocrXrXq9cEry6oaige0Rkb-BX3djPs"
+    },
+    {
+      "question": "Who else is famous for reinventing themselves in the music industry?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Who+else+is+famous+for+reinventing+themselves+in+the+music+industry%3F&subsequent_request_token=AYTgQnicTZBJrqNmAISlnIRltxReM9lgPb0FM2Y08AOGDWKejZnMsI1ykaiVSLlADpBTdE6TbimL1LeqT6pN_fpbVv111hQpCu5P_iZi64zcCB8fFpP6mrVj8u1vtutXHwTaHQ24-yHvLhcYOno9TFdWIux5Sp3tBHChcnBt1zydc-6M6rsu4WCpaTeBG7cX3QfOEdXOrmOzZbbp7CAlb3Xl6kntAbBLZ4uoY6MXPANpHTTBy6513ebRyZOa3cKenAUsIpaEwK-FB18mGHDmq-8-_YR3TeuQ8ZRjTF1ojuTuWgbTq1pr7pkoo7Gg-w6P_LlM2RhGRfaYv_Vaf1RtG305vSHQJ696pP06QTqAUOQNeYe-izPxDm1n4jNEP59t5mWxUs1fTjj5hp-hT4oENPVnqK2aDBKzpOk_Q2w59l32BcXRN-QHkB3l0Vj9N_k96fumyv756ReaZz_oSO6i0wSLSzIr7j30SvRh3saHF1tFnBreqANPsBOlnh1CFjuC0gFQAYU_incoDO0sWcYMZhxW4cEHq5jS_6wNrNsHzZ25vnhxuXWX7OYpVYYzhd-LG-hCvmye2LX2Mj8vAYO32Gn26JQ04AmvFn_knYN7hjw5DAtJ9Zw4bfp4BkPTLs7WqaRt5UA_q14svEP6lfs4YdSHGJnr9IoiwdaZ42Vmr6poFNNA58hNzWSQXoXbs0KkO3iv6Wvk52ZwscDj1KbeHtcI9qSDpQqHLaxgnnn0e9gy1Cxrt5yjyZIjQnkfzus5ydR7NvkTXuMvo4GvQS8Su1A1Sb1uPsXZtg8XSVobYeJKMmNdZN2fABX4R6GVCmYRG6ZjZTa_3Fy1slnNtOBQh46NhzH1MDOU1PtGkNNa2DhuwJuq8f6T6a7l0cY3pkrPGTnI1BIyt5vS5SxtUk5Qa8-2ZESRgGn3HbJ_3EHzvDJcZ2ud1pjZsD1uMXobykgtKNvRZnSp0IWkY_ReeN7rWjat7ZLHuWNz89KJ_MDSYn4p68TZNpFXVJ3vdQfeVzcVuxgtYmxK13eIcz8KzNzwmybTBIFMkonsRhzmGH4KGKVdT92rpBKwO6WtbjxNS5yfPbAdZ149Wpj093ztprn59gftzPyWsxcXLnvTGRTOGnKdRYZRDnu-Sjj2SMP-1craTO4BR3c3UeBJVRj2OzxKNLhc-yQAa-xWnYJG3IwHsHE5wfApLUdaULxEGRCyBuKo3hTdTbeqkJ2gMzKPatv6HGONu5mXLQDyNfG6pifrZocrXrXq9cEry6oaige0Rkb-BX3djPs"
+    }
+  ]
+}

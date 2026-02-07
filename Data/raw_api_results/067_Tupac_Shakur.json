@@ -1,0 +1,377 @@
+{
+  "search_metadata": {
+    "id": "6987c31b6539a2265fe254a5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FoY5zi9TzWBhJFK0YeajMw/6987c31b6539a2265fe254a5.json",
+    "created_at": "2026-02-07 22:56:27 UTC",
+    "processed_at": "2026-02-07 22:56:27 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Tupac+Shakur%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Tupac+Shakur%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/FoY5zi9TzWBhJFK0YeajMw/6987c31b6539a2265fe254a5.html",
+    "prettify_html_file": "https://serpapi.com/searches/FoY5zi9TzWBhJFK0YeajMw/6987c31b6539a2265fe254a5.prettify",
+    "total_time_taken": 8.56
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Tupac Shakur, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "gVkEeXicTVFJiutWAITcIDfQ8n-IuyVrsmh6oXl-suZhI2TNsyxLli34y1wkfBLIBXKAnKJzmnQWIanaVVFFQf38S17_IZ4MKQlR1sgLalrMc3xtxBMNf8-7Of34k-3HLXQsLdiZCSCU7QlKofuCbw-gNwdrsThFTTn5eYE9Ke0XEHlRnXHKqgc6ngwW5_ePo88pNRAnVvMrxXMy0dy9AQhV7_PUE_RZ4vCZc2nS3fE9VXeXwO4qIxKYMTsKDRiq52dnFHWWkEgTyleZZPCUHHrtbsJUFzXdlgmCGaDC1dorRmdGLewr3_Wn2vEn00Ha39dbPsdJmQ_Lxzd93OuuS17xFxj64tdDNm43CDgQAr_Ab9CnQGBv0IPAvkL0NHW5n1_UennFUfIFJaAvquTo2k9QV7c5JOZpO36F2Goe-_wVwdAX-B9CdlIkc_1vhM_K_7xf03Fs6_yvH36kefadTpQ-wVdMZf22zTuAkDRhlfznblS6y_0m-FsPUBo7c6d8gdu6jroHskhKnpRvUBzbebrO-YFxWZV33ln9xv1PtR3r_E5zBDeWi6vv2GGBy-cG4qsBxFzH8h3Z2qTWYgetusYxIvgQW4LqkEeyTqMU9BtpIgyahpPM3Jv1qoSROhETLQ_c8gQJxjU3JFlXk_TeIM57b8knLOKJfdXC-iaZ8NO4xMURxuuK6Dak18PJmTIw84RT0p94g4DMvePH0_vl7sE2YJeyZDSp4IiRiMp1M--MNhyPRhCVvuCKasMBUNloJwcnJs6zILMDSmvmJMHG0SR72VjhkVQKeORBIx52vXSKbZ82BTzmmILBIqf4MublTPWNP_W64NZapR4iFEUK2dGwxg9g2TInlcI9ij0XZcaVsxxmvjBbHVMu8zk3jQfqWfv2kBim75BUOUTN0KguLC78LYXJ6nzh3KVc4gd7DS-UqgG1wr352p-Oq3gzvIMEHhhzVNn1eZoihpj3NbroZnyiptSz7L3cvve3pf34jXYX_lHQURR2VidJ52K128Fu1ss1JO802uMlPter6k8yfdVugyqmp6uSUCqTZVVsugqn0zK3B2HAuVFKPtyS15CDqA_30vMt2tz19vNoYursGpmclbLF7Jh6bBRf4ft9nrdawgNAPW7dJVzFs4ca3XHDhi5T1vJ2UQomUM7UygTY36hcas8",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Tupac Shakur was a legendary figure in hip-hop whose life was tragically cut short. Since he is no longer living, several of the details you requested refer to his status at the time of his passing or his enduring legacy.",
+      "reference_indexes": [
+        22,
+        27,
+        28
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: Tupac died at the age of 25. Had he survived, he would be 54 years old today (born June 16, 1971)."
+        },
+        {
+          "snippet": "Occupations: He was primarily known as a rapper, songwriter, and actor. He was also a prolific poet, record producer, and social activist."
+        },
+        {
+          "snippet": "Music-Related Skills & Proficiency:",
+          "list": [
+            {
+              "snippet": "Rapping (Master/Iconic): Widely regarded as one of the greatest and most influential rappers of all time.",
+              "snippet_links": [
+                {
+                  "text": "greatest and most influential rappers",
+                  "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Tupac-Shakur&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQy_kOegQIBBAE&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000"
+                }
+              ]
+            },
+            {
+              "snippet": "Songwriting (Expert): Known for his raw, thought-provoking lyrics that addressed complex social issues like poverty and racial injustice.",
+              "snippet_links": [
+                {
+                  "text": "thought-provoking lyrics",
+                  "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://motivationtheworldbeyond.medium.com/unveiling-the-life-and-legacy-of-tupac-a-scholars-perspective-d4153274ca6f&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQy_kOegQIBBAG&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000"
+                }
+              ]
+            },
+            {
+              "snippet": "Performance (High): Began his professional career as a roadie and backup dancer for the group Digital Underground before becoming a lead MC."
+            },
+            {
+              "snippet": "Poetry (High): His ability to seamlessly merge poetry with music gave his work unique depth."
+            }
+          ]
+        },
+        {
+          "snippet": "Current Residence: Tupac passed away on September 13, 1996, in Las Vegas, Nevada, following a drive-by shooting. There is no current residence as he is deceased; his remains were cremated and given to his family. While conspiracy theories occasionally suggest he is living in places like Cuba or Malaysia, these claims are unsubstantiated and contradicted by official records.",
+          "snippet_links": [
+            {
+              "text": "passed away on September 13, 1996",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.history.com/this-day-in-history/september-13/tupac-shakur-dies&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQy_kOegQIBBAK&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000"
+            },
+            {
+              "text": "cremated and given to his family",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/Tupac_Shakur&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQy_kOegQIBBAL&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000"
+            },
+            {
+              "text": "unsubstantiated and contradicted",
+              "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/story/who-killed-tupac-shakur&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQy_kOegQIBBAM&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Tupac Shakur - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Tupac_Shakur&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAC&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "For the Tupac album often called \"Makaveli\", see The Don Killuminati: The 7 Day Theory. * Tupac Amaru Shakur (/\u02c8tu\u02d0p\u0251\u02d0k \u0283\u0259\u02c8k\u028a\u0259r/ T...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/gwTjdfqk_83WCkSMvoRYCOd2esPjzgryUvmkE-01RpM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/r-0NufTFlPXy10VLTBffDhcxMIu3syBOWXWhJ2ojahI.png",
+      "index": 0
+    },
+    {
+      "title": "Tupac Shakur - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Tupac_Shakur&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAG&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Table_content: header: | Tupac Shakur | | row: | Tupac Shakur: Shakur in 1995 | : | row: | Tupac Shakur: Born | : Lesane Parish Cr...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/TJcXSFBgBfDuuYxl7pwBxfbf3YaiAY-yqzqLqMGkiyI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/3Bbmt3_rnY45qtA4m6MevPnLEdV47VjKhg5qvoHOGq4.png",
+      "index": 1
+    },
+    {
+      "title": "Tupac Shakur | Biography, Songs, Albums, Movies, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Tupac-Shakur%23:~:text%3DTupac%2520Shakur%2520(born%2520June%252016,California%252C%2520before%2520he%2520could%2520graduate.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAK&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Dec 26, 2025 \u2014 Tupac Shakur (born June 16, 1971, Brooklyn, New York, U.S.\u2014died September 13, 1996, Las Vegas, Nevada) was an influential American...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/lhFdrwC-AeMP1nKD0GWHsA5n5CpoSLORf2sJ73MUQj8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/00s_fX2AyDIToi9_KP7E_zdTwhshmyHLyg66rX9JXTc.png",
+      "index": 2
+    },
+    {
+      "title": "Tupac Shakur | Biography, Songs, Albums, Movies, & Facts",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Tupac-Shakur%23:~:text%3DTupac%2520Shakur%2520died%2520on%2520September,Early%2520life%2520and%2520career&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAO&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Dec 26, 2025 \u2014 Tupac Shakur * What was Tupac Shakur's family like? Tupac Shakur's mother and stepfather, Afeni and Mutulu Shakur, were both membe...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/s35hBqZD8fNzb6SkOQKz2PDhYqUwGCvx2OTy50WYBrE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/aktVfUq-2mo5Zx796yBePqx5NdpeZdHdNVY4r68-FG0.png",
+      "index": 3
+    },
+    {
+      "title": "Who Killed Tupac Shakur? - Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/story/who-killed-tupac-shakur%23:~:text%3Dout%2520the%2520shooting.-,Quick%2520Facts,Show%2520More&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAS&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Tupac Shakur * What was Tupac Shakur's family like? * How did Tupac Shakur start rapping? * What is Tupac Shakur's music about? * ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/7a2oWMl4SGV080_gOQKnIb7sfSlr6HUth4nwDDhQZK8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/X2ZectopkGGu59qJwzem_0vnkQg4QftA-32j809q-w4.png",
+      "index": 4
+    },
+    {
+      "title": "Tupac Shakur dies | September 13, 1996 | HISTORY",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.history.com/this-day-in-history/september-13/tupac-shakur-dies%23:~:text%3DTupac%2520Shakur%2520dies-,HISTORY.com%2520Editors,Against%2520the%2520World%2520(1995).&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAW&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "May 27, 2025 \u2014 HISTORY.com Editors. Published: November 13, 2009 Last Updated: May 27, 2025. Hip hop star Tupac Shakur dies on September 13, 1996...",
+      "source": "History.com",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/7xDP8F7jbDGl7d0h9KRBriJtnkJXXh--Y-f5a4gajc8.jpeg",
+      "index": 5
+    },
+    {
+      "title": "Remembering TUPAC SHAKUR today on what would have been his ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/117739205095162/posts/2670489399820117/%23:~:text%3DHe%2520is%2520considered%2520one%2520of,at%2520Remembering%2520Tupac%2520Amaru%2520Shakur.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAa&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Jun 16, 2025 \u2014 \ud83e\udd29\ud83c\udfb6 Remembering TUPAC SHAKUR today on what would have been his 54th birthday (born June 16, 1971). \ud83c\udf82\u2728 \ud83d\udc98 MADONNA and the rapper ...",
+      "source": "Facebook",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/C0ckszgtfSYUWuEMB0RgPBEtqMsNCgP5Wvyfcbpyixs.png",
+      "index": 6
+    },
+    {
+      "title": "Tupac Shakur: Who was the rapper? - BBC",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.bbc.com/news/newsbeat-66940018%23:~:text%3DGetty%2520Images,what%2520happened%2520to%2520the%2520rapper.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAd&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Sep 29, 2023 \u2014 Tupac Shakur: Who was the rapper? * Tupac Shakur: Who was the rapper? * 29 September 2023. Manish PandeyBBC Newsbeat. * It's been ...",
+      "source": "BBC",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/PW7Qotq9BnNUPibhDapkgMwcHyqggOzXGShfAvqzDQs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/MiwoYWo_Q9v0bXBKFVtWjSU3NjG2piSx-VxciAXw5ao.png",
+      "index": 7
+    },
+    {
+      "title": "Tupac Shakur's Life and Legacy as a Rapper and Cultural Icon",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/927532264439540/posts/1848291442363613/%23:~:text%3DRIP%2520Tupac%2520Amaru%2520Shakur%2520(June,respiratory%2520failure%2520and%2520cardiac%2520arrest.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAh&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Oct 10, 2024 \u2014 RIP Tupac Amaru Shakur (June 16, 1971 \u2013 September 13, 1996), known by his stage names 2Pac (or simply Pac) and Makaveli, was an Am...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/sFxa6qIXFFkPZNhwDndwF-prjGDKz7q9hye9pTHgHRs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/iLIg2EoRlsP5K3wSqMw9tUt7jOT60k_ISDTOZihUkII.png",
+      "index": 8
+    },
+    {
+      "title": "Tupac's Birthday - National Today",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://nationaltoday.com/birthday/tupac/%23:~:text%3DTupac%2520Amaru%2520Shakur%252C%2520also%2520known,$40%2520million&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAl&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "June 16, 2026. ... Tupac Amaru Shakur, also known by his stage name 2Pac, was born on June 16, 1971, in East Harlem, New York. He ...",
+      "source": "National Today",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/26tqhm0-vFBjpDrlwbH_efhwWnsNTmUZSSv8bs6-9WQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/SpKFqW6-mhhHZAy8AeB3y7Aho2Ergs79IfN2J-lmo0I.png",
+      "index": 9
+    },
+    {
+      "title": "Tupac Shakur - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/Tupac_Shakur%23:~:text%3Din%2520the%25201990's.-,Assassination,have%2520given%2520them%2520the%2520gun.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAp&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Table_content: header: | Tupac Shakur | | row: | Tupac Shakur: Shakur in 1995 | : | row: | Tupac Shakur: Born | : Lesane Parish Cr...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/KrKZ_XyEDWvbqGfAC2hssq4N5pInr3h25ELDxj6dQhE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/ftd90oCnbsF7foVdPJaQQrDAbkoRyMX3GAgwpW-mRYY.png",
+      "index": 10
+    },
+    {
+      "title": "Tupac Shakur Biography - Hip Hop Scriptures",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.hiphopscriptures.com/tupac-shakur%23:~:text%3DWhile%25202Pac%2520was%2520most%2520famous,street%2520vocabulary%2520while%2520being%2520innovative.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAt&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "While 2Pac was most famous for his rap career, he was also a gifted actor, poet and thoughtful while outspoken advocate for the po...",
+      "source": "Hip Hop Scriptures",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/rhG3x3-gIQclZ3Hgqg7Fsm1yYy9GSc2iiBub1EVAqqk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/MNSg6_LVZA9NmFYU6K9UKSG4_BFISjIlT_M7ZFI5TEU.jpeg",
+      "index": 11
+    },
+    {
+      "title": "2Pac - Music Hub | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://music.fandom.com/wiki/2Pac&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhAx&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "2Pac * Birth name. Lesane Parish Crooks. * Also known as. 2Pac, Pac, Makaveli, MC New York. * Born. June 16, 1971. New York City, ...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/OlBDMkF5h93oiO5_r_OT7EOLGmgQP9KOAS6Y3iiFRcM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/31F426Em3tZbgnWeJ698GNTzDOwxVL9PvoOwv_dsybg.png",
+      "index": 12
+    },
+    {
+      "title": "Unveiling the Life and Legacy of Tupac: A Scholar's Perspective",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://motivationtheworldbeyond.medium.com/unveiling-the-life-and-legacy-of-tupac-a-scholars-perspective-d4153274ca6f%23:~:text%3DTupac%2520Shakur's%2520impact%2520on%2520the,form%2520of%2520poems%2520and%2520letters.&ved=2ahUKEwiTtpKHvciSAxXqk4kEHR2bCoYQ1fkOegQIBhA1&opi=89978449&cd&psig=AOvVaw3c8z-mJX4sET__eeP0MJHM&ust=1770591388171000",
+      "snippet": "Mar 22, 2024 \u2014 Examining Tupac's Multidimensional Artistic Talents. ... He was not only a talented rapper and actor, but also a poet, writer, and...",
+      "source": "Medium",
+      "thumbnail": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/oi8gzTsek6B7MfQUyKB7d0VPRO0CCfrNkOu2paFhWzI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c31b6539a2265fe254a5/images/GNI1Ip1oyhbHNOHWmre8eQ2CpgCI-NyqxtNrpd4mgZ4.png",
+      "index": 13
+    },
+    {
+      "title": "2Pac - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/2Pac",
+      "snippet": "2Pac * Birth name. Lesane Parish Crooks. * Also known as. 2Pac, Pac, Makaveli, MC New York. * Born. June 16, 1971. New York City, ...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJCqcE1Cb4J5snxs5kZTJyV1RygcYOLbGLXfA4iGVdOMEwP0FO",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://music.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 14
+    },
+    {
+      "title": "Tupac's Birthday - National Today",
+      "link": "https://nationaltoday.com/birthday/tupac/#:~:text=Tupac%20Amaru%20Shakur%2C%20also%20known,$40%20million",
+      "snippet": "June 16, 2026. ... Tupac Amaru Shakur, also known by his stage name 2Pac, was born on June 16, 1971, in East Harlem, New York. He ...",
+      "source": "National Today",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5SXmWeGqhIribrdTnQKg-kzXkKJEjz_KVGe--KRt0FPiov_Fb",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nationaltoday.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 15
+    },
+    {
+      "title": "Remembering TUPAC SHAKUR today on what would have been his ...",
+      "link": "https://www.facebook.com/groups/117739205095162/posts/2670489399820117/#:~:text=He%20is%20considered%20one%20of,at%20Remembering%20Tupac%20Amaru%20Shakur.",
+      "snippet": "\ud83e\udd29\ud83c\udfb6 Remembering TUPAC SHAKUR today on what would have been his 54th birthday (born June 16, 1971). \ud83c\udf82\u2728 \ud83d\udc98 MADONNA and the rapper ...",
+      "source": "Facebook",
+      "thumbnail": "https://www.facebook.com/groups/117739205095162/posts/2670489399820117/",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Tupac Shakur - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+      "snippet": "Table_content: header: | Tupac Shakur | | row: | Tupac Shakur: Shakur in 1995 | : | row: | Tupac Shakur: Born | : Lesane Parish Cr...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGfztdGvQ4O8zNDukgu4scsApDB2zVkCuUzaei2igePS95Pl3",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Tupac Shakur Biography - Hip Hop Scriptures",
+      "link": "https://www.hiphopscriptures.com/tupac-shakur#:~:text=While%202Pac%20was%20most%20famous,street%20vocabulary%20while%20being%20innovative.",
+      "snippet": "While 2Pac was most famous for his rap career, he was also a gifted actor, poet and thoughtful while outspoken advocate for the po...",
+      "source": "Hip Hop Scriptures",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4uEV_UmiDMqEeeWkL9A8eQKC5RVILMHjx2AGRGQzw7o_Ojtl9",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hiphopscriptures.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Tupac Shakur | Biography, Songs, Albums, Movies, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Tupac-Shakur#:~:text=Tupac%20Shakur%20(born%20June%2016,California%2C%20before%20he%20could%20graduate.",
+      "snippet": "Tupac Shakur (born June 16, 1971, Brooklyn, New York, U.S.\u2014died September 13, 1996, Las Vegas, Nevada) was an influential American...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsqQzMWM6DAF8GGmdd8X5bTy33FEdGom0RILXulsuLjKIhlZNV",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Tupac Shakur | Biography, Songs, Albums, Movies, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Tupac-Shakur#:~:text=Tupac%20Shakur%20died%20on%20September,Early%20life%20and%20career",
+      "snippet": "Tupac Shakur * What was Tupac Shakur's family like? Tupac Shakur's mother and stepfather, Afeni and Mutulu Shakur, were both membe...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsqQzMWM6DAF8GGmdd8X5bTy33FEdGom0RILXulsuLjKIhlZNV",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Unveiling the Life and Legacy of Tupac: A Scholar's Perspective",
+      "link": "https://motivationtheworldbeyond.medium.com/unveiling-the-life-and-legacy-of-tupac-a-scholars-perspective-d4153274ca6f#:~:text=Tupac%20Shakur's%20impact%20on%20the,form%20of%20poems%20and%20letters.",
+      "snippet": "Examining Tupac's Multidimensional Artistic Talents. ... He was not only a talented rapper and actor, but also a poet, writer, and...",
+      "source": "Medium",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUmjzPGUWOX-HFnBUXJoAP6typ2bFilOFktQmaa6RUp34HRrkW",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://motivationtheworldbeyond.medium.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Tupac Shakur: Who was the rapper? - BBC",
+      "link": "https://www.bbc.com/news/newsbeat-66940018#:~:text=Getty%20Images,what%20happened%20to%20the%20rapper.",
+      "snippet": "Tupac Shakur: Who was the rapper? * Tupac Shakur: Who was the rapper? * 29 September 2023. Manish PandeyBBC Newsbeat. * It's been ...",
+      "source": "BBC",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLhymqhMUfqgElIycQD1H0iyim-PR9wfXVCFDYJvVb1DCnNraA",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "Tupac Shakur's Life and Legacy as a Rapper and Cultural Icon",
+      "link": "https://www.facebook.com/groups/927532264439540/posts/1848291442363613/#:~:text=RIP%20Tupac%20Amaru%20Shakur%20(June,respiratory%20failure%20and%20cardiac%20arrest.",
+      "snippet": "RIP Tupac Amaru Shakur (June 16, 1971 \u2013 September 13, 1996), known by his stage names 2Pac (or simply Pac) and Makaveli, was an Am...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ7HOUl3tIFAB5oTxCvtnJlW6rsnq9T3oc_KbY2ZRKHp9Pswom",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Tupac Shakur dies | September 13, 1996 | HISTORY",
+      "link": "https://www.history.com/this-day-in-history/september-13/tupac-shakur-dies#:~:text=Tupac%20Shakur%20dies-,HISTORY.com%20Editors,Against%20the%20World%20(1995).",
+      "snippet": "HISTORY.com Editors. Published: November 13, 2009 Last Updated: May 27, 2025. Hip hop star Tupac Shakur dies on September 13, 1996...",
+      "source": "History.com",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8f4SWnfrKT2rmn5Ned5a2RVo6uJQx6IZpteyqex4mTz2moPnj",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.history.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Tupac Shakur - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://simple.wikipedia.org/wiki/Tupac_Shakur#:~:text=in%20the%201990's.-,Assassination,have%20given%20them%20the%20gun.",
+      "snippet": "Table_content: header: | Tupac Shakur | | row: | Tupac Shakur: Shakur in 1995 | : | row: | Tupac Shakur: Born | : Lesane Parish Cr...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSGfztdGvQ4O8zNDukgu4scsApDB2zVkCuUzaei2igePS95Pl3",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://simple.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Who Killed Tupac Shakur? - Britannica",
+      "link": "https://www.britannica.com/story/who-killed-tupac-shakur#:~:text=out%20the%20shooting.-,Quick%20Facts,Show%20More",
+      "snippet": "Tupac Shakur * What was Tupac Shakur's family like? * How did Tupac Shakur start rapping? * What is Tupac Shakur's music about? * ...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsqQzMWM6DAF8GGmdd8X5bTy33FEdGom0RILXulsuLjKIhlZNV",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Tupac Shakur | Biography, Songs, Albums, Movies, \\u0026 Facts",
+      "link": "https://www.britannica.com/biography/Tupac-Shakur#:~:text=Tupac%20Shakur%20(born%20June%2016,material%20for%20his%20rap%20lyrics.",
+      "snippet": "Tupac Shakur (born June 16, 1971, Brooklyn, New York, U.S.\u2014died September 13, 1996, Las Vegas, Nevada) was an influential American...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsqQzMWM6DAF8GGmdd8X5bTy33FEdGom0RILXulsuLjKIhlZNV",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "\\u200eTupac Shakur - A Life in Ten Pictures (Season 1, Episode 2) - Apple TV",
+      "link": "https://tv.apple.com/us/episode/tupac-shakur/umc.cmc.4fygrtx3br0o8tx6xktnxnyu2?showId=umc.cmc.5i453y5iisbbody3mcsorprbr#:~:text=Tupac%20Shakur%20S1%2C%20E2:%20The%20life%20of,new%20truths%20about%20this%20iconic%20hip%2Dhop%20figure?",
+      "snippet": "Tupac Shakur S1, E2: The life of rapper Tupac Shakur was tragically short. He was murdered at the age of just 25. Could a handful ...",
+      "source": "\\u200eApple TV",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwZjDJjmHgtlVxTcIi9bLUP21QpyGxa0dZ25PUh9gC4MTr-XjE",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://tv.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What social issues did Tupac address in his lyrics?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+social+issues+did+Tupac+address+in+his+lyrics%3F&subsequent_request_token=gVkEeXicTVFJiutWAITcIDfQ8n-IuyVrsmh6oXl-suZhI2TNsyxLli34y1wkfBLIBXKAnKJzmnQWIanaVVFFQf38S17_IZ4MKQlR1sgLalrMc3xtxBMNf8-7Of34k-3HLXQsLdiZCSCU7QlKofuCbw-gNwdrsThFTTn5eYE9Ke0XEHlRnXHKqgc6ngwW5_ePo88pNRAnVvMrxXMy0dy9AQhV7_PUE_RZ4vCZc2nS3fE9VXeXwO4qIxKYMTsKDRiq52dnFHWWkEgTyleZZPCUHHrtbsJUFzXdlgmCGaDC1dorRmdGLewr3_Wn2vEn00Ha39dbPsdJmQ_Lxzd93OuuS17xFxj64tdDNm43CDgQAr_Ab9CnQGBv0IPAvkL0NHW5n1_UennFUfIFJaAvquTo2k9QV7c5JOZpO36F2Goe-_wVwdAX-B9CdlIkc_1vhM_K_7xf03Fs6_yvH36kefadTpQ-wVdMZf22zTuAkDRhlfznblS6y_0m-FsPUBo7c6d8gdu6jroHskhKnpRvUBzbebrO-YFxWZV33ln9xv1PtR3r_E5zBDeWi6vv2GGBy-cG4qsBxFzH8h3Z2qTWYgetusYxIvgQW4LqkEeyTqMU9BtpIgyahpPM3Jv1qoSROhETLQ_c8gQJxjU3JFlXk_TeIM57b8knLOKJfdXC-iaZ8NO4xMURxuuK6Dak18PJmTIw84RT0p94g4DMvePH0_vl7sE2YJeyZDSp4IiRiMp1M--MNhyPRhCVvuCKasMBUNloJwcnJs6zILMDSmvmJMHG0SR72VjhkVQKeORBIx52vXSKbZ82BTzmmILBIqf4MublTPWNP_W64NZapR4iFEUK2dGwxg9g2TInlcI9ij0XZcaVsxxmvjBbHVMu8zk3jQfqWfv2kBim75BUOUTN0KguLC78LYXJ6nzh3KVc4gd7DS-UqgG1wr352p-Oq3gzvIMEHhhzVNn1eZoihpj3NbroZnyiptSz7L3cvve3pf34jXYX_lHQURR2VidJ52K128Fu1ss1JO802uMlPter6k8yfdVugyqmp6uSUCqTZVVsugqn0zK3B2HAuVFKPtyS15CDqA_30vMt2tz19vNoYursGpmclbLF7Jh6bBRf4ft9nrdawgNAPW7dJVzFs4ca3XHDhi5T1vJ2UQomUM7UygTY36hcas8"
+    },
+    {
+      "question": "What social and political issues did Tupac advocate for?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+social+and+political+issues+did+Tupac+advocate+for%3F&subsequent_request_token=gVkEeXicTVFJiutWAITcIDfQ8n-IuyVrsmh6oXl-suZhI2TNsyxLli34y1wkfBLIBXKAnKJzmnQWIanaVVFFQf38S17_IZ4MKQlR1sgLalrMc3xtxBMNf8-7Of34k-3HLXQsLdiZCSCU7QlKofuCbw-gNwdrsThFTTn5eYE9Ke0XEHlRnXHKqgc6ngwW5_ePo88pNRAnVvMrxXMy0dy9AQhV7_PUE_RZ4vCZc2nS3fE9VXeXwO4qIxKYMTsKDRiq52dnFHWWkEgTyleZZPCUHHrtbsJUFzXdlgmCGaDC1dorRmdGLewr3_Wn2vEn00Ha39dbPsdJmQ_Lxzd93OuuS17xFxj64tdDNm43CDgQAr_Ab9CnQGBv0IPAvkL0NHW5n1_UennFUfIFJaAvquTo2k9QV7c5JOZpO36F2Goe-_wVwdAX-B9CdlIkc_1vhM_K_7xf03Fs6_yvH36kefadTpQ-wVdMZf22zTuAkDRhlfznblS6y_0m-FsPUBo7c6d8gdu6jroHskhKnpRvUBzbebrO-YFxWZV33ln9xv1PtR3r_E5zBDeWi6vv2GGBy-cG4qsBxFzH8h3Z2qTWYgetusYxIvgQW4LqkEeyTqMU9BtpIgyahpPM3Jv1qoSROhETLQ_c8gQJxjU3JFlXk_TeIM57b8knLOKJfdXC-iaZ8NO4xMURxuuK6Dak18PJmTIw84RT0p94g4DMvePH0_vl7sE2YJeyZDSp4IiRiMp1M--MNhyPRhCVvuCKasMBUNloJwcnJs6zILMDSmvmJMHG0SR72VjhkVQKeORBIx52vXSKbZ82BTzmmILBIqf4MublTPWNP_W64NZapR4iFEUK2dGwxg9g2TInlcI9ij0XZcaVsxxmvjBbHVMu8zk3jQfqWfv2kBim75BUOUTN0KguLC78LYXJ6nzh3KVc4gd7DS-UqgG1wr352p-Oq3gzvIMEHhhzVNn1eZoihpj3NbroZnyiptSz7L3cvve3pf34jXYX_lHQURR2VidJ52K128Fu1ss1JO802uMlPter6k8yfdVugyqmp6uSUCqTZVVsugqn0zK3B2HAuVFKPtyS15CDqA_30vMt2tz19vNoYursGpmclbLF7Jh6bBRf4ft9nrdawgNAPW7dJVzFs4ca3XHDhi5T1vJ2UQomUM7UygTY36hcas8"
+    },
+    {
+      "question": "Any other notable rappers killed in the 90s East Coast\u2013West Coast rivalry?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Any+other+notable+rappers+killed+in+the+90s+East+Coast%E2%80%93West+Coast+rivalry%3F&subsequent_request_token=gVkEeXicTVFJiutWAITcIDfQ8n-IuyVrsmh6oXl-suZhI2TNsyxLli34y1wkfBLIBXKAnKJzmnQWIanaVVFFQf38S17_IZ4MKQlR1sgLalrMc3xtxBMNf8-7Of34k-3HLXQsLdiZCSCU7QlKofuCbw-gNwdrsThFTTn5eYE9Ke0XEHlRnXHKqgc6ngwW5_ePo88pNRAnVvMrxXMy0dy9AQhV7_PUE_RZ4vCZc2nS3fE9VXeXwO4qIxKYMTsKDRiq52dnFHWWkEgTyleZZPCUHHrtbsJUFzXdlgmCGaDC1dorRmdGLewr3_Wn2vEn00Ha39dbPsdJmQ_Lxzd93OuuS17xFxj64tdDNm43CDgQAr_Ab9CnQGBv0IPAvkL0NHW5n1_UennFUfIFJaAvquTo2k9QV7c5JOZpO36F2Goe-_wVwdAX-B9CdlIkc_1vhM_K_7xf03Fs6_yvH36kefadTpQ-wVdMZf22zTuAkDRhlfznblS6y_0m-FsPUBo7c6d8gdu6jroHskhKnpRvUBzbebrO-YFxWZV33ln9xv1PtR3r_E5zBDeWi6vv2GGBy-cG4qsBxFzH8h3Z2qTWYgetusYxIvgQW4LqkEeyTqMU9BtpIgyahpPM3Jv1qoSROhETLQ_c8gQJxjU3JFlXk_TeIM57b8knLOKJfdXC-iaZ8NO4xMURxuuK6Dak18PJmTIw84RT0p94g4DMvePH0_vl7sE2YJeyZDSp4IiRiMp1M--MNhyPRhCVvuCKasMBUNloJwcnJs6zILMDSmvmJMHG0SR72VjhkVQKeORBIx52vXSKbZ82BTzmmILBIqf4MublTPWNP_W64NZapR4iFEUK2dGwxg9g2TInlcI9ij0XZcaVsxxmvjBbHVMu8zk3jQfqWfv2kBim75BUOUTN0KguLC78LYXJ6nzh3KVc4gd7DS-UqgG1wr352p-Oq3gzvIMEHhhzVNn1eZoihpj3NbroZnyiptSz7L3cvve3pf34jXYX_lHQURR2VidJ52K128Fu1ss1JO802uMlPter6k8yfdVugyqmp6uSUCqTZVVsugqn0zK3B2HAuVFKPtyS15CDqA_30vMt2tz19vNoYursGpmclbLF7Jh6bBRf4ft9nrdawgNAPW7dJVzFs4ca3XHDhi5T1vJ2UQomUM7UygTY36hcas8"
+    }
+  ]
+}

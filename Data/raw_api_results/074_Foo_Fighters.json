@@ -1,0 +1,19 @@
+{
+  "search_metadata": {
+    "id": "6987c323a1de125c38dbe746",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1FkfITPnlTH-e9pMnPqvCQ/6987c323a1de125c38dbe746.json",
+    "created_at": "2026-02-07 22:56:35 UTC",
+    "processed_at": "2026-02-07 22:56:35 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Foo+Fighters%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Foo+Fighters%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/1FkfITPnlTH-e9pMnPqvCQ/6987c323a1de125c38dbe746.html",
+    "prettify_html_file": "https://serpapi.com/searches/1FkfITPnlTH-e9pMnPqvCQ/6987c323a1de125c38dbe746.prettify",
+    "total_time_taken": 4.39
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Foo Fighters, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "hPEN7HicPZLJrqNGAEWlfAnZdUvhdcEzHvTkRTGb0aYYDBsE5TLGFIMBY5t9fiRqZZEfyDZSvqLzNXmrvst7dKWzuL__Qcq_DdvVs0RGZjvr3XqxX2FEWKh8J7THP_6V6vYR--HTvhohoifO0x6vUKGOHdHODT0x8qkVHU8BBl5Dmg4cgtMVvyd7y1e4vDZExzd0pFIQaMWMakH3VVGLdK9F-uXpRuHzVC8eOUgCrMV84J8o4ivgBxtkAyPzNOpkjTgSPZHxeyhYvtcol5P5yXdx2CkBGCdSXR6u7B0c3vETxIme11o4MLyw4rQooLZ3xH_dB9KnWUGa8cfdbueS0uyb8AaYL3aGy2Zsh8sHs2tGQpnPgnERc2Q4kHJCuvrKwK6jJCK5WY7flkB44944gfli6r5t_cbQsiKMRnDVfmVC0g9l23zj1m88g7Jz1pc_B3_itq1K8t8vv6YpIvjeExb53n4L5aXcFneDHYVYKzHbHKfx5uLVEMfAHY7AXE5RmuNEhhLf1xsWnk8NvfnuuxcFPdzplSKo6WymO8daq2476XuSKS_NgRytiz3l0VpIPhioSFuYGXUmjP3LMCINSJnu-HlNUkE7TAGPi41euSvLfb1HKTbSSx9UrY-Vs2DsRPuD-SktBpKp-FvJheoHI4dbm2MrHG_2ewcsB_0AXm6ennm-Q0-WPoR6uqyx_wouaPVoIZRlOb6SWp1aTYUH-JkPxtnJW4Ffbz3FzG7qg7KO9RztmLCFkkLwzK6Llq5AV4zPBWwwCP3-SMuhe7-95iKRHN9eF-4CO_VVEEEPSxPJMViIUvCQkoVbdp02x5u4f7K5u7lBcD7rRrWE_bRJupxd-pE8FrP0apYbqzqexseRTjvvNiXNTnTGoZjUGlQIn8Lgqd7xDsZ4OM-fj05ztppzs5fD1j28ZqFGcsm3UrBCTiSvVFln71bvpvbiSsIs9mZOgvHVjLh9qh1a9zUswIgeupyzpsjdvd1ekqG18fiFVBjV4Xs9jNU__wPuIDHA"
+}

@@ -1,0 +1,541 @@
+{
+  "search_metadata": {
+    "id": "6987c2f91de064b498a86974",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eQq3R7TfGYTR2xocYK1q5g/6987c2f91de064b498a86974.json",
+    "created_at": "2026-02-07 22:55:53 UTC",
+    "processed_at": "2026-02-07 22:55:53 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Radiohead%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Radiohead%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/eQq3R7TfGYTR2xocYK1q5g/6987c2f91de064b498a86974.html",
+    "prettify_html_file": "https://serpapi.com/searches/eQq3R7TfGYTR2xocYK1q5g/6987c2f91de064b498a86974.prettify",
+    "total_time_taken": 8.77
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Radiohead, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "jq48-3icTZJJjqtmAISlnCBHYPmeFLqZjdXyguHHzGaeNggw2PhnMoMbs89FoqdEygVygJyic5p4FaWWJVWp9Kl-_a2s_0InTc6yJyWOTIVXivW4C-XCsT_KZiy-_hba_jP2HMOE65QAR9OjwHT8JHYkRzaCKxXjgxtv0qe_NUy0BVkOVTeO1N5sr0lMNiCTh8qN-GMYNlZA0F6CXdX8OKu6Z97KY2LlraQ4URCEHT8EwbXzieSWE_hYgCQ5N0OWY4Hqh04VSpJQygMPrsVcYLMShxJtAudptvGawMY-d5KYRAF_4nvdjfqngVFkEoHV9bE_l6kc0-xSdvPXYvRb3TTZO_2GId-MrKi7uZ-uH4jSzWWDvAzk5CIRgmMpTqe77wg3DE0ZlrlWz-8MRr_hbziNfNNkz9B_QZoalsixLGD_HQnKcar77h1n3wjEzapsrP8L_F70PazLf376mQPCgcvUNqOXymJIljSZfVdgmsFkmeI96lKea1K6G6BLTJXA2krpAZHDTc7H8mh_IGnqlsUylijvCxrwDoJh8x-IGBwgDuDTojKWurSYyFvF5rpSSK7jtW4-VyhhneRAx7nMts-99L8m13OsAycyYn-ZhCDe-9WsW7LO-dW982-LOAh7zyTKbgKrPt1lv5zuBhGd7yuIesmbpp7lFnfyveyEtazO4uluzvBCjowbVSs1qkFpgh5xQXcfiKmIB5pgDxaWo66thkTbcRKYKaINUXvn3i7Rqr0usbgpFKpCZOF4Chc2sx8BnuE8Kmm5ivOvaUowUmnpzKx2SiBQo_uI2YLyQLtrz6t9MiasOANbbVb0OS1AgM9CEmOJS6867xKRND72NOz5ZYcVx6u2x804OVv31VGd9XNkwJar552T0ona04bAaDOR7iPdNE4ufmoHyeweA1MJzq4QKi4chnQfkqTtnAVuBSLGv_CnnBto2gCUMziPR5tUXC5fbqm0tSfDixvdvqUqTREpxnA_2mmGX39w_gzWiruhkzk-JAWbW4yJ0NjY0ZbPBRiedGjnWeiy2lAA-osqrB8GgZXtRXlCg9yazdIEI9E0vLg_cpYhKUKojeBBl7O2SU8x3JpJZoaeviT1zbzpUOMHCDSqPp2kC5kBLuUllQCxdiGx46fQ-WljGIJIcLKd8hTlnLFjyObwXxTTYlA",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of early 2026, the members of Radiohead remain active in various musical projects and have recently returned to live performances. All members were born in England and most continue to reside there.",
+      "snippet_links": [
+        {
+          "text": "England",
+          "link": "https://www.google.com/search?q=England&kgmid=/m/02jx1&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQIAhAC"
+        }
+      ],
+      "reference_indexes": [
+        1,
+        2,
+        7,
+        6,
+        16
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Member Profiles"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        6,
+        7,
+        9,
+        3,
+        12,
+        8,
+        14,
+        21,
+        10,
+        17,
+        4,
+        5,
+        20
+      ],
+      "table": [
+        [
+          "Member",
+          "Age (as of Feb 2026)",
+          "Primary Occupations",
+          "Music Skills & Key Instruments",
+          "Residence"
+        ],
+        [
+          "Thom Yorke",
+          "57",
+          "Singer, Songwriter, Composer",
+          "Lead vocals (falsetto), guitar, piano/keyboards, bass, music production",
+          "Oxford, UK"
+        ],
+        [
+          "Jonny Greenwood",
+          "54",
+          "Musician, Film Composer",
+          "Lead guitar, keyboards, Ondes Martenot, viola, orchestral arrangement, programming",
+          "Oxford, UK"
+        ],
+        [
+          "Colin Greenwood",
+          "56",
+          "Musician, Photographer",
+          "Bass guitar, double bass, synthesizers, sampling",
+          "Oxford, UK"
+        ],
+        [
+          "Ed O'Brien",
+          "57",
+          "Musician, Songwriter",
+          "Guitar, backing vocals, effects/ambient sound design, percussion",
+          "London, UK"
+        ],
+        [
+          "Philip Selway",
+          "58",
+          "Musician, Songwriter",
+          "Drums, percussion, backing vocals, drum programming",
+          "Oxfordshire, UK"
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Member"
+          },
+          {
+            "snippet": "Age (as of Feb 2026)"
+          },
+          {
+            "snippet": "Primary Occupations"
+          },
+          {
+            "snippet": "Music Skills & Key Instruments"
+          },
+          {
+            "snippet": "Residence"
+          }
+        ],
+        [
+          {
+            "snippet": "Thom Yorke"
+          },
+          {
+            "snippet": "57"
+          },
+          {
+            "snippet": "Singer, Songwriter, Composer"
+          },
+          {
+            "snippet": "Lead vocals (falsetto), guitar, piano/keyboards, bass, music production"
+          },
+          {
+            "snippet": "Oxford, UK"
+          }
+        ],
+        [
+          {
+            "snippet": "Jonny Greenwood"
+          },
+          {
+            "snippet": "54"
+          },
+          {
+            "snippet": "Musician, Film Composer"
+          },
+          {
+            "snippet": "Lead guitar, keyboards, Ondes Martenot, viola, orchestral arrangement, programming"
+          },
+          {
+            "snippet": "Oxford, UK"
+          }
+        ],
+        [
+          {
+            "snippet": "Colin Greenwood"
+          },
+          {
+            "snippet": "56"
+          },
+          {
+            "snippet": "Musician, Photographer"
+          },
+          {
+            "snippet": "Bass guitar, double bass, synthesizers, sampling"
+          },
+          {
+            "snippet": "Oxford, UK"
+          }
+        ],
+        [
+          {
+            "snippet": "Ed O'Brien"
+          },
+          {
+            "snippet": "57"
+          },
+          {
+            "snippet": "Musician, Songwriter"
+          },
+          {
+            "snippet": "Guitar, backing vocals, effects/ambient sound design, percussion"
+          },
+          {
+            "snippet": "London, UK"
+          }
+        ],
+        [
+          {
+            "snippet": "Philip Selway"
+          },
+          {
+            "snippet": "58"
+          },
+          {
+            "snippet": "Musician, Songwriter"
+          },
+          {
+            "snippet": "Drums, percussion, backing vocals, drum programming"
+          },
+          {
+            "snippet": "Oxfordshire, UK"
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "member": "Thom Yorke",
+          "age_as_of_feb_2026": "57",
+          "primary_occupations": "Singer, Songwriter, Composer",
+          "music_skills_key_instruments": "Lead vocals (falsetto), guitar, piano/keyboards, bass, music production",
+          "residence": "Oxford, UK"
+        },
+        {
+          "member": "Jonny Greenwood",
+          "age_as_of_feb_2026": "54",
+          "primary_occupations": "Musician, Film Composer",
+          "music_skills_key_instruments": "Lead guitar, keyboards, Ondes Martenot, viola, orchestral arrangement, programming",
+          "residence": "Oxford, UK"
+        },
+        {
+          "member": "Colin Greenwood",
+          "age_as_of_feb_2026": "56",
+          "primary_occupations": "Musician, Photographer",
+          "music_skills_key_instruments": "Bass guitar, double bass, synthesizers, sampling",
+          "residence": "Oxford, UK"
+        },
+        {
+          "member": "Ed O'Brien",
+          "age_as_of_feb_2026": "57",
+          "primary_occupations": "Musician, Songwriter",
+          "music_skills_key_instruments": "Guitar, backing vocals, effects/ambient sound design, percussion",
+          "residence": "London, UK"
+        },
+        {
+          "member": "Philip Selway",
+          "age_as_of_feb_2026": "58",
+          "primary_occupations": "Musician, Songwriter",
+          "music_skills_key_instruments": "Drums, percussion, backing vocals, drum programming",
+          "residence": "Oxfordshire, UK"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Proficiency and Roles"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Thom Yorke (Expert/Lead): The primary creative force and songwriter. Highly proficient in multi-instrumentalism, specifically known for his distinct falsetto and complex electronic production."
+        },
+        {
+          "snippet": "Jonny Greenwood (Expert/Multi-Instrumentalist): Widely regarded as one of the most inventive guitarists of his generation. He is a classically trained violist and a prolific, Oscar-nominated film composer."
+        },
+        {
+          "snippet": "Colin Greenwood (Expert/Technical): Known for melodic and \"lithe\" bass lines. He has recently expanded his repertoire by touring and recording as a bassist for Nick Cave and the Bad Seeds."
+        },
+        {
+          "snippet": "Ed O'Brien (Specialist/Atmospheric): Focuses on \"servicing the songs\" through ambient guitar textures and layered effects rather than traditional solos."
+        },
+        {
+          "snippet": "Philip Selway (Expert/Rhythmic): Combines traditional rock drumming with electronic percussion. He has also released several solo albums where he serves as lead vocalist and guitarist."
+        }
+      ],
+      "reference_indexes": [
+        3,
+        8,
+        4,
+        5,
+        18,
+        19,
+        15,
+        22,
+        13
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Status (2026)"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "The band confirmed a return to the stage in late 2025 with a series of multi-night residencies in European cities including London, Madrid, Bologna, Copenhagen, and Berlin. While they have individual residences across the UK, they frequently convene in Oxford for rehearsals.",
+      "snippet_links": [
+        {
+          "text": "London",
+          "link": "https://www.google.com/search?q=London&kgmid=/m/04jpl&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAC"
+        },
+        {
+          "text": "Madrid",
+          "link": "https://www.google.com/search?q=Madrid&kgmid=/m/056_y&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAE"
+        },
+        {
+          "text": "Bologna",
+          "link": "https://www.google.com/search?q=Bologna&kgmid=/m/096g3&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAG"
+        },
+        {
+          "text": "Copenhagen",
+          "link": "https://www.google.com/search?q=Copenhagen&kgmid=/m/01lfy&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAI"
+        },
+        {
+          "text": "Berlin",
+          "link": "https://www.google.com/search?q=Berlin&kgmid=/m/0156q&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAK"
+        },
+        {
+          "text": "Oxford",
+          "link": "https://www.google.com/search?q=Oxford&kgmid=/m/05l5n&sa=X&ved=2ahUKEwih5v32vMiSAxW-BhAIHf90MScQ3egRegQICRAM"
+        }
+      ],
+      "reference_indexes": [
+        2,
+        0,
+        1,
+        3,
+        11
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Radiohead Potential UK/EU Tour 2025/26 - Reddit",
+      "link": "https://www.reddit.com/r/radiohead/comments/1jatod1/radiohead_potential_ukeu_tour_202526_everything/#:~:text=%2D%20In%20September%2C%20Colin%20said%20in,Radiohead%20activates%20until%20August%202025.",
+      "snippet": "Mar 14, 2025 \u2014 - In September, Colin said in an interview that the band had got together to rehearse old material \"about 2 months ago\", meaning a...",
+      "source": "Reddit",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/aXfNziheOroHqiy1JKeHc3722o2x5MLsuwj3U6PfoJ8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/qFZcUd60xgTvT7VIAomUra0SAgXzMm2VRRUzQGf5Nec.png",
+      "index": 0
+    },
+    {
+      "title": "Radiohead to tour for first time in seven years - BBC",
+      "link": "https://www.bbc.com/news/articles/cedvddjnd08o#:~:text=*%20Radiohead%20deliver%20a%20spell%2Dbinding%2C%20hit%2Dpacked%20set,story%20behind%20Radiohead's%20The%20Bends%20album%20cover.",
+      "snippet": "Sep 3, 2025 \u2014 * Radiohead deliver a spell-binding, hit-packed set in London. * How did Oxford become the UK's 'rock capital'? * The story behind...",
+      "source": "BBC",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/M1RUZFyUrheRSCANQQuIz_awPDkxoQ2e5AAqjpdxWFA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/RvOPUJXs0LT0iWC7CHT1AY4DyfKT81L05v-rcQRpy2Y.png",
+      "index": 1
+    },
+    {
+      "title": "Radiohead returns after 7 years, announces 20 new live dates",
+      "link": "https://www.live5news.com/2025/09/04/radiohead-returns-after-7-years-announce-20-new-live-dates/#:~:text=The%20band%20%E2%80%94%20made%20up%20of,four%20nights%20in%20each%20city.",
+      "snippet": "Sep 4, 2025 \u2014 The band \u2014 made up of vocalist Thom Yorke, guitarist/keyboardist Jonny Greenwood, guitarist Ed O'Brien, bassist Colin Greenwood an...",
+      "source": "Live 5 News",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/fAWhdpekc1AlV0DhafzplfM8pHiCBevCqc3cIrpeCjo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/e8E71Zr6ELJGygCHIfvuGMSY0AYlC0YrodMkpk6aCtI.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Happy 57th birthday, Thom Yorke - he turns 57 today \ud83c\udfb6 - Facebook",
+      "link": "https://www.facebook.com/FarOut/posts/happy-57th-birthday-thom-yorke-he-turns-57-today-/1242047761292497/#:~:text=HAPPY%2056th%20BIRTHDAY%20to%20THOM,%23thomyorke%20%23radiohead%20%23radioheadfans",
+      "snippet": "Oct 7, 2025 \u2014 HAPPY 56th BIRTHDAY to THOM YORKE \u2022 Birth name: Thomas Edward Yorke (a.k.a. Sisi Bakbak, Tchock, The White Chocolate Farm, Zachari...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/rDkB5P2pODVp-xqXl8FJJPol-UXSmIAEDHkcgOrM-i8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/hJ5Dkq5lyGLCql9CWjROQgpTw0nih6ZFuxZ4-Rmuc98.png",
+      "index": 3
+    },
+    {
+      "title": "What each member of Radiohead has been up to since their last tour ...",
+      "link": "https://www.yahoo.com/entertainment/music/articles/member-radiohead-since-last-tour-053000273.html#:~:text=in%20your%20browser.-,Colin%20Greenwood,resulted%20in%20their%20live%20return.",
+      "snippet": "Sep 5, 2025 \u2014 Colin Greenwood There's no flies on the elder Greenwood sibling, either. In the immediate period of Radiohead downtime, Colin adde...",
+      "source": "Yahoo",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/X04QF7mw7u7BcWzYPpkGOU8zDsz9shOnEnGMurqpbM4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/gGPMNK1zMKf9pln0-Vzp0ekg8JB-24zB7_e9bMEmEfA.png",
+      "index": 4
+    },
+    {
+      "title": "All about Radiohead | Articles - Speak Out Magazine online",
+      "link": "https://speakout.org.uk/all-about-radiohead/#:~:text=The%20Band%20Members,Need%E2%80%9D%20(In%20Rainbows).",
+      "snippet": "Aug 20, 2025 \u2014 The Band Members. The band members consist of five (main) members: Thom Yorke, Jonny Greenwood, Colin Greenwood, Philip Selway and...",
+      "source": "speakout.org.uk",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/ep-STMWLqYGC7X9_-vB8oErP8UD3MuWL7aL7zmb09OI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/QzEvc32qmPZ6S0GYQDbkaA_6aXoSDbig070yqJ4ReGE.png",
+      "index": 5
+    },
+    {
+      "title": "Radiohead frontman Thom Yorke gets married in Sicily",
+      "link": "https://www.sicilianweddinglab.com/celebrity-wedding-in-sicily#:~:text=Thom%20and%20Dajana%20are%20considered,live%20together%20in%20Oxford%2C%20UK.",
+      "snippet": "Only a pair of wedding photos made public. Splendid Villa's baroque rooms became a perfect background for the couple's wedding pho...",
+      "source": "Sicilian Wedding Lab",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/1ChdOLLK-mF5p0xCWUd3L3oMGcX2BwdXFDp4sPLnDvY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/HUEKCF86Fviw7W7mV-ZiBE4jQjXl_ZgmkHjMkcPnf5g.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Radiohead | Members, Albums, & Facts | Britannica",
+      "link": "https://www.britannica.com/topic/Radiohead#:~:text=Radiohead%2C%20British%20rock%20group%20that,%2Dkeyboardist%20Jonny%20Greenwood%20(b.",
+      "snippet": "Dec 21, 2025 \u2014 Radiohead, British rock group that was arguably the most accomplished art-rock band of the early 21st century. This revered quinte...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/js3B9pRRFhT_75mA43oeIEpUvSfrLtUbAc721OfUzRY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/fFf2G7CleJUbCsZxkPDzeT4VRZ_UBGtvgAF-B8DbSRc.png",
+      "index": 7
+    },
+    {
+      "title": "Jonny Greenwood Biography | Booking Info for Speaking ...",
+      "link": "https://www.allamericanspeakers.com/celebritytalentbios/Jonny+Greenwood/467268#:~:text=Jonny%20Greenwood%20is%20known%20for,both%20rock%20and%20classical%20music.",
+      "snippet": "Jonny Greenwood is known for his diverse musical talents, from being the lead guitarist and keyboardist of the influential rock ba...",
+      "source": "All American Speakers Bureau",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/U65EUqxnR2bIKyCtwzqwu_e2Z2o-AhXL5BZyrHNMpRg.png",
+      "index": 8
+    },
+    {
+      "title": "Thom Yorke",
+      "link": "https://www.imdb.com/name/nm0948810/#:~:text=Composer,BornOctober%207%2C%201968",
+      "snippet": "Composer. Actor. Music Department. Play trailer0:29. Anima (2019) 3 4. 3 Videos. 20 Photos. Thom Yorke was born on 7 October 1968 ...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/IVdxLkxtzhAI1FRWUD_bPoNAcBX5pRNSdj8sKDCOC_I.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Jonny Greenwood - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Jonny_Greenwood#:~:text=Table_content:%20header:%20%7C%20Jonny%20Greenwood%20%7C%20%7C,:%20Guitar%20keyboards%20ondes%20Martenot%20bass%20%7C",
+      "snippet": "Table_content: header: | Jonny Greenwood | | row: | Jonny Greenwood: Born | : Jonathan Richard Guy Greenwood 5 November 1971 Oxfor...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/kRQCd1kSGZWxmSRi68jMKjsWaOaGuZ1-3lUKd4erTs4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/nnAaPXfqKHQrDFWN99CsNrQBNn0s7yvBCQNqFXUdnbk.png",
+      "index": 10
+    },
+    {
+      "title": "\u201cWho knows where this will all lead?\u201d: Radiohead confirm five ...",
+      "link": "https://www.musicradar.com/artists/shows-festivals/who-knows-where-this-will-all-lead-radiohead-confirm-five-european-residences-for-november-and-december#:~:text=It's%20official:%20Radiohead%20are%20playing%20residencies%20in,first%20run%20of%20Teenage%20Cancer%20Trust%20concerts.",
+      "snippet": "Sep 3, 2025 \u2014 It's official: Radiohead are playing residencies in five European cities later this year. * \u201cWe are devastated to have to postpone...",
+      "source": "MusicRadar",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/qAMFU-ApDCrvFcGQ64xqoDEZAQE_IczAI51UMdUY4Q8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/JSK85SvF05KRNqN0351kDx6RBgDeCkeZJ0-d5YvTTMw.png",
+      "index": 11
+    },
+    {
+      "title": "Thom Yorke - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Thom_Yorke#:~:text=Table_content:%20header:%20%7C%20Thom%20Yorke%20%7C%20%7C,Yorke:%20Years%20active%20%7C%20:%201985%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Thom Yorke | | row: | Thom Yorke: Occupations | : Singer songwriter composer | row: | Thom Yorke: Instrum...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/exlxJCfcrm83IOLuIt6hKtSGZ8BPhF6wPqL0tR2ljME.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/5O1PJhaelsxO0uBOivRgDpmWhEvArVkaMzGQ7Lw3C7c.png",
+      "index": 12
+    },
+    {
+      "title": "Radiohead 2007-present \u2013 A Career Analysis | The Mezzanine",
+      "link": "https://amusicaltimetravellingdiamond.wordpress.com/2014/07/11/radiohead-2007-present-a-career-analysis/#:~:text=Outside%20of%20the%20band%2C%20there,is%20going%20to%20change%20soon.",
+      "snippet": "Jul 11, 2014 \u2014 Outside of the band, there has been a solo record from drummer Phil Selway, further soundtrack writing from Jonny Greenwood and al...",
+      "source": "WordPress.com",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/c8Tu1XsTdiwquJUeAu-fi0d81atQEZNifrBMfMbIJZg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/qhiwb9tu9JZOsA2MbtkmFkG2kht7iFMCSEQhIWVVW88.png",
+      "index": 13
+    },
+    {
+      "title": "Happy 54th birthday to Jonny Greenwood of Radiohead! \u2764\ufe0f\ud83c\udf89",
+      "link": "https://www.facebook.com/FarOut/posts/happy-54th-birthday-to-jonny-greenwood-of-radiohead-%EF%B8%8F/1268309558666317/#:~:text=HAPPY%2054th%20BIRTHDAY%20Jonathan%20Richard,member%20of%20Radiohead%20in%202019.",
+      "snippet": "Nov 5, 2025 \u2014 HAPPY 54th BIRTHDAY Jonathan Richard Guy Greenwood (born November 5, 1971) is an English musician. He is the lead guitarist and ke...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/bunSPdcHxLJ8csaA7Tg9TA7CBk_E8PRKFDNGNvKUfhI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/e77ua2nPq8G-ssnhI4KgwGkCFXuKNIP2d4XEGA8XL3E.png",
+      "index": 14
+    },
+    {
+      "title": "For Radiohead's Jonny Greenwood, there are no rules to composing for ...",
+      "link": "https://www.npr.org/transcripts/1078802881#:~:text=He%20studied%20classical%20music%20when,at%20the%20BBC%20Concert%20Orchestra.",
+      "snippet": "Feb 7, 2022 \u2014 He studied classical music when he was young, played in a youth orchestra and has been a composer in residence at the BBC Concert ...",
+      "source": "NPR",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/uNYYjcNQLx0nGosr3QKlJJUk67IZLMCyUj0Wn4VgMh4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/NTXVGYOkK4wRYk6pVwiNjzhR96ZNTLNMWH_H_nHlbQ0.png",
+      "index": 15
+    },
+    {
+      "title": "Radiohead returns after 7 years, announce 20 new live dates",
+      "link": "https://apnews.com/article/radiohead-tour-2025-reunion-thom-yorke-dabd8f9adf141d3191abfe1dde95a556#:~:text=NEW%20YORK%20(AP)%20%2D%2D%20Something%20is%20in%20the%20water%20in%20England.",
+      "snippet": "NEW YORK (AP) -- Something is in the water in England.",
+      "source": "AP News",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/Bvh3pwea570nkOJdar5pCQ9cuh2DvrCXKJH8t7H_7Bs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/vDmdUshdUh6wAVx-gbYA_bIqDxSnNd_upsitJsLTaqg.png",
+      "index": 16
+    },
+    {
+      "title": "Radiohead Band History and Music Facts - Facebook",
+      "link": "https://www.facebook.com/groups/506145332841274/posts/7778788478910220/#:~:text=Since%20their%20shift%20from%20conventional%20rock%20instrumentation%2C,worked%20on%20sampling%2C%20and%20O'Brien%20and%20Selway",
+      "snippet": "Aug 3, 2024 \u2014 Since their shift from conventional rock instrumentation, the members have gained flexibility and often switch instruments. On Kid...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/mjGIjgvy_5Y79hFGkmEV8GFzJ7Ya7p0g0RrGY4GkOAk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/fBVFa0cNFLGrhgSyGgsC_6VEDw396F0xOnY1_L4tJ0s.png",
+      "index": 17
+    },
+    {
+      "title": "Thom Yorke's influential career in alternative rock - Facebook",
+      "link": "https://www.facebook.com/groups/377284898092845/posts/727633526391312/#:~:text=17w%20%C2%B7%20Public-,Thomas%20Edward%20Yorke%20(born%207%20October%201968)%20is%20an%20English,influential%20singers%20of%20his%20generation.",
+      "snippet": "Jun 13, 2025 \u2014 Thomas Edward Yorke (born 7 October 1968) is an English musician who is the singer and main songwriter of the rock band Radiohead.",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/FGNXiSsMYFiW29LneApHy93y91bIhrXpg3VQp-r4M-k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/C9PLms7heLf-EfkUFBJmGJmvf5UWGy0MyIuLgiOR29g.png",
+      "index": 18
+    },
+    {
+      "title": "Jonny Greenwood - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0339351/bio/#:~:text=Jonny%20Greenwood%20is%20an%20English,scores%20for%20directors%20such%20as",
+      "snippet": "Jonny Greenwood is an English musician and composer, best known as the lead guitarist and keyboardist of the influential rock band...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/wRx_-Cs0UeXtJ7aIEfVoAYo_fiFOFbXhehaVt5sz22o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/tds69V6v7YUTyaICqyJmmtEwjvfbZ-ZFeSDRLsrv-Ys.jpeg",
+      "index": 19
+    },
+    {
+      "title": "History - Radiohead Wiki Radiohead Knowledge Base",
+      "link": "https://radiohead.fandom.com/wiki/Radiohead#:~:text=Radiohead%20is%20an%20English%20rock,artist%20Stanley%20Donwood%20since%201994.",
+      "snippet": "Radiohead is an English rock band from Abingdon, Oxfordshire, formed in 1985. The band consists of Thom Yorke (lead vocals, guitar...",
+      "source": "Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/e3hVc3cSFMldjk0N1YxaApLgovX8K7qSEd7Aj7bKWRA.png",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/mzi5XE7aywtCfO-NL4D7iauiu37gOVQSbuI9Iro993c.png",
+      "index": 20
+    },
+    {
+      "title": "Jonny Greenwood - Simple English Wikipedia, the free ...",
+      "link": "https://simple.wikipedia.org/wiki/Jonny_Greenwood#:~:text=Table_content:%20header:%20%7C%20Jonny%20Greenwood%20%7C%20%7C,Greenwood:%20Labels%20%7C%20:%20XL%2C%20Parlophone%20%7C",
+      "snippet": "Table_content: header: | Jonny Greenwood | | row: | Jonny Greenwood: Occupation(s) | : Musician, Composer | row: | Jonny Greenwood...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/FEEPYEKLfDHO1GDuZvfijb1jessktGyNAL3Hd3oj6vI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/UIX6S0Jl4n22AxNbO46Wytgix2xSiMUpGM1C5nzPftU.png",
+      "index": 21
+    },
+    {
+      "title": "Roles and prominence of bandmembers : r/radiohead - Reddit",
+      "link": "https://www.reddit.com/r/radiohead/comments/9bynxo/roles_and_prominence_of_bandmembers/#:~:text=One%20thing%20I've%20wondered,where%20I'm%20standing)?",
+      "snippet": "Sep 1, 2018 \u2014 One thing I've wondered is the role each member plays / has played in the past. Obviously I know what each of their original instr...",
+      "source": "Reddit",
+      "source_icon": "https://serpapi.com/searches/6987c2f91de064b498a86974/images/5q5B0Mt5x3PjhZEILv3_RkVYxgThlhJRXsCXo6IWc_w.png",
+      "index": 22
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What's Jonny Greenwood's role in Radiohead's songwriting and arrangements?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What%27s+Jonny+Greenwood%27s+role+in+Radiohead%27s+songwriting+and+arrangements%3F&subsequent_request_token=jq48-3icTZJJjqtmAISlnCBHYPmeFLqZjdXyguHHzGaeNggw2PhnMoMbs89FoqdEygVygJyic5p4FaWWJVWp9Kl-_a2s_0InTc6yJyWOTIVXivW4C-XCsT_KZiy-_hba_jP2HMOE65QAR9OjwHT8JHYkRzaCKxXjgxtv0qe_NUy0BVkOVTeO1N5sr0lMNiCTh8qN-GMYNlZA0F6CXdX8OKu6Z97KY2LlraQ4URCEHT8EwbXzieSWE_hYgCQ5N0OWY4Hqh04VSpJQygMPrsVcYLMShxJtAudptvGawMY-d5KYRAF_4nvdjfqngVFkEoHV9bE_l6kc0-xSdvPXYvRb3TTZO_2GId-MrKi7uZ-uH4jSzWWDvAzk5CIRgmMpTqe77wg3DE0ZlrlWz-8MRr_hbziNfNNkz9B_QZoalsixLGD_HQnKcar77h1n3wjEzapsrP8L_F70PazLf376mQPCgcvUNqOXymJIljSZfVdgmsFkmeI96lKea1K6G6BLTJXA2krpAZHDTc7H8mh_IGnqlsUylijvCxrwDoJh8x-IGBwgDuDTojKWurSYyFvF5rpSSK7jtW4-VyhhneRAx7nMts-99L8m13OsAycyYn-ZhCDe-9WsW7LO-dW982-LOAh7zyTKbgKrPt1lv5zuBhGd7yuIesmbpp7lFnfyveyEtazO4uluzvBCjowbVSs1qkFpgh5xQXcfiKmIB5pgDxaWo66thkTbcRKYKaINUXvn3i7Rqr0usbgpFKpCZOF4Chc2sx8BnuE8Kmm5ivOvaUowUmnpzKx2SiBQo_uI2YLyQLtrz6t9MiasOANbbVb0OS1AgM9CEmOJS6867xKRND72NOz5ZYcVx6u2x804OVv31VGd9XNkwJar552T0ona04bAaDOR7iPdNE4ufmoHyeweA1MJzq4QKi4chnQfkqTtnAVuBSLGv_CnnBto2gCUMziPR5tUXC5fbqm0tSfDixvdvqUqTREpxnA_2mmGX39w_gzWiruhkzk-JAWbW4yJ0NjY0ZbPBRiedGjnWeiy2lAA-osqrB8GgZXtRXlCg9yazdIEI9E0vLg_cpYhKUKojeBBl7O2SU8x3JpJZoaeviT1zbzpUOMHCDSqPp2kC5kBLuUllQCxdiGx46fQ-WljGIJIcLKd8hTlnLFjyObwXxTTYlA"
+    },
+    {
+      "question": "What other notable 21st-century art-rock bands are there besides Radiohead?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+other+notable+21st-century+art-rock+bands+are+there+besides+Radiohead%3F&subsequent_request_token=jq48-3icTZJJjqtmAISlnCBHYPmeFLqZjdXyguHHzGaeNggw2PhnMoMbs89FoqdEygVygJyic5p4FaWWJVWp9Kl-_a2s_0InTc6yJyWOTIVXivW4C-XCsT_KZiy-_hba_jP2HMOE65QAR9OjwHT8JHYkRzaCKxXjgxtv0qe_NUy0BVkOVTeO1N5sr0lMNiCTh8qN-GMYNlZA0F6CXdX8OKu6Z97KY2LlraQ4URCEHT8EwbXzieSWE_hYgCQ5N0OWY4Hqh04VSpJQygMPrsVcYLMShxJtAudptvGawMY-d5KYRAF_4nvdjfqngVFkEoHV9bE_l6kc0-xSdvPXYvRb3TTZO_2GId-MrKi7uZ-uH4jSzWWDvAzk5CIRgmMpTqe77wg3DE0ZlrlWz-8MRr_hbziNfNNkz9B_QZoalsixLGD_HQnKcar77h1n3wjEzapsrP8L_F70PazLf376mQPCgcvUNqOXymJIljSZfVdgmsFkmeI96lKea1K6G6BLTJXA2krpAZHDTc7H8mh_IGnqlsUylijvCxrwDoJh8x-IGBwgDuDTojKWurSYyFvF5rpSSK7jtW4-VyhhneRAx7nMts-99L8m13OsAycyYn-ZhCDe-9WsW7LO-dW982-LOAh7zyTKbgKrPt1lv5zuBhGd7yuIesmbpp7lFnfyveyEtazO4uluzvBCjowbVSs1qkFpgh5xQXcfiKmIB5pgDxaWo66thkTbcRKYKaINUXvn3i7Rqr0usbgpFKpCZOF4Chc2sx8BnuE8Kmm5ivOvaUowUmnpzKx2SiBQo_uI2YLyQLtrz6t9MiasOANbbVb0OS1AgM9CEmOJS6867xKRND72NOz5ZYcVx6u2x804OVv31VGd9XNkwJar552T0ona04bAaDOR7iPdNE4ufmoHyeweA1MJzq4QKi4chnQfkqTtnAVuBSLGv_CnnBto2gCUMziPR5tUXC5fbqm0tSfDixvdvqUqTREpxnA_2mmGX39w_gzWiruhkzk-JAWbW4yJ0NjY0ZbPBRiedGjnWeiy2lAA-osqrB8GgZXtRXlCg9yazdIEI9E0vLg_cpYhKUKojeBBl7O2SU8x3JpJZoaeviT1zbzpUOMHCDSqPp2kC5kBLuUllQCxdiGx46fQ-WljGIJIcLKd8hTlnLFjyObwXxTTYlA"
+    },
+    {
+      "question": "Tell me more about Jonny Greenwood's film scores",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+Jonny+Greenwood%27s+film+scores&subsequent_request_token=jq48-3icTZJJjqtmAISlnCBHYPmeFLqZjdXyguHHzGaeNggw2PhnMoMbs89FoqdEygVygJyic5p4FaWWJVWp9Kl-_a2s_0InTc6yJyWOTIVXivW4C-XCsT_KZiy-_hba_jP2HMOE65QAR9OjwHT8JHYkRzaCKxXjgxtv0qe_NUy0BVkOVTeO1N5sr0lMNiCTh8qN-GMYNlZA0F6CXdX8OKu6Z97KY2LlraQ4URCEHT8EwbXzieSWE_hYgCQ5N0OWY4Hqh04VSpJQygMPrsVcYLMShxJtAudptvGawMY-d5KYRAF_4nvdjfqngVFkEoHV9bE_l6kc0-xSdvPXYvRb3TTZO_2GId-MrKi7uZ-uH4jSzWWDvAzk5CIRgmMpTqe77wg3DE0ZlrlWz-8MRr_hbziNfNNkz9B_QZoalsixLGD_HQnKcar77h1n3wjEzapsrP8L_F70PazLf376mQPCgcvUNqOXymJIljSZfVdgmsFkmeI96lKea1K6G6BLTJXA2krpAZHDTc7H8mh_IGnqlsUylijvCxrwDoJh8x-IGBwgDuDTojKWurSYyFvF5rpSSK7jtW4-VyhhneRAx7nMts-99L8m13OsAycyYn-ZhCDe-9WsW7LO-dW982-LOAh7zyTKbgKrPt1lv5zuBhGd7yuIesmbpp7lFnfyveyEtazO4uluzvBCjowbVSs1qkFpgh5xQXcfiKmIB5pgDxaWo66thkTbcRKYKaINUXvn3i7Rqr0usbgpFKpCZOF4Chc2sx8BnuE8Kmm5ivOvaUowUmnpzKx2SiBQo_uI2YLyQLtrz6t9MiasOANbbVb0OS1AgM9CEmOJS6867xKRND72NOz5ZYcVx6u2x804OVv31VGd9XNkwJar552T0ona04bAaDOR7iPdNE4ufmoHyeweA1MJzq4QKi4chnQfkqTtnAVuBSLGv_CnnBto2gCUMziPR5tUXC5fbqm0tSfDixvdvqUqTREpxnA_2mmGX39w_gzWiruhkzk-JAWbW4yJ0NjY0ZbPBRiedGjnWeiy2lAA-osqrB8GgZXtRXlCg9yazdIEI9E0vLg_cpYhKUKojeBBl7O2SU8x3JpJZoaeviT1zbzpUOMHCDSqPp2kC5kBLuUllQCxdiGx46fQ-WljGIJIcLKd8hTlnLFjyObwXxTTYlA"
+    }
+  ]
+}

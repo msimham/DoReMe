@@ -1,0 +1,452 @@
+{
+  "search_metadata": {
+    "id": "6987c324ac1765c0eed7e840",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/uIAv2CqhMB0qNlbEkPvlIQ/6987c324ac1765c0eed7e840.json",
+    "created_at": "2026-02-07 22:56:36 UTC",
+    "processed_at": "2026-02-07 22:56:36 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Aerosmith%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Aerosmith%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/uIAv2CqhMB0qNlbEkPvlIQ/6987c324ac1765c0eed7e840.html",
+    "prettify_html_file": "https://serpapi.com/searches/uIAv2CqhMB0qNlbEkPvlIQ/6987c324ac1765c0eed7e840.prettify",
+    "total_time_taken": 8.14
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Aerosmith, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "Lg48FXicRZJJiutmAIQhJ9HyPYi6NVui8UKzbGu0Zm2EJlvDr8mabO1zkfBIIBfIAXKKzmnS2SS1_KDgK6hffi2qP8-aoSRFlRgaRmw6YQ6D7DcW8aMAj-zzL77tt9Cxtgzznul-lbKaGzJcxA0PSCGql3ZDo1EN1lzKjaiNiEjMA80bOt_jukhGa9f1WjcAeIIPgeeWsi1dN19yMa-NEFtmJK-TjAzX7QRh2hychUTyZF-OpFwBaiQCPguaTfVnPPfKzcYAJ5b5xXGZU-h7Q-gyulZfcae-WpnCKR42X3WuVyOM3tKdAxooN73V_lim4hEn96KbPxet3ysAknfyDYG-aUlWdXM_lR_QqZsLAH0ByLChAEKRGCXjw3eIHQZQ-EV6qeZ3CiHf0DeUhL5dFEdTf4ZA1RSQXGRN_x3yisdU9d07enjDITu5JY_qv8JvWd83VfH3T1Ac20W2PArYdq7mkRUoob9PwWm4E6ph50qWpGDCuNtY7S6uP6uoeV6vHPY138zPc_lFc-u8k-OI6bKWHu4a28FZulroaBL4AIzecb3XUhfnVWTLC11Kl_EDYkX-yCbnNiEnKd8deWsYjxqWbRqliTk02ejvvk7vs71UcJhRBdhjBjUT9UTcmZL9-N-Zc_mL6Bx5jeY-IME73vGAJPzE5eKMIIy1pF3r1cy2mpcw2J5N5I-JZJszW28sy-rs5uAa0pTe3Fvsv_mA9JNwJDH6CMxOBcCiKvninQ6bFItWsKkEtXLTihJu-QzPi2QQjE1oZNT6JiO2ba65Nrr4fBrnnLjfw4c87Ew6Crp5UQyRqi5b2F6Xap2v1OraZZZru4nnyxSWAeKc2olB-SnnhiAfcuDyZG5jbjeFXxfF73Vr2rvstQ81FGbxpWByEi9lgII7HO4SPdXlITwBBg5mj-EPo5ru5lOlR7RFL7c08Ua6Ac0c1eqBgE8ZD9_i8XWvJ3mkzcPt6RZP62lXnVLqiycpMMCtVbEVOKcxTrV-tNPcfP7OurP4vAn2Zjm11dD1K61HovBwKkKoaLT7fRU6CWDDjAWx1J-SdX-YiHzzLMRf1lZ2pJsrU9RCC_va7p0eT9GZ9xndR5CiFFwMvSRYSY14fWFEKdVg5DB3XFEPomELjpab1-JOmkoOn199S1bmtPKavNQWTzwLbo1dztoP8zou2z9zb2-F",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Aerosmith is an iconic American rock band founded in 1970. Following their retirement from touring in 2024, lead singer Steven Tyler announced a 2026 World Tour and a headlining performance at the 2026 Super Bowl Halftime Show.",
+      "reference_indexes": [
+        0,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Band Members: Age & Skills"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        0,
+        5,
+        3,
+        10,
+        11,
+        15,
+        13,
+        19,
+        12,
+        14,
+        8,
+        9,
+        2,
+        1
+      ],
+      "table": [
+        [
+          "Member",
+          "Age (as of Feb 2026)",
+          "Primary Occupations & Skills",
+          "Proficiency & Role"
+        ],
+        [
+          "Steven Tyler",
+          "77",
+          "Singer, Songwriter, Musician",
+          "Elite: 5-octave vocal range, harmonica, piano, percussion."
+        ],
+        [
+          "Joe Perry",
+          "75",
+          "Lead Guitarist, Songwriter, Vocalist",
+          "Elite: Lead guitar (Founding \"Toxic Twin\"); occasional lead vocals."
+        ],
+        [
+          "Tom Hamilton",
+          "74",
+          "Bassist, Songwriter",
+          "Expert: Bass (wrote \"Sweet Emotion\"); secondary guitar and backing vocals."
+        ],
+        [
+          "Joey Kramer",
+          "75",
+          "Drummer, Author, Entrepreneur",
+          "Expert: Founding drummer; known for high-energy solos."
+        ],
+        [
+          "Brad Whitford",
+          "73",
+          "Guitarist",
+          "Expert: Technical rhythm and lead guitar; critical to the band's dual-guitar sound."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Member"
+          },
+          {
+            "snippet": "Age (as of Feb 2026)"
+          },
+          {
+            "snippet": "Primary Occupations & Skills"
+          },
+          {
+            "snippet": "Proficiency & Role"
+          }
+        ],
+        [
+          {
+            "snippet": "Steven Tyler"
+          },
+          {
+            "snippet": "77"
+          },
+          {
+            "snippet": "Singer, Songwriter, Musician"
+          },
+          {
+            "snippet": "Elite: 5-octave vocal range, harmonica, piano, percussion."
+          }
+        ],
+        [
+          {
+            "snippet": "Joe Perry"
+          },
+          {
+            "snippet": "75"
+          },
+          {
+            "snippet": "Lead Guitarist, Songwriter, Vocalist"
+          },
+          {
+            "snippet": "Elite: Lead guitar (Founding \"Toxic Twin\"); occasional lead vocals."
+          }
+        ],
+        [
+          {
+            "snippet": "Tom Hamilton"
+          },
+          {
+            "snippet": "74"
+          },
+          {
+            "snippet": "Bassist, Songwriter"
+          },
+          {
+            "snippet": "Expert: Bass (wrote \"Sweet Emotion\"); secondary guitar and backing vocals."
+          }
+        ],
+        [
+          {
+            "snippet": "Joey Kramer"
+          },
+          {
+            "snippet": "75"
+          },
+          {
+            "snippet": "Drummer, Author, Entrepreneur"
+          },
+          {
+            "snippet": "Expert: Founding drummer; known for high-energy solos."
+          }
+        ],
+        [
+          {
+            "snippet": "Brad Whitford"
+          },
+          {
+            "snippet": "73"
+          },
+          {
+            "snippet": "Guitarist"
+          },
+          {
+            "snippet": "Expert: Technical rhythm and lead guitar; critical to the band's dual-guitar sound."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "member": "Steven Tyler",
+          "age_as_of_feb_2026": "77",
+          "primary_occupations_skills": "Singer, Songwriter, Musician",
+          "proficiency_role": "Elite: 5-octave vocal range, harmonica, piano, percussion."
+        },
+        {
+          "member": "Joe Perry",
+          "age_as_of_feb_2026": "75",
+          "primary_occupations_skills": "Lead Guitarist, Songwriter, Vocalist",
+          "proficiency_role": "Elite: Lead guitar (Founding \"Toxic Twin\"); occasional lead vocals."
+        },
+        {
+          "member": "Tom Hamilton",
+          "age_as_of_feb_2026": "74",
+          "primary_occupations_skills": "Bassist, Songwriter",
+          "proficiency_role": "Expert: Bass (wrote \"Sweet Emotion\"); secondary guitar and backing vocals."
+        },
+        {
+          "member": "Joey Kramer",
+          "age_as_of_feb_2026": "75",
+          "primary_occupations_skills": "Drummer, Author, Entrepreneur",
+          "proficiency_role": "Expert: Founding drummer; known for high-energy solos."
+        },
+        {
+          "member": "Brad Whitford",
+          "age_as_of_feb_2026": "73",
+          "primary_occupations_skills": "Guitarist",
+          "proficiency_role": "Expert: Technical rhythm and lead guitar; critical to the band's dual-guitar sound."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Residence Locations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Members maintain various properties, often splitting time between historical roots in the Northeast and warmer climates:",
+      "reference_indexes": [
+        20
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Steven Tyler: Primarily resides in Sunapee, NH and maintains a high-end estate in Maui, HI.",
+          "snippet_links": [
+            {
+              "text": "Maui, HI",
+              "link": "https://www.google.com/search?q=Maui,+HI&kgmid=/m/0jbs5&sa=X&ved=2ahUKEwiM4KuLvciSAxWHMtAFHY2cM88Q3egRegQICBAD"
+            }
+          ]
+        },
+        {
+          "snippet": "Joe Perry: Resides part-time on Longboat Key, FL (near Sarasota) and maintains a farm in Duxbury, MA."
+        },
+        {
+          "snippet": "Tom Hamilton: Has long been associated with the Cape Cod, MA area, specifically West Barnstable.",
+          "snippet_links": [
+            {
+              "text": "Cape Cod, MA",
+              "link": "https://www.google.com/viewer/place?mid=/m/09nx4&sa=X&ved=2ahUKEwiM4KuLvciSAxWHMtAFHY2cM88QqdYPegQICBAJ"
+            }
+          ]
+        },
+        {
+          "snippet": "Joey Kramer: Currently calls Austin, TX home, having moved there after living in New England for 40 years. He also has ties to Georgetown, TX."
+        },
+        {
+          "snippet": "Brad Whitford: Often found in the Greater Boston area, specifically Braintree/Weymouth, MA."
+        }
+      ],
+      "reference_indexes": [
+        3,
+        1,
+        2,
+        4,
+        16
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to see a list of confirmed 2026 tour dates or more details on their individual solo projects?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Aerosmith | Members, Songs, History, & Facts | Britannica",
+      "link": "https://www.britannica.com/topic/Aerosmith#:~:text=Aerosmith%2C%20American%20heavy%20metal%20band,1950%2C%20New%20York%20City).",
+      "snippet": "Jan 15, 2026 \u2014 Aerosmith, American heavy metal band. One of the biggest arena-rock attractions of the late 1970s, Aerosmith became even more popu...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/JSHDe1-jJ_82Dyfm6W6ORIIzjYBgu0tmwq7vRE5bsw8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/RP7S5rY-iU5AFZ5Cxv9s6WZDK8Br43CcO9SAiqIuUOk.png",
+      "index": 0
+    },
+    {
+      "title": "Aerosmith band members and their recognition",
+      "link": "https://www.facebook.com/groups/2204792944/posts/10160220219522945/#:~:text=Robert%20Coleman,Robert%20Coleman",
+      "snippet": "Feb 16, 2024 \u2014 Robert Coleman. It's cool that Brad is getting a much deserved recognition from 71 till now and extremely gifted guitarist . I lik...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/b2IuTjUz5bGJeII7bHWcQRIh_H3t8wzaoTMAoSseNOc.jpeg",
+      "index": 1
+    },
+    {
+      "title": "The Members of Aerosmith: Then and Now - People.com",
+      "link": "https://people.com/aerosmith-members-then-and-now-7498411#:~:text=Drummer%20Joey%20Kramer%20was%20born,band%20to%20focus%20on%20family.",
+      "snippet": "Sep 12, 2023 \u2014 Drummer Joey Kramer was born Joseph Michael Kramer in the Bronx on June 21, 1950. He was a part of the New Jersey garage band the ...",
+      "source": "People.com",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/64FDXGrKX5CHgZaCBe73ob4JfGE3mQD5vjb8RYk4uTo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/tpJmXbpGtPYHCgPiHoCuozfLvdYtRi58EegYmbs2qZE.png",
+      "index": 2
+    },
+    {
+      "title": "Steven Tyler facts: Aerosmith singer's age, wife, children and ...",
+      "link": "https://www.smoothradio.com/news/music/steven-tyler-age-wife-children/#:~:text=How%20old%20is%20Steven%20Tyler,ancestry%20on%20his%20mother's%20side.",
+      "snippet": "Apr 17, 2025 \u2014 How old is Steven Tyler and where was he born? Steven Tyler was expelled from Roosevelt High School. Picture: Roosevelt High Schoo...",
+      "source": "Smooth Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/3nxuuakMbqIKKjB4MD0LYcdIa1T8JARmCu5CpKWzXS4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/GTSEoTXDTqGsZl20Z6kZ1yOSSvjKPh87HttryaA3Tx0.png",
+      "index": 3
+    },
+    {
+      "title": "Band members - Aerosmith",
+      "link": "https://aerosmthmusic.weebly.com/band-members.html#:~:text=Joey%20Kramer,elbows%20and%20even%20his%20forehead.",
+      "snippet": "Joey Kramer. Joseph Michael \"Joey\" Kramer (born June 21, 1950, the Bronx, New York City, United states) is the Drummer for the Ame...",
+      "source": "Weebly",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/vxerw9PTaFXOVAJrK3nr24-Gc6YlEvut7TTf-CDqtYc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/BCaDP89Bw9ll3LoyHwMdBnEZ8idv2fgSIb9Nxov_Pv4.png",
+      "index": 4
+    },
+    {
+      "title": "Aerosmith | Warner Bros. Entertainment Wiki - Fandom",
+      "link": "https://warnerbros.fandom.com/wiki/Aerosmith#:~:text=Aerosmith%20is%20an%20American%20rock,as%20the%20%22Toxic%20Twins%22.",
+      "snippet": "Aerosmith is an American rock band formed in Boston in 1970. The group consists of Steven Tyler (lead vocals), Joe Perry (guitar),",
+      "source": "Warner Bros. Entertainment Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/nuOU_aKGzN6ypV5ej02sw-UQlq_q8FhpIIx3pwRBDJg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/zfFx8Jyd9_7pS08iCb7vCuSeqM8TWsrz2KxjczXZYbs.png",
+      "index": 5
+    },
+    {
+      "title": "BREAKING NEWS: Steven Tyler Announces 2026 World Tour ...",
+      "link": "https://www.facebook.com/Rockpulse3/posts/breaking-news-steven-tyler-announces-2026-world-tour-stay-with-us-the-steven-tyl/818892790698088/#:~:text=to%20create%20content.-,4mo,Robert%20McGlyn",
+      "snippet": "Oct 19, 2025 \u2014 Rock legend Steven Tyler is set to electrify the world once again as he takes center stage at the 2026 Super Bowl Halftime Show, p...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/2O1dUHwwqMsHy9CCWRtUjz3LpW5GWheGfsZRA9-nS_o.jpeg",
+      "index": 6
+    },
+    {
+      "title": "\ud83d\udd25 Rock legend Steven Tyler has officially announced his 2026 World ...",
+      "link": "https://www.facebook.com/100083194973440/posts/-rock-legend-steven-tyler-has-officially-announced-his-2026-world-tour-marking-f/852351757547982/#:~:text=Site/%25f0%259f%2594%25a5%2Dsteven%2Dtyler%2Dannounces%2Dhis%2D%202026%2Dworld%2Dtour%2Dfive%2Ddecades%2Dof%2Dfire%2Dsurvival%2Dand%2Da%2D%20voice%2Dthat%2Drefuses%2Dto%2Dfade%2D%25f0%259f%2594%25a5%20this%20monumental%20tour%20isn't,inside%20one%20of%20rock's%20most%20iconic%20frontmen.",
+      "snippet": "Site/%f0%9f%94%a5-steven-tyler-announces-his- 2026-world-tour-five-decades-of-fire-survival-and-a- voice-that-refuses-to-fade-%f0%",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/dgwrbyt_R8LbYMBRCecvdd7hjMhzewiCEJN-8G7VUKA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/l32I9IA6sEBp5qofkC3t1C285mT1O8WqhDJgpltMOJ0.png",
+      "index": 7
+    },
+    {
+      "title": "Happy Birthday to Tom Hamilton of Aerosmith, born December 31, ...",
+      "link": "https://www.facebook.com/America1980s/posts/happy-birthday-to-tom-hamilton-of-aerosmith-born-december-31-1951-and-turning-74/1457661163026137/#:~:text=Thomas%20William%20Hamilton%20(born%20December,%2D%20in%20New%20York%2C%20NY.",
+      "snippet": "Dec 30, 2025 \u2014 Thomas William Hamilton (born December 31, 1951) is an American musician and songwriter best known as the bassist for the legendar...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/FwOrc_7bAYVlbfndqp8OST6NUD1hqLYFxhPxrxGVAfs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/AHyTOrTUwu0I95ow88FYZ2c-n6rYlTNA2hXFLsg0Pmo.png",
+      "index": 8
+    },
+    {
+      "title": "Tom Hamilton (musician) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tom_Hamilton_(musician)#:~:text=Thomas%20William%20Hamilton%20(born%20December,as%20a%20member%20of%20Aerosmith.",
+      "snippet": "Thomas William Hamilton (born December 31, 1951) is an American musician and songwriter who serves as the bassist for the hard roc...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/Jxqj8nzAAVxc2_H-GgTWR1VZ-Ug3nGSnMz2gLmhsMa0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/Ebk6k2ShQTbmzzksh09lDrBd-V1D6edP-ZMjLQCWOjA.png",
+      "index": 9
+    },
+    {
+      "title": "Steven Tyler | Biography, Aerosmith, Career, & Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Steven-Tyler#:~:text=fractured%20his%20larynx.-,Awards%20and%20controversy,See%20all%20related%20content",
+      "snippet": "Jan 15, 2026 \u2014 Awards and controversy. Aerosmith was inducted into the Rock & Roll Hall of Fame in 2001. In 2013 Tyler and Perry were recognized ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/grlBlWiPCkgWOXHV-kRGMaZDIm4MK8WKsbhDxebaluE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/7wGQefj3mujm3TGMA7HmuYZQXiSRUTvoLNABQRfSYH0.png",
+      "index": 10
+    },
+    {
+      "title": "Steven Tyler - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Steven_Tyler#:~:text=Table_content:%20header:%20%7C%20Steven%20Tyler%20%7C%20%7C,Tyler:%20Years%20active%20%7C%20:%201964%E2%80%93present%20%7C",
+      "snippet": "Table_content: header: | Steven Tyler | | row: | Steven Tyler: Born | : Steven Victor Tallarico March 26, 1948 New York City, U.S.",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/z_8q_AMXNko76xlCARhaltZfHPhTVlDt_9WmLe2vFB4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/mf-7VnDTUNnNEgfFBkp21tn5qwImTy8-0tUg8QXZlhw.png",
+      "index": 11
+    },
+    {
+      "title": "Joe Perry (musician) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Joe_Perry_(musician)#:~:text=Table_title:%20Joe%20Perry%20(musician)%20Table_content:%20header:%20%7C,rock%20rock%20and%20roll%20heavy%20metal%20%7C",
+      "snippet": "Table_title: Joe Perry (musician) Table_content: header: | Joe Perry | | row: | Joe Perry: Perry performing with Hollywood Vampire...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/tlKRCYb8yIdo0AI1JjOAL31I9ea3f4GXue1f41-UksE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/IjMIELzBbIK2X8enMEjPjsjlsO9KwyF0AnrPLrXqYlk.png",
+      "index": 12
+    },
+    {
+      "title": "9/10/1950 Aerosmith's Joe Perry born - ROCKinsights",
+      "link": "https://rockinsights.com/noteworthy-then/37884#:~:text=9/10/1950%20Aerosmith's%20Joe%20Perry%20born",
+      "snippet": "Aug 29, 2025 \u2014 9/10/1950 Aerosmith's Joe Perry born.",
+      "source": "ROCKinsights",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/Dz8CgDV4A_aGFPUyl1ij9_vLoTBua8ujhm8AkDJH4Uw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/vC5EUQgOmjAsydRC_3TdM-QkYOdBH9q4Y8kjQFVTc44.jpeg",
+      "index": 13
+    },
+    {
+      "title": "Tom Hamilton - IMDb",
+      "link": "https://www.imdb.com/name/nm0358195/#:~:text=How%20old%20is%20Tom%20Hamilton,1%20inch%2C%20or%201.85%20meters",
+      "snippet": "How old is Tom Hamilton? 73 years old. When was Tom Hamilton born? December 31, 1951. Where was Tom Hamilton born? Colorado Spring...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/DLtcXUSbjEmO-INns5qGOVd0uyGbZMT4xRhfW_VG40A.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/XkkQtPoiBSDewUw9G2FhwjkYNgYSP7ny9EPZ2TXufdg.jpeg",
+      "index": 14
+    },
+    {
+      "title": "Joe Perry",
+      "link": "https://www.imdb.com/name/nm0675128/",
+      "snippet": "FAQ * How old is Joe Perry? 74 years old. * When was Joe Perry born? September 10, 1950. * Where was Joe Perry born? Lawrence, Mas...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/ngDwoJp5aYqFJgDchrX4t3MQasV4-dgXPuGDTzfGweY.jpeg",
+      "index": 15
+    },
+    {
+      "title": "Famous Residents of Sarasota \u2013 Discover Their Stories",
+      "link": "https://thompsongroupsarasota.com/blog/stars-among-us-famous-residents-of-sarasota#:~:text=You%20may%20know%20Joe%20Perry,his%20wife%20on%20Longboat%20Key.",
+      "snippet": "You may know Joe Perry from Aerosmith and Hollywood Vampires, or he may be your neighbor! Joe resides part-time with his wife on L...",
+      "source": "thompsongroupsarasota.com",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/JJ-KvAGiAAIiGDeIjg0HZy_06H6mwMuBg4rwqBP2rQY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/9azC1kaMjaRztSMiQvNlh3gjFXDswSle7_XXYnski6Q.png",
+      "index": 16
+    },
+    {
+      "title": "Happy 77th Birthday STEVEN TYLER- The \"Demon of Screamin'\" ...",
+      "link": "https://www.facebook.com/groups/2040661522841175/posts/3738335746407069/#:~:text=%22HAPPY%2077TH%20BIRTHDAY%20TO%20STEVEN,%F0%9F%8F%BB%F0%9F%8C%B9%F0%9F%A4%98%F0%9F%8F%BB%F0%9F%96%A4",
+      "snippet": "Mar 26, 2025 \u2014 \"HAPPY 77TH BIRTHDAY TO STEVEN TYLER\" \ud83e\udd73\ud83e\udd29\ud83c\udf82\ud83c\udf81\ud83c\udf7e\ud83e\udd42\ud83c\udf89\ud83c\udf8a Steven Victor Tallarico (born March 26, 1948), known professionally as Stev...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/GHxBvNtNOEmeb_xz9FrGhWGjllq17a-P5j6tvh5jECw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/ImnoXkoaCqKdQLg2VNVBmtGXmcAEnD6VWYWBbviKmNg.png",
+      "index": 17
+    },
+    {
+      "title": "Happy 77th Birthday STEVEN TYLER- The \"Demon of Screamin'\" ...",
+      "link": "https://www.facebook.com/groups/2040661522841175/posts/3738337196406924/#:~:text=Steven%20Tyler%20is%20the%20electrifying,70sRock%20%23Vocals%20%23MusicIcon%20%23DemonOfScreamin",
+      "snippet": "Mar 26, 2025 \u2014 Steven Tyler is the electrifying frontman of Aerosmith, renowned for his soaring vocals, scarves-and-spandex stage persona, and un...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/lkUYOijkzhE7A2jip6C2Yjf30bouqql5NJofHd88l_o.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/nGcU8kn6rI_ZUvLkg1ctF5pJv-oRYCx1oHJtH4tSr7A.png",
+      "index": 18
+    },
+    {
+      "title": "Joe Perry Net Worth",
+      "link": "https://www.celebritynetworth.com/richest-celebrities/rock-stars/joe-perry-net-worth/#:~:text=Real%20Estate-,What%20is%20Joe%20Perry's%20Net%20Worth?,time%20great%20rock%20bands%2C%20Aerosmith.",
+      "snippet": "What is Joe Perry's Net Worth? Joe Perry is an American rock musician who has a net worth of $140 million. Perry is most famous fo...",
+      "source": "Celebrity Net Worth",
+      "thumbnail": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/DIr4_E9TFCYIEKtVruX2xoholAfeajH86jgQ_uRHZ3k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c324ac1765c0eed7e840/images/ZPm8k7zqjI05pfjVm4al0Q1ehS7QkfQKLnMDAmRttSU.png",
+      "index": 19
+    },
+    {
+      "title": "Aerosmith, Kiss, and the making of Honkin' On Bobo",
+      "link": "https://www.loudersound.com/bands-artists/biographies/on-the-road-with-americas-loudest-survivors-aerosmith-kiss-and-the-making-of-honkin-on-bobo#:~:text=You%20can%20count%20on%20seeing%20Aerosmith%20doing,juice%20to%20do%20projects%20like%20%E2%80%A6%20Bobo.",
+      "snippet": "You can count on seeing Aerosmith doing even more touring in the future as well. The group have spent a chunk of every year since ...",
+      "source": "Louder",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQk7oBWcWKyxVQIFEbgI-4WL7mQgBkKH-AF83VJX_2rUu9ruWyP",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.loudersound.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    }
+  ]
+}

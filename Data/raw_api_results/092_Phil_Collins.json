@@ -1,0 +1,284 @@
+{
+  "search_metadata": {
+    "id": "6987c3301248155feb1e3ef2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/YtaGsQgUTK_OqaAptCEhrA/6987c3301248155feb1e3ef2.json",
+    "created_at": "2026-02-07 22:56:48 UTC",
+    "processed_at": "2026-02-07 22:56:48 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Phil+Collins%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Phil+Collins%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/YtaGsQgUTK_OqaAptCEhrA/6987c3301248155feb1e3ef2.html",
+    "prettify_html_file": "https://serpapi.com/searches/YtaGsQgUTK_OqaAptCEhrA/6987c3301248155feb1e3ef2.prettify",
+    "total_time_taken": 8.32
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Phil Collins, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "OdRvP3icTVRLrqNWFJSyEobdUl43H4NBT2-AMQaM-cPFMEEYrvn__8x7I1ErkbKBLCCr6KwmbimD1JmV6tTg1FF9-w1mfymKJoYQ2hJzhoUu6X1IoagRfYdlH_34m6uaxbO9xRLjxrrEoec4S4ixmwWA7lUNDjJ0VwA7OjiNh7V6N6pxdB1mdAVV9p0Yvd1NYPGH_SHEFDhfUUtYC-sCRtXhCX_DDtauhrf7SYJ2uri5QTiYeTPrC2pWKRGVzGBiwDHQETXBtYira82nsWo7jOS5oAR8QZoC6B2-NKKKx5XzyfTW5uYIKurnYI0tDPhC9Oc0wD4IE1iPPxql2bOyDL-SX1Dkk5vVcbMMiGojGPoFfUdeBHV4R1bq8Blh27aELnzI2fiVJI5fCAr5JIu2cvsVKbMCIgKMiuYzwqV9U8GvGPEy-DmIFT7DPvtv5feoaYoM_vPLzPLcBxteq5Cc8CMqRwoeBKjEaLjjvFWP2QpywcrFQydx287Mx-Z2DeREBO5e69G0vCNBYMFo6uHbyeFk3v7gbor4P9ayTf2DPVPnJpnnaGZWcsn6Kl2k2jjmZnI9YKNxK6_PVUnTIxpRzdC6A3-n23XzdnXR_PvyCKBXBfegQeHFH-42qzxqt3G410PIWFEe7US6HLV3RJXOHyROf6SE3o3AvPOxsI-HGWdOncfPEqoTU3WW-5zTND0mXgnG1-JZTnzJ1rBrruBgWmjSqRRBamF7UG8cUd4wrve7pjpNsGatu5uB5-NUu7XinDeF3_0T1mIeG4cOyKn0TQX50cT0XJzmOhYWLqZrvMeCjueIMB-PyaRSxkyKnMqJDK6ph4W1UA2irnoSW1Fn9IKZeHoJdXzOjiea6ehVDsEVK7zMNQeOiNgk3IjAoyCq75tQZFS-Uh2gbdPfD8JxbEtZldkz4fv6PCbviPXzICzPy500NNxMvpVOK2KdhRmXCq6qBks8UendHsgpuNRk63kHZvGDPHYrFgyFAF-iMDGcbIpnskn8p2twdTdFwQXN26p94nltYVzEvyNn8CFtTFoXtsYQfDqIBrppj-CJ41dtc8sFqxSvtdtY7XnZVNgXvlfDWPz4g3VGfn1yTBNgaiDNZqO6DyqNOXGUtlBpCfpt2E_eutoXbzOPjPekzxfeXybBjqes9zLyVCWs0c7k46zwWLpghhqEhdHEdF5Zw6OgN9nZpCRHI7Ht3JVKZ4uvm9QeexqMPmDDYhs4Tq7a601Onq-SeZNIx2yHjJNyXajGVKYA5fD_AgYmiEI",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Phil Collins is currently 75 years old (born January 30, 1951). He is presently living in retirement in Geneva, Switzerland, where he reportedly receives 24-hour nursing care due to ongoing health issues.",
+      "reference_indexes": [
+        4,
+        0,
+        15,
+        9,
+        12
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills, Occupations & Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Collins is recognized as a world-class musician whose proficiency led to his induction into the Rock and Roll Hall of Fame twice (as a solo artist and member of Genesis).",
+      "reference_indexes": [
+        14,
+        2
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Drums & Percussion (Primary Skill)",
+          "list": [
+            {
+              "snippet": "Occupations: Session drummer, band member (Genesis, Brand X), solo performer."
+            },
+            {
+              "snippet": "Proficiency: Mastery. Ranked #43 on Rolling Stone's 100 Greatest Drummers of All Time and inducted into the Modern Drummer Hall of Fame. He pioneered the \"gated reverb\" drum sound that defined the 1980s."
+            },
+            {
+              "snippet": "Note: He no longer plays professionally due to spinal nerve damage and arthritis."
+            }
+          ]
+        },
+        {
+          "snippet": "Vocals",
+          "list": [
+            {
+              "snippet": "Occupations: Lead singer, backing vocalist."
+            },
+            {
+              "snippet": "Proficiency: Expert. Achieved seven US #1 solo singles and one with Genesis. Known for an emotionally vulnerable, soulful tenor voice capable of high-energy pop and intimate ballads."
+            }
+          ]
+        },
+        {
+          "snippet": "Songwriting & Composition",
+          "list": [
+            {
+              "snippet": "Occupations: Songwriter, film score composer (e.g., Disney's Tarzan)."
+            },
+            {
+              "snippet": "Proficiency: Exceptional. Inducted into the Songwriters Hall of Fame in 2003. He won an Academy Award for \"You'll Be in My Heart\"."
+            }
+          ]
+        },
+        {
+          "snippet": "Record Production",
+          "list": [
+            {
+              "snippet": "Occupation: Producer."
+            },
+            {
+              "snippet": "Proficiency: Advanced. Produced nearly all of his solo albums and multiple albums for artists like Eric Clapton and Robert Plant."
+            }
+          ]
+        },
+        {
+          "snippet": "Multi-Instrumentalist (Keyboards, Bass, Guitar)",
+          "list": [
+            {
+              "snippet": "Occupations: Studio musician."
+            },
+            {
+              "snippet": "Proficiency: Professional. While primarily known as a drummer, he played nearly all instruments (including keyboards and drum machines like the Roland TR-808) on his solo album Both Sides."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        4,
+        2,
+        1,
+        3,
+        13,
+        10,
+        6,
+        11,
+        8,
+        7
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Non-Music Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Actor: Began as a child actor in the West End (Oliver!) and starred in films like Buster (1988) and guest-starred on Miami Vice."
+        },
+        {
+          "snippet": "Author: Published his autobiography, Not Dead Yet, in 2016."
+        }
+      ],
+      "reference_indexes": [
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to know more about his current health status or his legendary history with the Alamo?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Phil Collins | Songs, In The Air Tonight, Another ... - Britannica",
+      "link": "https://www.britannica.com/biography/Phil-Collins#:~:text=Quick%20Facts,%2C%202026)%20(Show%20more)",
+      "snippet": "Jan 26, 2026 \u2014 Quick Facts. In full: Philip David Charles Collins. Born: January 30, 1951, London, England (age 75) Notable Family Members: daugh...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/l9uKH1jwjp0krmYgvdLWUSrbKRVNKHExddPGJHJGCTM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/hm9niDpcb2hs5ugQzjiQXmUZ9s_c0W7o5N6ORUnEtjQ.png",
+      "index": 0
+    },
+    {
+      "title": "Phil Collins | Songs, In The Air Tonight, Another ... - Britannica",
+      "link": "https://www.britannica.com/biography/Phil-Collins#:~:text=Phil%20Collins%20acted%20in%20TV,Pop%20Culture%20Quiz",
+      "snippet": "Jan 26, 2026 \u2014 Phil Collins * What bands was Phil Collins a part of? Before becoming a successful solo pop singer, Phil Collins was a part of the...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/-y2j15fnjeD2Hl6XSp8TlGNxRtreB1UnjzuB15oO3KY.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/XxtUnMAEVXddUvlqhA5d8mUrN7vUmmA5Jhkidu3sI1w.png",
+      "index": 1
+    },
+    {
+      "title": "Phil Collins' Solo Career and Eligibility for the Rock and Roll ...",
+      "link": "https://www.facebook.com/groups/rockhallfanspace/posts/4058762197687443/#:~:text=Here%20is%20a%20just%20a,albums%20as%20a%20Solo%20Artist!",
+      "snippet": "Dec 9, 2024 \u2014 He then rejoined Genesis in 2020 for a second and final reunion tour, which ran from 2021 to 2022. Collins's discography includes ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/JR-a-xMHmGniV8EzmcShiQf2M58Axw95KiNNfQTcSbw.jpeg",
+      "index": 2
+    },
+    {
+      "title": "Phil Collins - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Phil_Collins",
+      "snippet": "Phil Collins * Musician. * singer. * songwriter. * record producer. * actor. ... For other people named Phil Collins, see Phil Col...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/1qopamWKCAnBVtQPBYHPKz4Asg0AbZBWsQftpLXHF9Q.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/V_LREl86Jw0pocj0Kh2sv7GyMQWpJE8O74Fdpiebflk.png",
+      "index": 3
+    },
+    {
+      "title": "Phil Collins - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Phil_Collins",
+      "snippet": "Phil Collins * Birth name. Phillip David Charles Collins. * Born. January 30, 1951 (age 75) * Origin. Wandsworth, London Borough o...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/RrrUYk_P0ZWJGdf7CkBvF6xZTU7-Qurhr7Jcc2mGnLc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/2ZE_v-n2eV_f1Ux7si8FFBGqVCqu158q75kDAnHvh3s.png",
+      "index": 4
+    },
+    {
+      "title": "Phil's drumming skills recognized by non-fans - Facebook",
+      "link": "https://www.facebook.com/groups/579879349677672/posts/1247167142948886/#:~:text=Philip%20David%20Charles%20%22Phil%22%20Collins,drumporn%20%23vicfirth%20%23drummerslife%20%23cymbals",
+      "snippet": "Jun 27, 2025 \u2014 Philip David Charles \"Phil\" Collins (born January 30, 1951, in Chiswick, London) is an English drummer, singer, songwriter, and re...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/J1PHzWVFuvZMsMZ70kXjcwC0Ot2ScbtewkZWy4mUyGI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/gblnoIMJXOyspfoGrKLeKp5f3od1t1hm5kBTaIk93dU.png",
+      "index": 5
+    },
+    {
+      "title": "PHIL COLLINS ANNOUNCES FINAL \u201cIN THE AIR TONIGHT\u201d ...",
+      "link": "https://www.facebook.com/100082068314382/posts/phil-collins-announces-final-in-the-air-tonight-world-tour-2026-40-cities-legend/854843033927966/#:~:text=Personally%20I%20think%20this%20number,you%20for%20joining%20me%20tonight.",
+      "snippet": "Jan 1, 2026 \u2014 Personally I think this number should be cut in half considering everything he has done for modern rock and roll music. His drum f...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/6OSQTr_Cd-dY8fPlfhutFyt-oEYWUOK0dxJvZgD8O6g.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/Liee9yFLh5X0AZBzTfOtP5ebc1EOTSaiJhrDZ6I1MAs.png",
+      "index": 6
+    },
+    {
+      "title": "Phil Collins never learned to read sheet music, yet he played nearly ...",
+      "link": "https://www.facebook.com/philcollinsexperience/posts/phil-collins-never-learned-to-read-sheet-music-yet-he-played-nearly-every-instru/1517631219956544/#:~:text=Phil%20Collins%20Experience-,Phil%20Collins%20never%20learned%20to%20read%20sheet%20music%2C%20yet%20he,we're%20honored%20to%20showcase.",
+      "snippet": "Jan 8, 2026 \u2014 Phil Collins never learned to read sheet music, yet he played nearly every instrument on his solo albums. Pure instinct. \ud83d\udc42 It's t...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/QQ0Qt2Jld2lSCfndsAnFlEJRy7Y0EXkXCKjC96PbJ5k.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/xL2beZRDeb0KvRG68RRH7GzaOcdOKA_EpN8Uogjs7r4.png",
+      "index": 7
+    },
+    {
+      "title": "Dissecting the Phil Collins Drum Sound - InSync - Sweetwater",
+      "link": "https://www.sweetwater.com/insync/dissecting-the-phil-collins-drum-sound/#:~:text=The%20Electronics,Genesis's%201986%20album%2C%20Invisible%20Touch.",
+      "snippet": "Apr 21, 2021 \u2014 The Electronics. Phil was an ardent proponent of \u2014 and early adopter of \u2014 electronic drums. He would frequently use drum machines ...",
+      "source": "Sweetwater",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/g-fQiyzfyk-YOHR3KRB9DTe0ZsSfGM_3mdW6I_y2pkU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/sWx5qRevwn3N16cn9M2XX2qoVOafybrjQq3w6lO1xCY.png",
+      "index": 8
+    },
+    {
+      "title": "Phil Collins' Switzerland home with 'live-in nurse' - and 'dig me ...",
+      "link": "https://ca.style.yahoo.com/phil-collins-switzerland-home-live-210000097.html#:~:text=it's%20selling%20fast-,Phil%20Collins'%20Switzerland%20home%20with%20'live%2Din%20nurse',lavish%20home%20in%20Geneva%2C%20Switzerland",
+      "snippet": "Feb 3, 2026 \u2014 Phil Collins' Switzerland home with 'live-in nurse' - and 'dig me' room. Hello! Tue, February 3, 2026 at 1:00 p.m. PST. The media ...",
+      "source": "Yahoo Lifestyle Canada",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/onko6leAUAG2buG9Ojeg7dYM4lsOKFDnii54hBW3D5s.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Phil Collins transitioned from a respected session musician and ...",
+      "link": "https://www.facebook.com/classicmemorylaneofficial/posts/phil-collins-transitioned-from-a-respected-session-musician-and-ensemble-drummer/1457290676401889/#:~:text=of%20British%20broadcasting.-,His%20professional%20identity%20is%20anchored%20by%20his%20dual%20mastery%20of,crafted%2C%20emotionally%20direct%20pop%20music.",
+      "snippet": "Jan 16, 2026 \u2014 His professional identity is anchored by his dual mastery of complex rhythm and accessible, melodic songwriting that resonated acr...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/aK_mCPDV5zm808eJqEF78nv9IY6MAJgPV0gbs_QDiUo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/h62QN13Amd7tKe5PSltD0p28sucudDESrKxRECj7PAs.png",
+      "index": 10
+    },
+    {
+      "title": "Phil Collins: The Multifaceted Musician Behind the Drums",
+      "link": "https://www.oreateai.com/blog/phil-collins-the-multifaceted-musician-behind-the-drums/cd5ff96e69aa6341e3ef96c21e81374a#:~:text=Phil%20Collins%20is%20a%20name,and%20as%20a%20solo%20artist.",
+      "snippet": "Dec 30, 2025 \u2014 It's more than just keeping time; it's about creating atmosphere and emotion through percussion. But Collins isn't limited to just...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/1v40GFIdeC9OTmItMZtmTZ6SZQwLC02L8pd_HtP9lus.png",
+      "index": 11
+    },
+    {
+      "title": "Phil Collins' Switzerland home with 'live-in nurse' - and 'dig me ...",
+      "link": "https://www.hellomagazine.com/homes/881669/phil-collins-switzerland-home-live-in-nurse-dig-me-room/#:~:text=The%20You'll%20Be%20in,%2D%20and%20'dig%20me'%20room",
+      "snippet": "Feb 3, 2026 \u2014 Leaving a life in Miami behind, Phil decided to return to his mansion in the Swiss countryside for some peace as he battled with h...",
+      "source": "HELLO! Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/juNzCypVynqNSS1mvLFyhAIcc5e7DRSDt9uYg68UUHU.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Phil Collins | Ultimate Pop Culture Wiki | Fandom",
+      "link": "https://ultimatepopculture.fandom.com/wiki/Phil_Collins#:~:text=Philip%20David%20Charles%20Collins%20(born,other%20artist%20during%20the%201980s.",
+      "snippet": "Table_content: header: | Phil Collins | | row: | Phil Collins: Collins in 2007 | : | row: | Phil Collins: Born | : Philip David Ch...",
+      "source": "Ultimate Pop Culture Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/YNdvou838cA1leIUMNVaBhSGE3PM5tvFsVV2BrAVHBo.jpeg",
+      "index": 13
+    },
+    {
+      "title": "\ud835\udc07\ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc32 \ud835\udfd5\ud835\udfd3\ud835\udc2d\ud835\udc21 \ud835\udc1b\ud835\udc22\ud835\udc2b\ud835\udc2d\ud835\udc21\ud835\udc1d\ud835\udc1a\ud835\udc32 \u2014 \ud835\udc0f\ud835\udc21\ud835\udc22\ud835\udc25 \ud835\udc02\ud835\udc28\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc2c \u2800 Born January ...",
+      "link": "https://www.facebook.com/terry.pastercomeau.3/photos/%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A9%F0%9D%90%B2-%F0%9D%9F%95%F0%9D%9F%93%F0%9D%90%AD%F0%9D%90%A1-%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2-%F0%9D%90%8F%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A5-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%ACborn-january-30-1951-phil-collins-is-one-of-the-/1608573090558290/#:~:text=33-,%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%A9%F0%9D%90%A9%F0%9D%90%B2%20%F0%9D%9F%95%F0%9D%9F%93%F0%9D%90%AD%F0%9D%90%A1%20%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%B2%20%E2%80%94%20%F0%9D%90%8F%F0%9D%90%A1%F0%9D%90%A2%F0%9D%90%A5%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%AC%20%E2%A0%80%20Born%20January%2030%2C%201951,RockLegends%20%23Songwriter%20%23OnThisDay%20%23BirthdayTribute",
+      "snippet": "Jan 30, 2026 \u2014 \ud835\udc07\ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc32 \ud835\udfd5\ud835\udfd3\ud835\udc2d\ud835\udc21 \ud835\udc1b\ud835\udc22\ud835\udc2b\ud835\udc2d\ud835\udc21\ud835\udc1d\ud835\udc1a\ud835\udc32 \u2014 \ud835\udc0f\ud835\udc21\ud835\udc22\ud835\udc25 \ud835\udc02\ud835\udc28\ud835\udc25\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc2c \u2800 Born January 30, 1951, Phil Collins is one of the most successful...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/TOTrtrXqz5hNB_DklPnQcBvwobmeqbJDVxw2Is4C_VI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/ZxTNkn5X173evgyaGcbQ3MaNezsURR7R1B8ZBC2HeSU.png",
+      "index": 14
+    },
+    {
+      "title": "Let's take a look inside Phil Collins five-bed mansion that overlooks the ...",
+      "link": "https://www.facebook.com/hello/posts/lets-take-a-look-inside-phil-collins-five-bed-mansion-that-overlooks-the-stunnin/1315214490653107/#:~:text=%F3%B1%A2%8F-,Let's%20take%20a%20look%20inside%20Phil%20Collins%20five%2Dbed%20mansion,in%20care%20Link%20in%20comments!",
+      "snippet": "Feb 3, 2026 \u2014 Let's take a look inside Phil Collins five-bed mansion that overlooks the stunning Lake Geneva in Switzerland, as the singer opens...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/LUMynp8CFPvEtq00no81qEbDwsrO9o_Eum_iwS5UHlE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3301248155feb1e3ef2/images/HI0JYVDDTDXKvxFcAEjzEIj3Q4gAJjvZz4jSYCkmXA0.png",
+      "index": 15
+    }
+  ]
+}

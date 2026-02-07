@@ -1,0 +1,338 @@
+{
+  "search_metadata": {
+    "id": "6987c30b55ba651c9567977f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UGW9-Tu9DSsbYAjr92_P6A/6987c30b55ba651c9567977f.json",
+    "created_at": "2026-02-07 22:56:11 UTC",
+    "processed_at": "2026-02-07 22:56:11 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Neil+Young%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Neil+Young%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/UGW9-Tu9DSsbYAjr92_P6A/6987c30b55ba651c9567977f.html",
+    "prettify_html_file": "https://serpapi.com/searches/UGW9-Tu9DSsbYAjr92_P6A/6987c30b55ba651c9567977f.prettify",
+    "total_time_taken": 8.2
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Neil Young, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "q8por3icTZRLrqNGAEWlrIRhWgqv-dqgpzfga7AB8zNgJhYUhcGFoczHBubZSNRKpGwgC8gqOqvJ60mUOzzSnZwr3V9_g_VfinA0srR0bLyraSi4NTAsUtK-waYH3_9W7t3rHBZ1hPgoitAYafps07IJG4nL41TxtTnI0GzGUTTlFO-cKIHzT74JUGqGTCoDttKA4Q-5UVRBU2gR5Y92g-jYKHhgVPMnj0BzGnNVYxM6GuHNZG3afp1U3Qmb_SPQhQWghspVvQVR02pVoR410TxH-B4i-uUzaE7DystixwwVWvb9zgo0cfRo2fJ3xT2ntD-nAfaX7Arb8ftkd2vdNNlX_o0ifrYzULdjN1TvhNmOsCE-AXEMiISgqQvNX7ZfCAnjBsYwP9Tj1w3Fv9FvNE_8fDBC2_qFaGoEiR0EqPtCRLAf6q79SgtvHBFkZdbX_xV-B12HavjPT72kKR9Str9n_ADKW7jf3TquS45yxZUcPW8fbeMfaRxR2dxb8Y59uHFtiuN5rU_AzvLXO3G5BBBMPSTlk3LQwg_FNtV3wjHVD54RPhDVbQ2rJVsHenbYpMYDe-i5M-3WY7f0bj5YSbt71liJV0YNk5sRT1wxr-w2qK5T3ZNezAGDSZtFtLTziXYu208NRhtsUHrVU-CDgn9pzWNfPnQ8uaKb3O-LdZZEl8S7ZUgXvl2HVjX7hwutnu68SqT1T30m1VSs312Fcq3o6AgbTRYY2Xrq-Bj3I-av4DLuvZMYLoZ3Tuf-aFLHC3Szwlr3QSPsFO52UOexIcUXJhnZMye_J-lB2tVCibiM2cTxtHdL7B-8dyL4IUPStMPDHPwqy20Jnhfx9VQeyerZmz2UKFMpVdGMjK1ceug03tiC1LqV1fqbdfRyB7TI5ItL4k7ISv06YcFzZSlZp86vkRwOyWPoMu9_UwSh735I6kbtrpO-gKKiddU_rzPPcczewooK8sVhriT2pHPPGd3VdRdS8u9KuZ-36WHbcxDFqa3eLEUuKiqU9QvZW6bGFvSCWEqhr4rOH0jAvxNq9GFvkk1LkvLQIzwYHrUc80vJsGnoM82LvttnHOLC6bWHb0uf-XYfRvT9D-k0anMpibNZm6DCztKjSMXbigmqVRDJ_aFAOEUTs6ACi_fknjyKNNX7XJ_mrbZVpwpybtXlpL4rFvlU1CCv-etw7WCUrRXeN5UoQO7yDJJr4Jc5xqE2zqSj9DibFkHyJHHFzu7Vrf0tDXGjlM840PqzJS29-0SBcpvvP15C-hczR4lG",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 7, 2026, the details regarding Neil Young\u2019s career and background are as follows:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Profile"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 80 years old (born November 12, 1945)."
+        },
+        {
+          "snippet": "Current Residence: Young and his wife, Daryl Hannah, live in a secluded cottage on a lake in rural Canada. They moved there from the United States in 2020 during the COVID-19 pandemic."
+        }
+      ],
+      "reference_indexes": [
+        1,
+        8,
+        5
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Occupations"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Young is a multi-instrumentalist and industry professional with varying levels of proficiency and influence across several roles:",
+      "reference_indexes": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        1,
+        7,
+        6,
+        3,
+        9,
+        4
+      ],
+      "table": [
+        [
+          "Occupation / Skill",
+          "Proficiency & Notable Contributions"
+        ],
+        [
+          "Singer-Songwriter",
+          "Master: Inducted twice into the Rock and Roll Hall of Fame; known for his distinctive high tenor voice and prolific songwriting across rock, folk, and country."
+        ],
+        [
+          "Guitarist",
+          "Expert: Ranked No. 30 on Rolling Stone's \"250 Greatest Guitarists of All Time\" (2023). Known for both \"jagged\" electric solos and clawhammer acoustic styles."
+        ],
+        [
+          "Harmonica Player",
+          "High: A staple instrument in his live acoustic sets and on hit albums like Harvest."
+        ],
+        [
+          "Piano / Keyboards",
+          "Proficient: Frequently performs piano-based ballads like \"After the Gold Rush\"."
+        ],
+        [
+          "Film Director",
+          "Experienced: Directs under the pseudonym Bernard Shakey; works include Rust Never Sleeps (1979) and CSNY/D\u00e9j\u00e0 Vu (2008)."
+        ],
+        [
+          "Producer",
+          "Active: Self-produces much of his catalog and pioneered the Pono high-resolution digital audio service."
+        ],
+        [
+          "Other Instruments",
+          "Functional: Also plays the banjo, ukulele, and pump organ."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Occupation / Skill"
+          },
+          {
+            "snippet": "Proficiency & Notable Contributions"
+          }
+        ],
+        [
+          {
+            "snippet": "Singer-Songwriter"
+          },
+          {
+            "snippet": "Master: Inducted twice into the Rock and Roll Hall of Fame; known for his distinctive high tenor voice and prolific songwriting across rock, folk, and country."
+          }
+        ],
+        [
+          {
+            "snippet": "Guitarist"
+          },
+          {
+            "snippet": "Expert: Ranked No. 30 on Rolling Stone's \"250 Greatest Guitarists of All Time\" (2023). Known for both \"jagged\" electric solos and clawhammer acoustic styles."
+          }
+        ],
+        [
+          {
+            "snippet": "Harmonica Player"
+          },
+          {
+            "snippet": "High: A staple instrument in his live acoustic sets and on hit albums like Harvest."
+          }
+        ],
+        [
+          {
+            "snippet": "Piano / Keyboards"
+          },
+          {
+            "snippet": "Proficient: Frequently performs piano-based ballads like \"After the Gold Rush\"."
+          }
+        ],
+        [
+          {
+            "snippet": "Film Director"
+          },
+          {
+            "snippet": "Experienced: Directs under the pseudonym Bernard Shakey; works include Rust Never Sleeps (1979) and CSNY/D\u00e9j\u00e0 Vu (2008)."
+          }
+        ],
+        [
+          {
+            "snippet": "Producer"
+          },
+          {
+            "snippet": "Active: Self-produces much of his catalog and pioneered the Pono high-resolution digital audio service."
+          }
+        ],
+        [
+          {
+            "snippet": "Other Instruments"
+          },
+          {
+            "snippet": "Functional: Also plays the banjo, ukulele, and pump organ."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "occupation_skill": "Singer-Songwriter",
+          "proficiency_notable_contributions": "Master: Inducted twice into the Rock and Roll Hall of Fame; known for his distinctive high tenor voice and prolific songwriting across rock, folk, and country."
+        },
+        {
+          "occupation_skill": "Guitarist",
+          "proficiency_notable_contributions": "Expert: Ranked No. 30 on Rolling Stone's \"250 Greatest Guitarists of All Time\" (2023). Known for both \"jagged\" electric solos and clawhammer acoustic styles."
+        },
+        {
+          "occupation_skill": "Harmonica Player",
+          "proficiency_notable_contributions": "High: A staple instrument in his live acoustic sets and on hit albums like Harvest."
+        },
+        {
+          "occupation_skill": "Piano / Keyboards",
+          "proficiency_notable_contributions": "Proficient: Frequently performs piano-based ballads like \"After the Gold Rush\"."
+        },
+        {
+          "occupation_skill": "Film Director",
+          "proficiency_notable_contributions": "Experienced: Directs under the pseudonym Bernard Shakey; works include Rust Never Sleeps (1979) and CSNY/D\u00e9j\u00e0 Vu (2008)."
+        },
+        {
+          "occupation_skill": "Producer",
+          "proficiency_notable_contributions": "Active: Self-produces much of his catalog and pioneered the Pono high-resolution digital audio service."
+        },
+        {
+          "occupation_skill": "Other Instruments",
+          "proficiency_notable_contributions": "Functional: Also plays the banjo, ukulele, and pump organ."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Current Status"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "In February 2026, Young cancelled his scheduled summer European and UK tour with his band, The Chrome Hearts, stating he has \"decided to take a break\" and that \"this is not the time\" to be on the road.",
+      "reference_indexes": [
+        0,
+        2
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Neil Young cancels planned summer gig in Scotland",
+      "link": "https://www.aol.com/articles/neil-young-cancels-planned-summer-150321119.html#:~:text=Benjamin%20Russell%20%2D%20BBC%20Scotland,east%20Italy%2C%20the%20following%20month.",
+      "snippet": "Benjamin Russell - BBC Scotland. Sat, February 7, 2026 at 7:03 AM PST. 0. Neil Young says he has decided to \"take a break\" from pe...",
+      "source": "AOL.com",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/MXBSQXP3OIMPaohq3-nTe2BcFBy3q6SSajjYyaXu4ok.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/j5LFP0Xj4yMzhboOEDocg2lxsKzw06SF5WEObTS4ZMg.png",
+      "index": 0
+    },
+    {
+      "title": "Neil Young - Music Hub | Fandom",
+      "link": "https://music.fandom.com/wiki/Neil_Young",
+      "snippet": "Neil Young * Birth name. Neil Percival Young. * Also known as. Bernard Shakey, Phil Perspective, Shakey Deal, Clyde Coil, Ol' Neil...",
+      "source": "Music Hub | Fandom",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/zyzDiJxFIiuizaEMsc346o-EQWBom4bFZYpeVPHUK6I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/dFRCuhzmcTrwSI5K5GmopkLyf6R5kBbjwgtj8cmOuXw.png",
+      "index": 1
+    },
+    {
+      "title": "\ud83c\udfb8 Neil Young Cancels Entire 2026 European Tour \ud83c\udf0d Legendary rock ...",
+      "link": "https://www.instagram.com/p/DUdOLhTDA1F/#:~:text=across%20the%20continent.-,The%2013%2Ddate%20Love%20Earth%20Tour%20with%20his%20current%20band,rocknews%20%23rockmusic%20%23neilyoung%20%23rocklegends",
+      "snippet": "Feb 7, 2026 \u2014 The 13-date Love Earth Tour with his current band, The Chrome Hearts, was due to begin in June with shows scheduled in England, Fr...",
+      "source": "Instagram",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/pce4NgU3QuVCxlXJwIxsvW0f-sF_TXcKxobfz2qv4SY.png",
+      "index": 2
+    },
+    {
+      "title": "Neil Young - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Neil_Young",
+      "snippet": "Table_title: Neil Young Table_content: header: | Neil Young OC OM | | row: | Neil Young OC OM: Young in 2016 | : | row: | Neil You...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/tmIpgY0TlG9ZfiQEK73FXI8Z5QZBQlFoPB0dXv2THrU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/32MmRpg75O8ETXue_OCTo2RwU91gWI1iun_C-9-NolI.png",
+      "index": 3
+    },
+    {
+      "title": "Neil Young's enduring music career and legacy - Facebook",
+      "link": "https://www.facebook.com/groups/720775473347643/posts/1046780350747152/#:~:text=HAPPY%20BIRTHDAY%20TO%20NEIL%20YOUNG,a%20member%20of%20Buffalo%20Springfield.",
+      "snippet": "May 13, 2025 \u2014 HAPPY BIRTHDAY TO NEIL YOUNG \ud83c\udfbc\ud83c\udfb6\ud83c\udf81\u2764\ufe0f\u2764\ufe0f\ud83c\udf82\ud83c\udf82\ud83c\udfbc\ud83c\udfb9\ud83c\udfa7\ud83c\udfa4\ud83c\udfa4 \ud83c\udfac\ud83c\udfa5\ud83d\udcfd\ud83c\udf82\ud83c\udf82\u2764\ufe0f\u2764\ufe0f\ud83c\udfbc CANADIAN-AMERICAN JUNO AND GRAMMY AWARD-WINNING SINGER, SON...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/Mzz0ifzTjsw_ia3BLH0S2_BNRJMvh0Di1f_-bvhFIiQ.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/kzY32QwnxIw7kU_AVqucPMqvH57fYct7-L-0TIu_-js.png",
+      "index": 4
+    },
+    {
+      "title": "Inside Neil Young's secluded life in Canada with famous wife | HELLO!",
+      "link": "https://www.hellomagazine.com/homes/840901/inside-neil-young-secluded-life-canada/#:~:text=Ode%20to%20Canada,told%20The%20Globe%20and%20Mail.",
+      "snippet": "Jun 28, 2025 \u2014 The Glastonbury headliner prefers a quiet life. ... Share this: Neil Young may be a huge star, but after decades in the limelight,",
+      "source": "HELLO! Magazine",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/JB1izBECkLz5fWdpKIGwKm5I5TaeZqPU25YqmaKO56s.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/8vKBu-H-aFozeob28WYTDipXvf8rHY02L_E9-GDUjgg.png",
+      "index": 5
+    },
+    {
+      "title": "neil young's music career and legacy - Facebook",
+      "link": "https://www.facebook.com/groups/720775473347643/posts/1091959409562579/#:~:text=Neil%20Young%2C%20born%20in%201945,an%20uncompromising%20voice%20in%20music.",
+      "snippet": "Jul 13, 2025 \u2014 Neil Young, born in 1945, is a Canadian-American singer-songwriter whose prolific career spans folk, rock, and grunge. A founding ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/gOSR6ky32ogAyT8FmpQuLl5iHkCrqcC9HvhbmlWGSCI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/pHH3YI3qJKQ893QihpxKQMkjv-Hxj53lhTXykx79C_k.png",
+      "index": 6
+    },
+    {
+      "title": "Canadian singer-songwriter Neil Young biography - Facebook",
+      "link": "https://www.facebook.com/groups/720775473347643/posts/1110792671012586/#:~:text=**Neil%20Young**%20is,%F0%9F%8E%B8%F0%9F%8C%9F",
+      "snippet": "Aug 7, 2025 \u2014 **Neil Young** is a true icon in the world of rock, known for his distinctive voice, hauntingly poetic lyrics, and unparalleled gu...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/akLOrL0vcC90wbeq2OHSaj8KJ44opMS8cMyTVKqXL7Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/1KDXtlw-PPT7mQ36g5P5Y5DhaPeZnhDDnOSaSb0gWmg.png",
+      "index": 7
+    },
+    {
+      "title": "This Day In Music Aug 25 2018 - Neil Young Neil Young and American ...",
+      "link": "https://www.facebook.com/blackwaxcafe/posts/this-day-in-music-aug-25-2018-neil-youngneil-young-and-american-actress-and-envi/1167722255378944/#:~:text=and%20her%20first.-,Yes%2C%20Neil%20Young%20and%20Daryl%20Hannah%20are%20still%20married%20and,shared%20passion%20for%20environmental%20activism.",
+      "snippet": "Aug 25, 2025 \u2014 This Day In Music Aug 25 2018 - Neil Young Neil Young and American actress and environmental activist Daryl Hannah married in a se...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/4j6FTOZJGrE3Va8qNgVgFo0oBMIRaGAPqmL7ozT8S2w.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/x-EQi7IZKp4mGdYCPGHtJRD2tThaNhLPc2dI8CZO3P4.png",
+      "index": 8
+    },
+    {
+      "title": "Neil Young | Rock Music Wiki | Fandom",
+      "link": "https://rock.fandom.com/wiki/Neil_Young#:~:text=Young's%20work%20is%20characterized%20by,the%20%22Godfather%20of%20Grunge%22.",
+      "snippet": "Neil Young * Neil Percival Young OC, OM (born November 12, 1945) is a Canadian singer-songwriter. He began performing in a group c...",
+      "source": "Rock Music Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c30b55ba651c9567977f/images/JRQLBShm5SxdEp87nEWPfAtaAcwHiW-aYBYnFLxUqQ8.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Neil Young | Biography, Songs, Albums, \\u0026 Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Neil-Young#:~:text=News-,%E2%80%A2,folkie%20to%20grungy%20guitar%2Drocker.",
+      "snippet": "\u2022 Neil Young's gift to Greenland: Free access to his entire music catalog \u2022 Jan. 27, 2026, 4:46 PM ET (AP) Show less. Neil Young (",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD8H_fBuLY5vOkIHfaES13XS-ViqP3RWWIJhUFlucUdkxaIViM",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 10
+    },
+    {
+      "title": "Neil Young: Words of Wisdom \u2013 ThaliaCapos.com",
+      "link": "https://www.thaliacapos.com/blogs/blog/neil-young-words-of-wisdom#:~:text=Given%20his%20(%20Neil%20Young%20)%20impressive,We've%20collected%20some%20of%20our%20favourites%20below:",
+      "snippet": "Given his ( Neil Young ) impressive career trajectory, it's hardly surprising that Neil's had a few words of wisdom to share along...",
+      "source": "ThaliaCapos.com",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrpbUx12QWkWjUm3q2ubizXg64awkwkwNQdsET_Tm0TFcbMp0W",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thaliacapos.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 11
+    },
+    {
+      "title": "Neil Young - Students | Britannica Kids | Homework Help",
+      "link": "https://kids.britannica.com/students/article/Neil-Young/314298#:~:text=Born%20on%20November%2012%2C%201945,and%20began%20giving%20solo%20performances.",
+      "snippet": "Born on November 12, 1945, in Toronto, Ontario, Neil Young moved to Winnipeg, Manitoba, with his mother following her divorce from...",
+      "source": "Britannica Kids",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEjUA1kMi3-1vnw65cP6vohrMvALuHzkQZjg30vgWrCu3QFDeV",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://kids.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 12
+    },
+    {
+      "title": "Traces - Michal's Neil Young site",
+      "link": "https://www.angelfire.com/rock2/traces/pages/writteninmysoul.html#:~:text=What%20is%20constant%20in%20so%20varied%20a,remarkably%20steady%20through%20all%20of%20his%20shifts.",
+      "snippet": "What is constant in so varied a body of work? Well, there are those technical limits on Young ( Neil Young ) 's musical range - hi...",
+      "source": "Angelfire",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrZ93CtxgsFRSXi82s55pzSVurV_DwSwKkcPh6X7SPum6ykegI",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.angelfire.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 13
+    }
+  ]
+}

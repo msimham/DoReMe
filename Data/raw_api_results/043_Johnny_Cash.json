@@ -1,0 +1,432 @@
+{
+  "search_metadata": {
+    "id": "6987c30a3d870120917bcda7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/xb0a-zK3rgdT88bFga6aAA/6987c30a3d870120917bcda7.json",
+    "created_at": "2026-02-07 22:56:10 UTC",
+    "processed_at": "2026-02-07 22:56:10 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Johnny+Cash%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Johnny+Cash%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/xb0a-zK3rgdT88bFga6aAA/6987c30a3d870120917bcda7.html",
+    "prettify_html_file": "https://serpapi.com/searches/xb0a-zK3rgdT88bFga6aAA/6987c30a3d870120917bcda7.prettify",
+    "total_time_taken": 8.36
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Johnny Cash, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "Csqf1XicRVBJjqtWAJRyEpb_S-luJmOQ1QsMz0wG28ADwwZheAbM8DCDAUtZRrlH9JVIuUAOkFN0TpP-iyRVUi2qVFKpfv4VFX9K_UGNA18z7vuiPGpHVlvjUQy-oapLPv6SajwFrs258hZDGK5sul1ixSLjKm28gsovsMWe2tpJqQ8BjdmE_u7NEnQ9z_bb4QDCxvdX-9StNAtQ-ExPFFK82gG2hGSrsj2rO8jWKW3CBqop9JSdhNRqNOmEubgpeWYyFsGMssidYrlWA_JUTkhBC7zq7MBhdpWqg6A6WaBkLoy39W28D8rWDeiVm9yqZwLhH2OPuijOUDN8_GTiZ1FV8dvqlSS--EWT4qknLJegyFdyQ3waHLshZo79SohtWyEfXYxieFsx61eGI74YqmvufySqokSEgpISfyWkvMM1eqMY5pX8TsKJr3FX_FsBafZ_9luCcVmgv3_4JYoclIwdenFc-_guypyMs9EUJZY6ZYBTKHzBZZp5SkKXmn6KecdeemvYa849gqtuCw9Pnb2IK57aT0Hcz3UeeChpT4VHNihvuSK1bH5ywXIQ06V-tuZy2BAikN7FWK_jVe-q6hXHQnvnvKCGD1aJORIVKlVql3E4CvzYmHl088yXdRN5j-OOFMJkQ_w3egslA7jvkqXJG-JT3lc0_17uz72qFVVbqpy-9C7TvvCLXQAOaybd0UlIsfAWq-FA8bsYR5qNW4eOGKeKxuOWHiIwk_OS-6fRTpJm0GbIKmoJEbtGp_hYjdz5LBfnNoUZH5PdKDAGdOcje3OEnLoLQ1k8OovLOCjLF2wN27ChJfYhxJolzNRAzrWFrvQZzF0xAe7IjNnLfc_gxZ9byTc5Q1-07aoOD-xtXu_klGFO95ci6PwY6xWvj5I5AtpcXww3S-OHvpaBbfYTdwfBsjB-sE1mYHjnSB9PG8L5fogIgHHXHqRA0xml7IbakfGNRgHzNFqqS8uDJwXidi83hn4iKUGgNCjt4GPXy2Hv1jCtSJPnvWll-Oh4q3wpCD23b8pQIs9pcG7wfc1vCNl7z7i10i3DtnwRo149kcvhEl1pSjfnuppW9SPnE3eBubOeElGUZTm4oXr3wMosauInvtX9UH78LsIBzFdZEshTSD3LEQm1n9uZNvmtEnFNnbDLAo7ak1mnWN9Wj88ZoKTOMLKOVrjnIvu8KAUXRwpf0vTgVJMg3hJ7LPByu2L_yeQ3B3W9BQtlAOEEpSSHqsFyJXmtkqqxUkMBOk6SgCQpHcAqzbrcNXLn4c4gKEl5N-36DIrlP-WYj8c",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Johnny Cash, famously known as the \"Man in Black,\" was a towering figure in American music whose legacy spans country, rock and roll, gospel, and folk.",
+      "reference_indexes": [
+        16,
+        17
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Status and Location"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Deceased: Johnny Cash passed away on September 12, 2003, at the age of 71."
+        },
+        {
+          "snippet": "Last Residence: He lived for 35 years in Hendersonville, Tennessee, on Old Hickory Lake."
+        },
+        {
+          "snippet": "Resting Place: He is buried at Hendersonville Memory Gardens in Hendersonville, Tennessee."
+        }
+      ],
+      "reference_indexes": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations and Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Cash was a multi-talented artist with a career spanning nearly 50 years.",
+      "reference_indexes": [
+        22
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Singer: Renowned for his deep, resonant bass-baritone voice and distinctive \"boom-chicka-boom\" sound."
+        },
+        {
+          "snippet": "Songwriter: Highly prolific, having recorded over 1,500 songs; he was inducted into the Nashville Songwriters Hall of Fame."
+        },
+        {
+          "snippet": "Musician: Primarily played acoustic guitar and harmonica; he was known for a chugging, train-like guitar rhythm."
+        },
+        {
+          "snippet": "Actor: Appeared in various films (e.g., A Gunfight) and TV series (e.g., North and South, The Johnny Cash Show)."
+        },
+        {
+          "snippet": "Author: Published two autobiographies, Man in Black (1975) and Cash: The Autobiography (1997)."
+        },
+        {
+          "snippet": "Other: Served as a radio intercept operator in the U.S. Air Force and briefly worked as an appliance salesman."
+        }
+      ],
+      "reference_indexes": [
+        19,
+        17,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Proficiency and Recognition"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Johnny Cash is one of the few artists inducted into four separate Halls of Fame:",
+      "reference_indexes": [
+        30,
+        31
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Country Music Hall of Fame (1980)"
+        },
+        {
+          "snippet": "Rock and Roll Hall of Fame (1992)"
+        },
+        {
+          "snippet": "Nashville Songwriters Hall of Fame (1977)"
+        },
+        {
+          "snippet": "Gospel Music Hall of Fame (2010)"
+        }
+      ],
+      "reference_indexes": [
+        24,
+        19,
+        17,
+        29
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "He won 15 Grammy Awards (including a Lifetime Achievement Award) and received the Kennedy Center Honors in 1996.",
+      "reference_indexes": [
+        19,
+        22
+      ]
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Would you like to explore his most famous collaborations or learn about the posthumous albums released after his passing?"
+    }
+  ],
+  "references": [
+    {
+      "title": "Johnny Cash - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Johnny_Cash&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAC&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Table_content: header: | Johnny Cash | | row: | Johnny Cash: Cash in 1979 | : | row: | Johnny Cash: Born | : J. R. CashFebruary 26...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/nZdDjNXM7w87eKUKDGnsWsZj9eHi8ZucZLGft3IiWBc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/e0JMHlnWoQYa8HYPqUktqzgNCPQ7BDZ3_JWFwAB6tkI.png",
+      "index": 0
+    },
+    {
+      "title": "Johnny Cash - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Johnny_Cash&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAG&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "For the album, see John R. Cash (album). * John R. Cash (born J. R. Cash; February 26, 1932 \u2013 September 12, 2003) was an American ...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/NYGmkKlFqw93e-1Q55sguCwri8y5N8BQe76wYo2miAg.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/W9IG5oVF5yPq8kuJ0OYm2_MoK-7TUGwGjYl6_YvXaKA.png",
+      "index": 1
+    },
+    {
+      "title": "Johnny Cash, Country Music Bedrock, Dies at 71",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.nytimes.com/2003/09/13/arts/johnny-cash-country-music-bedrock-dies-at-71.html&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAK&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Sep 13, 2003 \u2014 Johnny Cash, Country Music Bedrock, Dies at 71 * Johnny Cash, whose gravelly bass-baritone was the vocal bedrock of American count...",
+      "source": "The New York Times",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/bdUjQAz4AZKgeumwCpdKytBKwIuqXE9Mmzpj8O2F1L0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/H4uzQ6Vbn34MhLd_ZcCpTF3YSvwtAvhs8NV_fUDF7UY.png",
+      "index": 2
+    },
+    {
+      "title": "Johnny Cash | Music | Research Starters - EBSCO",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ebsco.com/research-starters/music/johnny-cash%23:~:text%3DKnown%2520for%2520his%2520distinctive%2520baritone,Kennedy%2520Center%2520Honors%2520in%25201996.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAO&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Known for his distinctive baritone, the sound of his backup band, and his black clothes, Cash had perhaps the most recognized voic...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/Z122LXqaZF3BoJK3UK5Iwbu9LTRXdAd3pnedfLW8Rwg.png",
+      "index": 3
+    },
+    {
+      "title": "Johnny Cash | Music | Research Starters - EBSCO",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ebsco.com/research-starters/music/johnny-cash%23:~:text%3DJohnny%2520Cash-,Singer,Principal%2520Recordings&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAR&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Singer. Born: February 26, 1932. Birthplace: Kingsland, Arkansas. Died: September 12, 2003. Place of death: Nashville, Tennessee. ...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/IMxcgX5Mx5sRBJ_YPL0cyBNg8IO8ZEeAKWVAnfYOm2c.png",
+      "index": 4
+    },
+    {
+      "title": "Johnny Cash's Death And The Health Problems That Preceded It",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://allthatsinteresting.com/johnny-cash-death%23:~:text%3DOn%2520the%2520morning%2520of%2520Sept,died%2520young%2520would%2520look%2520today.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAU&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "May 19, 2025 \u2014 Music legend Johnny Cash died at age 71 on September 12, 2003, ending an award-winning career that spanned 50 years and produced h...",
+      "source": "All That's Interesting",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/WLOOFdonkKXdcvNo4X4L1qCPYO-A2bjCeCrAMNW_uI4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/kQ92bAMUu5oYqu4Wed46dMnO2yCOm-dlk54taEwDDtM.png",
+      "index": 5
+    },
+    {
+      "title": "Explore Johnny Cash's Sumner County, Tennessee",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://visitsumnertn.com/explore-johnny-cashs-sumner-county-tennessee/%23:~:text%3DAfter%2520spending%252035%2520years%2520living,%252C%2520Hendersonville%252C%2520Tennessee%252C%252037075.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAY&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "After spending 35 years living in Sumner County, Johnny and June both passed away in 2003 and were laid to rest at Hendersonville ...",
+      "source": "Visit Sumner",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/HjzJcm37OD7jVrswPjM9hOsTxmszeEBg2l6zCP1ANdU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/vq3ql846-jw5J8uTD_ANEpdfQ_G4RnATEA8EtMlOJpY.png",
+      "index": 6
+    },
+    {
+      "title": "Explore Johnny Cash's Sumner County, Tennessee",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://visitsumnertn.com/explore-johnny-cashs-sumner-county-tennessee/%23:~:text%3DWhile%2520many%2520people%2520connect%2520Johnny,Hickory%2520Lake%2520in%2520Hendersonville%252C%2520Tennessee.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAc&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "While many people connect Johnny Cash to Nashville, most don't realize that for 35 years both Johnny Cash and his wife June Carter...",
+      "source": "Visit Sumner",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/8DDvBwChWSWLV1aDEwYCe0O_m5bZpLDogi9wt3GgMpU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/VyK7hl8IYFM4vuLM1DIqWzhqeGLFgkz2BI0ZoNfw6I8.png",
+      "index": 7
+    },
+    {
+      "title": "Johnny Cash - Simple English Wikipedia, the free encyclopedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://simple.wikipedia.org/wiki/Johnny_Cash%23:~:text%3DCash%2520died%2520on%2520September%252012,had%2520died%25204%2520months%2520earlier.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAg&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Johnny Cash. ... John Ray \"Johnny\" Cash (born J. R. Cash; February 26, 1932 \u2013 September 12, 2003) was a Grammy Award-winning Ameri...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/CkBkXGU6QDQMRHn40JCSJS80_8cggkqYCe-f9eDzYR4.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/N9X4Qw8KA7GFzYcfOaXoIZr1oohq_wIW1MbQnl_tgt4.png",
+      "index": 8
+    },
+    {
+      "title": "21 years ago today, Johnny Cash died in Nashville ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/EricAlperPR/posts/21-years-ago-today-johnny-cash-died-in-nashville-tennessee-at-age-71-if-you-want/1090121996116809/%23:~:text%3DDuring%2520the%2520last%2520stage%2520of,0%2520reactions&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAk&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Sep 12, 2024 \u2014 * 21 years ago today, Johnny Cash died in Nashville, Tennessee, at age 71. If you want sorrow, moral dilemmas, and redemption, her...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/1rg7RyiOEnLntUKblJWV3Zt_wU-RXPLGBOtii19TOk0.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Johnny Cash - Biography - IMDb",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.imdb.com/name/nm0143599/bio/&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAo&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Overview * Born. February 26, 1932 \u00b7 Kingsland, Arkansas, USA. * Died. September 12, 2003 \u00b7 Nashville, Tennessee, USA (complicatio...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/-YyH1zdt2MCWevYvNmRYEc9KlSnVtDpR-OptlwmWtVo.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/uX2QeGqfIsGaVe5ivumhP-v-WKg6NI8DvImpdEW-Wy0.jpeg",
+      "index": 10
+    },
+    {
+      "title": "Johnny Cash (Singer-songwriter, actor, author) was born on this ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/allthingmusicplus/posts/johnny-cash-singer-songwriter-actor-author-was-born-on-this-date-in-1932-he-died/795617152593404/%23:~:text%3Dof%2520his%2520life.-,While%2520being%2520hospitalized%2520at%2520Baptist%2520Hospital%2520in%2520Nashville%252C%2520Cash%2520died,%25F0%259F%25AA%2595%25F0%259F%25A5%2581%25F0%259F%258E%25B5%25F0%259F%258E%25BB%25F0%259F%2595%25B6%25EF%25B8%258F&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAs&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Feb 26, 2024 \u2014 Johnny Cash (Singer-songwriter, actor, author) was born on this date in 1932. He died on September 12, 2003 of complications from ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/Uui6Mb6RUqc3uqt32SPTIIws3ff1haqQR7E7AHf94hE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/brcmMCKTF0b4pZhlq4AtlkSYON2kd3bDIN7GL5Bokms.png",
+      "index": 11
+    },
+    {
+      "title": "Biography | Johnny Cash Official Site",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.johnnycash.com/about/biography/%23:~:text%3DJohn%2520R.,on%2520Memphis'%2520fabled%2520Sun%2520Records.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxAw&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "John R. Cash was born into a family of Arkansas sharecroppers in the middle of the Great Depression, and that hardscrabble life in...",
+      "source": "Johnny Cash Official Site",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/X_K3rIV9ghKrXwOm7iOUnnq37dgSeQxUi9nDC1saHkk.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/o9r0DN8bgVBlERMYr3qvRSX0EXiiThZc9hh6zedgRhY.jpeg",
+      "index": 12
+    },
+    {
+      "title": "Johnny Cash - Country Music Hall of Fame and Museum",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.countrymusichalloffame.org/artist/johnny-cash%23:~:text%3DCash%2520gained%2520performing%2520experience%2520in,church%2520and%2520on%2520local%2520radio.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxA0&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Cash gained performing experience in high school assemblies and on KLCN in Blytheville, Arkansas. After working briefly in Pontiac...",
+      "source": "Country Music Hall of Fame and Museum",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/i3vrocwqL3L6ZOvkPoEq0_ZuiQljQYiHlqLKhDIZF-Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/IMswEkM8vHQEo4E6pBEI6eLMaMf4DyE8LM1uUq0EflI.png",
+      "index": 13
+    },
+    {
+      "title": "Johnny Cash (1932\u20132003) - Encyclopedia of Arkansas",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://encyclopediaofarkansas.net/entries/johnny-cash-9/&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxA4&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Jan 30, 2026 \u2014 aka: J. R. Cash * Johnny Cash was a world-renowned singer/songwriter of country music. ... * J. R. Cash was born on February 26, 1...",
+      "source": "Encyclopedia of Arkansas",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/Q-ZUnBXVmSAg87PycYz8vyTLGNREWAtN7363hzHClp0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/Q8Ozc2cYqCDBUeAbovl58ShiqWX64GSUzNgE_5gBvAg.png",
+      "index": 14
+    },
+    {
+      "title": "Johnny Cash | Biography, Songs, & Facts | Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Johnny-Cash%23:~:text%3DJohnny%2520Cash%2520(born%2520February%252026,of%2520country%2520and%2520western%2520music.&ved=2ahUKEwiqsvP-vMiSAxUQHUQIHZZOBOoQ1fkOegQIDxA8&opi=89978449&cd&psig=AOvVaw324J1EXT3DgefB-CNYpK4-&ust=1770591370885000",
+      "snippet": "Jan 9, 2026 \u2014 Johnny Cash (born February 26, 1932, Kingsland, Arkansas, U.S.\u2014died September 12, 2003, Nashville, Tennessee) was an American sing...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/lFP-sM-_1zvaBwxiCWFsxS7TK0CCT13Qskhi_uOjJKw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c30a3d870120917bcda7/images/72kAbpGaUhXebrjanegKPQMx05-BTJHceezQVyQfUNY.png",
+      "index": 15
+    },
+    {
+      "title": "Johnny Cash | Music | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/johnny-cash#:~:text=Johnny%20Cash-,Singer,Principal%20Recordings",
+      "snippet": "Singer. Born: February 26, 1932. Birthplace: Kingsland, Arkansas. Died: September 12, 2003. Place of death: Nashville, Tennessee. ...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/music/johnny-cash",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 16
+    },
+    {
+      "title": "Johnny Cash - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Johnny_Cash",
+      "snippet": "Table_content: header: | Johnny Cash | | row: | Johnny Cash: Cash in 1979 | : | row: | Johnny Cash: Born | : J. R. CashFebruary 26...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQE2qNLBQ7e11LpwOS0R4ucsmSfeVkWKdNuy3oKgHeMc7EtM6Eo",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 17
+    },
+    {
+      "title": "Johnny Cash | Biography, Songs, \\u0026 Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Johnny-Cash#:~:text=Johnny%20Cash%20(born%20February%2026,of%20country%20and%20western%20music.",
+      "snippet": "Johnny Cash (born February 26, 1932, Kingsland, Arkansas, U.S.\u2014died September 12, 2003, Nashville, Tennessee) was an American sing...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKpaX1c582Hs7FxcOo4OZgevtCS3gg3b301ZBdLF4FL7OwM7Em",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 18
+    },
+    {
+      "title": "Johnny Cash, Country Music Bedrock, Dies at 71",
+      "link": "https://www.nytimes.com/2003/09/13/arts/johnny-cash-country-music-bedrock-dies-at-71.html",
+      "snippet": "Johnny Cash, Country Music Bedrock, Dies at 71 * Johnny Cash, whose gravelly bass-baritone was the vocal bedrock of American count...",
+      "source": "The New York Times",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijjC2w9OTPxlgPWls563E0_PUjK6Til8fl1BqDxwUSfQNvoMj",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 19
+    },
+    {
+      "title": "Explore Johnny Cash's Sumner County, Tennessee",
+      "link": "https://visitsumnertn.com/explore-johnny-cashs-sumner-county-tennessee/#:~:text=While%20many%20people%20connect%20Johnny,Hickory%20Lake%20in%20Hendersonville%2C%20Tennessee.",
+      "snippet": "While many people connect Johnny Cash to Nashville, most don't realize that for 35 years both Johnny Cash and his wife June Carter...",
+      "source": "Visit Sumner",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7rFXeIqZaM6Ou3tiM1EWkTgzkJXdk4YPaWADt7aDGHXxzQEM",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://visitsumnertn.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 20
+    },
+    {
+      "title": "Explore Johnny Cash's Sumner County, Tennessee",
+      "link": "https://visitsumnertn.com/explore-johnny-cashs-sumner-county-tennessee/#:~:text=After%20spending%2035%20years%20living,%2C%20Hendersonville%2C%20Tennessee%2C%2037075.",
+      "snippet": "After spending 35 years living in Sumner County, Johnny and June both passed away in 2003 and were laid to rest at Hendersonville ...",
+      "source": "Visit Sumner",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7rFXeIqZaM6Ou3tiM1EWkTgzkJXdk4YPaWADt7aDGHXxzQEM",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://visitsumnertn.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 21
+    },
+    {
+      "title": "Johnny Cash's Death And The Health Problems That Preceded It",
+      "link": "https://allthatsinteresting.com/johnny-cash-death#:~:text=On%20the%20morning%20of%20Sept,died%20young%20would%20look%20today.",
+      "snippet": "Music legend Johnny Cash died at age 71 on September 12, 2003, ending an award-winning career that spanned 50 years and produced h...",
+      "source": "All That's Interesting",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShFpfty8_1_YsAUkHAL1M5IVOf5UwggUEX4YjMqX1icS-U8Jrf",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://allthatsinteresting.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 22
+    },
+    {
+      "title": "21 years ago today, Johnny Cash died in Nashville ...",
+      "link": "https://www.facebook.com/EricAlperPR/posts/21-years-ago-today-johnny-cash-died-in-nashville-tennessee-at-age-71-if-you-want/1090121996116809/#:~:text=During%20the%20last%20stage%20of,0%20reactions",
+      "snippet": "* 21 years ago today, Johnny Cash died in Nashville, Tennessee, at age 71. If you want sorrow, moral dilemmas, and redemption, her...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2dPCLlE3IwsZD5CRnyLqSFR5Vl1bgWbroXU3YxIZ0GXVk66fU",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 23
+    },
+    {
+      "title": "Johnny Cash | Music | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/music/johnny-cash#:~:text=Known%20for%20his%20distinctive%20baritone,Kennedy%20Center%20Honors%20in%201996.",
+      "snippet": "Known for his distinctive baritone, the sound of his backup band, and his black clothes, Cash had perhaps the most recognized voic...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/music/johnny-cash",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Johnny Cash - Biography - IMDb",
+      "link": "https://www.imdb.com/name/nm0143599/bio/",
+      "snippet": "Overview * Born. February 26, 1932 \u00b7 Kingsland, Arkansas, USA. * Died. September 12, 2003 \u00b7 Nashville, Tennessee, USA (complicatio...",
+      "source": "IMDb",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTcTP2AfBa4KR2VzBLthjGNohZ5enOnR0-WI7PBcRnRuUuWVR",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.imdb.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Johnny Cash (1932\u20132003) - Encyclopedia of Arkansas",
+      "link": "https://encyclopediaofarkansas.net/entries/johnny-cash-9/",
+      "snippet": "aka: J. R. Cash * Johnny Cash was a world-renowned singer/songwriter of country music. ... * J. R. Cash was born on February 26, 1...",
+      "source": "Encyclopedia of Arkansas",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7kCWzkP1SRqE_lzSywuvhXEIjC0XkAIVjsuY5poWz_sX6bEHI",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://encyclopediaofarkansas.net&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "Johnny Cash - Country Music Hall of Fame and Museum",
+      "link": "https://www.countrymusichalloffame.org/artist/johnny-cash#:~:text=Cash%20gained%20performing%20experience%20in,church%20and%20on%20local%20radio.",
+      "snippet": "Cash gained performing experience in high school assemblies and on KLCN in Blytheville, Arkansas. After working briefly in Pontiac...",
+      "source": "Country Music Hall of Fame and Museum",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFurViIpLyEeq_Ed1rIWvtDG99n1wIDEz0VZf5zk91HP5SSYw",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.countrymusichalloffame.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Biography | Johnny Cash Official Site",
+      "link": "https://www.johnnycash.com/about/biography/#:~:text=John%20R.,on%20Memphis'%20fabled%20Sun%20Records.",
+      "snippet": "John R. Cash was born into a family of Arkansas sharecroppers in the middle of the Great Depression, and that hardscrabble life in...",
+      "source": "Johnny Cash Official Site",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS66VEDHLyyKYs9014ud_A_s4HTP1qICjQ9zRCFUnDBUFikhGsE",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.johnnycash.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Johnny Cash (Singer-songwriter, actor, author) was born on this ...",
+      "link": "https://www.facebook.com/allthingmusicplus/posts/johnny-cash-singer-songwriter-actor-author-was-born-on-this-date-in-1932-he-died/795617152593404/#:~:text=of%20his%20life.-,While%20being%20hospitalized%20at%20Baptist%20Hospital%20in%20Nashville%2C%20Cash%20died,%F0%9F%AA%95%F0%9F%A5%81%F0%9F%8E%B5%F0%9F%8E%BB%F0%9F%95%B6%EF%B8%8F",
+      "snippet": "Johnny Cash (Singer-songwriter, actor, author) was born on this date in 1932. He died on September 12, 2003 of complications from ...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT072gx6-oWCA7lhxJu99AHo-2Z3NqUid_zuLMd7GXMAnZxHi5J",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Johnny Cash is one of only two artists to have ever been inducted ...",
+      "link": "https://www.facebook.com/tobykeith/posts/johnny-cash-is-one-of-only-two-artists-to-have-ever-been-inducted-into-the-songw/10156328574587124/#:~:text=Johnny%20Cash%20is%20one%20of%20only%20two,Country%20Music%20Hall%20of%20Fame%20and%20Museum.",
+      "snippet": "Johnny Cash is one of only two artists to have ever been inducted into the Songwriters Hall of Fame, the Rock \\u0026 Roll Hall of Fame,",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw4KKrkl_qLmmKRayCeebmJAuVPDLBwIBygJnJRxn-Q6O2bZKU",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Awards and Honors - Johnny Cash Infocenter",
+      "link": "https://www.johnny-cash-infocenter.com/about-johnny/awards-honors",
+      "snippet": "Awards and Honors \\n   \\n   - Nashville Songwriters Hall of Fame - Inducted 1977. \\n   - Songwriters Hall of Fame - Inducted 1977. \\n ...",
+      "source": "Johnny Cash Infocenter",
+      "thumbnail": "https://www.johnny-cash-infocenter.com/about-johnny/awards-honors",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.johnny-cash-infocenter.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    }
+  ]
+}

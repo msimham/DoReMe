@@ -1,0 +1,577 @@
+{
+  "search_metadata": {
+    "id": "6987c3025a5e96aa6aa48d8f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/nBFPAqX979PQNgiXv-nR_g/6987c3025a5e96aa6aa48d8f.json",
+    "created_at": "2026-02-07 22:56:02 UTC",
+    "processed_at": "2026-02-07 22:56:02 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Frank+Sinatra%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Frank+Sinatra%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/nBFPAqX979PQNgiXv-nR_g/6987c3025a5e96aa6aa48d8f.html",
+    "prettify_html_file": "https://serpapi.com/searches/nBFPAqX979PQNgiXv-nR_g/6987c3025a5e96aa6aa48d8f.prettify",
+    "total_time_taken": 8.11
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Frank Sinatra, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "gPPFsHicTVNJzqNmEJVyEjaRuqV0N4PBIMsLZvhtxg8-hg0CzGRGAzaYbSsXiVqJlANkn9yic5o4i6S7qhZP9apKT6Wqn3_Jqj_YyVDi9IFLt07HMtpsKKMXrS9ZM6Zf_-Lbfgkc23AgY4Qto8IWto4fDj7aPO3uDbddZtY33U1raYP10Lu-NNkycze80AFETUB0aMFWSo4IKYimaOhwLoDNWyqlz2ALZxcyU-pI0Kmh6iiDZ3u72WnEZ_qqsdqLB7ZmSXCsvGDMVXMaTixDLkUZNfB0XKvDNal3a-iUViKEZoJCWy6mBeISakDYhSiTa-zv9ykbo7jIuvnrZ63fqqaJP5EfUeSdFqdVN_dTeUDUbs4a5JVADID4CIZGGBnt3yPsMDSZlyWnav5EEvuPBIW8OymOdv4Jaao6Q-Qsrfv3CF-OfZt9wgjiI_qvIyDO47H6r0W8FN-4X9O-r6vs7x_-jCKQpfcx-wAc2zyyAiX0xf166_f-NIy0KpcSUevVM9-7NwWOcm31j7MJMPqs52t95V3s4fDKfrUnPW6LZteZxKlTssBIZAFM2tuunkZyLsUaNy9Ux7D4uh0QVuSPbPzWxuR9g91kcBpPWBy7lziFqNHV3RTi5gdYRBdXNSEU-zmEDbZS2x0zu1FBD8j_ojmXP4nOkdcD-YAI8EjjpWiq3IPFduikWOjTSKIcJ8iUq5qFbB8lnTpPtwTJsrAsx19l2aU6J1zxwmJfdkB0VTiSOH00gSJUjDUkbmCga0IpQwyg2oWPagJMcvIGlTqlBTtkj9XweQOb5HLDsorsletM32_GeLfzzGHiRRjzy-uoGdqOb-alrlRuYk4sVUtkRi7LY4kmNN80-tbT-QQwjvfwNUp5jVI1X-sNbASaBLrL-TpuPb5Z95PDcJCe1mdQlRvEGFpK2dv96seqkfQ1DPeVgWm4ajWyJK1RbAOmouwplgiz5ipj1_tgZ4piXiyUqhuit5bK3tDMwB_Uk97tZxwMGOQ5mV5Gshnt-oAEgD-2pErRjqSO6ve7t43z2XCdyDFOon7kT0mwnvGwffOziBUtRvd39LipdaEF3-EfCeGAQBWojmFHqi4ZWHRWoXjMFY_TvSys4uIbb9oqZPkg0kSHFViHPfLFmwU4VZQLtnCL16xXfGmnuf76G-vO4poLtnpxrDm_lUk7rx-eUtjuhUfsZUowoPNQYSq1vL4sqXSdJePg4sXUhdJTkJuEzxKt66EbXoM9gAvISwBms-07uRImKrTW7Oz0rbd3z2EOoT6LT9dcI-Gyn7H-opPskyUCuvlQF_aN6BYvDnV5JrjbYx0xLAjkZe605yX9B-SRoxg",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "Frank Sinatra died in 1998 at the age of 82. If he were alive today, February 7, 2026, he would be 110 years old.",
+      "reference_indexes": [
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Occupations & Skills"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Sinatra was a multi-faceted entertainer who held several professional roles throughout his 60-year career:",
+      "reference_indexes": [
+        46,
+        47
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Occupations: Singer (Crooner), Actor, Film Producer, Director, and Record Label Founder (Reprise Records)."
+        },
+        {
+          "snippet": "Skills:",
+          "list": [
+            {
+              "snippet": "Vocal Delivery & Phrasing: Known for a meticulous, \"instrumental\" approach to phrasing, often singing long lines without breaking for breath."
+            },
+            {
+              "snippet": "Emotional Interpretation: Exceptional at conveying the specific narrative and emotion of lyrics."
+            },
+            {
+              "snippet": "Studio Microphone Technique: Pioneered using the microphone as an instrument to create intimacy or power."
+            },
+            {
+              "snippet": "Conducting/Arranging: Collaborated deeply with arrangers like Nelson Riddle to define the \"concept album\"."
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Proficiency"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "Sinatra is widely regarded as one of the most proficient and influential vocalists in history.",
+      "reference_indexes": [
+        24,
+        31,
+        37,
+        48
+      ]
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Technical Proficiency: He possessed perfect pitch and a vocal range approaching a bass-baritone. Although he never learned to read music, he had a \"monster\" musical ear and was a perfectionist who often did dozens of takes to reach his standard."
+        },
+        {
+          "snippet": "Awards: His mastery is evidenced by 11 Grammy Awards (including Legend and Lifetime Achievement awards) and an Academy Award for Best Supporting Actor."
+        }
+      ],
+      "reference_indexes": [
+        31,
+        32,
+        29,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Residence Location"
+    },
+    {
+      "type": "paragraph",
+      "snippet": "At the time of his death in 1998, Sinatra's primary residence was in Los Angeles, California. He passed away at Cedars-Sinai Medical Center in Los Angeles. His final resting place is Desert Memorial Park in Cathedral City, California.",
+      "reference_indexes": [
+        28,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Frank Sinatra - Wikipedia",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://en.wikipedia.org/wiki/Frank_Sinatra%23:~:text%3DTable_content:%2520header:%2520%257C%2520Frank%2520Sinatra%2520%257C%2520%257C,Sinatra:%2520Years%2520active%2520%257C%2520:%25201935%25E2%2580%25931995%2520%257C&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAC&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Table_content: header: | Frank Sinatra | | row: | Frank Sinatra: Died | : May 14, 1998 (aged 82) Los Angeles, California, U.S. | r...",
+      "source": "Wikipedia",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/G_5Q0Vs9y7sE4BOaXKtVoUbuBFSufLNfw87sg7-y28I.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/Bf-WugUJKoqtscf8qZt2bC70I8CyjdPjX4S0ZKMe8b4.png",
+      "index": 0
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs & Movies - Study.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://study.com/academy/lesson/frank-sinatra-music-songs-movies.html%23:~:text%3DLesson%2520Summary,songs%252C%2520from%2520jazz%2520to%2520swing.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAG&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Frank Sinatra: Overview. Frank Sinatra was an American singer and motion-picture actor. He was born in New Jersey in 1915 and died...",
+      "source": "Study.com",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/Hsny2ZccAiJJtA06onVKRDT-6ip5PwOskhoCRObMGTs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/aBAIXWLh0MJVXbqNYSl0nDrEVgSPW5GdaUYZ-hyimHE.png",
+      "index": 1
+    },
+    {
+      "title": "Frank Sinatra: The Voice of Musical Mastery and Christmas ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://musicinmotioncanada.ca/frank-sinatra-the-voice-of-musical-mastery-and-christmas-magic/%23:~:text%3DFrom%2520a%2520technical%2520standpoint%252C%2520he,onset%2520of%2520the%2520holiday%2520season.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAK&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Dec 7, 2023 \u2014 The Voice of Musical Mastery. Sinatra's career spanned several decades, leaving an indelible mark on various genres, including big...",
+      "source": "Music in Motion Canada",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/h8KCPfqk5JPi9IxMWpAGxTMPRl96XYepvbdMAvpFGp0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/jMXREYYo5pLzuM-q8JFq2tuzzCUxnrD6d-WjYehDyQo.png",
+      "index": 2
+    },
+    {
+      "title": "Frank Sinatra's Unique Voice and Influences - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1197148210866148/posts/1736065276974436/%23:~:text%3DThe%2520pivotal%2520moment%2520came%2520when,voice%2520into%2520an%2520immortal%2520legacy.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAO&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Mar 25, 2025 \u2014 The pivotal moment came when Frank joined Tommy Dorsey's band in the 1940s after first joining Harry James'. Frank was able to sin...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/iwpEigvsN-BlPorStqmAuCBsHf8j05tu6HXSJbYufBw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/CBEiUwG4k1nzz1_wjVOJEAhAlIIpxKHyAWiROijK_ZQ.png",
+      "index": 3
+    },
+    {
+      "title": "Remembering Frank Sinatra. Francis Albert ... - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/tcmfansite/posts/1425590541215888/%23:~:text%3DHappy%2520birthday%252C%2520Frank%2520R.I.P.,AND%2520DOLLS%2520SOME%2520CAME%2520RUNNING&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAS&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 14, 2022 \u2014 Happy birthday, Frank R.I.P. Born Francis Albert Sinatra, Hoboken, New Jersey, December 12, 1915 \u2013 May 14, 1998 Singer, actor, pro...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/V3wnl-qb-Tgs91sHvPQtEYs-TFIaOPX-4Yng6767Lig.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/xWlriFuCVVFMmikxSS6xX9jfBaiueWrpH_61Qyceyes.png",
+      "index": 4
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs & Movies - Study.com",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://study.com/academy/lesson/frank-sinatra-music-songs-movies.html%23:~:text%3DFrank%2520Sinatra:%2520Overview,American%2520performers%2520of%2520all%2520time.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAW&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Frank Sinatra: Overview Frank Sinatra was an American singer and motion-picture actor. He was born in New Jersey in 1915 and died ...",
+      "source": "Study.com",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/hgNgGw_xrRyUMoBNVLQw1Bcw68Z-MuFzcthxmnno2aA.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/cVBXIwG2OGZURX6kDHPevw0z5yhL2JhTOatDMXF8EyU.png",
+      "index": 5
+    },
+    {
+      "title": "Frank Sinatra (1915-1998) was an American singer and actor, ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/bereetbereet/posts/frank-sinatra-1915-1998-was-an-american-singer-and-actor-widely-considered-one-o/698964612646682/%23:~:text%3D2025%25F3%25B0%259E%258B%25F3%25B1%259F%25A0-,Frank%2520Sinatra%2520(1915%252D1998)%2520was%2520an%2520American%2520singer%2520and,%2522From%2520Here%2520to%2520Eternity%2522.%26text%3DThat's%2520Ronnie%2520Dyre%25E2%2580%25A6Danny's%2520brother%25E2%2580%25A6.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAa&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Apr 16, 2025 \u2014 Frank Sinatra (1915-1998) was an American singer and actor, widely considered one of the greatest American singers of the 20th cen...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/IB3xd8w-h4fVpgJ6gECv2AYL0BeFdv1G1wOOd095Jog.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/S4gFOuAOxgWABH-Lwq7gElYsChB2dJTDs9tAHJVHdQs.png",
+      "index": 6
+    },
+    {
+      "title": "Frank Sinatra - The Kennedy Center",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.kennedy-center.org/artists/s/sa-sn/frank-sinatra/%23:~:text%3DFrom%2520the%2520days%2520he%2520was,him%2520to%2520be%2520a%2520boxer.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAe&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "From the days he was known as the \"jive idol,\" he was called many things: \"the Voice,\" \"Chairman of the Board,\" \"a working class h...",
+      "source": "The Kennedy Center",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/u0mC51_7-81j6atV7WBC-NNKMPMXRjdYLONIjoiypDw.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/0VjgO9b4XS2TPlrEZK9N0kNzLB-HsxYmyBHeTKVbt08.png",
+      "index": 7
+    },
+    {
+      "title": "Frank Sinatra's Vocal Abilities and Career in the 1940s",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1197148210866148/posts/1524235268157439/%23:~:text%3DI%2520heard%2520and%2520read%2520that,2&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAi&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 9, 2024 \u2014 4] While Sinatra never formally learned how to read music, he had a fine, natural understanding of it, and he worked very hard fro...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/xJ12kQE3CnEqWlfCs19D9CV53WSYVO66RAIhW7S_c2I.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Remembering Frank Sinatra on what would've been his 110th birthday.",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/Foghat/posts/remembering-frank-sinatra-on-what-wouldve-been-his-110th-birthday/1425560585603187/%23:~:text%3DCelebrating%2520the%2520Iconic%2520Frank%2520Sinatra,%252C%2520charm%252C%2520and%2520timeless%2520cool.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAm&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Dec 12, 2025 \u2014 Celebrating the Iconic Frank Sinatra on His Heavenly Birthday \ud83c\udfa9\ud83c\udfb6 Born on December 12, 1915, the legendary Frank Sinatra would ha...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/dsB5u3x3CWz9HD4yQxcx_QdOcFsXRa51Q2rtA-ggmuc.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/KEVjlQ0ecq4RY8WjAxoPDwCGDb5KKzRho_bzF133cuQ.png",
+      "index": 9
+    },
+    {
+      "title": "What made Frank Sinatra a defining voice? - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/1197148210866148/posts/1922120405035588/%23:~:text%3DHis%2520smooth%252C%2520emotive%2520voice%2520and,beloved%2520entertainers%2520of%2520all%2520time.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAq&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Nov 19, 2025 \u2014 1. * What made Frank Sinatra such a defining voice of the 20th century? Sinatra possessed an extraordinary ability to blend emotio...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/4RvNbywm6BVUU6RSCxJaT1L_2D-E2yCdkXh-4jBfT3Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/H90MQ2L7W4bKY8u-A3irZat5nXCKyAjurDvemFLqggI.png",
+      "index": 10
+    },
+    {
+      "title": "Sinatra Establishes Himself as a Solo Performer | History",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ebsco.com/research-starters/history/sinatra-establishes-himself-solo-performer%23:~:text%3DInitially%252C%2520Sinatra's%2520career%2520progressed%2520slowly,a%2520more%2520introspective%2520lyrical%2520style.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAu&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "His breakthrough came with the hit song \"All or Nothing at All,\" which, after initial lackluster sales, was re-released in 1943 an...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/Oq7fzT4ZqVV7WD3jd3fC2oBu7zdH7cnWxGLaBKKqDcc.png",
+      "index": 11
+    },
+    {
+      "title": "Frank Sinatra | History | Research Starters - EBSCO",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.ebsco.com/research-starters/history/frank-sinatra%23:~:text%3DIn%2520a%2520career%2520spanning%2520more,entertainers%2520of%2520the%2520twentieth%2520century.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRAx&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Go to EBSCOhost and sign in to access more content about this topic. * Frank Sinatra. Singer. * American singer-entertainer. Perha...",
+      "source": "EBSCO",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/TAS4WGpz5r5a7ZX_Fwmnyp3b0e_fObV8ljcqphS3pLc.png",
+      "index": 12
+    },
+    {
+      "title": "Frank Sinatra's music career and life - Facebook",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/MakinMusicNY/posts/10163508732635236/%23:~:text%3D*FRANK%2520SINATRA*...,Kennedy.:%2520%252D)&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRA0&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Dec 11, 2025 \u2014 Frank began singing in the swing era, first gaining attention as a vocalist with Harry James's band in 1939. He rose to fame in th...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/IOWrbZEyRg6yus-HhqiBcy4u1S7t7xViqHS9ImWpTWI.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/nlstJfoE-YzvRjD1RzOvVcRcTv2wE1IkFIMoMJgqNCc.png",
+      "index": 13
+    },
+    {
+      "title": "The Life and Career of Frank Sinatra, Legendary Entertainer",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/groups/925687679313167/posts/962201652328436/%23:~:text%3DFrancis%2520Albert%2520Sinatra%2520was%2520an,swing%2520music%2520with%2520Tommy%2520Dorsey.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRA4&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Jul 28, 2024 \u2014 He possessed a unique way of phrasing lyrics that made each song feel personal and intimate, whether he was singing a heart-wrench...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/eZjtEpIKxFDQUajiP0fQ8Zx3Nxv0_f3BLBU8V0gPlmE.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/3bKDx-T5PU0p2S8w0kJnyFAOKAUjOhuI7qqY1dvNatE.png",
+      "index": 14
+    },
+    {
+      "title": "How Old Is Frank Sinatra - Oreate AI Blog",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.oreateai.com/blog/how-old-is-frank-sinatra/8c228a39108c8e0085aee309d2bdf456%23:~:text%3DFrank%2520Sinatra%252C%2520a%2520name%2520that,on%2520film%2520and%2520popular%2520culture.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRA8&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Jan 7, 2026 \u2014 Frank Sinatra, a name that resonates with the very essence of American music and culture, was born on December 12, 1915. If he wer...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/oick-Pb__7w3Go53_W9ejod70pzg--9rNwWFq0khphQ.png",
+      "index": 15
+    },
+    {
+      "title": "Frank Sinatra Dies at 82; Matchless Stylist of Pop",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/bday/1212.html%23:~:text%3DBy%2520STEPHEN%2520HOLDEN,be%2520given%2520a%2520private%2520funeral.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRA_&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 16, 1998 \u2014 By STEPHEN HOLDEN. Frank Sinatra, the singer and actor whose extraordinary voice elevated popular song into an art, died on Thursd...",
+      "source": "New York Times / Archive",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/iG4Q3kf4ugYynv5xzSxy6RxMK4-MluSDmxquttEvQWs.png",
+      "index": 16
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs, Films, & Facts | Britannica",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.britannica.com/biography/Frank-Sinatra%23:~:text%3DWhat%2520was%2520Frank%2520Sinatra%2520famous,Frank%2520Sinatra's%2520most%2520famous%2520recordings?&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBC&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Jan 23, 2026 \u2014 What was Frank Sinatra famous for? Frank Sinatra was an American singer and motion picture actor and one of the most sought-after ...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/tZJjyrr1qnPPIXEDhKt91UNQQ7lwjOlwmPQVAVU0LSM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/Qj0PrxAUhAEpGnBCZODtNHfaueIHllGhRDTvhrAKB2c.png",
+      "index": 17
+    },
+    {
+      "title": "Frank Sinatra | Culture Wikia | Fandom",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://culture.fandom.com/wiki/Frank_Sinatra%23:~:text%3DTable_title:%2520Frank%2520Sinatra%2520Table_content:%2520header:%2520%257C%2520Expand,data:%2520Years%2520active%2520%257C%2520:%25201935%25E2%2580%25931995%2520%257C&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBG&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Table_title: Frank Sinatra Table_content: header: | Expand Biographical data | | row: | Expand Biographical data: Died | : May 14,",
+      "source": "Fandom",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/2lRsT9Sl2EBznmNEqHSXqwkz5cPkZr1fBo1bXqCFvaw.png",
+      "index": 18
+    },
+    {
+      "title": "Last photo of Frank Sinatra, out for dinner with last wife ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/tragichollywood/posts/last-photo-of-frank-sinatra-out-for-dinner-with-last-wife-barbara-marx-frank-sin/1146203510880778/%23:~:text%3DLast%2520photo%2520of%2520Frank%2520Sinatra,;%2520Beautiful%252C%2520Glamorous%252C%2520And%2520Dead&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBJ&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 16, 2025 \u2014 Frank Sinatra, age 82, died May 14, 1998, in West Hollywood, CA, from a heart attack. He is buried in Desert Memorial Park, Cathed...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/ftW_PVHTe3C5dHnlqHlYwDikTeYmK3f0QXc-G-FbKKE.jpeg",
+      "index": 19
+    },
+    {
+      "title": "Francis Albert Sinatra (/s\u026a\u02c8n\u0251\u02d0tr\u0259/; December 12, 1915 \u2013 May 14, ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/Retrovision/posts/francis-albert-sinatra-s%25C9%25AA%25CB%2588n%25C9%2591%25CB%2590tr%25C9%2599-december-12-1915-may-14-1998-was-born-on-this-d/1025481496280076/%23:~:text%3DCelebrating%2520the%2520life%2520of%2520Frank,82%252C%2520after%2520two%2520heart%2520attacks.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBN&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Dec 12, 2024 \u2014 He had made no public appearances following a heart attack in February 1997. Sinatra died at the Cedars- Sinai Medical Center, wit...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/Xy67GAZ3xtSO_8lQ8pXU-5gX-Y0iEXe4TQU5UKXlZU8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/-xUMA4B2mkWPqYfGuZOU7E4NGbCdBWqMjpyex5emC2g.png",
+      "index": 20
+    },
+    {
+      "title": "IN MEMORIAM: Remembering Frank Sinatra, who died on this day ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/ABCNews/posts/in-memoriam-remembering-frank-sinatra-who-died-on-this-day-in-1998-httpsabcnewsv/1101924231794456/%23:~:text%3DRemembering%2520the%2520great%2520Frank%2520Sinatra,1915%2520%25E2%2580%2593%2520May%252014%252C%25201998)&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBR&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 14, 2025 \u2014 REMEMBERING FRANK SINATRA DIED THIS DAY 1998 Francis Albert Sinatra was an American singer and actor who was one of the most popul...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/XCLIOWdt3PjOwbcZ29JugyGRqRFES26ULKi4BWILSM0.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/F56rEhYynRUXEgrRtZ4SKTt0jv35Innicfu5ER2p674.png",
+      "index": 21
+    },
+    {
+      "title": "This Day In Music May 14 1998 - Frank Sinatra American singer and ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.facebook.com/blackwaxcafe/posts/this-day-in-music-may-14-1998-frank-sinatraamerican-singer-and-actor-frank-sinat/1087349383416232/%23:~:text%3D14%2520May%25201998%252C%2520American%2520singer,The%2520Rolling%2520Stones%2520%252D%25203%2520Grammys.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBV&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "May 14, 2025 \u2014 This Day In Music May 14 1998 - Frank Sinatra American singer and actor Frank Sinatra died at the Cedars-Sinai Medical Center, Los...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/wB2MnBxqbSrXbTuqPOFM_uInYN5FzZnE3_s9365xq4Y.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/b_rtLihPFoKSggwWrrryca2sa4qivBT17IBl2_2fzYE.png",
+      "index": 22
+    },
+    {
+      "title": "Why was Frank Sinatra considered one of the great voices in ...",
+      "link": "https://www.google.com/url?sa=i&source=web&rct=j&url=https://www.quora.com/Why-was-Frank-Sinatra-considered-one-of-the-great-voices-in-music-if-his-range-was-somewhat-limited-Isnt-vocal-range-the-most-important-attribute-in-determining-a-singer-s-greatness%23:~:text%3DSinatra%2520had%2520a%2520combination%2520of,pull%2520out%2520your%2520heart%2520strings.&ved=2ahUKEwjJve_6vMiSAxXlsFYBHb50CNAQ1fkOegQIDRBZ&opi=89978449&cd&psig=AOvVaw0Xf2NJUGmRihc71yOa7xwG&ust=1770591362432000",
+      "snippet": "Oct 31, 2018 \u2014 Sinatra had a combination of many built in and learned skills - his tonality, his phrasing and the emotion he could convey with bo...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c3025a5e96aa6aa48d8f/images/4qqouMEkcrZVczC_ht6bxA378WYQum5HvNiS7f13T-8.png",
+      "index": 23
+    },
+    {
+      "title": "Frank Sinatra (1915-1998) was an American singer and actor, ...",
+      "link": "https://www.facebook.com/bereetbereet/posts/frank-sinatra-1915-1998-was-an-american-singer-and-actor-widely-considered-one-o/698964612646682/#:~:text=2025%F3%B0%9E%8B%F3%B1%9F%A0-,Frank%20Sinatra%20(1915%2D1998)%20was%20an%20American%20singer%20and,%22From%20Here%20to%20Eternity%22.&text=That's%20Ronnie%20Dyre%E2%80%A6Danny's%20brother%E2%80%A6.",
+      "snippet": "Frank Sinatra (1915-1998) was an American singer and actor, widely considered one of the greatest American singers of the 20th cen...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5cn3APD0w3LXTykciqf9h8Mjo2Dh941xv2UvlAKia5lgkCB6h",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 24
+    },
+    {
+      "title": "Frank Sinatra Dies at 82; Matchless Stylist of Pop",
+      "link": "https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/bday/1212.html#:~:text=By%20STEPHEN%20HOLDEN,be%20given%20a%20private%20funeral.",
+      "snippet": "By STEPHEN HOLDEN. Frank Sinatra, the singer and actor whose extraordinary voice elevated popular song into an art, died on Thursd...",
+      "source": "New York Times / Archive",
+      "thumbnail": "https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/bday/1212.html",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://archive.nytimes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 25
+    },
+    {
+      "title": "Remembering Frank Sinatra on what would've been his 110th birthday.",
+      "link": "https://www.facebook.com/Foghat/posts/remembering-frank-sinatra-on-what-wouldve-been-his-110th-birthday/1425560585603187/#:~:text=Celebrating%20the%20Iconic%20Frank%20Sinatra,%2C%20charm%2C%20and%20timeless%20cool.",
+      "snippet": "Celebrating the Iconic Frank Sinatra on His Heavenly Birthday \ud83c\udfa9\ud83c\udfb6 Born on December 12, 1915, the legendary Frank Sinatra would ha...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzrjJwfzSyS_P6hC_k9GezqBgh1z6UYBPY8vR0DKpNfP4zkcRI",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 26
+    },
+    {
+      "title": "How Old Is Frank Sinatra - Oreate AI Blog",
+      "link": "https://www.oreateai.com/blog/how-old-is-frank-sinatra/8c228a39108c8e0085aee309d2bdf456#:~:text=Frank%20Sinatra%2C%20a%20name%20that,on%20film%20and%20popular%20culture.",
+      "snippet": "Frank Sinatra, a name that resonates with the very essence of American music and culture, was born on December 12, 1915. If he wer...",
+      "source": "Oreate AI",
+      "thumbnail": "https://www.oreateai.com/blog/how-old-is-frank-sinatra/8c228a39108c8e0085aee309d2bdf456",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.oreateai.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 27
+    },
+    {
+      "title": "Frank Sinatra - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Frank_Sinatra#:~:text=Table_content:%20header:%20%7C%20Frank%20Sinatra%20%7C%20%7C,Sinatra:%20Years%20active%20%7C%20:%201935%E2%80%931995%20%7C",
+      "snippet": "Table_content: header: | Frank Sinatra | | row: | Frank Sinatra: Died | : May 14, 1998 (aged 82) Los Angeles, California, U.S. | r...",
+      "source": "Wikipedia",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9qe3ZjSrQubZzP-zBIoemoENw9hDE9tZ8sLNBk7IgFtL88p_K",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 28
+    },
+    {
+      "title": "Remembering Frank Sinatra. Francis Albert ... - Facebook",
+      "link": "https://www.facebook.com/groups/tcmfansite/posts/1425590541215888/#:~:text=Happy%20birthday%2C%20Frank%20R.I.P.,AND%20DOLLS%20SOME%20CAME%20RUNNING",
+      "snippet": "Happy birthday, Frank R.I.P. Born Francis Albert Sinatra, Hoboken, New Jersey, December 12, 1915 \u2013 May 14, 1998 Singer, actor, pro...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpvJmrT9-BIlyKlEDZRepEC__msPW3rGxZc0HaoGCpKhzv7IiE",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 29
+    },
+    {
+      "title": "Frank Sinatra's music career and life - Facebook",
+      "link": "https://www.facebook.com/groups/MakinMusicNY/posts/10163508732635236/#:~:text=*FRANK%20SINATRA*...,Kennedy.:%20%2D)",
+      "snippet": "Frank began singing in the swing era, first gaining attention as a vocalist with Harry James's band in 1939. He rose to fame in th...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ38B4U3H35OTPAL2JTzKCt7SJlEjdWkUs3JWC-pyd4RmcpJjQJ",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 30
+    },
+    {
+      "title": "Frank Sinatra: The Voice of Musical Mastery and Christmas ...",
+      "link": "https://musicinmotioncanada.ca/frank-sinatra-the-voice-of-musical-mastery-and-christmas-magic/#:~:text=From%20a%20technical%20standpoint%2C%20he,onset%20of%20the%20holiday%20season.",
+      "snippet": "The Voice of Musical Mastery. Sinatra's career spanned several decades, leaving an indelible mark on various genres, including big...",
+      "source": "Music in Motion Canada",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUIzm6ZO5k_2O31HWg0v3mH0adu6rM3XgcKLR5dcJEwTjd_l2S",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://musicinmotioncanada.ca&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 31
+    },
+    {
+      "title": "Frank Sinatra's Unique Voice and Influences - Facebook",
+      "link": "https://www.facebook.com/groups/1197148210866148/posts/1736065276974436/#:~:text=The%20pivotal%20moment%20came%20when,voice%20into%20an%20immortal%20legacy.",
+      "snippet": "The pivotal moment came when Frank joined Tommy Dorsey's band in the 1940s after first joining Harry James'. Frank was able to sin...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR16Ytv73sqOLJ-n3Iy0iamOd4TAbfYGWgcZj8Ksccli3xGDbtK",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 32
+    },
+    {
+      "title": "Why was Frank Sinatra considered one of the great voices in ...",
+      "link": "https://www.quora.com/Why-was-Frank-Sinatra-considered-one-of-the-great-voices-in-music-if-his-range-was-somewhat-limited-Isnt-vocal-range-the-most-important-attribute-in-determining-a-singer-s-greatness#:~:text=Sinatra%20had%20a%20combination%20of,pull%20out%20your%20heart%20strings.",
+      "snippet": "Sinatra had a combination of many built in and learned skills - his tonality, his phrasing and the emotion he could convey with bo...",
+      "source": "Quora",
+      "thumbnail": "https://www.quora.com/Why-was-Frank-Sinatra-considered-one-of-the-great-voices-in-music-if-his-range-was-somewhat-limited-Isnt-vocal-range-the-most-important-attribute-in-determining-a-singer-s-greatness",
+      "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quora.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 33
+    },
+    {
+      "title": "What made Frank Sinatra a defining voice? - Facebook",
+      "link": "https://www.facebook.com/groups/1197148210866148/posts/1922120405035588/#:~:text=His%20smooth%2C%20emotive%20voice%20and,beloved%20entertainers%20of%20all%20time.",
+      "snippet": "1. * What made Frank Sinatra such a defining voice of the 20th century? Sinatra possessed an extraordinary ability to blend emotio...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNB7O5vvJH5-Zym_h-kDCIraYQLOZCVqpRYEdt7HXuOufZh6lu",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 34
+    },
+    {
+      "title": "Frank Sinatra | History | Research Starters - EBSCO",
+      "link": "https://www.ebsco.com/research-starters/history/frank-sinatra#:~:text=In%20a%20career%20spanning%20more,entertainers%20of%20the%20twentieth%20century.",
+      "snippet": "Go to EBSCOhost and sign in to access more content about this topic. * Frank Sinatra. Singer. * American singer-entertainer. Perha...",
+      "source": "EBSCO",
+      "thumbnail": "https://www.ebsco.com/research-starters/history/frank-sinatra",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ebsco.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 35
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs \\u0026 Movies - Study.com",
+      "link": "https://study.com/academy/lesson/frank-sinatra-music-songs-movies.html#:~:text=Lesson%20Summary,songs%2C%20from%20jazz%20to%20swing.",
+      "snippet": "Frank Sinatra: Overview. Frank Sinatra was an American singer and motion-picture actor. He was born in New Jersey in 1915 and died...",
+      "source": "Study.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxVq1mTg2Yf4TZOPH470baP8pwKespsw8m1bRJFWq_DqsqYqc",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://study.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 36
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs, Films, \\u0026 Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Frank-Sinatra#:~:text=What%20was%20Frank%20Sinatra%20famous,Frank%20Sinatra's%20most%20famous%20recordings?",
+      "snippet": "What was Frank Sinatra famous for? Frank Sinatra was an American singer and motion picture actor and one of the most sought-after ...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiw130mcvAUmAgwE9qamNj93ve5em6YCwBURIVbirfhO_Qg6Y",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 37
+    },
+    {
+      "title": "Frank Sinatra's Vocal Abilities and Career in the 1940s",
+      "link": "https://www.facebook.com/groups/1197148210866148/posts/1524235268157439/#:~:text=I%20heard%20and%20read%20that,2",
+      "snippet": "4] While Sinatra never formally learned how to read music, he had a fine, natural understanding of it, and he worked very hard fro...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA24NC63C-aN7sNuwJrpBsQnuDz1g-eoKsYXK5iFn6UA5Yotbz",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 38
+    },
+    {
+      "title": "IN MEMORIAM: Remembering Frank Sinatra, who died on this day ...",
+      "link": "https://www.facebook.com/ABCNews/posts/in-memoriam-remembering-frank-sinatra-who-died-on-this-day-in-1998-httpsabcnewsv/1101924231794456/#:~:text=Remembering%20the%20great%20Frank%20Sinatra,1915%20%E2%80%93%20May%2014%2C%201998)",
+      "snippet": "REMEMBERING FRANK SINATRA DIED THIS DAY 1998 Francis Albert Sinatra was an American singer and actor who was one of the most popul...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7KwfX37pgOthdiJywlSbOvSpAEfhgQf3NluwSwkXhwMFODyyP",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 39
+    },
+    {
+      "title": "The Life and Career of Frank Sinatra, Legendary Entertainer",
+      "link": "https://www.facebook.com/groups/925687679313167/posts/962201652328436/#:~:text=Francis%20Albert%20Sinatra%20was%20an,swing%20music%20with%20Tommy%20Dorsey.",
+      "snippet": "He possessed a unique way of phrasing lyrics that made each song feel personal and intimate, whether he was singing a heart-wrench...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRag1x-EqbEc4OryupFznIAU41pHAIT2zICjceCLZzVSMc2a8rP",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 40
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs \\u0026 Movies - Study.com",
+      "link": "https://study.com/academy/lesson/frank-sinatra-music-songs-movies.html#:~:text=Frank%20Sinatra:%20Overview,American%20performers%20of%20all%20time.",
+      "snippet": "Frank Sinatra: Overview Frank Sinatra was an American singer and motion-picture actor. He was born in New Jersey in 1915 and died ...",
+      "source": "Study.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxVq1mTg2Yf4TZOPH470baP8pwKespsw8m1bRJFWq_DqsqYqc",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://study.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 41
+    },
+    {
+      "title": "This Day In Music May 14 1998 - Frank Sinatra American singer and ...",
+      "link": "https://www.facebook.com/blackwaxcafe/posts/this-day-in-music-may-14-1998-frank-sinatraamerican-singer-and-actor-frank-sinat/1087349383416232/#:~:text=14%20May%201998%2C%20American%20singer,The%20Rolling%20Stones%20%2D%203%20Grammys.",
+      "snippet": "This Day In Music May 14 1998 - Frank Sinatra American singer and actor Frank Sinatra died at the Cedars-Sinai Medical Center, Los...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT14QUfO4EIKhyPRoOJtNLgyuIY3qTz4LXKKDKw0j8h1gCaA_X1",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 42
+    },
+    {
+      "title": "Francis Albert Sinatra (/s\u026a\u02c8n\u0251\u02d0tr\u0259/; December 12, 1915 \u2013 May 14, ...",
+      "link": "https://www.facebook.com/Retrovision/posts/francis-albert-sinatra-s%C9%AA%CB%88n%C9%91%CB%90tr%C9%99-december-12-1915-may-14-1998-was-born-on-this-d/1025481496280076/#:~:text=Celebrating%20the%20life%20of%20Frank,82%2C%20after%20two%20heart%20attacks.",
+      "snippet": "He had made no public appearances following a heart attack in February 1997. Sinatra died at the Cedars- Sinai Medical Center, wit...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLZv8QskKLX2dbxoIMux4xjxeLTw2q4hAywzFfa3uipqGnDKAu",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 43
+    },
+    {
+      "title": "Frank Sinatra | Culture Wikia | Fandom",
+      "link": "https://culture.fandom.com/wiki/Frank_Sinatra#:~:text=Table_title:%20Frank%20Sinatra%20Table_content:%20header:%20%7C%20Expand,data:%20Years%20active%20%7C%20:%201935%E2%80%931995%20%7C",
+      "snippet": "Table_title: Frank Sinatra Table_content: header: | Expand Biographical data | | row: | Expand Biographical data: Died | : May 14,",
+      "source": "Fandom",
+      "thumbnail": "https://culture.fandom.com/wiki/Frank_Sinatra",
+      "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://culture.fandom.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 44
+    },
+    {
+      "title": "Last photo of Frank Sinatra, out for dinner with last wife ...",
+      "link": "https://www.facebook.com/tragichollywood/posts/last-photo-of-frank-sinatra-out-for-dinner-with-last-wife-barbara-marx-frank-sin/1146203510880778/#:~:text=Last%20photo%20of%20Frank%20Sinatra,;%20Beautiful%2C%20Glamorous%2C%20And%20Dead",
+      "snippet": "Frank Sinatra, age 82, died May 14, 1998, in West Hollywood, CA, from a heart attack. He is buried in Desert Memorial Park, Cathed...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_32Nlj4pByzeryF3phyy3_6w8lruUfj5-Nev61tjzyj_ME6wI",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 45
+    },
+    {
+      "title": "Frank Sinatra | Biography, Songs, Films, \\u0026 Facts | Britannica",
+      "link": "https://www.britannica.com/biography/Frank-Sinatra#:~:text=What%20was%20Frank%20Sinatra%20famous,My%20Way%E2%80%9D%20(1969).",
+      "snippet": "Frank Sinatra * What was Frank Sinatra famous for? Frank Sinatra was an American singer and motion picture actor and one of the mo...",
+      "source": "Britannica",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiw130mcvAUmAgwE9qamNj93ve5em6YCwBURIVbirfhO_Qg6Y",
+      "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.britannica.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 46
+    },
+    {
+      "title": "Collection Selections: Sinatra: A career on camera",
+      "link": "https://blog.scienceandmediamuseum.org.uk/sinatra-career-camera/#:~:text=Collection%20Selections:%20Sinatra:%20A%20career%20on%20camera,record%20sales%20in%20the%20tens%20of%20millions.",
+      "snippet": "Collection Selections: Sinatra: A career on camera Musician, film star, showman: Frank Sinatra was the perfect entertainer. From t...",
+      "source": "National Science and Media Museum blog",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXIs956Z7DC-VSGr-tz4X5MylFjw0Nuz5vKC0AiIprNBH-CQ5j",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blog.scienceandmediamuseum.org.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 47
+    },
+    {
+      "title": "Frank Sinatra is one of America's most famous artists, so naturally ...",
+      "link": "https://www.facebook.com/tastingtable/posts/frank-sinatra-is-one-of-americas-most-famous-artists-so-naturally-he-turned-head/1271187395050602/#:~:text=Francis%20Albert%20Sinatra%20(December%2012%2C%201915%20%E2%80%93,sold%20more%20than%20150%20million%20records%20worldwide.",
+      "snippet": "Francis Albert Sinatra (December 12, 1915 \u2013 May 14, 1998) was an American singer, actor and producer who was one of the most popul...",
+      "source": "Facebook",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr5cSPCNU1tKzBnrTs6pc5XthTDg72gMO-NiTie42aNUzmul53",
+      "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "index": 48
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What genres did Frank Sinatra master in?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+genres+did+Frank+Sinatra+master+in%3F&subsequent_request_token=gPPFsHicTVNJzqNmEJVyEjaRuqV0N4PBIMsLZvhtxg8-hg0CzGRGAzaYbSsXiVqJlANkn9yic5o4i6S7qhZP9apKT6Wqn3_Jqj_YyVDi9IFLt07HMtpsKKMXrS9ZM6Zf_-Lbfgkc23AgY4Qto8IWto4fDj7aPO3uDbddZtY33U1raYP10Lu-NNkycze80AFETUB0aMFWSo4IKYimaOhwLoDNWyqlz2ALZxcyU-pI0Kmh6iiDZ3u72WnEZ_qqsdqLB7ZmSXCsvGDMVXMaTixDLkUZNfB0XKvDNal3a-iUViKEZoJCWy6mBeISakDYhSiTa-zv9ykbo7jIuvnrZ63fqqaJP5EfUeSdFqdVN_dTeUDUbs4a5JVADID4CIZGGBnt3yPsMDSZlyWnav5EEvuPBIW8OymOdv4Jaao6Q-Qsrfv3CF-OfZt9wgjiI_qvIyDO47H6r0W8FN-4X9O-r6vs7x_-jCKQpfcx-wAc2zyyAiX0xf166_f-NIy0KpcSUevVM9-7NwWOcm31j7MJMPqs52t95V3s4fDKfrUnPW6LZteZxKlTssBIZAFM2tuunkZyLsUaNy9Ux7D4uh0QVuSPbPzWxuR9g91kcBpPWBy7lziFqNHV3RTi5gdYRBdXNSEU-zmEDbZS2x0zu1FBD8j_ojmXP4nOkdcD-YAI8EjjpWiq3IPFduikWOjTSKIcJ8iUq5qFbB8lnTpPtwTJsrAsx19l2aU6J1zxwmJfdkB0VTiSOH00gSJUjDUkbmCga0IpQwyg2oWPagJMcvIGlTqlBTtkj9XweQOb5HLDsorsletM32_GeLfzzGHiRRjzy-uoGdqOb-alrlRuYk4sVUtkRi7LY4kmNN80-tbT-QQwjvfwNUp5jVI1X-sNbASaBLrL-TpuPb5Z95PDcJCe1mdQlRvEGFpK2dv96seqkfQ1DPeVgWm4ajWyJK1RbAOmouwplgiz5ipj1_tgZ4piXiyUqhuit5bK3tDMwB_Uk97tZxwMGOQ5mV5Gshnt-oAEgD-2pErRjqSO6ve7t43z2XCdyDFOon7kT0mwnvGwffOziBUtRvd39LipdaEF3-EfCeGAQBWojmFHqi4ZWHRWoXjMFY_TvSys4uIbb9oqZPkg0kSHFViHPfLFmwU4VZQLtnCL16xXfGmnuf76G-vO4poLtnpxrDm_lUk7rx-eUtjuhUfsZUowoPNQYSq1vL4sqXSdJePg4sXUhdJTkJuEzxKt66EbXoM9gAvISwBms-07uRImKrTW7Oz0rbd3z2EOoT6LT9dcI-Gyn7H-opPskyUCuvlQF_aN6BYvDnV5JrjbYx0xLAjkZe605yX9B-SRoxg"
+    },
+    {
+      "question": "What other Rat Pack members were also successful singers?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+other+Rat+Pack+members+were+also+successful+singers%3F&subsequent_request_token=gPPFsHicTVNJzqNmEJVyEjaRuqV0N4PBIMsLZvhtxg8-hg0CzGRGAzaYbSsXiVqJlANkn9yic5o4i6S7qhZP9apKT6Wqn3_Jqj_YyVDi9IFLt07HMtpsKKMXrS9ZM6Zf_-Lbfgkc23AgY4Qto8IWto4fDj7aPO3uDbddZtY33U1raYP10Lu-NNkycze80AFETUB0aMFWSo4IKYimaOhwLoDNWyqlz2ALZxcyU-pI0Kmh6iiDZ3u72WnEZ_qqsdqLB7ZmSXCsvGDMVXMaTixDLkUZNfB0XKvDNal3a-iUViKEZoJCWy6mBeISakDYhSiTa-zv9ykbo7jIuvnrZ63fqqaJP5EfUeSdFqdVN_dTeUDUbs4a5JVADID4CIZGGBnt3yPsMDSZlyWnav5EEvuPBIW8OymOdv4Jaao6Q-Qsrfv3CF-OfZt9wgjiI_qvIyDO47H6r0W8FN-4X9O-r6vs7x_-jCKQpfcx-wAc2zyyAiX0xf166_f-NIy0KpcSUevVM9-7NwWOcm31j7MJMPqs52t95V3s4fDKfrUnPW6LZteZxKlTssBIZAFM2tuunkZyLsUaNy9Ux7D4uh0QVuSPbPzWxuR9g91kcBpPWBy7lziFqNHV3RTi5gdYRBdXNSEU-zmEDbZS2x0zu1FBD8j_ojmXP4nOkdcD-YAI8EjjpWiq3IPFduikWOjTSKIcJ8iUq5qFbB8lnTpPtwTJsrAsx19l2aU6J1zxwmJfdkB0VTiSOH00gSJUjDUkbmCga0IpQwyg2oWPagJMcvIGlTqlBTtkj9XweQOb5HLDsorsletM32_GeLfzzGHiRRjzy-uoGdqOb-alrlRuYk4sVUtkRi7LY4kmNN80-tbT-QQwjvfwNUp5jVI1X-sNbASaBLrL-TpuPb5Z95PDcJCe1mdQlRvEGFpK2dv96seqkfQ1DPeVgWm4ajWyJK1RbAOmouwplgiz5ipj1_tgZ4piXiyUqhuit5bK3tDMwB_Uk97tZxwMGOQ5mV5Gshnt-oAEgD-2pErRjqSO6ve7t43z2XCdyDFOon7kT0mwnvGwffOziBUtRvd39LipdaEF3-EfCeGAQBWojmFHqi4ZWHRWoXjMFY_TvSys4uIbb9oqZPkg0kSHFViHPfLFmwU4VZQLtnCL16xXfGmnuf76G-vO4poLtnpxrDm_lUk7rx-eUtjuhUfsZUowoPNQYSq1vL4sqXSdJePg4sXUhdJTkJuEzxKt66EbXoM9gAvISwBms-07uRImKrTW7Oz0rbd3z2EOoT6LT9dcI-Gyn7H-opPskyUCuvlQF_aN6BYvDnV5JrjbYx0xLAjkZe605yX9B-SRoxg"
+    },
+    {
+      "question": "What were his most famous songs and albums during his Capitol Records years?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+were+his+most+famous+songs+and+albums+during+his+Capitol+Records+years%3F&subsequent_request_token=gPPFsHicTVNJzqNmEJVyEjaRuqV0N4PBIMsLZvhtxg8-hg0CzGRGAzaYbSsXiVqJlANkn9yic5o4i6S7qhZP9apKT6Wqn3_Jqj_YyVDi9IFLt07HMtpsKKMXrS9ZM6Zf_-Lbfgkc23AgY4Qto8IWto4fDj7aPO3uDbddZtY33U1raYP10Lu-NNkycze80AFETUB0aMFWSo4IKYimaOhwLoDNWyqlz2ALZxcyU-pI0Kmh6iiDZ3u72WnEZ_qqsdqLB7ZmSXCsvGDMVXMaTixDLkUZNfB0XKvDNal3a-iUViKEZoJCWy6mBeISakDYhSiTa-zv9ykbo7jIuvnrZ63fqqaJP5EfUeSdFqdVN_dTeUDUbs4a5JVADID4CIZGGBnt3yPsMDSZlyWnav5EEvuPBIW8OymOdv4Jaao6Q-Qsrfv3CF-OfZt9wgjiI_qvIyDO47H6r0W8FN-4X9O-r6vs7x_-jCKQpfcx-wAc2zyyAiX0xf166_f-NIy0KpcSUevVM9-7NwWOcm31j7MJMPqs52t95V3s4fDKfrUnPW6LZteZxKlTssBIZAFM2tuunkZyLsUaNy9Ux7D4uh0QVuSPbPzWxuR9g91kcBpPWBy7lziFqNHV3RTi5gdYRBdXNSEU-zmEDbZS2x0zu1FBD8j_ojmXP4nOkdcD-YAI8EjjpWiq3IPFduikWOjTSKIcJ8iUq5qFbB8lnTpPtwTJsrAsx19l2aU6J1zxwmJfdkB0VTiSOH00gSJUjDUkbmCga0IpQwyg2oWPagJMcvIGlTqlBTtkj9XweQOb5HLDsorsletM32_GeLfzzGHiRRjzy-uoGdqOb-alrlRuYk4sVUtkRi7LY4kmNN80-tbT-QQwjvfwNUp5jVI1X-sNbASaBLrL-TpuPb5Z95PDcJCe1mdQlRvEGFpK2dv96seqkfQ1DPeVgWm4ajWyJK1RbAOmouwplgiz5ipj1_tgZ4piXiyUqhuit5bK3tDMwB_Uk97tZxwMGOQ5mV5Gshnt-oAEgD-2pErRjqSO6ve7t43z2XCdyDFOon7kT0mwnvGwffOziBUtRvd39LipdaEF3-EfCeGAQBWojmFHqi4ZWHRWoXjMFY_TvSys4uIbb9oqZPkg0kSHFViHPfLFmwU4VZQLtnCL16xXfGmnuf76G-vO4poLtnpxrDm_lUk7rx-eUtjuhUfsZUowoPNQYSq1vL4sqXSdJePg4sXUhdJTkJuEzxKt66EbXoM9gAvISwBms-07uRImKrTW7Oz0rbd3z2EOoT6LT9dcI-Gyn7H-opPskyUCuvlQF_aN6BYvDnV5JrjbYx0xLAjkZe605yX9B-SRoxg"
+    }
+  ]
+}

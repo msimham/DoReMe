@@ -1,0 +1,380 @@
+{
+  "search_metadata": {
+    "id": "6987c2f128b27b5201a3246e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gNgONA7pcE73TkqqeCtiOA/6987c2f128b27b5201a3246e.json",
+    "created_at": "2026-02-07 22:55:45 UTC",
+    "processed_at": "2026-02-07 22:55:45 UTC",
+    "google_ai_mode_url": "https://www.google.com/search?q=Drake%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&oq=Drake%2C+age%2C+music+related+skills+%2B+abilities+%2B+occupations%2C+proficiency+in+each%2C+and+current+residence+location+%28city%2C+state%29&udm=50&sourceid=chrome&ie=UTF-8&aep=1&ntc=1&sa=X",
+    "raw_html_file": "https://serpapi.com/searches/gNgONA7pcE73TkqqeCtiOA/6987c2f128b27b5201a3246e.html",
+    "prettify_html_file": "https://serpapi.com/searches/gNgONA7pcE73TkqqeCtiOA/6987c2f128b27b5201a3246e.prettify",
+    "total_time_taken": 8.19
+  },
+  "search_parameters": {
+    "engine": "google_ai_mode",
+    "q": "Drake, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
+    "device": "desktop"
+  },
+  "subsequent_request_token": "WvJG53icPY5JrqNWAAClXCBXYNktxf_zMBjQlxdMNjaDzWM0GwsezwYzTwazz0WiViL1BfoAOcXPaZJsupYllVS__4GzHxzS1AhRrBFST3KVn-nm6a2E-zdcdOjzb6msp4sDW3OB69AHua0mleWZbpIfI98tIt0vTibFKLonLpeSMUw5n313mrFjdvY6Ed19CA2yWIzFlP0HvOkOmsPSBdHOAvbiRbDczUkFmygIA181h4hkLMufSKMqhtBND6EqjoaXunHJNyiHayVF9IUcDhffeJkkiIzqMun-YJmqSHkZEMO51s2SHLwcPi7gGCEl_z72uLtGd1wNn6NRL1lRRO_MG0l8MSKUVUPdpx_EoRpwQfwniJNNBAQgr4C5sl8JoWkK7ONYy4b3Dcm8gTfAEF801TH034giyzGxxyivvxIe7vqsrt4B-7Yh7OgWddnP4E9U13mG__nl1-vVxmjs8Mp24HkryBu5vj_TDpNZMmRyPB3LTR5ktTZSiUBZNTX3biaGZ_nGdJsWiU_IgX136lNltwC5jS-04fmHNhpdmlpDbdSOu9Ta82A614F7gLn1QQiKtBWiYxkxzxnMptq2Fmcq5DoJCqeSVivqiAtyhFNMayetfL1oB71yLPQPOU716YP4eSy6kqY4W-noqh-E7G3JBbf4uWbbyHj0qkW-TvH1Rq2beLaLCRRXNWcHRNq3bBH-54MwD_KWobitOjmUOTX6CuastZoC9godRdUfc6lOoXnhacPl9h1qEo6cKS7quBvoF9M-WSA2dHGp9tqa7mt7hsyihT3IAJTiNdtX9SW6xbO76R3wUMlQAF3IZk2S-HPaTIHuNLlt0xSJNduaTIRaaU4Mzr64OVCg20pZmd_3Nznxu-Ul4HW19y1eEg80H7zYYMfw18DHHKfzZZg9zk1-zBK5UxrX0q_3Qcd2x1EJn1MVZzON2Nvs_ni_CxKC1o6PETNo6csPvacd8Y3IS21gnvar2f1W9kP--ZfgDsp8E1tWybIVDFuSlp3WrW2P6hReA10VHhHrtIa0gZvVfQSbKgjAPZmFFyI3ruWF-DWC6WSlxiD24U2bzMpNUBbuGTYs-3n15NJRYbQTPW5QITXFwVfWOa-UReUbSXdWlKRYeHGGKnc-alHjQ6V2W0VPY712CqPd3VB4MbjDvyHlZ2o",
+  "text_blocks": [
+    {
+      "type": "paragraph",
+      "snippet": "As of February 7, 2026, the following details pertain to the Canadian musician and entrepreneur Drake:"
+    },
+    {
+      "type": "heading",
+      "snippet": "Personal Information"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Age: 39 years old (Born: October 24, 1986)."
+        },
+        {
+          "snippet": "Current Residence: Brenham, Texas (Washington County). In late 2023, he purchased a 313-acre estate (the former \"Inn at Dos Brisas\") near Houston to establish a secondary home base outside of his primary residence in Toronto, Ontario.",
+          "snippet_links": [
+            {
+              "text": "Brenham, Texas",
+              "link": "https://www.google.com/search?q=Brenham,+Texas&kgmid=/m/010blp&sa=X&ved=2ahUKEwjwwvvyvMiSAxU-1zQHHWMHIYYQ3egRegQIBBAD"
+            }
+          ]
+        }
+      ],
+      "reference_indexes": [
+        3,
+        9,
+        13,
+        4,
+        7
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Occupations"
+    },
+    {
+      "type": "list",
+      "list": [
+        {
+          "snippet": "Rapper & Singer: His primary professional identity, characterized by a unique blend of melodic singing and technical rapping."
+        },
+        {
+          "snippet": "Songwriter: Highly regarded as a prolific songwriter who has also written for major artists like Kanye West and Alicia Keys."
+        },
+        {
+          "snippet": "Entrepreneur: Founder of the OVO Sound record label and the OVO clothing brand."
+        },
+        {
+          "snippet": "Executive Producer: Involved in television production, serving as an executive producer for shows such as Euphoria and Neuromancer."
+        },
+        {
+          "snippet": "Actor: Originally gained fame as Jimmy Brooks on Degrassi: The Next Generation and occasionally returns to acting-related projects."
+        }
+      ],
+      "reference_indexes": [
+        12,
+        1,
+        0,
+        2,
+        5,
+        10
+      ]
+    },
+    {
+      "type": "heading",
+      "snippet": "Music-Related Skills & Proficiency"
+    },
+    {
+      "type": "table",
+      "reference_indexes": [
+        1,
+        0,
+        2,
+        3,
+        15,
+        6,
+        14,
+        11
+      ],
+      "table": [
+        [
+          "Skill / Ability",
+          "Proficiency Level",
+          "Description"
+        ],
+        [
+          "Versatility",
+          "Expert",
+          "Renowned for his ability to shift seamlessly between Hip-Hop, R&B, Pop, Dancehall, and Drill."
+        ],
+        [
+          "Flow & Delivery",
+          "Expert",
+          "Celebrated for a \"smooth as silk\" technical flow and distinctive melodic delivery that has influenced a generation of artists."
+        ],
+        [
+          "Songwriting",
+          "Expert",
+          "Often cited as one of the best contemporary songwriters, noted for both chart-topping hooks and introspective lyricism."
+        ],
+        [
+          "Curation/Production",
+          "Advanced",
+          "While he works with a core team of producers, he is highly proficient in sound curation and directing the \"Toronto Sound\"."
+        ],
+        [
+          "Vocal Ability",
+          "Advanced",
+          "Noted for a deep, soulfully expressive voice that allows him to function equally as a melodic singer and a rhythmic rapper."
+        ]
+      ],
+      "detailed": [
+        [
+          {
+            "snippet": "Skill / Ability"
+          },
+          {
+            "snippet": "Proficiency Level"
+          },
+          {
+            "snippet": "Description"
+          }
+        ],
+        [
+          {
+            "snippet": "Versatility"
+          },
+          {
+            "snippet": "Expert"
+          },
+          {
+            "snippet": "Renowned for his ability to shift seamlessly between Hip-Hop, R&B, Pop, Dancehall, and Drill."
+          }
+        ],
+        [
+          {
+            "snippet": "Flow & Delivery"
+          },
+          {
+            "snippet": "Expert"
+          },
+          {
+            "snippet": "Celebrated for a \"smooth as silk\" technical flow and distinctive melodic delivery that has influenced a generation of artists."
+          }
+        ],
+        [
+          {
+            "snippet": "Songwriting"
+          },
+          {
+            "snippet": "Expert"
+          },
+          {
+            "snippet": "Often cited as one of the best contemporary songwriters, noted for both chart-topping hooks and introspective lyricism."
+          }
+        ],
+        [
+          {
+            "snippet": "Curation/Production"
+          },
+          {
+            "snippet": "Advanced"
+          },
+          {
+            "snippet": "While he works with a core team of producers, he is highly proficient in sound curation and directing the \"Toronto Sound\"."
+          }
+        ],
+        [
+          {
+            "snippet": "Vocal Ability"
+          },
+          {
+            "snippet": "Advanced"
+          },
+          {
+            "snippet": "Noted for a deep, soulfully expressive voice that allows him to function equally as a melodic singer and a rhythmic rapper."
+          }
+        ]
+      ],
+      "formatted": [
+        {
+          "skill_ability": "Versatility",
+          "proficiency_level": "Expert",
+          "description": "Renowned for his ability to shift seamlessly between Hip-Hop, R&B, Pop, Dancehall, and Drill."
+        },
+        {
+          "skill_ability": "Flow & Delivery",
+          "proficiency_level": "Expert",
+          "description": "Celebrated for a \"smooth as silk\" technical flow and distinctive melodic delivery that has influenced a generation of artists."
+        },
+        {
+          "skill_ability": "Songwriting",
+          "proficiency_level": "Expert",
+          "description": "Often cited as one of the best contemporary songwriters, noted for both chart-topping hooks and introspective lyricism."
+        },
+        {
+          "skill_ability": "Curation/Production",
+          "proficiency_level": "Advanced",
+          "description": "While he works with a core team of producers, he is highly proficient in sound curation and directing the \"Toronto Sound\"."
+        },
+        {
+          "skill_ability": "Vocal Ability",
+          "proficiency_level": "Advanced",
+          "description": "Noted for a deep, soulfully expressive voice that allows him to function equally as a melodic singer and a rhythmic rapper."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Drake's Versatility in Music Genres - Facebook",
+      "link": "https://www.facebook.com/groups/363278682282019/posts/902754175001131/#:~:text=He%20is%20not%20a%20softie,Please%20follow%20Hip%2Dhop%20Universe",
+      "snippet": "Sep 8, 2024 \u2014 He is not a softie, he is a realist. Don't underestimate him by his genre, appreciate him by his artistry. He has written for Dr. ...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/IDE1qyPCZmb93jbpWRRA0wNwpV3p_L6eBIZVq5AibbM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/PTafmD5jgJuRBX_D0GAro5a5mNu3cBNJ7Bropwb2i9A.png",
+      "index": 0
+    },
+    {
+      "title": "What Makes Drake So Special? \u2013 The Dragon Chronicle",
+      "link": "https://sites.cortland.edu/dragon-chronicle/2023/11/24/what-makes-drake-so-special/#:~:text=Drake's%20music%20has%20a%20remarkable,a%20wide%20range%20of%20inspirations.",
+      "snippet": "Nov 24, 2023 \u2014 This is the story of a musical icon, and the remarkable story of what makes Drake genuinely unique is revealed in its lyrics and n...",
+      "source": "SUNY Cortland",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/AsmvND-Yg8r_wykZV-1Xu3Bo-zAvcqI3vrQD64n5N-o.png",
+      "index": 1
+    },
+    {
+      "title": "Drake has proven again to be the great songwriter he has ... - Facebook",
+      "link": "https://www.facebook.com/HIPHOPMIN5/posts/drake-has-proven-again-to-be-the-great-songwriter-he-has-always-claimed-to-be-%EF%B8%8F-/1095517952448677/#:~:text=Blige.-,Even%20Nicki%20Minaj%20has%20acknowledged%20that%20Drake%20is%20extremely%20talented,saying%20that's%20his%20greatest%20talent.",
+      "snippet": "Jul 8, 2025 \u2014 Even Nicki Minaj has acknowledged that Drake is extremely talented in writing songs, saying that's his greatest talent.",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/T6-D1gs-6JZW1epDEGjDMHBBI5xrozbRC0a5GbnYTBs.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/4h8eDxswJ3_8fMmikSq7QHdDllQ1QYF3Djp1U8IW-IE.png",
+      "index": 2
+    },
+    {
+      "title": "Drake (musician) - JH Wiki Collection Wiki",
+      "link": "https://jhmovie.fandom.com/wiki/Drake_(musician)",
+      "snippet": "Mar 8, 2024 \u2014 Drake (musician) * Birth name. Aubrey Drake Graham. * Born. October 24, 1986 (age 39) * Birth place. Toronto, Ontario, Canada. * C...",
+      "source": "JH Wiki Collection Wiki",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/Ye3DHSsV3hwq66XX6myznoD4YeeJt8v0FGeJNRTo3nM.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/hOY3QtjADRjF8V2Q4fgkvsoY7wqKyd4H3ih1BpFQSLM.jpeg",
+      "index": 3
+    },
+    {
+      "title": "Drake New TEXAS House Tour | INSIDE His New $15 Million ...",
+      "link": "https://www.youtube.com/watch?v=78vh9ybfVNc",
+      "snippet": "May 31, 2024 \u2014 Toronto rapper Drake may have offloaded most of his California properties in recent years but it seems he had his eyes set on anot...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/iT_3ezJ0B90X9f-hloImmCoEG2dK4a-RYzJdwGw26Vs.jpeg",
+      "index": 4
+    },
+    {
+      "title": "Drake",
+      "link": "https://www.imdb.com/name/nm1013044/#:~:text=See%20all-,Producer,6.2",
+      "snippet": "Producer * Euphoria. executive producer. Released. TV Series. 2026. * The 48 Laws of Power. executive producer. Pre-production. TV...",
+      "source": "IMDb",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/ReTFOnMCU7mABGj8LlZl-dAlPRTPO5TSi_IzUG7hgOc.jpeg",
+      "index": 5
+    },
+    {
+      "title": "The SECRETS Behind Every DRAKE Song...",
+      "link": "https://www.youtube.com/watch?v=fwyhMCa2j4Y",
+      "snippet": "Jan 15, 2025 \u2014 there is no doubt that Drake will go down as the greatest of all time he's had countless of number one hits on the Billboard Hot 1...",
+      "source": "YouTube",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/Tl7VNCZnvxP181-HOif_qCejmHacFd5JOqpu5lZX_kI.jpeg",
+      "index": 6
+    },
+    {
+      "title": "Drake announces he finally got a place and is moving to ...",
+      "link": "https://cbsaustin.com/news/entertainment/drake-announces-he-finally-got-a-place-and-is-moving-to-houston-texas-toronto-house-home-tour-fans#:~:text=topics:,will%20be%20seeing%20me%20around!",
+      "snippet": "Sep 20, 2023 \u2014 HOUSTON - Hip hop superstar Drake made it official on Monday night - He's moving to Houston. During a stop at the Toyota Center in...",
+      "source": "CBS Austin",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/NglKVn2gOplxBCSYpdStUXbe1PsnXBSoj4i0Nkn25B4.jpeg",
+      "index": 7
+    },
+    {
+      "title": "Drake's music career and influence",
+      "link": "https://www.facebook.com/groups/7973148649384711/posts/8333337513365821/#:~:text=Other%20posts,Award%20for%20Best%20Rap%20Album.",
+      "snippet": "Jul 21, 2024 \u2014 Other posts. Soultrain AfterDark \u25ba #SoultrainAfterDARK. 7y \u00b7 Public. >>> Drake ,,, *if you're reading this* ,,, WE MADE IT <<< \"So...",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/IhLC7dJNitF6tYAYifSqFdruh0EKL6wZlkdZk820U2Y.jpeg",
+      "index": 8
+    },
+    {
+      "title": "Drake officially put down roots in Texas, and now we know ...",
+      "link": "https://www.facebook.com/100064114116846/posts/drake-officially-put-down-roots-in-texas-and-now-we-know-exactly-where-after-ann/1272097924937333/#:~:text=Drake%20officially%20put%20down%20roots,ranch%20northwest%20of%20the%20city.",
+      "snippet": "Dec 16, 2025 \u2014 Rapper Drake has wrapped up his life in LA and relocated to a sprawling 313-acre ranch near Houston, Texas \ud83d\udc4f. Photos in Comments.",
+      "source": "Facebook",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/WG_7efdY5Bpyyb7EzjERkLN69A7vZgQMujQsZjErN8k.jpeg",
+      "index": 9
+    },
+    {
+      "title": "Drake - TeachRock",
+      "link": "https://teachrock.org/traceitback/drake/#:~:text=Birth%20name:%20Aubrey%20Drake%20Graham,to%20his%20mixed%2Drace%20background.",
+      "snippet": "Birth name: Aubrey Drake Graham. Birthplace: Toronto, Canada. October 24, 1986 \u2013 present. Years Active: 2001 \u2013 present. One of the...",
+      "source": "Teach Rock",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/L1X_6hMCW2ILMznPMPSU_mGf5flyNVaXb6pFQrurMN8.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/LItrzwEWR3KwZGaBPYptckkhwToC3dC1D8Uru035oZ4.png",
+      "index": 10
+    },
+    {
+      "title": "A Detailed Look at Drake's Early Career and Rise to Fame",
+      "link": "https://wqhs.upenn.edu/started-from-the-bottom-now-we-here-a-detailed-look-at-drakes-early-career-and-rise-to-fame/#:~:text=In%20this%20day%20and%20age,success%20in%20the%20music%20world.",
+      "snippet": "Jul 16, 2020 \u2014 In this day and age, it is almost impossible to have never heard of the hip-hop powerhouse that is Aubrey \u201cDrake\u201d Graham. With acc...",
+      "source": "WQHS Radio",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/R4M7yTBojN4a6g71gUR8ZnJjYQTlCdSwDT2YKWEhC9E.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/GDm4rwkcMJt6CTU3yhgyUVr2YYdrgm4mp5EQlUggTGc.png",
+      "index": 11
+    },
+    {
+      "title": "Drake | Rapper, Albums, Songs, Record Label, Lawsuit, & Facts",
+      "link": "https://www.britannica.com/biography/Drake#:~:text=Drake%20(born%20October%2024%2C%201986,won%20him%20a%20large%20following.",
+      "snippet": "Feb 5, 2026 \u2014 Drake (born October 24, 1986, Toronto, Ontario, Canada) is a Canadian rap musician who first gained fame as an actor on the acclai...",
+      "source": "Britannica",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/31EjbzLZjCNYBRb10qsAWvckwwE73NkcmxxJUrX9McU.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/FEqEp4ol4_zE78jvqpIwdaPioB0rROAT62kFExeVfi4.png",
+      "index": 12
+    },
+    {
+      "title": "Drake's visit to a tiny Texas dive bar didn't go as planned - Chron",
+      "link": "https://www.chron.com/culture/article/drake-brenham-texas-20402458.php#:~:text=Last%20year%2C%20Drake%20bought%20an,and%20a%20half%20from%20Houston.",
+      "snippet": "Jul 1, 2025 \u2014 Last year, Drake bought an expansive estate near Brenham, a small Texas town about an hour and a half from Houston.",
+      "source": "Chron",
+      "thumbnail": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/1ZedJYiHtX9s-gZNJqzs6icPOkz-eLt58AJwYO0QHog.jpeg",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/FEmMdwzmEhdrtbe-jL5Q3odgSrqEFBLX5EyfVnvoipo.png",
+      "index": 13
+    },
+    {
+      "title": "The Best Drake Rap Songs: A Journey Through His Lyrical Mastery",
+      "link": "https://www.oreateai.com/blog/the-best-drake-rap-songs-a-journey-through-his-lyrical-mastery/41f632b0d7aa5bb3726e4b5dbc68025a#:~:text=You%20might%20wonder%20how%20such,hitting%20verses%20that%20demand%20attention.",
+      "snippet": "Jan 7, 2026 \u2014 You might wonder how such raw honesty can coexist within the genre known for its bravado; yet here lies one of Drake's greatest st...",
+      "source": "Oreate AI",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/3K5jFHWd7G979p7P7IoUB0-fDuVfEb6WMGjwCb2810M.png",
+      "index": 14
+    },
+    {
+      "title": "What qualities and characteristics make Drake a great rapper?",
+      "link": "https://www.quora.com/What-qualities-and-characteristics-make-Drake-a-great-rapper",
+      "snippet": "Sep 21, 2013 \u2014 * He is one of the best lyricists of all times. Period. He is one of the best MCs of all time. Period. In fact, go listen to him a...",
+      "source": "Quora",
+      "source_icon": "https://serpapi.com/searches/6987c2f128b27b5201a3246e/images/Ui5xz5SbAaayWMPOpi8-Oovc122wY9pFHlZO1-Z21Vg.png",
+      "index": 15
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What's OVO Sound known for?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What%27s+OVO+Sound+known+for%3F&subsequent_request_token=WvJG53icPY5JrqNWAAClXCBXYNktxf_zMBjQlxdMNjaDzWM0GwsezwYzTwazz0WiViL1BfoAOcXPaZJsupYllVS__4GzHxzS1AhRrBFST3KVn-nm6a2E-zdcdOjzb6msp4sDW3OB69AHua0mleWZbpIfI98tIt0vTibFKLonLpeSMUw5n313mrFjdvY6Ed19CA2yWIzFlP0HvOkOmsPSBdHOAvbiRbDczUkFmygIA181h4hkLMufSKMqhtBND6EqjoaXunHJNyiHayVF9IUcDhffeJkkiIzqMun-YJmqSHkZEMO51s2SHLwcPi7gGCEl_z72uLtGd1wNn6NRL1lRRO_MG0l8MSKUVUPdpx_EoRpwQfwniJNNBAQgr4C5sl8JoWkK7ONYy4b3Dcm8gTfAEF801TH034giyzGxxyivvxIe7vqsrt4B-7Yh7OgWddnP4E9U13mG__nl1-vVxmjs8Mp24HkryBu5vj_TDpNZMmRyPB3LTR5ktTZSiUBZNTX3biaGZ_nGdJsWiU_IgX136lNltwC5jS-04fmHNhpdmlpDbdSOu9Ta82A614F7gLn1QQiKtBWiYxkxzxnMptq2Fmcq5DoJCqeSVivqiAtyhFNMayetfL1oB71yLPQPOU716YP4eSy6kqY4W-noqh-E7G3JBbf4uWbbyHj0qkW-TvH1Rq2beLaLCRRXNWcHRNq3bBH-54MwD_KWobitOjmUOTX6CuastZoC9godRdUfc6lOoXnhacPl9h1qEo6cKS7quBvoF9M-WSA2dHGp9tqa7mt7hsyihT3IAJTiNdtX9SW6xbO76R3wUMlQAF3IZk2S-HPaTIHuNLlt0xSJNduaTIRaaU4Mzr64OVCg20pZmd_3Nznxu-Ul4HW19y1eEg80H7zYYMfw18DHHKfzZZg9zk1-zBK5UxrX0q_3Qcd2x1EJn1MVZzON2Nvs_ni_CxKC1o6PETNo6csPvacd8Y3IS21gnvar2f1W9kP--ZfgDsp8E1tWybIVDFuSlp3WrW2P6hReA10VHhHrtIa0gZvVfQSbKgjAPZmFFyI3ruWF-DWC6WSlxiD24U2bzMpNUBbuGTYs-3n15NJRYbQTPW5QITXFwVfWOa-UReUbSXdWlKRYeHGGKnc-alHjQ6V2W0VPY712CqPd3VB4MbjDvyHlZ2o"
+    },
+    {
+      "question": "What other artists shaped the 'Toronto Sound' besides Drake?",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=What+other+artists+shaped+the+%27Toronto+Sound%27+besides+Drake%3F&subsequent_request_token=WvJG53icPY5JrqNWAAClXCBXYNktxf_zMBjQlxdMNjaDzWM0GwsezwYzTwazz0WiViL1BfoAOcXPaZJsupYllVS__4GzHxzS1AhRrBFST3KVn-nm6a2E-zdcdOjzb6msp4sDW3OB69AHua0mleWZbpIfI98tIt0vTibFKLonLpeSMUw5n313mrFjdvY6Ed19CA2yWIzFlP0HvOkOmsPSBdHOAvbiRbDczUkFmygIA181h4hkLMufSKMqhtBND6EqjoaXunHJNyiHayVF9IUcDhffeJkkiIzqMun-YJmqSHkZEMO51s2SHLwcPi7gGCEl_z72uLtGd1wNn6NRL1lRRO_MG0l8MSKUVUPdpx_EoRpwQfwniJNNBAQgr4C5sl8JoWkK7ONYy4b3Dcm8gTfAEF801TH034giyzGxxyivvxIe7vqsrt4B-7Yh7OgWddnP4E9U13mG__nl1-vVxmjs8Mp24HkryBu5vj_TDpNZMmRyPB3LTR5ktTZSiUBZNTX3biaGZ_nGdJsWiU_IgX136lNltwC5jS-04fmHNhpdmlpDbdSOu9Ta82A614F7gLn1QQiKtBWiYxkxzxnMptq2Fmcq5DoJCqeSVivqiAtyhFNMayetfL1oB71yLPQPOU716YP4eSy6kqY4W-noqh-E7G3JBbf4uWbbyHj0qkW-TvH1Rq2beLaLCRRXNWcHRNq3bBH-54MwD_KWobitOjmUOTX6CuastZoC9godRdUfc6lOoXnhacPl9h1qEo6cKS7quBvoF9M-WSA2dHGp9tqa7mt7hsyihT3IAJTiNdtX9SW6xbO76R3wUMlQAF3IZk2S-HPaTIHuNLlt0xSJNduaTIRaaU4Mzr64OVCg20pZmd_3Nznxu-Ul4HW19y1eEg80H7zYYMfw18DHHKfzZZg9zk1-zBK5UxrX0q_3Qcd2x1EJn1MVZzON2Nvs_ni_CxKC1o6PETNo6csPvacd8Y3IS21gnvar2f1W9kP--ZfgDsp8E1tWybIVDFuSlp3WrW2P6hReA10VHhHrtIa0gZvVfQSbKgjAPZmFFyI3ruWF-DWC6WSlxiD24U2bzMpNUBbuGTYs-3n15NJRYbQTPW5QITXFwVfWOa-UReUbSXdWlKRYeHGGKnc-alHjQ6V2W0VPY712CqPd3VB4MbjDvyHlZ2o"
+    },
+    {
+      "question": "Tell me more about his production skills",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_ai_mode&q=Tell+me+more+about+his+production+skills&subsequent_request_token=WvJG53icPY5JrqNWAAClXCBXYNktxf_zMBjQlxdMNjaDzWM0GwsezwYzTwazz0WiViL1BfoAOcXPaZJsupYllVS__4GzHxzS1AhRrBFST3KVn-nm6a2E-zdcdOjzb6msp4sDW3OB69AHua0mleWZbpIfI98tIt0vTibFKLonLpeSMUw5n313mrFjdvY6Ed19CA2yWIzFlP0HvOkOmsPSBdHOAvbiRbDczUkFmygIA181h4hkLMufSKMqhtBND6EqjoaXunHJNyiHayVF9IUcDhffeJkkiIzqMun-YJmqSHkZEMO51s2SHLwcPi7gGCEl_z72uLtGd1wNn6NRL1lRRO_MG0l8MSKUVUPdpx_EoRpwQfwniJNNBAQgr4C5sl8JoWkK7ONYy4b3Dcm8gTfAEF801TH034giyzGxxyivvxIe7vqsrt4B-7Yh7OgWddnP4E9U13mG__nl1-vVxmjs8Mp24HkryBu5vj_TDpNZMmRyPB3LTR5ktTZSiUBZNTX3biaGZ_nGdJsWiU_IgX136lNltwC5jS-04fmHNhpdmlpDbdSOu9Ta82A614F7gLn1QQiKtBWiYxkxzxnMptq2Fmcq5DoJCqeSVivqiAtyhFNMayetfL1oB71yLPQPOU716YP4eSy6kqY4W-noqh-E7G3JBbf4uWbbyHj0qkW-TvH1Rq2beLaLCRRXNWcHRNq3bBH-54MwD_KWobitOjmUOTX6CuastZoC9godRdUfc6lOoXnhacPl9h1qEo6cKS7quBvoF9M-WSA2dHGp9tqa7mt7hsyihT3IAJTiNdtX9SW6xbO76R3wUMlQAF3IZk2S-HPaTIHuNLlt0xSJNduaTIRaaU4Mzr64OVCg20pZmd_3Nznxu-Ul4HW19y1eEg80H7zYYMfw18DHHKfzZZg9zk1-zBK5UxrX0q_3Qcd2x1EJn1MVZzON2Nvs_ni_CxKC1o6PETNo6csPvacd8Y3IS21gnvar2f1W9kP--ZfgDsp8E1tWybIVDFuSlp3WrW2P6hReA10VHhHrtIa0gZvVfQSbKgjAPZmFFyI3ruWF-DWC6WSlxiD24U2bzMpNUBbuGTYs-3n15NJRYbQTPW5QITXFwVfWOa-UReUbSXdWlKRYeHGGKnc-alHjQ6V2W0VPY712CqPd3VB4MbjDvyHlZ2o"
+    }
+  ]
+}
