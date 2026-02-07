@@ -1,0 +1,167 @@
+import { FeedItem, Musician } from "./types";
+
+export const mockFeedItems: FeedItem[] = [
+  {
+    id: "1",
+    creatorName: "Sarah Chen",
+    handle: "@sarahbeats",
+    location: "Los Angeles, CA",
+    title: "Late Night Sessions - Original Beat",
+    description: "Working on some lo-fi beats for my upcoming EP. Would love to collab with a vocalist!",
+    videoUrl: "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+    thumbnailUrl: "https://i.ytimg.com/vi/jfKfPfyJRdk/maxresdefault.jpg",
+    tags: ["lofi", "hiphop", "beats"],
+  },
+  {
+    id: "2",
+    creatorName: "Marcus Johnson",
+    handle: "@marcusj",
+    location: "Nashville, TN",
+    title: "Acoustic Cover - Fleetwood Mac",
+    description: "Dreams cover on my Taylor. Looking for harmonies!",
+    thumbnailUrl: "https://i.ytimg.com/vi/Y3ywicffOj4/maxresdefault.jpg",
+    tags: ["acoustic", "cover", "folk"],
+  },
+  {
+    id: "3",
+    creatorName: "Luna Rodriguez",
+    handle: "@lunamusic",
+    location: "Brooklyn, NY",
+    title: "Synth Experimentation",
+    description: "Playing around with modular synths. This patch took me 3 hours to dial in.",
+    videoUrl: "https://www.youtube.com/watch?v=teXAtY8U7t8",
+    thumbnailUrl: "https://i.ytimg.com/vi/teXAtY8U7t8/maxresdefault.jpg",
+    tags: ["electronic", "synth", "ambient"],
+  },
+  {
+    id: "4",
+    creatorName: "DJ Phoenix",
+    handle: "@djphoenix",
+    location: "Miami, FL",
+    title: "House Mix - Summer Vibes 2024",
+    description: "30-minute mix of my favorite house tracks. Perfect for beach days!",
+    thumbnailUrl: "https://i.ytimg.com/vi/5qap5aO4i9A/maxresdefault.jpg",
+    tags: ["house", "edm", "mix"],
+  },
+  {
+    id: "5",
+    creatorName: "Alex Park",
+    handle: "@alexparkmusic",
+    location: "Seattle, WA",
+    title: "Piano Improvisation in Dm",
+    description: "Just vibing at 2am. No edits, straight from the heart.",
+    videoUrl: "https://www.youtube.com/watch?v=W4-vWjxyTKQ",
+    thumbnailUrl: "https://i.ytimg.com/vi/W4-vWjxyTKQ/maxresdefault.jpg",
+    tags: ["piano", "jazz", "improvisation"],
+  },
+];
+
+export const mockMusicians: Musician[] = [
+  {
+    id: "m1",
+    name: "Jordan Lee",
+    handle: "@jordanlee",
+    location: "Austin, TX",
+    abilities: ["producer", "composer", "musician"],
+    lookingFor: ["singer", "writer"],
+    bio: "Electronic producer specializing in downtempo and ambient. 10+ years experience. Looking to collaborate on vocal-driven tracks.",
+    portfolio: [
+      { title: "Midnight Drive", thumbnailUrl: "https://i.ytimg.com/vi/jfKfPfyJRdk/default.jpg" },
+      { title: "Ocean Waves", thumbnailUrl: "https://i.ytimg.com/vi/teXAtY8U7t8/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m1",
+  },
+  {
+    id: "m2",
+    name: "Maya Patel",
+    handle: "@mayasings",
+    location: "Chicago, IL",
+    abilities: ["singer", "writer"],
+    lookingFor: ["producer", "composer"],
+    bio: "Soulful vocalist with R&B and jazz background. Love working on emotional, story-driven songs.",
+    portfolio: [
+      { title: "Covers Vol. 1", thumbnailUrl: "https://i.ytimg.com/vi/Y3ywicffOj4/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m2",
+  },
+  {
+    id: "m3",
+    name: "Chris Martinez",
+    handle: "@chrisguitar",
+    location: "Denver, CO",
+    abilities: ["musician", "composer"],
+    lookingFor: ["producer", "singer"],
+    bio: "Guitarist and songwriter. Blues, rock, and indie. Let's make something raw and real.",
+    portfolio: [
+      { title: "Desert Sessions", thumbnailUrl: "https://i.ytimg.com/vi/W4-vWjxyTKQ/default.jpg" },
+      { title: "Electric Dreams", thumbnailUrl: "https://i.ytimg.com/vi/5qap5aO4i9A/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m3",
+  },
+  {
+    id: "m4",
+    name: "Zoe Kim",
+    handle: "@zoeproducer",
+    location: "Portland, OR",
+    abilities: ["producer", "writer", "composer"],
+    lookingFor: ["singer", "musician"],
+    bio: "Pop/indie producer. Love crafting catchy hooks and lush soundscapes. Berklee grad.",
+    portfolio: [
+      { title: "Summer Nights EP", thumbnailUrl: "https://i.ytimg.com/vi/jfKfPfyJRdk/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m4",
+  },
+  {
+    id: "m5",
+    name: "Devon Harris",
+    handle: "@devondrums",
+    location: "New Orleans, LA",
+    abilities: ["musician"],
+    lookingFor: ["producer", "composer", "musician"],
+    bio: "Session drummer. Jazz, funk, hip-hop. Let's lay down some grooves!",
+    portfolio: [
+      { title: "Groove Studies", thumbnailUrl: "https://i.ytimg.com/vi/teXAtY8U7t8/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m5",
+  },
+  {
+    id: "m6",
+    name: "Riley Thompson",
+    handle: "@rileywrites",
+    location: "Boston, MA",
+    abilities: ["writer", "singer"],
+    lookingFor: ["producer", "musician"],
+    bio: "Indie singer-songwriter. Melancholic lyrics, bedroom pop vibes. Looking for producers to elevate my demos.",
+    portfolio: [
+      { title: "Bedroom Demos", thumbnailUrl: "https://i.ytimg.com/vi/Y3ywicffOj4/default.jpg" },
+    ],
+    avatarUrl: "https://i.pravatar.cc/150?u=m6",
+  },
+];
+
+export const mockConversations = [
+  {
+    id: "c1",
+    musicianId: "m1",
+    messages: [
+      {
+        id: "msg1",
+        from: "them" as const,
+        text: "Hey! Love your recent track. Want to collab?",
+        time: Date.now() - 3600000,
+      },
+      {
+        id: "msg2",
+        from: "me" as const,
+        text: "Thanks! I'd love to. What did you have in mind?",
+        time: Date.now() - 3000000,
+      },
+      {
+        id: "msg3",
+        from: "them" as const,
+        text: "I was thinking we could work on something downtempo with vocals. I can send over some instrumental ideas.",
+        time: Date.now() - 2400000,
+      },
+    ],
+  },
+];
