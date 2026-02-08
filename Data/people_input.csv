@@ -1,97 +1,98 @@
+people_input
 user_id,first_name,last_name,age,genres,roles,skill_proficiency,skill_engagement,location,ok_not_local,weekly_time,considers_age,age_limit
-user_001,The,Beatles,83,,singer|songwriter|musician|guitarist|pianist|multi-instrumentalist|drummer|actor,advanced|advanced|expert|expert|expert|advanced|expert|advanced,hobbyist|semi-professional|professional|semi-professional|hobbyist|professional|professional|semi-professional,none,false,10,true,10
-user_002,Elvis,Presley,91,,singer,advanced,professional,none,true,10,false,999
-user_003,Michael,Jackson,,,singer,expert,professional,none,true,20,false,15
-user_004,Madonna,,67,,singer,expert,professional,New York City,true,30,true,15
-user_005,Elton,John,78,,singer,advanced,semi-professional,Old Windsor,false,10,false,15
-user_006,Led,Zeppelin,77,,singer,intermediate,semi-professional,none,false,40,false,20
-user_007,Rolling,Stones,82,,singer,advanced,professional,Bill Wyman : Age 89,false,15,true,999
-user_008,Pink,Floyd,82,,musician|singer|composer|producer|guitarist|songwriter|multi-instrumentalist|drummer,advanced|expert|advanced|advanced|expert|expert|advanced|intermediate,hobbyist|professional|semi-professional|hobbyist|professional|serious hobbyist|professional|serious hobbyist,none,true,30,false,15
-user_009,Mariah,Carey,56,,singer,intermediate,semi-professional,none,true,40,false,15
-user_010,Stevie,Wonder,75,,singer,advanced,semi-professional,none,true,35,false,20
-user_011,Prince,,,,singer,advanced,semi-professional,none,true,25,false,10
-user_012,Whitney,Houston,,,singer,advanced,semi-professional,none,false,40,true,5
-user_013,David,Bowie,79,,singer,expert,semi-professional,none,false,15,false,5
-user_014,Queen,,55,rock,singer,advanced,hobbyist,Denmark,true,15,true,15
-user_015,Bob,Dylan,84,,singer,intermediate,serious hobbyist,none,false,20,false,5
-user_016,Aretha,Franklin,,,singer,expert,professional,none,true,5,false,15
-user_017,Beyoncé,,44,,singer,advanced,professional,California,true,10,false,20
-user_018,Taylor,Swift,36,,singer,expert,professional,none,false,5,false,20
-user_019,Drake,,39,,singer,beginner,professional,none,true,15,true,20
-user_020,Rihanna,,37,,singer,advanced,hobbyist,Rihanna,false,25,false,999
-user_021,Eminem,,53,,singer,advanced,professional,Detroit,true,35,true,15
-user_022,Kanye,West,48,,singer,expert,hobbyist,"Beverly Hills, California",true,35,false,999
-user_023,Jay,Z,56,,singer,intermediate,serious hobbyist,California,false,15,true,10
-user_024,Fleetwood,Mac,,,drummer|songwriter|actor|guitarist|singer,advanced|expert|intermediate|intermediate|advanced,semi-professional|semi-professional|professional|semi-professional|serious hobbyist,none,true,40,true,15
-user_025,AC,DC,,,singer,expert,serious hobbyist,Philadelphia,true,5,false,10
-user_026,Metallica,,62,,singer|guitarist|songwriter|drummer|bassist,intermediate|advanced|advanced|advanced|beginner,professional|serious hobbyist|professional|hobbyist|semi-professional,Metallica,false,35,false,10
-user_027,Nirvana,,57,,musician,advanced,serious hobbyist,none,false,35,false,15
-user_028,Radiohead,,,,singer,expert,professional,none,false,40,true,999
-user_029,U2,,,rock,singer,advanced,semi-professional,Dublin,false,35,true,10
-user_030,Bruce,Springsteen,76,,singer,intermediate,serious hobbyist,none,false,35,false,5
-user_032,Paul,McCartney,83,,singer,advanced,professional,none,true,10,true,10
-user_033,George,Harrison,,,singer,intermediate,professional,none,false,25,true,10
-user_034,John,Lennon,,classical,singer,advanced,serious hobbyist,none,true,15,true,20
-user_035,Ringo,Starr,85,country,singer,intermediate,serious hobbyist,Beverly Hills,true,30,false,15
-user_036,Frank,Sinatra,110,,singer,advanced,serious hobbyist,none,true,25,true,999
-user_037,Ray,Charles,,country,singer,advanced,professional,none,true,15,true,999
-user_038,Marvin,Gaye,,,singer,beginner,semi-professional,none,false,35,false,10
-user_039,James,Brown,,soul,singer,expert,serious hobbyist,none,true,25,true,20
-user_040,Tina,Turner,,dance,singer,advanced,professional,none,true,35,true,15
-user_041,Diana,Ross,81,,singer,advanced,professional,none,true,5,false,10
-user_042,Dolly,Parton,80,,singer,intermediate,professional,none,false,20,true,15
-user_043,Johnny,Cash,,country|rock|gospel|folk,singer,advanced,semi-professional,none,false,5,true,20
-user_044,Willie,Nelson,92,,singer,intermediate,professional,Spicewood,false,15,true,999
-user_045,Bob,Marley,81,reggae|rock,singer,advanced,hobbyist,none,false,30,false,999
-user_046,Jimi,Hendrix,27,,singer,advanced,professional,none,false,25,false,15
-user_047,Eric,Clapton,80,blues|rock,singer,advanced,semi-professional,Americas,true,10,true,999
-user_048,Carlos,Santana,78,rock|blues|latin|jazz,singer,expert,hobbyist,Las Vegas,true,40,false,10
-user_049,Neil,Young,80,,singer,expert,semi-professional,none,true,40,false,999
-user_050,Joni,Mitchell,82,,singer,expert,hobbyist,none,true,30,false,999
-user_052,Adele,,37,,singer,advanced,serious hobbyist,Mediterranean,false,10,true,5
-user_053,Ed,Sheeran,34,,singer,expert,professional,Suffolk,true,5,true,20
-user_054,Bruno,Mars,40,,singer,intermediate,semi-professional,none,false,25,true,20
-user_055,Lady,Gaga,39,,singer,advanced,professional,none,true,5,false,15
-user_056,Katy,Perry,41,pop|country,singer,advanced,professional,Montecito,false,5,true,10
-user_057,Justin,Bieber,31,,singer,advanced,hobbyist,Beverly Park,false,40,true,5
-user_058,Ariana,Grande,32,,singer,advanced,serious hobbyist,none,true,10,true,999
-user_059,The,Weeknd,35,,singer,beginner,professional,none,true,25,false,5
-user_060,Post,Malone,30,hip hop|country|r&b|rock,singer,expert,serious hobbyist,"Current Residence: Cottonwood Heights, Utah",true,25,true,15
-user_061,Kendrick,Lamar,38,,singer,intermediate,professional,Los Angeles,false,20,true,20
-user_062,J,Cole,41,,singer,intermediate,professional,Fayetteville,true,40,true,10
-user_063,Nicki,Minaj,43,,singer,expert,serious hobbyist,none,true,35,true,10
-user_064,Cardi,B,33,,singer,intermediate,semi-professional,Easton,true,25,true,20
-user_065,Snoop,Dogg,54,hip hop,singer,expert,hobbyist,none,true,35,false,10
-user_066,Dr,Dre,60,hip hop,singer,expert,professional,Los Angeles,true,15,true,5
-user_067,Tupac,Shakur,,hip hop,singer,intermediate,semi-professional,none,true,10,true,15
-user_069,Outkast,,51,hip hop,singer,expert,professional,none,true,10,true,15
-user_070,Wu,Tang Clan,,hip hop,singer,expert,hobbyist,none,true,15,false,20
-user_071,Public,Enemy,65,,singer,advanced,semi-professional,none,true,25,false,5
-user_072,Beastie,Boys,47,,singer,beginner,serious hobbyist,none,false,30,false,5
-user_073,Red,Hot Chili Peppers,63,rock,singer|songwriter|rapper|musician|composer|actor|guitarist|drummer,expert|advanced|expert|expert|expert|expert|intermediate|advanced,serious hobbyist|professional|semi-professional|professional|professional|semi-professional|hobbyist|serious hobbyist,none,false,5,true,999
-user_075,Green,Day,53,,singer,intermediate,serious hobbyist,the East Bay area,false,40,true,5
-user_076,Pearl,Jam,61,,singer|musician,intermediate|expert,semi-professional|serious hobbyist,the Pacific Northwest,false,30,true,999
-user_077,Guns,N Roses,,,singer,intermediate,semi-professional,none,true,40,true,5
-user_078,Aerosmith,,,rock,singer,intermediate,semi-professional,Northeast,true,15,true,20
-user_079,Bon,Jovi,62,,singer,advanced,professional,New Jersey,true,35,true,999
-user_080,Def,Leppard,66,,singer,expert,professional,Las Vegas,false,5,true,10
-user_081,Iron,Maiden,,metal,singer,advanced,semi-professional,none,true,35,false,10
-user_082,Black,Sabbath,77,,musician|songwriter,expert|expert,semi-professional|professional,none,false,20,true,15
-user_083,Deep,Purple,,rock,singer,expert,semi-professional,London,false,20,false,15
-user_084,The,Doors,,rock|jazz|classical|blues,singer,advanced,semi-professional,none,false,35,true,20
-user_085,The,Who,81,,singer,advanced,semi-professional,North America,true,5,false,20
-user_086,The,Kinks,81,,singer,advanced,hobbyist,none,false,40,false,5
-user_087,The,Beach Boys,84,,singer,intermediate,serious hobbyist,none,false,35,true,5
-user_088,Simon,Garfunkel,,,singer|composer,beginner|intermediate,semi-professional|professional,none,false,25,false,15
-user_089,Hall,Oates,79,,singer,expert,serious hobbyist,none,true,25,true,15
-user_090,Steely,Dan,,,singer,advanced,professional,none,true,30,false,15
-user_091,Genesis,,,rock,rapper|singer|producer,advanced|expert|advanced,hobbyist|semi-professional|professional,none,true,35,false,999
-user_092,Phil,Collins,75,rock,drummer|singer|songwriter|composer|musician,advanced|advanced|advanced|intermediate|intermediate,professional|semi-professional|hobbyist|serious hobbyist|semi-professional,Geneva,false,25,true,10
-user_093,Peter,Gabriel,75,,singer,advanced,semi-professional,"Box, Wiltshire",true,5,true,999
-user_094,Kate,Bush,67,,singer,beginner,serious hobbyist,none,false,35,false,5
-user_095,Björk,,60,,singer,advanced,serious hobbyist,none,true,40,true,10
-user_096,Amy,Winehouse,42,house,singer,intermediate,professional,none,false,35,false,15
-user_097,Lana,Del Rey,40,,singer,advanced,professional,Des Allemands,true,25,false,20
-user_098,Billie,Eilish,24,,singer,beginner,semi-professional,Los Angeles,true,20,false,999
-user_099,Dua,Lipa,30,pop,singer,beginner,serious hobbyist,London,true,15,false,10
-user_100,SZA,,36,r&b|soul,singer,advanced,semi-professional,Maplewood,false,15,true,15
+user_001,The,Beatles,83,Rock | Pop | Psychedelic Rock,singer|songwriter|musician|guitarist|pianist|multi-instrumentalist|drummer|actor,advanced|advanced|expert|expert|expert|advanced|expert|advanced,hobbyist|semi-professional|professional|semi-professional|hobbyist|professional|professional|semi-professional,"Liverpool, England",FALSE,10,TRUE,10
+user_002,Elvis,Presley,91,Rock and Roll | Pop | Country,singer,advanced,professional,"Tupelo, Mississippi | Memphis, Tennessee",TRUE,10,FALSE,999
+user_003,Michael,Jackson,,Pop | Soul | R&B | Dance,singer,expert,professional,"Gary, Indiana | Los Angeles, California",TRUE,20,FALSE,15
+user_004,Madonna,,67,Pop | Dance | Electronica,singer,expert,professional,"Bay City, Michigan | New York City, New York",TRUE,30,TRUE,15
+user_005,Elton,John,78,Rock | Pop | Glam Rock,singer,advanced,semi-professional,"Pinner, England | London, England",FALSE,10,FALSE,15
+user_006,Led,Zeppelin,77,Hard Rock | Blues Rock | Heavy Metal,singer,intermediate,semi-professional,"London, England",FALSE,40,FALSE,20
+user_007,Rolling,Stones,82,Rock | Blues Rock,singer,advanced,professional,"London, England",FALSE,15,TRUE,999
+user_008,Pink,Floyd,82,Progressive Rock | Psychedelic Rock,musician|singer|composer|producer|guitarist|songwriter|multi-instrumentalist|drummer,advanced|expert|advanced|advanced|expert|expert|advanced|intermediate,hobbyist|professional|semi-professional|hobbyist|professional|serious hobbyist|professional|serious hobbyist,"London, England",TRUE,30,FALSE,15
+user_009,Mariah,Carey,56,R&B | Pop | Soul,singer,intermediate,semi-professional,"Huntington, New York | New York City, New York",TRUE,40,FALSE,15
+user_010,Stevie,Wonder,75,Soul | R&B | Funk | Pop,singer,advanced,semi-professional,"Saginaw, Michigan | Detroit, Michigan",TRUE,35,FALSE,20
+user_011,Prince,,,Funk | R&B | Rock | Pop,singer,advanced,semi-professional,"Minneapolis, Minnesota",TRUE,25,FALSE,10
+user_012,Whitney,Houston,,R&B | Pop | Soul | Gospel,singer,advanced,semi-professional,"Newark, New Jersey",FALSE,40,TRUE,5
+user_013,David,Bowie,79,Art Rock | Glam Rock | Pop,singer,expert,semi-professional,"London, England",FALSE,15,FALSE,5
+user_014,Queen,,55,Rock | Arena Rock | Pop,singer,advanced,hobbyist,"London, England",TRUE,15,TRUE,15
+user_015,Bob,Dylan,84,Folk | Rock | Blues,singer,intermediate,serious hobbyist,"Duluth, Minnesota | New York City, New York",FALSE,20,FALSE,5
+user_016,Aretha,Franklin,,Soul | R&B | Gospel,singer,expert,professional,"Memphis, Tennessee | Detroit, Michigan",TRUE,5,FALSE,15
+user_017,Beyoncé,,44,R&B | Pop | Hip Hop,singer,advanced,professional,"Houston, Texas",TRUE,10,FALSE,20
+user_018,Taylor,Swift,36,Pop | Country | Folk | Rock,singer,expert,professional,"Reading, Pennsylvania | Nashville, Tennessee",FALSE,5,FALSE,20
+user_019,Drake,,39,Hip Hop | R&B | Pop,singer,beginner,professional,"Toronto, Canada",TRUE,15,TRUE,20
+user_020,Rihanna,,37,R&B | Pop | Dance | Reggae,singer,advanced,hobbyist,"Saint Michael, Barbados | New York City, New York",FALSE,25,FALSE,999
+user_021,Eminem,,53,Hip Hop,singer,advanced,professional,"St. Joseph, Missouri | Detroit, Michigan",TRUE,35,TRUE,15
+user_022,Kanye,West,48,Hip Hop | Pop | Gospel,singer,expert,hobbyist,"Atlanta, Georgia | Chicago, Illinois",TRUE,35,FALSE,999
+user_023,Jay,Z,56,Hip Hop,singer,intermediate,serious hobbyist,"Brooklyn, New York",FALSE,15,TRUE,10
+user_024,Fleetwood,Mac,,Rock | Pop Rock | Soft Rock,drummer|songwriter|actor|guitarist|singer,advanced|expert|intermediate|intermediate|advanced,semi-professional|semi-professional|professional|semi-professional|serious hobbyist,"London, England | Los Angeles, California",TRUE,40,TRUE,15
+user_025,AC,DC,,Hard Rock | Blues Rock,singer,expert,serious hobbyist,"Sydney, Australia",TRUE,5,FALSE,10
+user_026,Metallica,,62,Heavy Metal | Thrash Metal,singer|guitarist|songwriter|drummer|bassist,intermediate|advanced|advanced|advanced|beginner,professional|serious hobbyist|professional|hobbyist|semi-professional,"Los Angeles, California | San Francisco Bay Area, California",FALSE,35,FALSE,10
+user_027,Nirvana,,57,Grunge | Alternative Rock,musician,advanced,serious hobbyist,"Aberdeen, Washington | Seattle, Washington",FALSE,35,FALSE,15
+user_028,Radiohead,,,Alternative Rock | Art Rock | Electronica,singer,expert,professional,"Abingdon, England",FALSE,40,TRUE,999
+user_029,U2,,,Rock | Alternative Rock | Post-Punk,singer,advanced,semi-professional,"Dublin, Ireland",FALSE,35,TRUE,10
+user_030,Bruce,Springsteen,76,Rock | Heartland Rock | Folk,singer,intermediate,serious hobbyist,"Freehold, New Jersey",FALSE,35,FALSE,5
+user_032,Paul,McCartney,83,Rock | Pop,singer,advanced,professional,"Liverpool, England",TRUE,10,TRUE,10
+user_033,George,Harrison,,Rock | Pop | Folk Rock,singer,intermediate,professional,"Liverpool, England",FALSE,25,TRUE,10
+user_034,John,Lennon,,Rock | Pop,singer,advanced,serious hobbyist,"Liverpool, England",TRUE,15,TRUE,20
+user_035,Ringo,Starr,85,Rock | Pop | Country,singer,intermediate,serious hobbyist,"Liverpool, England",TRUE,30,FALSE,15
+user_036,Frank,Sinatra,110,Traditional Pop | Jazz | Swing,singer,advanced,serious hobbyist,"Hoboken, New Jersey",TRUE,25,TRUE,999
+user_037,Ray,Charles,,Soul | R&B | Blues | Country,singer,advanced,professional,"Albany, Georgia | Seattle, Washington",TRUE,15,TRUE,999
+user_038,Marvin,Gaye,,Soul | R&B,singer,beginner,semi-professional,"Washington, D.C. | Detroit, Michigan",FALSE,35,FALSE,10
+user_039,James,Brown,,Funk | Soul | R&B,singer,expert,serious hobbyist,"Barnwell, South Carolina | Augusta, Georgia",TRUE,25,TRUE,20
+user_040,Tina,Turner,,R&B | Soul | Rock | Pop,singer,advanced,professional,"Nutbush, Tennessee | St. Louis, Missouri",TRUE,35,TRUE,15
+user_041,Diana,Ross,81,R&B | Soul | Pop | Disco,singer,advanced,professional,"Detroit, Michigan",TRUE,5,FALSE,10
+user_042,Dolly,Parton,80,Country | Pop,singer,intermediate,professional,"Sevierville, Tennessee | Nashville, Tennessee",FALSE,20,TRUE,15
+user_043,Johnny,Cash,,Country | Rock and Roll | Folk,singer,advanced,semi-professional,"Kingsland, Arkansas | Nashville, Tennessee",FALSE,5,TRUE,20
+user_044,Willie,Nelson,92,Country | Outlaw Country,singer,intermediate,professional,"Abbott, Texas | Austin, Texas",FALSE,15,TRUE,999
+user_045,Bob,Marley,81,Reggae | Ska,singer,advanced,hobbyist,"Nine Mile, Jamaica | Kingston, Jamaica",FALSE,30,FALSE,999
+user_046,Jimi,Hendrix,27,Rock | Psychedelic Rock | Blues Rock,singer,advanced,professional,"Seattle, Washington | London, England",FALSE,25,FALSE,15
+user_047,Eric,Clapton,80,Rock | Blues,singer,advanced,semi-professional,"Ripley, England | London, England",TRUE,10,TRUE,999
+user_048,Carlos,Santana,78,Latin Rock | Blues Rock | Jazz Fusion,singer,expert,hobbyist,"Autlán, Mexico | San Francisco, California",TRUE,40,FALSE,10
+user_049,Neil,Young,80,Rock | Folk Rock | Country Rock,singer,expert,semi-professional,"Toronto, Canada | California, USA",TRUE,40,FALSE,999
+user_050,Joni,Mitchell,82,Folk | Jazz | Pop,singer,expert,hobbyist,"Fort Macleod, Canada",TRUE,30,FALSE,999
+user_052,Adele,,37,Soul | Pop | R&B,singer,advanced,serious hobbyist,"London, England",FALSE,10,TRUE,5
+user_053,Ed,Sheeran,34,Pop | Folk Pop | Soft Rock,singer,expert,professional,"Halifax, England | London, England",TRUE,5,TRUE,20
+user_054,Bruno,Mars,40,Pop | R&B | Funk | Soul,singer,intermediate,semi-professional,"Honolulu, Hawaii | Los Angeles, California",FALSE,25,TRUE,20
+user_055,Lady,Gaga,39,Pop | Dance | Electronic,singer,advanced,professional,"New York City, New York",TRUE,5,FALSE,15
+user_056,Katy,Perry,41,Pop | Disco | Rock,singer,advanced,professional,"Santa Barbara, California | Los Angeles, California",FALSE,5,TRUE,10
+user_057,Justin,Bieber,31,Pop | R&B,singer,advanced,hobbyist,"London, Ontario, Canada | Atlanta, Georgia",FALSE,40,TRUE,5
+user_058,Ariana,Grande,32,Pop | R&B,singer,advanced,serious hobbyist,"Boca Raton, Florida | Los Angeles, California",TRUE,10,TRUE,999
+user_059,The,Weeknd,35,R&B | Pop | Alternative R&B,singer,beginner,professional,"Toronto, Canada",TRUE,25,FALSE,5
+user_060,Post,Malone,30,Hip Hop | Pop | Rock,singer,expert,serious hobbyist,"Syracuse, New York | Dallas, Texas",TRUE,25,TRUE,15
+user_061,Kendrick,Lamar,38,Hip Hop,singer,intermediate,professional,"Compton, California",FALSE,20,TRUE,20
+user_062,J,Cole,41,Hip Hop,singer,intermediate,professional,"Frankfurt, Germany | Fayetteville, North Carolina",TRUE,40,TRUE,10
+user_063,Nicki,Minaj,43,Hip Hop | Pop,singer,expert,serious hobbyist,"Port of Spain, Trinidad | Queens, New York",TRUE,35,TRUE,10
+user_064,Cardi,B,33,Hip Hop,singer,intermediate,semi-professional,"Bronx, New York",TRUE,25,TRUE,20
+user_065,Snoop,Dogg,54,Hip Hop | G-Funk | Reggae,singer,expert,hobbyist,"Long Beach, California",TRUE,35,FALSE,10
+user_066,Dr,Dre,60,Hip Hop | G-Funk,singer,expert,professional,"Compton, California",TRUE,15,TRUE,5
+user_067,Tupac,Shakur,,Hip Hop,singer,intermediate,semi-professional,"East Harlem, New York | Oakland, California",TRUE,10,TRUE,15
+user_069,Outkast,,51,Hip Hop | Funk | Southern Hip Hop,singer,expert,professional,"Atlanta, Georgia",TRUE,10,TRUE,15
+user_070,Wu,Tang Clan,,Hip Hop,singer,expert,hobbyist,"Staten Island, New York",TRUE,15,FALSE,20
+user_071,Public,Enemy,65,Hip Hop,singer,advanced,semi-professional,"Long Island, New York",TRUE,25,FALSE,5
+user_072,Beastie,Boys,47,Hip Hop | Rap Rock | Punk,singer,beginner,serious hobbyist,"New York City, New York",FALSE,30,FALSE,5
+user_073,Red,Hot Chili Peppers,63,Funk Rock | Alternative Rock,singer|songwriter|rapper|musician|composer|actor|guitarist|drummer,expert|advanced|expert|expert|expert|expert|intermediate|advanced,serious hobbyist|professional|semi-professional|professional|professional|semi-professional|hobbyist|serious hobbyist,"Los Angeles, California",FALSE,5,TRUE,999
+user_075,Green,Day,53,Punk Rock | Pop Punk | Alternative Rock,singer,intermediate,serious hobbyist,"Berkeley, California",FALSE,40,TRUE,5
+user_076,Pearl,Jam,61,Grunge | Alternative Rock,singer|musician,intermediate|expert,semi-professional|serious hobbyist,"Seattle, Washington",FALSE,30,TRUE,999
+user_077,Guns,N Roses,,Hard Rock | Heavy Metal,singer,intermediate,semi-professional,"Los Angeles, California",TRUE,40,TRUE,5
+user_078,Aerosmith,,,Hard Rock | Blues Rock,singer,intermediate,semi-professional,"Boston, Massachusetts",TRUE,15,TRUE,20
+user_079,Bon,Jovi,62,Hard Rock | Glam Metal | Pop Rock,singer,advanced,professional,"Sayreville, New Jersey",TRUE,35,TRUE,999
+user_080,Def,Leppard,66,Hard Rock | Glam Metal,singer,expert,professional,"Sheffield, England",FALSE,5,TRUE,10
+user_081,Iron,Maiden,,Heavy Metal,singer,advanced,semi-professional,"London, England",TRUE,35,FALSE,10
+user_082,Black,Sabbath,77,Heavy Metal,musician|songwriter,expert|expert,semi-professional|professional,"Birmingham, England",FALSE,20,TRUE,15
+user_083,Deep,Purple,,Hard Rock | Heavy Metal,singer,expert,semi-professional,"London, England",FALSE,20,FALSE,15
+user_084,The,Doors,,Psychedelic Rock | Blues Rock,singer,advanced,semi-professional,"Los Angeles, California",FALSE,35,TRUE,20
+user_085,The,Who,81,Rock | Hard Rock,singer,advanced,semi-professional,"London, England",TRUE,5,FALSE,20
+user_086,The,Kinks,81,Rock | Pop,singer,advanced,hobbyist,"London, England",FALSE,40,FALSE,5
+user_087,The,Beach Boys,84,Rock | Pop | Surf Rock,singer,intermediate,serious hobbyist,"Hawthorne, California",FALSE,35,TRUE,5
+user_088,Simon,Garfunkel,,Folk Rock,singer|composer,beginner|intermediate,semi-professional|professional,"Queens, New York",FALSE,25,FALSE,15
+user_089,Hall,Oates,79,Pop Rock | Soul | R&B,singer,expert,serious hobbyist,"Philadelphia, Pennsylvania",TRUE,25,TRUE,15
+user_090,Steely,Dan,,Jazz Rock | Soft Rock | Pop Rock,singer,advanced,professional,"New York City, New York | Los Angeles, California",TRUE,30,FALSE,15
+user_091,Genesis,,,Progressive Rock | Pop Rock,rapper|singer|producer,advanced|expert|advanced,hobbyist|semi-professional|professional,"London, England",TRUE,35,FALSE,999
+user_092,Phil,Collins,75,Pop Rock | Soft Rock,drummer|singer|songwriter|composer|musician,advanced|advanced|advanced|intermediate|intermediate,professional|semi-professional|hobbyist|serious hobbyist|semi-professional,"London, England",FALSE,25,TRUE,10
+user_093,Peter,Gabriel,75,Art Rock | Pop | Progressive Rock,singer,advanced,semi-professional,"Chobham, England",TRUE,5,TRUE,999
+user_094,Kate,Bush,67,Art Pop | Progressive Pop | Alternative,singer,beginner,serious hobbyist,"Bexleyheath, England",FALSE,35,FALSE,5
+user_095,Björk,,60,Alternative | Electronic | Pop | Art Pop,singer,advanced,serious hobbyist,"Reykjavík, Iceland",TRUE,40,TRUE,10
+user_096,Amy,Winehouse,42,Soul | R&B | Jazz,singer,intermediate,professional,"London, England",FALSE,35,FALSE,15
+user_097,Lana,Del Rey,40,Alternative Pop | Dream Pop | Rock,singer,advanced,professional,"New York City, New York | Los Angeles, California",TRUE,25,FALSE,20
+user_098,Billie,Eilish,24,Pop | Electropop | Alternative,singer,beginner,semi-professional,"Los Angeles, California",TRUE,20,FALSE,999
+user_099,Dua,Lipa,30,Pop | Disco | Dance-Pop,singer,beginner,serious hobbyist,"London, England",TRUE,15,FALSE,10
+user_100,SZA,,36,R&B | Neo Soul,singer,advanced,semi-professional,"St. Louis, Missouri | Maplewood, New Jersey",FALSE,15,TRUE,15
