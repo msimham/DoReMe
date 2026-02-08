@@ -19,7 +19,7 @@ def process_artist(idx, artist_name, writer, csvfile):
     params = {
         "engine": "google_ai_mode",
         "q": f"{artist_name}, age, music related skills + abilities + occupations, proficiency in each, and current residence location (city, state)",
-        "api_key": "c6e3b141e2b90d584f1f3c9405064e06e037852ccfd045fa1dd5f6aefb95d90b"
+        "api_key": ""
     }
 
     try:
