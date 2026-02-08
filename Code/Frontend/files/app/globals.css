@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+    --font-display: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  }
+
+  * {
+    @apply border-black/10;
+  }
+
+  body {
+    @apply bg-white text-black antialiased;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white border border-black/10 rounded-xl hover:shadow-lg transition-all duration-200;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 bg-black text-white rounded-lg hover:bg-black/80 transition-colors duration-200 font-medium;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 bg-white text-black border border-black/20 rounded-lg hover:bg-black/5 transition-colors duration-200 font-medium;
+  }
+
+  .input {
+    @apply w-full px-4 py-2 border border-black/10 rounded-lg focus:outline-none focus:ring-2 focus:ring-black/20 transition-all duration-200;
+  }
+
+  .chip {
+    @apply inline-flex items-center px-3 py-1 bg-black/5 text-black text-sm rounded-full border border-black/10;
+  }
+
+  .nav-item {
+    @apply flex items-center gap-3 px-4 py-3 rounded-lg text-black/60 hover:text-black hover:bg-black/5 transition-all duration-200 cursor-pointer;
+  }
+
+  .nav-item-active {
+    @apply flex items-center gap-3 px-4 py-3 rounded-lg text-black bg-black/5 font-medium;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
