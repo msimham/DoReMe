@@ -1,0 +1,254 @@
+Finding matches for all users...
+
+Processed 96 users
+Matches saved to ./Data/user_matches.json
+Matches saved to ./Data/user_matches.csv
+
+=== SAMPLE MATCHES ===
+
+
+The Beatles (user_001)
+  Genres: Rock, Pop, Psychedelic Rock...
+  Roles: singer, songwriter, musician...
+  Age: 83 | Considers Age: TRUE | Age Limit: 10
+
+  Top 10 Matches:
+  Rank   Name                      Score    Genre   Role    Age     Loc     Dist (km)   
+  ------ ------------------------- -------- ------- ------- ------- ------- ------------
+  1      Paul McCartney            63.75    20.00   3.75    15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Liverpool, England)
+  2      George Harrison           63.75    20.00   3.75    15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Liverpool, England)
+  3      John Lennon               63.75    20.00   3.75    15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Liverpool, England)
+  4      Ringo Starr               63.75    20.00   3.75    15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Liverpool, England)
+  5      Pink Floyd                52.50    10.00   22.50   15.00   5.00    287         
+         → Shared genres: Psychedelic Rock
+         → Shared roles: musician, multi-instrumentalist, songwriter
+         → Distance: 286.9 km (London, England)
+  6      Fleetwood Mac             48.75    10.00   18.75   15.00   5.00    8470        
+         → Shared genres: Rock
+         → Shared roles: songwriter, actor, singer
+         → Distance: 8470.4 km (London, England | Los Angeles, California)
+  7      Elton John                43.75    20.00   3.75    15.00   5.00    287         
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 286.9 km (Pinner, England | London, England)
+  8      The Kinks                 43.75    20.00   3.75    15.00   5.00    287         
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 286.9 km (London, England)
+  9      The Beach Boys            43.75    20.00   3.75    15.00   5.00    8489        
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 8488.9 km (Hawthorne, California)
+  10     Prince                    38.75    15.00   3.75    15.00   5.00    6178        
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 6178.3 km (Minneapolis, Minnesota)
+
+Elvis Presley (user_002)
+  Genres: Rock and Roll, Pop, Country...
+  Roles: singer...
+  Age: 91 | Considers Age: FALSE | Age Limit: 999
+
+  Top 10 Matches:
+  Rank   Name                      Score    Genre   Role    Age     Loc     Dist (km)   
+  ------ ------------------------- -------- ------- ------- ------- ------- ------------
+  1      Dolly Parton              85.00    20.00   30.00   15.00   20.00   316         
+         → Shared genres: Country, Pop
+         → Shared roles: singer
+         → Distance: 316.2 km (Sevierville, Tennessee | Nashville, Tennessee)
+  2      Johnny Cash               85.00    20.00   30.00   15.00   20.00   316         
+         → Shared genres: Country, Rock and Roll
+         → Shared roles: singer
+         → Distance: 316.2 km (Kingsland, Arkansas | Nashville, Tennessee)
+  3      Taylor Swift              80.00    15.00   30.00   15.00   20.00   316         
+         → Shared genres: Country, Pop
+         → Shared roles: singer
+         → Distance: 316.2 km (Reading, Pennsylvania | Nashville, Tennessee)
+  4      Ringo Starr               80.00    20.00   30.00   15.00   15.00   6765        
+         → Shared genres: Country, Pop
+         → Shared roles: singer
+         → Distance: 6765.3 km (Liverpool, England)
+  5      Tina Turner               72.50    7.50    30.00   15.00   20.00   387         
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 387.1 km (Nutbush, Tennessee | St. Louis, Missouri)
+  6      Madonna                   70.00    10.00   30.00   15.00   15.00   1534        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 1534.3 km (Bay City, Michigan | New York City, New York)
+  7      Elton John                70.00    10.00   30.00   15.00   15.00   7025        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 7024.8 km (Pinner, England | London, England)
+  8      Mariah Carey              70.00    10.00   30.00   15.00   15.00   1534        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 1534.3 km (Huntington, New York | New York City, New York)
+  9      David Bowie               70.00    10.00   30.00   15.00   15.00   7025        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 7024.8 km (London, England)
+  10     Queen                     70.00    10.00   30.00   15.00   15.00   7025        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 7024.8 km (London, England)
+
+Michael Jackson (user_003)
+  Genres: Pop, Soul, R&B...
+  Roles: singer...
+  Age:  | Considers Age: FALSE | Age Limit: 15
+
+  Top 10 Matches:
+  Rank   Name                      Score    Genre   Role    Age     Loc     Dist (km)   
+  ------ ------------------------- -------- ------- ------- ------- ------- ------------
+  1      Bruno Mars                92.50    22.50   30.00   15.00   25.00   0           
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 0.0 km (Honolulu, Hawaii | Los Angeles, California)
+  2      Ariana Grande             85.00    15.00   30.00   15.00   25.00   0           
+         → Shared genres: Pop, R&B
+         → Shared roles: singer
+         → Distance: 0.0 km (Boca Raton, Florida | Los Angeles, California)
+  3      Mariah Carey              82.50    22.50   30.00   15.00   15.00   3936        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 3935.5 km (Huntington, New York | New York City, New York)
+  4      Stevie Wonder             82.50    22.50   30.00   15.00   15.00   3185        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 3185.4 km (Saginaw, Michigan | Detroit, Michigan)
+  5      Whitney Houston           82.50    22.50   30.00   15.00   15.00   3921        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 3921.2 km (Newark, New Jersey)
+  6      Rihanna                   82.50    22.50   30.00   15.00   15.00   3936        
+         → Shared genres: Pop, R&B, Dance
+         → Shared roles: singer
+         → Distance: 3935.5 km (Saint Michael, Barbados | New York City, New York)
+  7      Tina Turner               82.50    22.50   30.00   15.00   15.00   2552        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 2552.3 km (Nutbush, Tennessee | St. Louis, Missouri)
+  8      Diana Ross                82.50    22.50   30.00   15.00   15.00   3185        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 3185.4 km (Detroit, Michigan)
+  9      Adele                     82.50    22.50   30.00   15.00   15.00   8755        
+         → Shared genres: Pop, R&B, Soul
+         → Shared roles: singer
+         → Distance: 8755.3 km (London, England)
+  10     Katy Perry                77.50    7.50    30.00   15.00   25.00   0           
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Santa Barbara, California | Los Angeles, California)
+
+Madonna (user_004)
+  Genres: Pop, Dance, Electronica...
+  Roles: singer...
+  Age: 67 | Considers Age: TRUE | Age Limit: 15
+
+  Top 10 Matches:
+  Rank   Name                      Score    Genre   Role    Age     Loc     Dist (km)   
+  ------ ------------------------- -------- ------- ------- ------- ------- ------------
+  1      Mariah Carey              80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Huntington, New York | New York City, New York)
+  2      Whitney Houston           77.50    7.50    30.00   15.00   25.00   14          
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 14.3 km (Newark, New Jersey)
+  3      Michael Jackson           75.00    15.00   30.00   15.00   15.00   3936        
+         → Shared genres: Pop, Dance
+         → Shared roles: singer
+         → Distance: 3935.5 km (Gary, Indiana | Los Angeles, California)
+  4      Lady Gaga                 75.00    20.00   30.00   0.00    25.00   0           
+         → Shared genres: Pop, Dance
+         → Shared roles: singer
+         → Distance: 0.0 km (New York City, New York)
+  5      Elton John                70.00    10.00   30.00   15.00   15.00   5570        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 5570.2 km (Pinner, England | London, England)
+  6      David Bowie               70.00    10.00   30.00   15.00   15.00   5570        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 5570.2 km (London, England)
+  7      Queen                     70.00    10.00   30.00   15.00   15.00   5570        
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 5570.2 km (London, England)
+  8      Rihanna                   70.00    15.00   30.00   0.00    25.00   0           
+         → Shared genres: Pop, Dance
+         → Shared roles: singer
+         → Distance: 0.0 km (Saint Michael, Barbados | New York City, New York)
+  9      Jay Z                     70.00    0.00    30.00   15.00   25.00   6           
+         → Shared roles: singer
+         → Distance: 6.5 km (Brooklyn, New York)
+  10     Radiohead                 70.00    10.00   30.00   15.00   15.00   5488        
+         → Shared genres: Electronica
+         → Shared roles: singer
+         → Distance: 5488.4 km (Abingdon, England)
+
+Elton John (user_005)
+  Genres: Rock, Pop, Glam Rock...
+  Roles: singer...
+  Age: 78 | Considers Age: FALSE | Age Limit: 15
+
+  Top 10 Matches:
+  Rank   Name                      Score    Genre   Role    Age     Loc     Dist (km)   
+  ------ ------------------------- -------- ------- ------- ------- ------- ------------
+  1      David Bowie               90.00    20.00   30.00   15.00   25.00   0           
+         → Shared genres: Glam Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  2      Queen                     90.00    20.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  3      The Kinks                 90.00    20.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock, Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  4      Rolling Stones            80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  5      Jimi Hendrix              80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock
+         → Shared roles: singer
+         → Distance: 0.0 km (Seattle, Washington | London, England)
+  6      Eric Clapton              80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock
+         → Shared roles: singer
+         → Distance: 0.0 km (Ripley, England | London, England)
+  7      Adele                     80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  8      Ed Sheeran                80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (Halifax, England | London, England)
+  9      The Who                   80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Rock
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+  10     Dua Lipa                  80.00    10.00   30.00   15.00   25.00   0           
+         → Shared genres: Pop
+         → Shared roles: singer
+         → Distance: 0.0 km (London, England)
+
+✓ Matching complete!
